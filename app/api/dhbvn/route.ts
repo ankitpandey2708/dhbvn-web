@@ -25,7 +25,6 @@ interface DHBVNResponse {
         START_TIME?: string[];
         EXPECTED_RESTORATION_TIME?: string[];
         ADDRESS?: string[];
-        DT?: string[];
       }>;
     }];
   };
@@ -52,29 +51,26 @@ if (missingEnvVars.length > 0) {
   throw new Error(`Missing required environment variables: ${missingEnvVars.join(', ')}`);
 }
   
-  const headers = {
+const headers = {
   'formid': process.env.DHBVN_FORM_ID!,
   'appsavylogin': process.env.DHBVN_LOGIN!,
   'sourcetype': process.env.DHBVN_SOURCE_TYPE!,
   'version': process.env.DHBVN_VERSION!,
   'token': process.env.DHBVN_TOKEN!,
   'ROLEID': process.env.DHBVN_ROLE_ID!,
-    'Content-Type': 'application/json'
-  };
+  'Content-Type': 'application/json'
+};
 
-  const payload = {
-    "inputxml": "PD94bWwgdmVyc2lvbj0iMS4wIj8+PFJlcXVlc3QgVkVSU0lPTj0iMiIgTEFOR1VBR0VfSUQ9IjEiIExPQ0FUSU9OPSIiPjxDb21wYW55IENvbXBhbnlfSWQ9IjkzIiAvPjxQcm9qZWN0IFByb2plY3RfSWQ9IjMwNCIgLz48VXNlciBVc2VyX0lkPSJBbm9ueW1vdXMiIC8+PElVVkxvZ2luIElVVkxvZ2luX0lkPSJBbm9ueW1vdXMiIC8+PFJPTEUgUk9MRV9JRD0iMTU5NSIgLz48RXZlbnQgQ29udHJvbF9JZD0iMTMwNDA0IiAvPjxDaGlsZCBDb250cm9sX0lkPSIxMjU2ODEiIFJlcG9ydD0iSFRNTCIgQUNfSUQ9IjE2Mzk0NCI+PFBhcmVudCBDb250cm9sX0lkPSIxMzA0MDIiIFZhbHVlPSIxMCIgRGF0YV9Gb3JtX0lkPSIiLz48L0NoaWxkPjwvUmVxdWVzdD4=",
-    "DocVersion": "1"
-  };
+const payload = {
+  "inputxml": "PD94bWwgdmVyc2lvbj0iMS4wIj8+PFJlcXVlc3QgVkVSU0lPTj0iMiIgTEFOR1VBR0VfSUQ9IjEiIExPQ0FUSU9OPSIiPjxDb21wYW55IENvbXBhbnlfSWQ9IjkzIiAvPjxQcm9qZWN0IFByb2plY3RfSWQ9IjMwNCIgLz48VXNlciBVc2VyX0lkPSJBbm9ueW1vdXMiIC8+PElVVkxvZ2luIElVVkxvZ2luX0lkPSJBbm9ueW1vdXMiIC8+PFJPTEUgUk9MRV9JRD0iMTU5NSIgLz48RXZlbnQgQ29udHJvbF9JZD0iMTMwNDA0IiAvPjxDaGlsZCBDb250cm9sX0lkPSIxMjU2ODEiIFJlcG9ydD0iSFRNTCIgQUNfSUQ9IjE2Mzk0NCI+PFBhcmVudCBDb250cm9sX0lkPSIxMzA0MDIiIFZhbHVlPSIxMCIgRGF0YV9Gb3JtX0lkPSIiLz48L0NoaWxkPjwvUmVxdWVzdD4=",
+  "DocVersion": "1"
+};
 
 export async function GET() {
   try {
     console.log('=== DHBVN API Debug Logs ===');
     const now = new Date();
-    // Add 5 hours and 30 minutes to current time
-    const adjustedNow = new Date(now.getTime() + (5 * 60 * 60 * 1000) + (30 * 60 * 1000));
     console.log('Current time:', now.toISOString());
-    console.log('Adjusted time (UTC+5:30):', adjustedNow.toISOString());
     
     console.log('Fetching DHBVN data...');
     
@@ -145,12 +141,12 @@ export async function GET() {
             feeder: item.feeder,
             originalTime: item.restoration_time,
             restorationDateISO: restorationDate.toISOString(),
-            nowISO: adjustedNow.toISOString(),
-            isAfter: restorationDate > adjustedNow
+            nowISO: now.toISOString(),
+            isAfter: restorationDate > now
           });
           
           // Use direct comparison like in the Python example
-          return restorationDate > adjustedNow;
+          return restorationDate > now;
         } catch (error) {
           console.warn('Error parsing date:', {
             restoration_time: item.restoration_time,
