@@ -70,6 +70,10 @@ if (missingEnvVars.length > 0) {
 
 export async function GET() {
   try {
+    console.log('=== DHBVN API Debug Logs ===');
+    console.log('Current time in local timezone:', new Date().toISOString());
+    console.log('Current time in Kolkata timezone:', toZonedTime(new Date(), 'Asia/Kolkata').toISOString());
+    
     console.log('Fetching DHBVN data...');
     
     // Make the API request
@@ -105,6 +109,8 @@ export async function GET() {
       throw new Error('Invalid response structure from DHBVN API');
     }
     
+    console.log('Total rows received from API:', result.RESULT.RESULTS[0].Rowset.length);
+    
     // Process the data
     const now = new Date();
     const data: DHBVNData[] = result.RESULT.RESULTS[0].Rowset
@@ -124,18 +130,39 @@ export async function GET() {
       }))
       // Filter out past restoration times and entries without restoration time
       .filter(item => {
-        if (!item.restoration_time) return false;
+        if (!item.restoration_time) {
+          console.log('Skipping item without restoration time:', item);
+          return false;
+        }
         try {
           const [datePart, timePart] = item.restoration_time.split(' ');
-          if (!datePart || !timePart) return false;
+          if (!datePart || !timePart) {
+            console.log('Invalid date format:', item.restoration_time);
+            return false;
+          }
           
           const [day, month, year] = datePart.split('-');
-          const date = new Date(`${year}-${month}-${day} ${timePart}`);
+          const dateStr = `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')} ${timePart}`;
+          const date = new Date(dateStr);
           const restorationDate = toZonedTime(date, 'Asia/Kolkata');
           const nowInKolkata = toZonedTime(new Date(), 'Asia/Kolkata');
+          
+          console.log('Date comparison for item:', {
+            area: item.area,
+            feeder: item.feeder,
+            originalTime: item.restoration_time,
+            parsedDate: dateStr,
+            restorationDateISO: restorationDate.toISOString(),
+            nowInKolkataISO: nowInKolkata.toISOString(),
+            isAfter: isAfter(restorationDate, nowInKolkata)
+          });
+          
           return isAfter(restorationDate, nowInKolkata);
         } catch (error) {
-          console.warn('Error parsing date:', item.restoration_time, error);
+          console.warn('Error parsing date:', {
+            restoration_time: item.restoration_time,
+            error: error instanceof Error ? error.message : 'Unknown error'
+          });
           return false;
         }
       })
@@ -146,7 +173,10 @@ export async function GET() {
         return a.feeder.localeCompare(b.feeder);
       });
 
-    console.log(`Successfully processed ${data.length} outage records`);
+    console.log('=== Final Results ===');
+    console.log('Total rows after filtering:', data.length);
+    console.log('Filtered data:', JSON.stringify(data, null, 2));
+    
     return NextResponse.json(data);
   } catch (error) {
     console.error('Error fetching DHBVN data:', error);
