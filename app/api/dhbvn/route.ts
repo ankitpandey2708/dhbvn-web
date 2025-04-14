@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import { parseStringPromise } from 'xml2js';
 import { parse } from 'date-fns';
+import { toZonedTime } from 'date-fns-tz';
 
 interface DHBVNData {
   area: string;
@@ -136,17 +137,21 @@ export async function GET() {
           // Format: "dd-MMM-yyyy HH:mm:ss" (e.g., "15-Apr-2025 04:30:00")
           const restorationDate = parse(item.restoration_time, 'dd-MMM-yyyy HH:mm:ss', new Date());
           
+          // Convert both dates to Asia/Kolkata timezone for comparison
+          const restorationDateIST = toZonedTime(restorationDate, 'Asia/Kolkata');
+          const nowIST = toZonedTime(now, 'Asia/Kolkata');
+          
           console.log('Date comparison for item:', {
             area: item.area,
             feeder: item.feeder,
             originalTime: item.restoration_time,
-            restorationDateISO: restorationDate.toISOString(),
-            nowISO: now.toISOString(),
-            isAfter: restorationDate > now
+            restorationDateISO: restorationDateIST.toISOString(),
+            nowISO: nowIST.toISOString(),
+            isAfter: restorationDateIST > nowIST
           });
           
-          // Use direct comparison like in the Python example
-          return restorationDate > now;
+          // Compare dates in the same timezone
+          return restorationDateIST > nowIST;
         } catch (error) {
           console.warn('Error parsing date:', {
             restoration_time: item.restoration_time,
