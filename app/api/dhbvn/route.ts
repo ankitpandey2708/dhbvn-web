@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import { parseStringPromise } from 'xml2js';
-import { format, isAfter } from 'date-fns';
+import { parse } from 'date-fns';
 
 interface DHBVNData {
   area: string;
@@ -136,27 +136,21 @@ export async function GET() {
           return false;
         }
         try {
-          const [datePart, timePart] = item.restoration_time.split(' ');
-          if (!datePart || !timePart) {
-            console.log('Invalid date format:', item.restoration_time);
-            return false;
-          }
-          
-          const [day, month, year] = datePart.split('-');
-          const dateStr = `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')} ${timePart}`;
-          const restorationDate = new Date(dateStr);
+          // Parse the date using date-fns parse function with the exact format
+          // Format: "dd-MMM-yyyy HH:mm:ss" (e.g., "15-Apr-2025 04:30:00")
+          const restorationDate = parse(item.restoration_time, 'dd-MMM-yyyy HH:mm:ss', new Date());
           
           console.log('Date comparison for item:', {
             area: item.area,
             feeder: item.feeder,
             originalTime: item.restoration_time,
-            parsedDate: dateStr,
             restorationDateISO: restorationDate.toISOString(),
             nowISO: adjustedNow.toISOString(),
-            isAfter: isAfter(restorationDate, adjustedNow)
+            isAfter: restorationDate > adjustedNow
           });
           
-          return isAfter(restorationDate, adjustedNow);
+          // Use direct comparison like in the Python example
+          return restorationDate > adjustedNow;
         } catch (error) {
           console.warn('Error parsing date:', {
             restoration_time: item.restoration_time,
