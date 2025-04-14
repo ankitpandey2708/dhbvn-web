@@ -70,7 +70,11 @@ if (missingEnvVars.length > 0) {
 export async function GET() {
   try {
     console.log('=== DHBVN API Debug Logs ===');
-    console.log('Current time:', new Date().toISOString());
+    const now = new Date();
+    // Add 5 hours and 30 minutes to current time
+    const adjustedNow = new Date(now.getTime() + (5 * 60 * 60 * 1000) + (30 * 60 * 1000));
+    console.log('Current time:', now.toISOString());
+    console.log('Adjusted time (UTC+5:30):', adjustedNow.toISOString());
     
     console.log('Fetching DHBVN data...');
     
@@ -110,7 +114,6 @@ export async function GET() {
     console.log('Total rows received from API:', result.RESULT.RESULTS[0].Rowset.length);
     
     // Process the data
-    const now = new Date();
     const data: DHBVNData[] = result.RESULT.RESULTS[0].Rowset
       .filter(row => {
         // Check if all required fields are present
@@ -149,11 +152,11 @@ export async function GET() {
             originalTime: item.restoration_time,
             parsedDate: dateStr,
             restorationDateISO: restorationDate.toISOString(),
-            nowISO: now.toISOString(),
-            isAfter: isAfter(restorationDate, now)
+            nowISO: adjustedNow.toISOString(),
+            isAfter: isAfter(restorationDate, adjustedNow)
           });
           
-          return isAfter(restorationDate, now);
+          return isAfter(restorationDate, adjustedNow);
         } catch (error) {
           console.warn('Error parsing date:', {
             restoration_time: item.restoration_time,
