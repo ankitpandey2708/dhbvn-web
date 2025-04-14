@@ -52,21 +52,21 @@ const missingEnvVars = Object.entries(requiredEnvVars)
 if (missingEnvVars.length > 0) {
   throw new Error(`Missing required environment variables: ${missingEnvVars.join(', ')}`);
 }
-
-const headers = {
+  
+  const headers = {
   'formid': process.env.DHBVN_FORM_ID!,
   'appsavylogin': process.env.DHBVN_LOGIN!,
   'sourcetype': process.env.DHBVN_SOURCE_TYPE!,
   'version': process.env.DHBVN_VERSION!,
   'token': process.env.DHBVN_TOKEN!,
   'ROLEID': process.env.DHBVN_ROLE_ID!,
-  'Content-Type': 'application/json'
-};
+    'Content-Type': 'application/json'
+  };
 
-const payload = {
-  "inputxml": "PD94bWwgdmVyc2lvbj0iMS4wIj8+PFJlcXVlc3QgVkVSU0lPTj0iMiIgTEFOR1VBR0VfSUQ9IjEiIExPQ0FUSU9OPSIiPjxDb21wYW55IENvbXBhbnlfSWQ9IjkzIiAvPjxQcm9qZWN0IFByb2plY3RfSWQ9IjMwNCIgLz48VXNlciBVc2VyX0lkPSJBbm9ueW1vdXMiIC8+PElVVkxvZ2luIElVVkxvZ2luX0lkPSJBbm9ueW1vdXMiIC8+PFJPTEUgUk9MRV9JRD0iMTU5NSIgLz48RXZlbnQgQ29udHJvbF9JZD0iMTMwNDA0IiAvPjxDaGlsZCBDb250cm9sX0lkPSIxMjU2ODEiIFJlcG9ydD0iSFRNTCIgQUNfSUQ9IjE2Mzk0NCI+PFBhcmVudCBDb250cm9sX0lkPSIxMzA0MDIiIFZhbHVlPSIxMCIgRGF0YV9Gb3JtX0lkPSIiLz48L0NoaWxkPjwvUmVxdWVzdD4=",
-  "DocVersion": "1"
-};
+  const payload = {
+    "inputxml": "PD94bWwgdmVyc2lvbj0iMS4wIj8+PFJlcXVlc3QgVkVSU0lPTj0iMiIgTEFOR1VBR0VfSUQ9IjEiIExPQ0FUSU9OPSIiPjxDb21wYW55IENvbXBhbnlfSWQ9IjkzIiAvPjxQcm9qZWN0IFByb2plY3RfSWQ9IjMwNCIgLz48VXNlciBVc2VyX0lkPSJBbm9ueW1vdXMiIC8+PElVVkxvZ2luIElVVkxvZ2luX0lkPSJBbm9ueW1vdXMiIC8+PFJPTEUgUk9MRV9JRD0iMTU5NSIgLz48RXZlbnQgQ29udHJvbF9JZD0iMTMwNDA0IiAvPjxDaGlsZCBDb250cm9sX0lkPSIxMjU2ODEiIFJlcG9ydD0iSFRNTCIgQUNfSUQ9IjE2Mzk0NCI+PFBhcmVudCBDb250cm9sX0lkPSIxMzA0MDIiIFZhbHVlPSIxMCIgRGF0YV9Gb3JtX0lkPSIiLz48L0NoaWxkPjwvUmVxdWVzdD4=",
+    "DocVersion": "1"
+  };
 
 export async function GET() {
   try {
@@ -132,7 +132,8 @@ export async function GET() {
           const [day, month, year] = datePart.split('-');
           const date = new Date(`${year}-${month}-${day} ${timePart}`);
           const restorationDate = toZonedTime(date, 'Asia/Kolkata');
-          return isAfter(restorationDate, now);
+          const nowInKolkata = toZonedTime(new Date(), 'Asia/Kolkata');
+          return isAfter(restorationDate, nowInKolkata);
         } catch (error) {
           console.warn('Error parsing date:', item.restoration_time, error);
           return false;
@@ -152,4 +153,4 @@ export async function GET() {
     const errorMessage = error instanceof Error ? error.message : 'An unexpected error occurred';
     return NextResponse.json({ error: errorMessage }, { status: 500 });
   }
-}
+} 
