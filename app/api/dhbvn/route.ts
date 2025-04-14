@@ -1,7 +1,6 @@
 import { NextResponse } from 'next/server';
 import { parseStringPromise } from 'xml2js';
 import { format, isAfter } from 'date-fns';
-import { toZonedTime } from 'date-fns-tz';
 
 interface DHBVNData {
   area: string;
@@ -71,8 +70,7 @@ if (missingEnvVars.length > 0) {
 export async function GET() {
   try {
     console.log('=== DHBVN API Debug Logs ===');
-    console.log('Current time in local timezone:', new Date().toISOString());
-    console.log('Current time in Kolkata timezone:', toZonedTime(new Date(), 'Asia/Kolkata').toISOString());
+    console.log('Current time:', new Date().toISOString());
     
     console.log('Fetching DHBVN data...');
     
@@ -143,9 +141,7 @@ export async function GET() {
           
           const [day, month, year] = datePart.split('-');
           const dateStr = `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')} ${timePart}`;
-          const date = new Date(dateStr);
-          const restorationDate = toZonedTime(date, 'Asia/Kolkata');
-          const nowInKolkata = toZonedTime(new Date(), 'Asia/Kolkata');
+          const restorationDate = new Date(dateStr);
           
           console.log('Date comparison for item:', {
             area: item.area,
@@ -153,11 +149,11 @@ export async function GET() {
             originalTime: item.restoration_time,
             parsedDate: dateStr,
             restorationDateISO: restorationDate.toISOString(),
-            nowInKolkataISO: nowInKolkata.toISOString(),
-            isAfter: isAfter(restorationDate, nowInKolkata)
+            nowISO: now.toISOString(),
+            isAfter: isAfter(restorationDate, now)
           });
           
-          return isAfter(restorationDate, nowInKolkata);
+          return isAfter(restorationDate, now);
         } catch (error) {
           console.warn('Error parsing date:', {
             restoration_time: item.restoration_time,
