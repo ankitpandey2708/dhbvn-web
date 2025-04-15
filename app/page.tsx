@@ -108,13 +108,15 @@ export default function Home() {
   }
 
   return (
-    <main className="container mx-auto py-10">
+    <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10">
       <div className="flex flex-col gap-4">
-        <h1 className="text-3xl font-bold">Faridabad Power Outage Information</h1>
-        <p className="text-muted-foreground">
+        <h1 className="text-2xl sm:text-3xl font-bold text-center sm:text-left">Faridabad Power Outage Information</h1>
+        <p className="text-muted-foreground text-center sm:text-left">
           Data refreshes every 5 minutes.
         </p>
-        <DataTable columns={columns} data={data} />
+        <div className="overflow-x-auto">
+          <DataTable columns={columns} data={data} />
+        </div>
       </div>
     </main>
   );
