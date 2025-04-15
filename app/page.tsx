@@ -114,8 +114,10 @@ export default function Home() {
         <p className="text-muted-foreground text-center sm:text-left">
           Data refreshes every 5 minutes.
         </p>
-        <div className="overflow-x-auto">
-          <DataTable columns={columns} data={data} />
+        <div className="overflow-x-auto -mx-4 sm:mx-0">
+          <div className="min-w-[800px] sm:min-w-0">
+            <DataTable columns={columns} data={data} />
+          </div>
         </div>
       </div>
     </main>

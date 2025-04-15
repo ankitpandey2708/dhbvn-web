@@ -81,7 +81,7 @@ export function DataTable<TData, TValue>({
               {table.getHeaderGroups().map((headerGroup) => (
                 <TableRow key={headerGroup.id}>
                   {headerGroup.headers.map((header) => (
-                    <TableHead key={header.id} className="whitespace-nowrap">
+                    <TableHead key={header.id} className="break-words">
                       {header.isPlaceholder ? null : (
                         <div
                           className={
@@ -110,7 +110,16 @@ export function DataTable<TData, TValue>({
                 table.getRowModel().rows.map((row) => (
                   <TableRow key={row.id}>
                     {row.getVisibleCells().map((cell) => (
-                      <TableCell key={cell.id} className="whitespace-nowrap">
+                      <TableCell 
+                        key={cell.id} 
+                        className={`
+                          ${cell.column.id === 'area' ? 'min-w-[150px] sm:min-w-[200px] break-words' : ''}
+                          ${cell.column.id === 'feeder' ? 'min-w-[100px] sm:min-w-[150px] break-words' : ''}
+                          ${cell.column.id === 'start_time' ? 'min-w-[150px] sm:min-w-[200px] break-words' : ''}
+                          ${cell.column.id === 'restoration_time' ? 'min-w-[150px] sm:min-w-[200px] break-words' : ''}
+                          ${cell.column.id === 'reason' ? 'min-w-[150px] sm:min-w-[300px] break-words' : ''}
+                        `}
+                      >
                         {flexRender(
                           cell.column.columnDef.cell,
                           cell.getContext()
