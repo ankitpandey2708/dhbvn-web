@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import { SpeedInsights } from '@vercel/speed-insights/next'
+import { Analytics } from '@vercel/analytics/react'
 import { GitHubBadge } from './components/github-badge'
 import './globals.css'
 
@@ -22,6 +23,7 @@ export default function RootLayout({
         <GitHubBadge />
         {children}
         <SpeedInsights />
+        <Analytics />
       </body>
     </html>
   )
