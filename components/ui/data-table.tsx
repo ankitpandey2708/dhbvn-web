@@ -10,6 +10,8 @@ import {
   SortingState,
   getFilteredRowModel,
 } from '@tanstack/react-table';
+import { jsPDF } from 'jspdf';
+import autoTable from 'jspdf-autotable';
 
 import {
   Table,
@@ -21,7 +23,8 @@ import {
 } from '@/components/ui/table';
 
 import { Input } from '@/components/ui/input';
-import { ArrowUpDown, Search } from 'lucide-react';
+import { ArrowUpDown, Search, Download } from 'lucide-react';
+import { Button } from '@/components/ui/button';
 
 interface DataTableProps<TData, TValue> {
   columns: ColumnDef<TData, TValue>[];
@@ -41,6 +44,67 @@ export function DataTable<TData, TValue>({
       searchInputRef.current.focus();
     }
   }, [data]);
+
+  const handleDownloadPDF = () => {
+    const doc = new jsPDF();
+    
+    // Get table headers
+    const headers = columns.map(column => {
+      if (typeof column.header === 'string') {
+        return column.header;
+      }
+      return '';
+    });
+    
+    // Get table data
+    const tableData = data.map(row => {
+      return columns.map(column => {
+        if ('accessorKey' in column) {
+          const value = row[column.accessorKey as keyof TData];
+          if (column.cell && typeof column.cell === 'function') {
+            // If there's a custom cell renderer, we need to handle it
+            const cell = column.cell({ row: { getValue: () => value } } as any);
+            return cell?.toString() || '';
+          }
+          return value?.toString() || '';
+        }
+        return '';
+      });
+    });
+
+    // Add title
+    doc.setFontSize(16);
+    doc.text('Faridabad Power Outage Information', 14, 15);
+    doc.setFontSize(10);
+    doc.text(`Generated on: ${new Date().toLocaleString()}`, 14, 22);
+
+    // Add table
+    autoTable(doc, {
+      head: [headers],
+      body: tableData,
+      startY: 30,
+      theme: 'grid',
+      headStyles: {
+        fillColor: [41, 128, 185],
+        textColor: 255,
+        fontStyle: 'bold',
+      },
+      styles: {
+        fontSize: 8,
+        cellPadding: 2,
+      },
+      columnStyles: {
+        0: { cellWidth: 40 }, // Area
+        1: { cellWidth: 30 }, // Feeder
+        2: { cellWidth: 40 }, // Start Time
+        3: { cellWidth: 40 }, // Restoration Time
+        4: { cellWidth: 40 }, // Reason
+      },
+    });
+
+    // Save the PDF
+    doc.save('power-outage-report.pdf');
+  };
 
   const table = useReactTable({
     data,
@@ -62,17 +126,25 @@ export function DataTable<TData, TValue>({
 
   return (
     <div>
-      <div className="flex items-center py-4">
-        <div className="relative w-full sm:w-72">
+      <div className="flex items-center justify-between py-4">
+        <div className="relative w-40 sm:w-72">
           <Search className="absolute left-2 top-2.5 h-4 w-4 text-muted-foreground" />
           <Input
             ref={searchInputRef}
-            placeholder="Search in all columns..."
+            placeholder="Search..."
             value={globalFilter}
             onChange={(event) => setGlobalFilter(event.target.value)}
-            className="pl-8"
+            className="pl-8 text-sm"
           />
         </div>
+        <Button
+          onClick={handleDownloadPDF}
+          variant="outline"
+          size="sm"
+          className="shrink-0"
+        >
+          <Download className="h-4 w-4" />
+        </Button>
       </div>
       <div className="rounded-md border">
         <div className="overflow-x-auto">

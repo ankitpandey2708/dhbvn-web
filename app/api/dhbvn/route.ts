@@ -67,11 +67,7 @@ const payload = {
 
 export async function GET() {
   try {
-    console.log('=== DHBVN API Debug Logs ===');
     const now = new Date();
-    console.log('Current time:', now.toISOString());
-    
-    console.log('Fetching DHBVN data...');
     
     // Make the API request
     const response = await fetch(DHBVN_API_URL, {
@@ -96,7 +92,6 @@ export async function GET() {
       throw new Error('Empty response from DHBVN API');
     }
 
-    console.log('Parsing XML response...');
     
     // Parse XML to JSON
     const result = await parseStringPromise(xmlData) as DHBVNResponse;
@@ -166,9 +161,6 @@ export async function GET() {
         return a.feeder.localeCompare(b.feeder);
       });
 
-    console.log('=== Final Results ===');
-    console.log('Total rows after filtering:', data.length);
-    console.log('Filtered data:', JSON.stringify(data, null, 2));
     
     // Return the data with cache control headers
     return NextResponse.json(data, {
