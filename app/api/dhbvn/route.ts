@@ -1,6 +1,8 @@
-export const dynamic = 'force-dynamic';
 import { NextResponse } from 'next/server';
 import { parseStringPromise } from 'xml2js';
+
+// remove server side cache
+export const dynamic = 'force-dynamic'; 
 
 interface DHBVNData {
   area: string;
@@ -163,7 +165,7 @@ export async function GET() {
       });
 
     
-    // Return the data with cache control headers
+    // Remove browser side cache
     return NextResponse.json(data, {
       headers: {
         'Cache-Control': 'no-store, max-age=0',
