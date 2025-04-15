@@ -1,7 +1,5 @@
 import { NextResponse } from 'next/server';
 import { parseStringPromise } from 'xml2js';
-import { parse } from 'date-fns';
-import { toZonedTime } from 'date-fns-tz';
 
 interface DHBVNData {
   area: string;
@@ -51,7 +49,7 @@ const missingEnvVars = Object.entries(requiredEnvVars)
 if (missingEnvVars.length > 0) {
   throw new Error(`Missing required environment variables: ${missingEnvVars.join(', ')}`);
 }
-  
+
 const headers = {
   'formid': process.env.DHBVN_FORM_ID!,
   'appsavylogin': process.env.DHBVN_LOGIN!,
@@ -133,25 +131,26 @@ export async function GET() {
           return false;
         }
         try {
-          // Parse the date using date-fns parse function with the exact format
-          // Format: "dd-MMM-yyyy HH:mm:ss" (e.g., "15-Apr-2025 04:30:00")
-          const restorationDate = parse(item.restoration_time, 'dd-MMM-yyyy HH:mm:ss', new Date());
-          
-          // Convert both dates to Asia/Kolkata timezone for comparison
-          const restorationDateIST = toZonedTime(restorationDate, 'Asia/Kolkata');
-          const nowIST = toZonedTime(now, 'Asia/Kolkata');
-          
+          // Split the date string into components
+          const [day, monthStr, year, time] = item.restoration_time.split(/[-\s]/);
+          const [hour, minute, second] = time.split(':');
+          const monthIndex = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'].indexOf(monthStr);
+
+          // Create a UTC Date object treating the components as IST, then adjust to UTC
+          const dateAsIST = new Date(Date.UTC(Number(year), monthIndex, Number(day), Number(hour), Number(minute), Number(second)));
+          const istOffsetMs = 330 * 60 * 1000; // 5 hours 30 minutes in milliseconds
+          const restorationDateUTC = new Date(dateAsIST.getTime() - istOffsetMs);
+
           console.log('Date comparison for item:', {
             area: item.area,
             feeder: item.feeder,
             originalTime: item.restoration_time,
-            restorationDateISO: restorationDateIST.toISOString(),
-            nowISO: nowIST.toISOString(),
-            isAfter: restorationDateIST > nowIST
+            restorationDateISO: restorationDateUTC.toISOString(),
+            nowISO: now.toISOString(),
+            isAfter: restorationDateUTC > now
           });
-          
-          // Compare dates in the same timezone
-          return restorationDateIST > nowIST;
+
+          return restorationDateUTC > now;
         } catch (error) {
           console.warn('Error parsing date:', {
             restoration_time: item.restoration_time,
@@ -177,4 +176,4 @@ export async function GET() {
     const errorMessage = error instanceof Error ? error.message : 'An unexpected error occurred';
     return NextResponse.json({ error: errorMessage }, { status: 500 });
   }
-} 
+}
