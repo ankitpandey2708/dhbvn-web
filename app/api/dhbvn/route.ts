@@ -170,7 +170,14 @@ export async function GET() {
     console.log('Total rows after filtering:', data.length);
     console.log('Filtered data:', JSON.stringify(data, null, 2));
     
-    return NextResponse.json(data);
+    // Return the data with cache control headers
+    return NextResponse.json(data, {
+      headers: {
+        'Cache-Control': 'no-store, max-age=0',
+        'Pragma': 'no-cache',
+        'Expires': '0'
+      }
+    });
   } catch (error) {
     console.error('Error fetching DHBVN data:', error);
     const errorMessage = error instanceof Error ? error.message : 'An unexpected error occurred';
