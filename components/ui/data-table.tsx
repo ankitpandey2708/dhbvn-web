@@ -127,24 +127,28 @@ export function DataTable<TData, TValue>({
   return (
     <div>
       <div className="flex items-center justify-between py-4">
-        <div className="relative w-40 sm:w-72">
-          <Search className="absolute left-2 top-2.5 h-4 w-4 text-muted-foreground" />
-          <Input
-            ref={searchInputRef}
-            placeholder="Search..."
-            value={globalFilter}
-            onChange={(event) => setGlobalFilter(event.target.value)}
-            className="pl-8 text-sm"
-          />
-        </div>
-        <Button
-          onClick={handleDownloadPDF}
-          variant="outline"
-          size="sm"
-          className="shrink-0"
-        >
-          <Download className="h-4 w-4" />
-        </Button>
+        {data.length > 0 && (
+          <div className="relative w-40 sm:w-72">
+            <Search className="absolute left-2 top-2.5 h-4 w-4 text-muted-foreground" />
+            <Input
+              ref={searchInputRef}
+              placeholder="Search..."
+              value={globalFilter}
+              onChange={(event) => setGlobalFilter(event.target.value)}
+              className="pl-8 text-sm"
+            />
+          </div>
+        )}
+        {data.length > 0 && (
+          <Button
+            onClick={handleDownloadPDF}
+            variant="outline"
+            size="sm"
+            className="shrink-0"
+          >
+            <Download className="h-4 w-4" />
+          </Button>
+        )}
       </div>
       <div className="rounded-md border">
         <div className="overflow-x-auto">
