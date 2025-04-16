@@ -1,5 +1,7 @@
+// This is a Next.js client component for displaying power outage information for Faridabad
 'use client';
 
+// Import necessary React hooks and UI components
 import { useEffect, useState, useMemo, useRef } from 'react';
 import { DataTable } from '@/components/ui/data-table';
 import { ColumnDef, Row } from '@tanstack/react-table';
@@ -12,6 +14,7 @@ import React from 'react';
 import jsPDF from 'jspdf';
 import autoTable from 'jspdf-autotable';
 
+// Define the data structure for outage information
 interface DHBVNData {
   area: string;
   feeder: string;
@@ -20,6 +23,7 @@ interface DHBVNData {
   reason: string;
 }
 
+// Define the columns for the DataTable, including custom cell renderers for date formatting
 const columns: ColumnDef<DHBVNData>[] = [
   {
     accessorKey: 'area',
@@ -35,12 +39,13 @@ const columns: ColumnDef<DHBVNData>[] = [
     cell: ({ row }: { row: Row<DHBVNData> }) => {
       try {
         const value = row.getValue('start_time') as string;
-        // Handle the date format from Python script
+        // Parse and format the date string from the backend (Python script)
         const [datePart, timePart] = value.split(' ');
         const [day, month, year] = datePart.split('-');
         const date = new Date(`${year}-${month}-${day} ${timePart}`);
         return format(date, 'PPpp');
       } catch {
+        // Fallback to raw value if parsing fails
         return row.getValue('start_time') as string;
       }
     },
@@ -51,12 +56,13 @@ const columns: ColumnDef<DHBVNData>[] = [
     cell: ({ row }: { row: Row<DHBVNData> }) => {
       try {
         const value = row.getValue('restoration_time') as string;
-        // Handle the date format from Python script
+        // Parse and format the date string from the backend (Python script)
         const [datePart, timePart] = value.split(' ');
         const [day, month, year] = datePart.split('-');
         const date = new Date(`${year}-${month}-${day} ${timePart}`);
         return format(date, 'PPpp');
       } catch {
+        // Fallback to raw value if parsing fails
         return row.getValue('restoration_time') as string;
       }
     },
@@ -67,7 +73,7 @@ const columns: ColumnDef<DHBVNData>[] = [
   },
 ];
 
-// Utility: filterByAreaAndFeeder
+// Utility function to filter data by area or feeder based on a search string
 function filterByAreaAndFeeder<T extends { area: string; feeder: string }>(
   data: T[],
   filterValue: string
@@ -80,7 +86,7 @@ function filterByAreaAndFeeder<T extends { area: string; feeder: string }>(
   );
 }
 
-// Utility: generateOutagePDF
+// Utility function to generate a PDF report of the outage data
 function generateOutagePDF({
   columns,
   data,
@@ -126,13 +132,57 @@ function generateOutagePDF({
   doc.save('power-outage-report.pdf');
 }
 
+// Reusable component for search input and download button controls
+function SearchAndDownloadControls({
+  globalFilter,
+  setGlobalFilter,
+  handleDownloadPDF,
+  searchInputRef,
+  className = "",
+}: {
+  globalFilter: string;
+  setGlobalFilter: (v: string) => void;
+  handleDownloadPDF: () => void;
+  searchInputRef: React.RefObject<HTMLInputElement>;
+  className?: string;
+}) {
+  return (
+    <div className={`flex items-center justify-between py-4 ${className}`}>
+      <div className="relative w-40 sm:w-72">
+        <Search className="absolute left-2 top-2.5 h-4 w-4 text-muted-foreground" />
+        <Input
+          ref={searchInputRef}
+          placeholder="Search..."
+          value={globalFilter}
+          onChange={(event) => setGlobalFilter(event.target.value)}
+          className="pl-8 text-sm"
+        />
+      </div>
+      <Button
+        onClick={handleDownloadPDF}
+        variant="outline"
+        size="sm"
+        className="shrink-0 ml-2"
+      >
+        <Download className="h-4 w-4" />
+      </Button>
+    </div>
+  );
+}
+
 export default function Home() {
+  // State for fetched outage data
   const [data, setData] = useState<DHBVNData[]>([]);
+  // Loading state for data fetch
   const [loading, setLoading] = useState(true);
+  // Error state for fetch failures
   const [error, setError] = useState<string | null>(null);
+  // State for global search filter
   const [globalFilter, setGlobalFilter] = useState('');
+  // Ref for search input (to focus on data load)
   const searchInputRef = useRef<HTMLInputElement>(null);
 
+  // Fetch outage data from API or use dummy data in development
   useEffect(() => {
     const fetchData = async () => {
       if (process.env.NODE_ENV !== 'production') {
@@ -172,21 +222,25 @@ export default function Home() {
     };
 
     fetchData();
+    // Set up interval to refresh data every 5 minutes
     const interval = setInterval(fetchData, 5 * 60 * 1000);
     return () => clearInterval(interval);
   }, []);
 
+  // Focus the search input when data changes
   useEffect(() => {
     if (searchInputRef.current) {
       searchInputRef.current.focus();
     }
   }, [data]);
 
+  // Memoized filtered data based on area/feeder search
   const filteredData = useMemo(
     () => filterByAreaAndFeeder(data, globalFilter),
     [data, globalFilter]
   );
 
+  // Handler to trigger PDF download of filtered data
   const handleDownloadPDF = () => {
     generateOutagePDF({
       columns: [
@@ -206,6 +260,7 @@ export default function Home() {
     });
   };
 
+  // Show loading spinner while fetching data
   if (loading) {
     return (
       <div className="flex items-center justify-center min-h-screen">
@@ -214,6 +269,7 @@ export default function Home() {
     );
   }
 
+  // Show error message if data fetch fails
   if (error) {
     return (
       <div className="flex items-center justify-center min-h-screen">
@@ -225,39 +281,29 @@ export default function Home() {
     );
   }
 
+  // Main UI rendering
   return (
     <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10">
       <div className="flex flex-col gap-4">
+        {/* Page Title and Subtitle */}
         <h1 className="text-2xl sm:text-3xl font-bold text-center sm:text-left">Faridabad Power Outage Information</h1>
         <p className="text-muted-foreground text-center sm:text-left">
           Data refreshes every 5 minutes.
         </p>
         {/* Search and Download Controls - Mobile */}
-        {filteredData.length > 0 && (
-          <div className="flex items-center justify-between py-4 block sm:hidden">
-            <div className="relative w-40">
-              <Search className="absolute left-2 top-2.5 h-4 w-4 text-muted-foreground" />
-              <Input
-                ref={searchInputRef}
-                placeholder="Search..."
-                value={globalFilter}
-                onChange={(event) => setGlobalFilter(event.target.value)}
-                className="pl-8 text-sm"
-              />
-            </div>
-            <Button
-              onClick={handleDownloadPDF}
-              variant="outline"
-              size="sm"
-              className="shrink-0 ml-2"
-            >
-              <Download className="h-4 w-4" />
-            </Button>
-          </div>
+        {data.length > 0 && (
+          <SearchAndDownloadControls
+            globalFilter={globalFilter}
+            setGlobalFilter={setGlobalFilter}
+            handleDownloadPDF={handleDownloadPDF}
+            searchInputRef={searchInputRef}
+            className="block sm:hidden"
+          />
         )}
         {/* Mobile Card Layout */}
         {filteredData.length > 0 && (
           <div className="flex flex-col gap-4 block sm:hidden">
+            {/* Render each outage as a card for mobile view */}
             {filteredData.map((item, idx) => (
               <div key={idx} className="rounded-xl border border-border bg-card p-4 shadow-sm">
                 <div className="flex items-center justify-between mb-4">
@@ -278,33 +324,35 @@ export default function Home() {
             ))}
           </div>
         )}
+        {/* Show no results message if search yields no data but there is data (mobile only) */}
+        {data.length > 0 && filteredData.length === 0 && (
+          <div className="text-center text-muted-foreground py-8 block sm:hidden">
+            No results found for your search.
+          </div>
+        )}
         {/* Desktop Table Layout */}
         <div className="overflow-x-auto -mx-4 sm:mx-0 hidden sm:block">
           <div className="min-w-[800px] sm:min-w-0">
             {/* Search and Download Controls - Desktop */}
+            {data.length > 0 && (
+              <SearchAndDownloadControls
+                globalFilter={globalFilter}
+                setGlobalFilter={setGlobalFilter}
+                handleDownloadPDF={handleDownloadPDF}
+                searchInputRef={searchInputRef}
+                className="hidden sm:flex"
+              />
+            )}
+            {/* Render the data table for desktop view if there are filtered results */}
             {filteredData.length > 0 && (
-              <div className="flex items-center justify-between py-4">
-                <div className="relative w-40 sm:w-72">
-                  <Search className="absolute left-2 top-2.5 h-4 w-4 text-muted-foreground" />
-                  <Input
-                    ref={searchInputRef}
-                    placeholder="Search..."
-                    value={globalFilter}
-                    onChange={(event) => setGlobalFilter(event.target.value)}
-                    className="pl-8 text-sm"
-                  />
-                </div>
-                <Button
-                  onClick={handleDownloadPDF}
-                  variant="outline"
-                  size="sm"
-                  className="shrink-0"
-                >
-                  <Download className="h-4 w-4" />
-                </Button>
+              <DataTable columns={columns} data={filteredData} />
+            )}
+            {/* Show no results message if search yields no data but there is data (desktop only) */}
+            {data.length > 0 && filteredData.length === 0 && (
+              <div className="text-center text-muted-foreground py-8">
+                No results found for your search.
               </div>
             )}
-            <DataTable columns={columns} data={filteredData} />
           </div>
         </div>
       </div>
