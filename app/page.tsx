@@ -290,6 +290,12 @@ export default function Home() {
         <p className="text-muted-foreground text-center sm:text-left">
           Data refreshes every 5 minutes.
         </p>
+        {/* Show no data message if there is no data at all (mobile and desktop) */}
+        {data.length === 0 && (
+          <div className="text-center text-muted-foreground py-16 text-lg font-medium">
+            No power outages reported by DHBVN
+          </div>
+        )}
         {/* Search and Download Controls - Mobile */}
         {data.length > 0 && (
           <SearchAndDownloadControls
