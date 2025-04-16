@@ -20,6 +20,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <link
+          rel="icon"
+          href="https://www.dhbvn.org.in/RAPDRP-Redesign-theme/images/favicon.ico"
+        />
+      </head>
       <body className={inter.className}>
         <GitHubBadge />
         <ThemeToggle />
