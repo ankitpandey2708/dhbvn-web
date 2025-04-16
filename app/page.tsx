@@ -286,11 +286,13 @@ export default function Home() {
     <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10">
       <div className="flex flex-col gap-4">
         {/* Page Title and Subtitle */}
-        <h1 className="text-2xl sm:text-3xl font-bold text-center sm:text-left">Faridabad Power Outage Information</h1>
-        <p className="text-muted-foreground text-center sm:text-left">
+        <h1 className="text-2xl sm:text-3xl font-bold text-left">Faridabad Power Outage Information</h1>
+        {/* Show no data message if there is no data at all (mobile and desktop) */}
+        {data.length > 0 && (
+          <p className="text-muted-foreground text-left sm:text-left">
           Data refreshes every 5 minutes.
         </p>
-        {/* Show no data message if there is no data at all (mobile and desktop) */}
+        )}
         {data.length === 0 && (
           <div className="text-center text-muted-foreground py-16 text-lg font-medium">
             No power outages reported by DHBVN

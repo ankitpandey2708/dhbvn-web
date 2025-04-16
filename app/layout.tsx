@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google'
 import { SpeedInsights } from '@vercel/speed-insights/next'
 import { Analytics } from '@vercel/analytics/react'
 import { GitHubBadge } from './components/github-badge'
+import { ThemeToggle } from '../components/ui/ThemeToggle'
 import './globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
@@ -21,6 +22,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <GitHubBadge />
+        <ThemeToggle />
         {children}
         <SpeedInsights />
         <Analytics />
