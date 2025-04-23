@@ -2,7 +2,7 @@
 import { useEffect, useState } from 'react';
 import { Button } from './button';
 
-export function ThemeToggle() {
+export function ThemeToggle(): React.ReactElement {
   const [theme, setTheme] = useState<'light' | 'dark'>(
     typeof window !== 'undefined' && localStorage.getItem('theme') === 'dark' ? 'dark' : 'light'
   );

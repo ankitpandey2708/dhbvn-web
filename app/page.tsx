@@ -170,7 +170,7 @@ function SearchAndDownloadControls({
   );
 }
 
-export default function Home() {
+export default function Home(): React.ReactElement {
   // State for fetched outage data
   const [data, setData] = useState<DHBVNData[]>([]);
   // Loading state for data fetch

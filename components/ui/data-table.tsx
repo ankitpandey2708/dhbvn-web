@@ -29,7 +29,7 @@ interface DataTableProps<TData, TValue> {
 export function DataTable<TData, TValue>({
   columns,
   data,
-}: DataTableProps<TData, TValue>): JSX.Element {
+}: DataTableProps<TData, TValue>): React.ReactElement {
   const [sorting, setSorting] = React.useState<SortingState>([]);
 
   const table = useReactTable({
