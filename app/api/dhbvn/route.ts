@@ -2,7 +2,9 @@ import { NextResponse } from 'next/server';
 import { parseStringPromise } from 'xml2js';
 
 // remove server side cache
-export const dynamic = 'force-dynamic'; 
+export const dynamic = 'force-dynamic';
+export const fetchCache = 'force-no-store';
+export const revalidate = 0;
 
 interface DHBVNData {
   area: string;
@@ -34,7 +36,6 @@ interface DHBVNResponse {
 
 const DHBVN_API_URL = 'https://chs.dhbvn.org.in/api/AppsavyServices/GetRelationalDataA';
 
-// Check for required environment variables
 const requiredEnvVars = {
   DHBVN_FORM_ID: process.env.DHBVN_FORM_ID,
   DHBVN_LOGIN: process.env.DHBVN_LOGIN,
@@ -44,7 +45,6 @@ const requiredEnvVars = {
   DHBVN_ROLE_ID: process.env.DHBVN_ROLE_ID,
 };
 
-// Validate environment variables
 const missingEnvVars = Object.entries(requiredEnvVars)
   .filter(([_, value]) => !value)
   .map(([key]) => key);
@@ -75,8 +75,14 @@ export async function GET() {
     // Make the API request
     const response = await fetch(DHBVN_API_URL, {
       method: 'POST',
-      headers,
-      body: JSON.stringify(payload)
+      headers: {
+        ...headers,
+        'Cache-Control': 'no-cache, no-store, must-revalidate',
+        'Pragma': 'no-cache',
+      },
+      body: JSON.stringify(payload),
+      cache: 'no-store',
+      next: { revalidate: 0 }
     });
 
     if (!response.ok) {
@@ -106,7 +112,6 @@ export async function GET() {
     
     console.log('Total rows received from API:', result.RESULT.RESULTS[0].Rowset.length);
     
-    // Process the data
     const data: DHBVNData[] = result.RESULT.RESULTS[0].Rowset
       .filter(row => {
         // Check if all required fields are present
@@ -168,9 +173,10 @@ export async function GET() {
     // Remove browser side cache
     return NextResponse.json(data, {
       headers: {
-        'Cache-Control': 'no-store, max-age=0',
+        'Cache-Control': 'no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0',
         'Pragma': 'no-cache',
-        'Expires': '0'
+        'Expires': '0',
+        'Surrogate-Control': 'no-store'
       }
     });
   } catch (error) {
