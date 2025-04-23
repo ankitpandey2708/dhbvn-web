@@ -143,7 +143,7 @@ function SearchAndDownloadControls({
   globalFilter: string;
   setGlobalFilter: (v: string) => void;
   handleDownloadPDF: () => void;
-  searchInputRef: React.RefObject<HTMLInputElement>;
+  searchInputRef: React.RefObject<HTMLInputElement | null>;
   className?: string;
 }) {
   return (
