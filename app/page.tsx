@@ -13,6 +13,7 @@ import { Search, Download } from 'lucide-react';
 import React from 'react';
 import jsPDF from 'jspdf';
 import autoTable from 'jspdf-autotable';
+import Script from 'next/script';
 
 // Define the data structure for outage information
 interface DHBVNData {
@@ -260,6 +261,28 @@ export default function Home(): React.ReactElement {
     });
   };
 
+  // Generate JSON-LD structured data for this page
+  const structuredData = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: 'Faridabad Power Outage Information',
+    description: 'Real-time information about power outages in Faridabad with location details',
+    url: 'https://dhbvn.vercel.app',
+    mainEntity: {
+      '@type': 'Dataset',
+      name: 'Faridabad Power Outage Dataset',
+      description: 'Collection of current power outages in Faridabad with details including affected areas, feeders, outage start times, and expected restoration times.',
+      keywords: 'Faridabad power outage, Faridabad electricity outage, power cut Faridabad, Faridabad electricity status, Faridabad electricity updates,power restoration Faridabad',
+      temporal: 'Real-time data, updated every 5 minutes',
+      spatialCoverage: 'Faridabad, Haryana, India',
+      publisher: {
+        '@type': 'Organization',
+        name: 'DHBVN Information Portal',
+        url: 'https://dhbvn.vercel.app'
+      }
+    }
+  };
+
   // Show loading spinner while fetching data
   if (loading) {
     return (
@@ -283,87 +306,92 @@ export default function Home(): React.ReactElement {
 
   // Main UI rendering
   return (
-    <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10">
-      <div className="flex flex-col gap-4">
-        {/* Page Title and Subtitle */}
-        <h1 className="text-2xl sm:text-3xl font-bold text-left">Faridabad Power Outage Information</h1>
-        {/* Show no data message if there is no data at all (mobile and desktop) */}
-        {data.length > 0 && (
-          <p className="text-muted-foreground text-left sm:text-left">
-          Data refreshes every 5 minutes.
-        </p>
-        )}
-        {data.length === 0 && (
-          <div className="text-center text-muted-foreground py-16 text-lg font-medium">
-            No power outages reported by DHBVN
-          </div>
-        )}
-        {/* Search and Download Controls - Mobile */}
-        {data.length > 0 && (
-          <SearchAndDownloadControls
-            globalFilter={globalFilter}
-            setGlobalFilter={setGlobalFilter}
-            handleDownloadPDF={handleDownloadPDF}
-            searchInputRef={searchInputRef}
-            className="block sm:hidden"
-          />
-        )}
-        {/* Mobile Card Layout */}
-        {filteredData.length > 0 && (
-          <div className="flex flex-col gap-4 block sm:hidden">
-            {/* Render each outage as a card for mobile view */}
-            {filteredData.map((item, idx) => (
-              <div key={idx} className="rounded-xl border border-border bg-card p-4 shadow-sm">
-                <div className="flex items-center justify-between mb-4">
-                  <span className="font-semibold text-base truncate">{item.area}</span>
-                  <span className="font-semibold text-base truncate">{item.feeder}</span>
-                </div>
-                <div className="flex items-center justify-between text-xs text-muted-foreground">
-                  <div>
-                    Period<br />
-                    <span className="font-medium text-foreground">{item.start_time} -<br />{item.restoration_time}</span>
+    <>
+      <Script id="structured-data" type="application/ld+json">
+        {JSON.stringify(structuredData)}
+      </Script>
+      <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10">
+        <div className="flex flex-col gap-4">
+          {/* Page Title and Subtitle */}
+          <h1 className="text-2xl sm:text-3xl font-bold text-left">Faridabad Power Outage Information</h1>
+          {/* Show no data message if there is no data at all (mobile and desktop) */}
+          {data.length > 0 && (
+            <p className="text-muted-foreground text-left sm:text-left">
+            Data refreshes every 5 minutes.
+          </p>
+          )}
+          {data.length === 0 && (
+            <div className="text-center text-muted-foreground py-16 text-lg font-medium">
+              No power outages reported by DHBVN
+            </div>
+          )}
+          {/* Search and Download Controls - Mobile */}
+          {data.length > 0 && (
+            <SearchAndDownloadControls
+              globalFilter={globalFilter}
+              setGlobalFilter={setGlobalFilter}
+              handleDownloadPDF={handleDownloadPDF}
+              searchInputRef={searchInputRef}
+              className="block sm:hidden"
+            />
+          )}
+          {/* Mobile Card Layout */}
+          {filteredData.length > 0 && (
+            <div className="flex flex-col gap-4 block sm:hidden">
+              {/* Render each outage as a card for mobile view */}
+              {filteredData.map((item, idx) => (
+                <div key={idx} className="rounded-xl border border-border bg-card p-4 shadow-sm">
+                  <div className="flex items-center justify-between mb-4">
+                    <span className="font-semibold text-base truncate">{item.area}</span>
+                    <span className="font-semibold text-base truncate">{item.feeder}</span>
                   </div>
-                  <div className="text-right">
-                    Reason<br />
-                    <span className="font-medium text-foreground">{item.reason}</span>
+                  <div className="flex items-center justify-between text-xs text-muted-foreground">
+                    <div>
+                      Period<br />
+                      <span className="font-medium text-foreground">{item.start_time} -<br />{item.restoration_time}</span>
+                    </div>
+                    <div className="text-right">
+                      Reason<br />
+                      <span className="font-medium text-foreground">{item.reason}</span>
+                    </div>
                   </div>
                 </div>
-              </div>
-            ))}
-          </div>
-        )}
-        {/* Show no results message if search yields no data but there is data (mobile only) */}
-        {data.length > 0 && filteredData.length === 0 && (
-          <div className="text-center text-muted-foreground py-8 block sm:hidden">
-            No results found for your search.
-          </div>
-        )}
-        {/* Desktop Table Layout */}
-        <div className="overflow-x-auto -mx-4 sm:mx-0 hidden sm:block">
-          <div className="min-w-[800px] sm:min-w-0">
-            {/* Search and Download Controls - Desktop */}
-            {data.length > 0 && (
-              <SearchAndDownloadControls
-                globalFilter={globalFilter}
-                setGlobalFilter={setGlobalFilter}
-                handleDownloadPDF={handleDownloadPDF}
-                searchInputRef={searchInputRef}
-                className="hidden sm:flex"
-              />
-            )}
-            {/* Render the data table for desktop view if there are filtered results */}
-            {filteredData.length > 0 && (
-              <DataTable columns={columns} data={filteredData} />
-            )}
-            {/* Show no results message if search yields no data but there is data (desktop only) */}
-            {data.length > 0 && filteredData.length === 0 && (
-              <div className="text-center text-muted-foreground py-8">
-                No results found for your search.
-              </div>
-            )}
+              ))}
+            </div>
+          )}
+          {/* Show no results message if search yields no data but there is data (mobile only) */}
+          {data.length > 0 && filteredData.length === 0 && (
+            <div className="text-center text-muted-foreground py-8 block sm:hidden">
+              No results found for your search.
+            </div>
+          )}
+          {/* Desktop Table Layout */}
+          <div className="overflow-x-auto -mx-4 sm:mx-0 hidden sm:block">
+            <div className="min-w-[800px] sm:min-w-0">
+              {/* Search and Download Controls - Desktop */}
+              {data.length > 0 && (
+                <SearchAndDownloadControls
+                  globalFilter={globalFilter}
+                  setGlobalFilter={setGlobalFilter}
+                  handleDownloadPDF={handleDownloadPDF}
+                  searchInputRef={searchInputRef}
+                  className="hidden sm:flex"
+                />
+              )}
+              {/* Render the data table for desktop view if there are filtered results */}
+              {filteredData.length > 0 && (
+                <DataTable columns={columns} data={filteredData} />
+              )}
+              {/* Show no results message if search yields no data but there is data (desktop only) */}
+              {data.length > 0 && filteredData.length === 0 && (
+                <div className="text-center text-muted-foreground py-8">
+                  No results found for your search.
+                </div>
+              )}
+            </div>
           </div>
         </div>
-      </div>
-    </main>
+      </main>
+    </>
   );
 } 
