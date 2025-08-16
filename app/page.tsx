@@ -5,7 +5,7 @@
 import React, { useEffect, useState, useMemo, useRef } from 'react';
 import { DataTable } from '@/components/ui/data-table';
 import { ColumnDef, Row } from '@tanstack/react-table';
-import { format } from 'date-fns';
+import { format, parse } from 'date-fns';
 import { Loader2 } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
@@ -39,13 +39,10 @@ const columns: ColumnDef<DHBVNData>[] = [
     cell: ({ row }: { row: Row<DHBVNData> }) => {
       try {
         const value = row.getValue('start_time') as string;
-        // Parse and format the date string from the backend (Python script)
-        const [datePart, timePart] = value.split(' ');
-        const [day, month, year] = datePart.split('-');
-        const date = new Date(`${year}-${month}-${day} ${timePart}`);
+        const date = parse(value, 'dd-MMM-yyyy HH:mm:ss', new Date());
+        if (isNaN(date.getTime())) return value;
         return format(date, 'PPpp');
       } catch {
-        // Fallback to raw value if parsing fails
         return row.getValue('start_time') as string;
       }
     },
@@ -56,13 +53,10 @@ const columns: ColumnDef<DHBVNData>[] = [
     cell: ({ row }: { row: Row<DHBVNData> }) => {
       try {
         const value = row.getValue('restoration_time') as string;
-        // Parse and format the date string from the backend (Python script)
-        const [datePart, timePart] = value.split(' ');
-        const [day, month, year] = datePart.split('-');
-        const date = new Date(`${year}-${month}-${day} ${timePart}`);
+        const date = parse(value, 'dd-MMM-yyyy HH:mm:ss', new Date());
+        if (isNaN(date.getTime())) return value;
         return format(date, 'PPpp');
       } catch {
-        // Fallback to raw value if parsing fails
         return row.getValue('restoration_time') as string;
       }
     },

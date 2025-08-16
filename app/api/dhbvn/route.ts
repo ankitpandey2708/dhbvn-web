@@ -36,32 +36,11 @@ interface DHBVNResponse {
 
 const DHBVN_API_URL = 'https://chs.dhbvn.org.in/api/AppsavyServices/GetRelationalDataA';
 
-const requiredEnvVars = {
-  DHBVN_FORM_ID: process.env.DHBVN_FORM_ID,
-  DHBVN_LOGIN: process.env.DHBVN_LOGIN,
-  DHBVN_SOURCE_TYPE: process.env.DHBVN_SOURCE_TYPE,
-  DHBVN_VERSION: process.env.DHBVN_VERSION,
-  DHBVN_TOKEN: process.env.DHBVN_TOKEN,
-  DHBVN_ROLE_ID: process.env.DHBVN_ROLE_ID,
-};
 
-const missingEnvVars = Object.entries(requiredEnvVars)
-  .filter(([_, value]) => !value)
-  .map(([key]) => key);
 
-if (missingEnvVars.length > 0) {
-  throw new Error(`Missing required environment variables: ${missingEnvVars.join(', ')}`);
-}
 
-const headers = {
-  'formid': process.env.DHBVN_FORM_ID!,
-  'appsavylogin': process.env.DHBVN_LOGIN!,
-  'sourcetype': process.env.DHBVN_SOURCE_TYPE!,
-  'version': process.env.DHBVN_VERSION!,
-  'token': process.env.DHBVN_TOKEN!,
-  'ROLEID': process.env.DHBVN_ROLE_ID!,
-  'Content-Type': 'application/json'
-};
+
+
 
 const payload = {
   "inputxml": "PD94bWwgdmVyc2lvbj0iMS4wIj8+PFJlcXVlc3QgVkVSU0lPTj0iMiIgTEFOR1VBR0VfSUQ9IjEiIExPQ0FUSU9OPSIiPjxDb21wYW55IENvbXBhbnlfSWQ9IjkzIiAvPjxQcm9qZWN0IFByb2plY3RfSWQ9IjMwNCIgLz48VXNlciBVc2VyX0lkPSJBbm9ueW1vdXMiIC8+PElVVkxvZ2luIElVVkxvZ2luX0lkPSJBbm9ueW1vdXMiIC8+PFJPTEUgUk9MRV9JRD0iMTU5NSIgLz48RXZlbnQgQ29udHJvbF9JZD0iMTMwNDA0IiAvPjxDaGlsZCBDb250cm9sX0lkPSIxMjU2ODEiIFJlcG9ydD0iSFRNTCIgQUNfSUQ9IjE2Mzk0NCI+PFBhcmVudCBDb250cm9sX0lkPSIxMzA0MDIiIFZhbHVlPSIxMCIgRGF0YV9Gb3JtX0lkPSIiLz48L0NoaWxkPjwvUmVxdWVzdD4=",
@@ -71,7 +50,37 @@ const payload = {
 export async function GET() {
   try {
     const now = new Date();
-    
+
+    const requiredEnvVars = {
+      DHBVN_FORM_ID: process.env.DHBVN_FORM_ID,
+      DHBVN_LOGIN: process.env.DHBVN_LOGIN,
+      DHBVN_SOURCE_TYPE: process.env.DHBVN_SOURCE_TYPE,
+      DHBVN_VERSION: process.env.DHBVN_VERSION,
+      DHBVN_TOKEN: process.env.DHBVN_TOKEN,
+      DHBVN_ROLE_ID: process.env.DHBVN_ROLE_ID,
+    };
+
+    const missingEnvVars = Object.entries(requiredEnvVars)
+      .filter(([_, value]) => !value)
+      .map(([key]) => key);
+
+    if (missingEnvVars.length > 0) {
+      return NextResponse.json(
+        { error: `Missing required environment variables: ${missingEnvVars.join(', ')}` },
+        { status: 500 }
+      );
+    }
+
+    const headers = {
+      'formid': process.env.DHBVN_FORM_ID as string,
+      'appsavylogin': process.env.DHBVN_LOGIN as string,
+      'sourcetype': process.env.DHBVN_SOURCE_TYPE as string,
+      'version': process.env.DHBVN_VERSION as string,
+      'token': process.env.DHBVN_TOKEN as string,
+      'ROLEID': process.env.DHBVN_ROLE_ID as string,
+      'Content-Type': 'application/json'
+    };
+
     // Make the API request
     const response = await fetch(DHBVN_API_URL, {
       method: 'POST',
