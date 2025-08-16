@@ -2,7 +2,7 @@
 'use client';
 
 // Import necessary React hooks and UI components
-import { useEffect, useState, useMemo, useRef } from 'react';
+import React, { useEffect, useState, useMemo, useRef } from 'react';
 import { DataTable } from '@/components/ui/data-table';
 import { ColumnDef, Row } from '@tanstack/react-table';
 import { format } from 'date-fns';
@@ -10,7 +10,6 @@ import { Loader2 } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { Search, Download } from 'lucide-react';
-import React from 'react';
 import jsPDF from 'jspdf';
 import autoTable from 'jspdf-autotable';
 import Script from 'next/script';
@@ -97,40 +96,53 @@ function generateOutagePDF({
   data: any[];
   title?: string;
 }) {
-  const headers = Array.isArray(columns)
-    ? columns.map((col: any) => (typeof col === 'string' ? col : col.header))
-    : [];
-  const tableData = data.map((row: any) =>
-    Array.isArray(row) ? row : Object.values(row)
-  );
-  const doc = new jsPDF();
-  doc.setFontSize(16);
-  doc.text(title, 14, 15);
-  doc.setFontSize(10);
-  doc.text(`Generated on: ${new Date().toLocaleString()}`, 14, 22);
-  autoTable(doc, {
-    head: [headers],
-    body: tableData,
-    startY: 30,
-    theme: 'grid',
-    headStyles: {
-      fillColor: [41, 128, 185],
-      textColor: 255,
-      fontStyle: 'bold',
-    },
-    styles: {
-      fontSize: 8,
-      cellPadding: 2,
-    },
-    columnStyles: {
-      0: { cellWidth: 40 },
-      1: { cellWidth: 30 },
-      2: { cellWidth: 40 },
-      3: { cellWidth: 40 },
-      4: { cellWidth: 40 },
-    },
-  });
-  doc.save('power-outage-report.pdf');
+  try {
+    console.log('Generating PDF with data:', { columns, data, title });
+    
+    const headers = Array.isArray(columns)
+      ? columns.map((col: any) => (typeof col === 'string' ? col : col.header))
+      : [];
+    const tableData = data.map((row: any) =>
+      Array.isArray(row) ? row : Object.values(row)
+    );
+    
+    console.log('Processed data for PDF:', { headers, tableData });
+    
+    const doc = new jsPDF();
+    doc.setFontSize(16);
+    doc.text(title, 14, 15);
+    doc.setFontSize(10);
+    doc.text(`Generated on: ${new Date().toLocaleString()}`, 14, 22);
+    autoTable(doc, {
+      head: [headers],
+      body: tableData,
+      startY: 30,
+      theme: 'grid',
+      headStyles: {
+        fillColor: [41, 128, 185],
+        textColor: 255,
+        fontStyle: 'bold',
+      },
+      styles: {
+        fontSize: 8,
+        cellPadding: 2,
+      },
+      columnStyles: {
+        0: { cellWidth: 40 },
+        1: { cellWidth: 30 },
+        2: { cellWidth: 40 },
+        3: { cellWidth: 40 },
+        4: { cellWidth: 40 },
+      },
+    });
+    
+    console.log('PDF generated successfully, saving...');
+    doc.save('power-outage-report.pdf');
+    console.log('PDF saved successfully');
+  } catch (error) {
+    console.error('Error generating PDF:', error);
+    alert('Failed to generate PDF. Please try again.');
+  }
 }
 
 // Reusable component for search input and download button controls
@@ -163,7 +175,7 @@ function SearchAndDownloadControls({
         onClick={handleDownloadPDF}
         variant="outline"
         size="sm"
-        className="shrink-0 ml-2"
+        className="shrink-0 ml-2 relative z-10"
       >
         <Download className="h-4 w-4" />
       </Button>
