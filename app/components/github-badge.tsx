@@ -12,10 +12,10 @@ export function GitHubBadge() {
       aria-label="View source on GitHub"
     >
       <svg
-        width="80"
-        height="80"
+        width="72"
+        height="72"
         viewBox="0 0 250 250"
-        className="border-0 fill-black text-white"
+        className="border-0 fill-black text-white opacity-80 hover:opacity-100 transition-opacity"
         style={{ transform: 'rotate(90deg)' }}
         aria-hidden="true"
       >

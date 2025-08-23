@@ -45,14 +45,6 @@ const requiredEnvVars = {
   DHBVN_ROLE_ID: process.env.DHBVN_ROLE_ID,
 };
 
-const missingEnvVars = Object.entries(requiredEnvVars)
-  .filter(([_, value]) => !value)
-  .map(([key]) => key);
-
-if (missingEnvVars.length > 0) {
-  throw new Error(`Missing required environment variables: ${missingEnvVars.join(', ')}`);
-}
-
 const headers = {
   'formid': process.env.DHBVN_FORM_ID!,
   'appsavylogin': process.env.DHBVN_LOGIN!,
@@ -70,6 +62,16 @@ const payload = {
 
 export async function GET() {
   try {
+    const missingEnvVars = Object.entries(requiredEnvVars)
+      .filter(([_, value]) => !value)
+      .map(([key]) => key);
+
+    if (missingEnvVars.length > 0) {
+      return NextResponse.json({
+        error: `Missing required environment variables: ${missingEnvVars.join(', ')}`
+      }, { status: 500 });
+    }
+
     const now = new Date();
     
     // Make the API request

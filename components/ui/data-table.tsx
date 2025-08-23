@@ -45,7 +45,7 @@ export function DataTable<TData, TValue>({
 
   return (
     <div>
-      <div className="rounded-md border">
+      <div className="rounded-xl border bg-card/50 backdrop-blur-sm">
         <div className="overflow-x-auto">
           <Table>
             <TableHeader>
@@ -61,13 +61,16 @@ export function DataTable<TData, TValue>({
                               : ''
                           }
                           onClick={header.column.getToggleSortingHandler()}
+                          role={header.column.getCanSort() ? 'button' : undefined}
+                          tabIndex={header.column.getCanSort() ? 0 : -1}
+                          aria-label={header.column.getCanSort() ? 'Sort column' : undefined}
                         >
                           {flexRender(
                             header.column.columnDef.header,
                             header.getContext()
                           )}
                           {header.column.getCanSort() && (
-                            <ArrowUpDown className="ml-2 h-4 w-4" />
+                            <ArrowUpDown className="ml-2 h-4 w-4 text-muted-foreground" />
                           )}
                         </div>
                       )}
@@ -103,7 +106,7 @@ export function DataTable<TData, TValue>({
                 <TableRow>
                   <TableCell
                     colSpan={columns.length}
-                    className="h-24 text-center"
+                    className="h-24 text-center text-muted-foreground"
                   >
                     No results.
                   </TableCell>

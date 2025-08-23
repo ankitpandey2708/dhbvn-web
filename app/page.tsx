@@ -162,13 +162,16 @@ function SearchAndDownloadControls({
   return (
     <div className={`flex items-center justify-between py-4 ${className}`}>
       <div className="relative w-40 sm:w-72">
-        <Search className="absolute left-2 top-2.5 h-4 w-4 text-muted-foreground" />
+        <Search className="absolute left-2 top-2.5 h-4 w-4 text-muted-foreground" aria-hidden="true" />
         <Input
           ref={searchInputRef}
-          placeholder="Search..."
+          type="search"
+          inputMode="search"
+          placeholder="Search area or feeder"
           value={globalFilter}
           onChange={(event) => setGlobalFilter(event.target.value)}
           className="pl-8 text-sm"
+          aria-label="Search by area or feeder"
         />
       </div>
       <Button
@@ -176,6 +179,7 @@ function SearchAndDownloadControls({
         variant="outline"
         size="sm"
         className="shrink-0 ml-2 relative z-10"
+        aria-label="Download filtered results as PDF"
       >
         <Download className="h-4 w-4" />
       </Button>
@@ -325,12 +329,12 @@ export default function Home(): React.ReactElement {
       <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10">
         <div className="flex flex-col gap-4">
           {/* Page Title and Subtitle */}
-          <h1 className="text-2xl sm:text-3xl font-bold text-left">Faridabad Power Outage Information</h1>
+          <h1 className="text-2xl sm:text-3xl font-bold text-left tracking-tight">Faridabad Power Outage Information</h1>
           {/* Show no data message if there is no data at all (mobile and desktop) */}
           {data.length > 0 && (
             <p className="text-muted-foreground text-left sm:text-left">
-            Data refreshes every 5 minutes.
-          </p>
+              Data refreshes every 5 minutes.
+            </p>
           )}
           {data.length === 0 && (
             <div className="text-center text-muted-foreground py-16 text-lg font-medium">

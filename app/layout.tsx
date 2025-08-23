@@ -56,8 +56,9 @@ export default function RootLayout({
           href="https://www.dhbvn.org.in/RAPDRP-Redesign-theme/images/favicon.ico"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="color-scheme" content="light dark" />
       </head>
-      <body className={inter.className}>
+      <body className={`${inter.className} selection:bg-accent selection:text-accent-foreground`}> 
         <GitHubBadge />
         <ThemeToggle />
         {children}
