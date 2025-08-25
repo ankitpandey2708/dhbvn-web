@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ankitpandey2708/dhbvn-web)
+
 # DHBVN Power Outage Tracker
 
 Real-time information about power outages in Faridabad powered by DHBVN data.
