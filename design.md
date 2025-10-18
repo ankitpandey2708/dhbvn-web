@@ -1,169 +1,130 @@
-## 1. **Layout & Spacing**
-
-1. Use a consistent spacing scale (e.g., 4px/8px).
-2. Group related items closer; separate unrelated with more space.
-3. Maintain consistent vertical and horizontal rhythm.
-4. Keep consistent spacing between headings, content, and sections.
-5. Don’t let text or elements touch container edges — add padding.
-6. Ensure consistent spacing inside components (buttons, cards, modals).
-7. Maintain consistent padding between labels and inputs.
-8. Keep list/table row padding uniform.
-9. Provide consistent gaps between form fields.
-10. Avoid overcrowding with too many elements side by side.
+## A. Layout & Structure
+1. Use a fixed spacing scale (e.g., 4px or 8px increments).  
+2. Group related elements together; separate unrelated ones clearly.  
+3. Maintain consistent vertical rhythm between sections.  
+4. Add padding inside containers — no content should touch edges.  
+5. Apply consistent spacing inside all components (buttons, cards, modals).  
+6. Use a uniform grid system for alignment and rhythm.  
+7. Avoid overcrowding or too many elements in a single row.  
 
 ---
 
-## 2. **Typography**
-
-11. Stick to one typeface with limited weights (2–3 max: regular, medium, bold).
-12. Define a clear type scale (e.g., 14, 16, 20, 24, 32).
-13. Maintain consistent heading–body ratios.
-14. Use hierarchy via size, weight, and color — not just size alone.
-15. Avoid overly thin or bold weights everywhere.
-16. Keep line-height comfortable (1.4–1.6 for body, balanced in buttons/labels).
-17. Limit line length (\~45–75 characters for body).
-18. Avoid all-caps for long text; reserve for short labels.
-19. Stick to consistent capitalization (prefer Sentence case).
-20. Don’t overuse italics or multiple text colors.
-21. Ensure secondary text looks clearly secondary (lighter/dimmer/smaller).
-22. Prevent walls of equal-weight text — add hierarchy.
+## B. Typography
+1. Choose one font family with up to 3 weights (regular, medium, bold).  
+2. Define a clear type scale (e.g., 14, 16, 20, 24, 32).  
+3. Use hierarchy via size, weight, and color — not just size.  
+4. Keep line height comfortable (1.4–1.6 for body).  
+5. Limit body text width to 45–75 characters.  
+6. Use Sentence case consistently across the UI.  
+7. Keep secondary text visually distinct (lighter, smaller, or muted).  
+8. Avoid all-caps or thin fonts for long content.  
 
 ---
 
-## 3. **Color & Contrast**
-
-23. Limit palette; derive shades from base colors.
-24. Use neutral grays for backgrounds; let accents pop.
-25. Avoid too many grays on the same screen.
-26. Ensure text/background contrast meets accessibility.
-27. Don’t rely on color alone for meaning (add text/icons).
-28. Avoid low-contrast text on colored backgrounds.
-29. Use consistent, minimal background colors (2–3 max).
-30. Use gradients/overlays sparingly and only for clarity (e.g., text legibility).
-31. Avoid decorative patterns or accents without purpose.
+## C. Color & Contrast
+1. Use a limited palette; derive shades from base colors.  
+2. Keep neutral backgrounds so accent colors stand out.  
+3. Maintain strong contrast for readability and accessibility.  
+4. Don’t rely on color alone — pair with icons or text labels.  
+5. Avoid decorative or purposeless colors/patterns.  
+6. Use gradients only when they improve clarity or legibility.  
 
 ---
 
-## 4. **Visual Hierarchy**
-
-32. Make one clear primary action; secondary actions muted.
-33. Avoid competing CTAs.
-34. Reduce visual noise — not everything needs borders/lines.
-35. Use whitespace or contrast for grouping before borders.
-36. Make secondary text/action clearly subordinate.
-37. Use visual anchors in complex layouts to guide scanning.
+## D. Visual Hierarchy
+1. Define one clear primary action per screen.  
+2. Use secondary actions with lower visual weight.  
+3. Establish hierarchy through spacing, contrast, and typography.  
+4. Use whitespace strategically before adding borders or lines.  
+5. Guide user focus with alignment and visual anchors.  
 
 ---
 
-## 5. **Alignment & Grids**
+## E. Components & Styling
 
-38. Align to a grid; avoid eyeballing.
-39. Use consistent left/top alignment for lists/forms.
-40. Avoid mixing multiple alignment schemes in the same screen.
-41. Ensure vertical alignment in rows (icons + text baseline).
-42. Keep table/grid columns consistent and aligned.
+### Borders, Corners, Shadows
+1. Use borders sparingly — rely on spacing and contrast first.  
+2. Define consistent border thickness and color rules.  
+3. Set a clear radius scale (e.g., 4px, 8px, 16px).  
+4. Apply uniform corner radius across related components.  
+5. Keep shadow direction consistent; use minimal elevation levels.  
 
----
-
-## 6. **Borders, Corners & Shadows**
-
-43. Minimize borders; prefer spacing/contrast.
-44. Keep borders subtle and consistent (avoid mixing styles).
-45. Avoid overusing dividers.
-46. Define a consistent radius scale (small/medium/large).
-47. Apply consistent corner radii across related elements.
-48. Avoid mixing sharp/rounded/pill shapes without intent.
-49. Keep shadow direction consistent (same light source).
-50. Use a small elevation scale (none, low, medium, high).
-51. Don’t overuse shadows as a crutch.
+### Icons & Imagery
+1. Stick to one icon set with consistent stroke and style.  
+2. Match icon size to text height.  
+3. Keep icon placement consistent (e.g., always left of text).  
+4. Avoid decorative or mixed-style icons.  
+5. Crop images to highlight the subject.  
+6. Keep avatar shapes and placeholders consistent.  
 
 ---
 
-## 7. **Icons & Imagery**
+## F. Interactivity & Inputs
 
-52. Use a consistent icon set (style, stroke weight).
-53. Keep icon sizes aligned with text weight/line height.
-54. Maintain consistent padding and placement for icons in buttons/inputs.
-55. Place icons consistently relative to text (always left or always right).
-56. Avoid mixing filled/outlined/rounded styles.
-57. Don’t use decorative icons without meaning.
-58. Use consistent aspect ratios for media (thumbnails/cards).
-59. Crop images to focus on subjects, not background.
-60. Prefer rounded avatars or consistent placeholders.
+### Buttons
+1. Minimum tap/click size: 44px.  
+2. Keep button heights consistent within a layout.  
+3. Use clear hierarchy:  
+   - **Primary:** Solid  
+   - **Secondary:** Outline  
+   - **Tertiary:** Muted or text-only  
+4. Keep hover and active states subtle and consistent.  
+5. Always include visible focus states for keyboard users.  
+6. Disabled buttons should look inactive but readable.  
 
----
-
-## 8. **Buttons & Interactive Elements**
-
-61. Ensure sufficient size (≥44px) and spacing between targets.
-62. Keep consistent heights across buttons in the same row.
-63. Define clear hierarchy (solid = primary, outline = secondary, muted = tertiary).
-64. Disabled buttons should look inactive but legible.
-65. Hover/active states should be logical progressions, not totally different.
-66. Provide visible focus states (keyboard accessible).
-67. Keep padding consistent in text-only vs. icon+text buttons.
-
----
-
-## 9. **Forms**
-
-68. Place labels close, usually above inputs.
-69. Use sentence case and clear labels — avoid placeholders as labels.
-70. Make labels clickable for checkboxes/radios.
-71. Keep input widths proportional to expected content.
-72. Mark required fields clearly (not color-only).
-73. Provide inline help/hints (format examples, constraints).
-74. Show errors inline and actionable (tell how to fix).
-75. Maintain consistent alignment/order of form actions across screens.
+### Forms
+1. Keep labels close — typically above inputs.  
+2. Use clear, sentence-case labels; don’t rely on placeholders.  
+3. Make labels clickable for checkboxes and radios.  
+4. Size inputs relative to expected content length.  
+5. Indicate required fields with symbols, not just color.  
+6. Provide inline hints or format examples.  
+7. Show actionable error messages inline.  
+8. Keep form actions aligned and ordered consistently.  
 
 ---
 
-## 10. **Lists, Tables & Data**
-
-76. Use subtle striping or background shading for readability.
-77. Distinguish headers clearly (weight, contrast, or background).
-78. Right-align numbers for easy comparison.
-79. Ensure consistent column widths across related tables.
-80. Avoid uneven row heights unless necessary.
-
----
-
-## 11. **States & Feedback**
-
-81. Design empty, loading, success, and error states — not just ideal ones.
-82. Empty states should guide users with next steps.
-83. Loading states: prefer skeletons/progress over spinners alone.
-84. Provide immediate feedback on actions (spinners, confirmations).
-85. Avoid dead ends — always offer a next action.
-86. Errors should be specific and fixable, not vague.
+## G. Data Presentation
+1. Use subtle row shading or dividers for readability.  
+2. Make headers stand out through weight or background color.  
+3. Right-align numbers for easy comparison.  
+4. Maintain consistent column widths and row heights.  
+5. Keep table spacing even across related views.  
 
 ---
 
-## 12. **Motion & Interactivity**
-
-87. Use subtle, consistent motion (200–300ms).
-88. Apply the same easing/duration system across UI.
-89. Motion should reinforce flow/hierarchy, not distract.
-90. Prefer direct manipulation (drag to reorder, click to edit) where possible.
-
----
-
-## 13. **Systemization & Consistency**
-
-91. Build a reusable style guide (spacing, type, colors, components).
-92. Avoid one-off solutions; design scalable rules.
-93. Keep heading styles, button variants, and form layouts consistent.
-94. Apply consistent capitalization, corner radius, shadow, and padding systems.
-95. Don’t mix too many styles (fonts, shadows, borders, colors).
-96. Consistency > novelty — polish comes from repetition.
+## H. System States & Feedback
+1. Design all states — empty, loading, success, and error.  
+2. Empty states should guide users on what to do next.  
+3. Prefer skeletons or progress indicators over spinners alone.  
+4. Provide immediate feedback after any action.  
+5. Write specific, fixable error messages.  
+6. Avoid dead ends — always suggest the next step.  
 
 ---
 
-## 14. **Responsive & Adaptive Design**
+## I. Motion & Interaction Behavior
+1. Keep animations short (200–300ms) and consistent.  
+2. Use motion to explain flow or hierarchy, not decoration.  
+3. Apply one easing and duration system across the product.  
+4. Favor direct manipulation (drag, click-to-edit) when possible.  
 
-97. Design mobile-first: start simple, enhance progressively.
-98. Use fluid layouts (flex/grid) instead of fixed pixels.
-99. Define clear breakpoints (mobile, tablet, desktop).
-100. Reflow layouts (stack/collapse), don’t just shrink.
-101. Prioritize primary actions/details on small screens.
-102. Ensure typography scales appropriately with relative units.
+---
+
+## J. Systemization & Reuse
+1. Build and document a shared design system (spacing, type, colors, components).  
+2. Reuse components — avoid one-off solutions.  
+3. Keep all style rules (radius, shadow, spacing, casing) consistent.  
+4. Prioritize consistency and clarity over novelty.  
+
+---
+
+## K. Responsiveness
+1. Design mobile-first, then scale up.  
+2. Use flexible grids (flex/grid) — avoid fixed widths.  
+3. Define clear breakpoints (mobile, tablet, desktop).  
+4. Reflow layouts intelligently — don’t just shrink.  
+5. Keep key actions visible on small screens.  
+6. Scale typography and spacing with relative units (`em`, `rem`).  
+
+---
