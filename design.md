@@ -1,1513 +1,1133 @@
 ## PART 1: DESIGN TOKENS
 
-### Color System
+```css
+/* Colors - Solid */
+--primary: #3B82F6;
+--primary-hover: #2563EB;
+--primary-active: #1D4ED8;
+--primary-light: #DBEAFE;
 
-**Philosophy**: Use gradients to add depth and energy. Flat colors for text, gradients for interactive surfaces.
+--success: #10B981;
+--success-hover: #059669;
+--success-light: #D1FAE5;
 
-**Primary Palette** (with gradients):
+--warning: #F59E0B;
+--warning-hover: #D97706;
+--warning-light: #FEF3C7;
+
+--error: #EF4444;
+--error-hover: #DC2626;
+--error-light: #FEE2E2;
+
+--text-primary: #0F172A;
+--text-secondary: #64748B;
+--text-tertiary: #94A3B8;
+--text-disabled: #CBD5E1;
+
+--bg-primary: #FFFFFF;
+--bg-secondary: #F8FAFC;
+--bg-tertiary: #F1F5F9;
+
+--border: #E2E8F0;
+--border-strong: #CBD5E1;
+
+/* Colors - Gradients (signature feature) */
+--gradient-primary: linear-gradient(135deg, #3B82F6 0%, #2563EB 100%);
+--gradient-primary-hover: linear-gradient(135deg, #2563EB 0%, #1D4ED8 100%);
+--gradient-success: linear-gradient(135deg, #10B981 0%, #059669 100%);
+--gradient-warning: linear-gradient(135deg, #F59E0B 0%, #D97706 100%);
+--gradient-error: linear-gradient(135deg, #EF4444 0%, #DC2626 100%);
+
+/* Spacing (4px base scale) */
+--space-1: 4px;
+--space-2: 8px;
+--space-3: 12px;
+--space-4: 16px;
+--space-5: 20px;
+--space-6: 24px;
+--space-8: 32px;
+--space-10: 40px;
+--space-12: 48px;
+--space-16: 64px;
+--space-20: 80px;
+--space-24: 96px;
+
+/* Typography */
+--text-xs: 12px;
+--text-sm: 14px;
+--text-base: 16px;
+--text-lg: 18px;
+--text-xl: 20px;
+--text-2xl: 24px;
+--text-3xl: 30px;
+--text-4xl: 36px;
+--text-5xl: 48px;
+--text-6xl: 60px;
+
+--font-normal: 400;
+--font-medium: 500;
+--font-semibold: 600;
+--font-bold: 700;
+
+--leading-none: 1;
+--leading-tight: 1.25;
+--leading-normal: 1.5;
+--leading-relaxed: 1.625;
+
+--tracking-tight: -0.025em;
+--tracking-normal: 0;
+--tracking-wide: 0.025em;
+--tracking-wider: 0.05em;
+
+/* Border Radius */
+--radius-sm: 4px;
+--radius-md: 6px;
+--radius-lg: 8px;
+--radius-xl: 12px;
+--radius-2xl: 16px;
+--radius-full: 9999px;
+
+/* Shadows */
+--shadow-sm: 0 1px 2px 0 rgba(0,0,0,0.05);
+--shadow-md: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06);
+--shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -2px rgba(0,0,0,0.05);
+--shadow-xl: 0 20px 25px -5px rgba(0,0,0,0.1), 0 10px 10px -5px rgba(0,0,0,0.04);
+--shadow-2xl: 0 25px 50px -12px rgba(0,0,0,0.25);
+
+--shadow-primary: 0 8px 16px -4px rgba(59,130,246,0.3);
+--shadow-success: 0 8px 16px -4px rgba(16,185,129,0.3);
+--shadow-error: 0 8px 16px -4px rgba(239,68,68,0.3);
+
+/* Spring Easing (signature feature) */
+--ease-spring-smooth: cubic-bezier(0.34, 1.56, 0.64, 1);
+--ease-spring-bounce: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+--ease-spring-snappy: cubic-bezier(0.22, 1, 0.36, 1);
+--ease-spring-entrance: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+--ease-spring-exit: cubic-bezier(0.6, -0.28, 0.735, 0.045);
+
+/* Durations */
+--duration-fast: 100ms;
+--duration-base: 200ms;
+--duration-slow: 300ms;
+--duration-slower: 400ms;
+
+/* Z-Index */
+--z-dropdown: 100;
+--z-sticky: 200;
+--z-fixed: 300;
+--z-modal-backdrop: 400;
+--z-modal: 500;
+--z-popover: 600;
+--z-toast: 700;
+--z-tooltip: 800;
 ```
-primary: #3B82F6
-primary-gradient: linear-gradient(135deg, #3B82F6 0%, #2563EB 100%)
-primary-hover: linear-gradient(135deg, #2563EB 0%, #1D4ED8 100%)
-primary-active: #1D4ED8
-primary-light: #DBEAFE
-primary-glow: radial-gradient(circle at 50% 0%, rgba(59,130,246,0.15) 0%, transparent 70%)
 
-success: #10B981
-success-gradient: linear-gradient(135deg, #10B981 0%, #059669 100%)
-success-hover: linear-gradient(135deg, #059669 0%, #047857 100%)
-success-light: #D1FAE5
-
-warning: #F59E0B
-warning-gradient: linear-gradient(135deg, #F59E0B 0%, #D97706 100%)
-warning-hover: linear-gradient(135deg, #D97706 0%, #B45309 100%)
-warning-light: #FEF3C7
-
-error: #EF4444
-error-gradient: linear-gradient(135deg, #EF4444 0%, #DC2626 100%)
-error-hover: linear-gradient(135deg, #DC2626 0%, #B91C1C 100%)
-error-light: #FEE2E2
-
-neutral: #64748B
-neutral-gradient: linear-gradient(135deg, #64748B 0%, #475569 100%)
-```
-
-**Gradient Usage Rules**:
-```
-✅ Use gradients for:
-- Primary action buttons
-- Call-to-action cards
-- Hero sections
-- Badge backgrounds (subtle)
-- Hover states (add energy)
-- Focus glows
-
-❌ Use flat colors for:
-- Text (always flat for readability)
-- Borders
-- Icons (unless featured/hero icons)
-- Secondary/tertiary buttons
-- Backgrounds
-```
-
-**Text Colors** (always flat):
-```
-text-primary: #0F172A
-text-secondary: #64748B
-text-tertiary: #94A3B8
-text-disabled: #CBD5E1
-text-on-primary: #FFFFFF (for text on gradient backgrounds)
-```
-
-**Background Colors** (flat, with optional gradient overlays):
-```
-bg-primary: #FFFFFF
-bg-secondary: #F8FAFC
-bg-tertiary: #F1F5F9
-bg-elevated: #FFFFFF
-
-bg-gradient-subtle: linear-gradient(180deg, #FFFFFF 0%, #F8FAFC 100%)
-bg-gradient-hero: linear-gradient(180deg, #F8FAFC 0%, #FFFFFF 100%)
-```
-
-**Border Colors** (flat):
-```
-border: #E2E8F0
-border-strong: #CBD5E1
-border-focus: primary (flat, not gradient)
-```
-
-**Dark Mode**:
-```
-text-primary: #F1F5F9
-text-secondary: #94A3B8
-text-tertiary: #64748B
-
-bg-primary: #0F172A
-bg-secondary: #1E293B
-bg-tertiary: #334155
-bg-elevated: #1E293B
-
-bg-gradient-subtle: linear-gradient(180deg, #0F172A 0%, #1E293B 100%)
-bg-gradient-hero: linear-gradient(180deg, #1E293B 0%, #0F172A 100%)
-
-Gradients in dark mode:
-- Increase saturation slightly (+5%)
-- Add subtle glow effect around gradient elements
-```
-
-**Glow Effects**:
-```
-glow-primary: 0 0 20px rgba(59,130,246,0.3)
-glow-success: 0 0 20px rgba(16,185,129,0.3)
-glow-error: 0 0 20px rgba(239,68,68,0.3)
-
-Use for:
-- Focus states on gradient buttons
-- Hover states on cards with gradient accents
-- Loading states
+**Dark Mode:**
+```css
+@media (prefers-color-scheme: dark) {
+  --text-primary: #F1F5F9;
+  --text-secondary: #94A3B8;
+  --text-tertiary: #64748B;
+  --bg-primary: #0F172A;
+  --bg-secondary: #1E293B;
+  --bg-tertiary: #334155;
+  --border: #334155;
+  --border-strong: #475569;
+}
 ```
 
 ---
 
-### Animation
+## PART 2: BASE STYLES
 
-**Philosophy**: All motion uses spring physics for natural, playful feel.
+```css
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--text-primary);
+  background: var(--bg-primary);
+  -webkit-font-smoothing: antialiased;
+}
 
-**Spring Easing Functions**:
-```
-spring-smooth: cubic-bezier(0.34, 1.56, 0.64, 1)
-  Use: Default for most transitions (buttons, hover, focus)
-  Feel: Gentle bounce, professional
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.025em;
+  margin: 0;
+}
 
-spring-bounce: cubic-bezier(0.68, -0.55, 0.265, 1.55)
-  Use: Playful interactions (badges, success states)
-  Feel: Pronounced bounce, energetic
+h1 { font-size: 48px; }
+h2 { font-size: 36px; }
+h3 { font-size: 30px; }
+h4 { font-size: 24px; }
+h5 { font-size: 20px; }
+h6 { font-size: 18px; }
 
-spring-snappy: cubic-bezier(0.22, 1, 0.36, 1)
-  Use: Quick feedback (toggles, checkboxes)
-  Feel: Fast and responsive
+p { margin: 0; }
 
-spring-entrance: cubic-bezier(0.175, 0.885, 0.32, 1.275)
-  Use: Elements entering view (modals, dropdowns)
-  Feel: Gentle overshoot on entry
+button {
+  font-family: inherit;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
 
-spring-exit: cubic-bezier(0.6, -0.28, 0.735, 0.045)
-  Use: Elements exiting view (closing modals)
-  Feel: Quick departure with slight anticipation
-```
+input, textarea, select {
+  font-family: inherit;
+  font-size: inherit;
+}
 
-**Durations** (slightly longer for spring physics):
-```
-instant: 100ms   (micro-feedback)
-fast: 200ms      (DEFAULT - most interactions)
-base: 300ms      (state changes, complex transitions)
-slow: 400ms      (page transitions, large movements)
-slower: 600ms    (drawer/modal open)
-```
-
-**Magnetic Hover Effect**:
-```
-When hovering interactive elements, they "reach" toward cursor
-
-Button/Card hover:
-  transform: translate(
-    calc((mouseX - elementCenterX) * 0.05),
-    calc((mouseY - elementCenterY) * 0.05)
-  )
-  transition: transform 200ms spring-smooth
-
-Reset on mouse leave:
-  transform: translate(0, 0)
-  transition: transform 300ms spring-smooth
-
-Intensity:
-  Buttons: 0.05 (subtle)
-  Cards: 0.03 (very subtle)
-  Large elements: 0.02 (barely perceptible)
+* { box-sizing: border-box; }
 ```
 
-**Staggered Animations** (for lists/grids):
-```
-When multiple items enter view, stagger their entrance:
+---
 
-@keyframes fadeInUp {
+## PART 3: COMPONENT SPECS
+
+### Button
+
+```css
+/* Base button - apply to <button> or <a> */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  height: 40px;
+  padding: 0 16px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1;
+  white-space: nowrap;
+  cursor: pointer;
+  user-select: none;
+  transition: all 200ms cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* Primary variant - gradient background */
+.btn-primary {
+  background: linear-gradient(135deg, #3B82F6 0%, #2563EB 100%);
+  color: white;
+  border: none;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, #2563EB 0%, #1D4ED8 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px -4px rgba(59,130,246,0.3);
+}
+
+.btn-primary:active {
+  transform: translateY(0) scale(0.98);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+/* Secondary variant - bordered */
+.btn-secondary {
+  background: white;
+  color: #0F172A;
+  border: 1.5px solid #CBD5E1;
+}
+
+.btn-secondary:hover {
+  background: #F8FAFC;
+  border-color: #64748B;
+  transform: translateY(-1px);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+.btn-secondary:active {
+  background: #F1F5F9;
+  transform: scale(0.98);
+}
+
+/* Ghost variant - transparent */
+.btn-ghost {
+  background: transparent;
+  color: #3B82F6;
+  border: none;
+  padding: 8px 12px;
+}
+
+.btn-ghost:hover {
+  background: #DBEAFE;
+  transform: scale(1.02);
+}
+
+.btn-ghost:active {
+  background: rgba(59,130,246,0.15);
+  transform: scale(0.98);
+}
+
+/* Success/Error variants */
+.btn-success {
+  background: linear-gradient(135deg, #10B981 0%, #059669 100%);
+  color: white;
+  border: none;
+}
+
+.btn-success:hover {
+  box-shadow: 0 8px 16px -4px rgba(16,185,129,0.3);
+  transform: translateY(-2px);
+}
+
+.btn-error {
+  background: linear-gradient(135deg, #EF4444 0%, #DC2626 100%);
+  color: white;
+  border: none;
+}
+
+.btn-error:hover {
+  box-shadow: 0 8px 16px -4px rgba(239,68,68,0.3);
+  transform: translateY(-2px);
+}
+
+/* Sizes */
+.btn-sm {
+  height: 32px;
+  padding: 0 12px;
+  font-size: 12px;
+}
+
+.btn-lg {
+  height: 48px;
+  padding: 0 24px;
+  font-size: 16px;
+}
+
+/* States */
+.btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+.btn-primary:disabled {
+  background: linear-gradient(135deg, #CBD5E1 0%, #94A3B8 100%);
+}
+
+.btn:focus-visible {
+  outline: 2px solid #DBEAFE;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 4px rgba(59,130,246,0.1);
+}
+
+/* Loading state - hide text, show spinner */
+.btn.loading {
+  pointer-events: none;
+  color: transparent;
+  position: relative;
+}
+
+.btn.loading::after {
+  content: '';
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  border: 2px solid rgba(255,255,255,0.3);
+  border-top-color: white;
+  border-radius: 9999px;
+  animation: spin 600ms linear infinite;
+}
+
+.btn-secondary.loading::after {
+  border-color: rgba(0,0,0,0.1);
+  border-top-color: #3B82F6;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+```
+
+**Visual Description:**
+- Button height: 40px (44px on mobile for touch)
+- Gradient background for primary (signature feature)
+- Lifts 2px on hover with shadow
+- Scales down to 98% on click
+- Spring bounce animation (0.34, 1.56, 0.64, 1)
+- Icons placed next to text with 8px gap (no special classes needed)
+
+**Usage:** Apply classes to `<button>` or `<a>`. Structure is flexible.
+
+---
+
+### Input
+
+```css
+/* Base input - apply to <input>, <textarea>, <select> */
+.input {
+  width: 100%;
+  height: 40px;
+  padding: 0 12px;
+  background: white;
+  border: 1.5px solid #E2E8F0;
+  border-radius: 6px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #0F172A;
+  outline: none;
+  transition: all 200ms cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.input::placeholder {
+  color: #94A3B8;
+}
+
+.input:hover {
+  border-color: #CBD5E1;
+  transform: translateY(-1px);
+}
+
+.input:focus {
+  border-color: #3B82F6;
+  outline: 2px solid #DBEAFE;
+  outline-offset: 0;
+  box-shadow: inset 0 0 0 1px #3B82F6, 0 0 0 4px rgba(59,130,246,0.1);
+  transform: translateY(-1px) scale(1.005);
+}
+
+/* States */
+.input.error,
+.input:invalid {
+  border-color: #EF4444;
+}
+
+.input.error:focus,
+.input:invalid:focus {
+  border-color: #EF4444;
+  outline-color: #FEE2E2;
+  box-shadow: inset 0 0 0 1px #EF4444, 0 0 0 4px rgba(239,68,68,0.1);
+}
+
+.input.success {
+  border-color: #10B981;
+}
+
+.input.success:focus {
+  border-color: #10B981;
+  outline-color: #D1FAE5;
+  box-shadow: inset 0 0 0 1px #10B981, 0 0 0 4px rgba(16,185,129,0.1);
+}
+
+.input:disabled {
+  background: #F1F5F9;
+  color: #CBD5E1;
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+/* Textarea variant */
+textarea.input {
+  min-height: 80px;
+  padding: 12px;
+  resize: vertical;
+}
+
+/* With icon - add padding when icon present */
+.input.icon-left {
+  padding-left: 40px;
+}
+
+.input.icon-right {
+  padding-right: 40px;
+}
+```
+
+**Label:**
+```css
+.label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #0F172A;
+  line-height: 1.25;
+}
+```
+
+**Helper/Error Text:**
+```css
+.helper-text {
+  display: block;
+  margin-top: 6px;
+  font-size: 12px;
+  color: #64748B;
+}
+
+.error-text {
+  display: block;
+  margin-top: 6px;
+  font-size: 12px;
+  color: #EF4444;
+}
+```
+
+**Visual Description:**
+- Input height: 40px (44px on mobile)
+- Lifts 1px on hover
+- Focus: primary border + outline + glow + slight scale
+- Error: shake animation on validation (optional)
+- Icons: Position absolutely inside input, add padding to input
+
+**Usage:** Apply to form elements. Add icon with absolute positioning if needed. No wrapper required unless icon present.
+
+---
+
+### Checkbox & Radio
+
+```css
+/* Hide native input */
+input[type="checkbox"],
+input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Custom checkbox/radio box */
+input[type="checkbox"] + label::before,
+input[type="radio"] + label::before {
+  content: '';
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  border: 1.5px solid #CBD5E1;
+  background: white;
+  vertical-align: middle;
+  transition: all 200ms cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+input[type="checkbox"] + label::before {
+  border-radius: 4px;
+}
+
+input[type="radio"] + label::before {
+  border-radius: 50%;
+}
+
+/* Hover */
+input[type="checkbox"]:hover + label::before,
+input[type="radio"]:hover + label::before {
+  border-color: #3B82F6;
+  transform: scale(1.05);
+}
+
+/* Checked state */
+input[type="checkbox"]:checked + label::before,
+input[type="radio"]:checked + label::before {
+  background: linear-gradient(135deg, #3B82F6 0%, #2563EB 100%);
+  border-color: #3B82F6;
+}
+
+/* Checkmark (use background-image or ::after) */
+input[type="checkbox"]:checked + label::before {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='white' d='M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z'/%3E%3C/svg%3E");
+  background-size: 12px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Radio dot */
+input[type="radio"]:checked + label::after {
+  content: '';
+  display: block;
+  width: 8px;
+  height: 8px;
+  background: white;
+  border-radius: 50%;
+  position: absolute;
+  left: 6px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* Focus */
+input[type="checkbox"]:focus-visible + label::before,
+input[type="radio"]:focus-visible + label::before {
+  outline: 2px solid #DBEAFE;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 4px rgba(59,130,246,0.1);
+}
+
+/* Disabled */
+input[type="checkbox"]:disabled + label::before,
+input[type="radio"]:disabled + label::before {
+  background: #F1F5F9;
+  border-color: #E2E8F0;
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+```
+
+**Visual Description:**
+- Custom 20x20px box/circle
+- Gradient background when checked (signature)
+- Scales up 5% on hover
+- Spring bounce on check/uncheck
+- Label text beside control
+
+**Usage:** Standard HTML structure - `<input>` + `<label>`. Style with pseudo-elements.
+
+---
+
+### Card
+
+```css
+.card {
+  background: white;
+  border: 1px solid #E2E8F0;
+  border-radius: 8px;
+  padding: 24px;
+  transition: all 300ms cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* Interactive card */
+.card.clickable {
+  cursor: pointer;
+}
+
+.card.clickable:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -2px rgba(0,0,0,0.05);
+  border-color: #CBD5E1;
+}
+
+.card.clickable:active {
+  transform: translateY(-2px) scale(0.99);
+  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+}
+
+/* Gradient accent (signature) */
+.card.accent {
+  position: relative;
+  border-top: 4px solid transparent;
+  border-image: linear-gradient(135deg, #3B82F6 0%, #2563EB 100%) 1;
+  border-image-slice: 1 0 0 0;
+}
+
+/* Mobile padding */
+@media (max-width: 767px) {
+  .card {
+    padding: 16px;
+  }
+}
+```
+
+**Visual Description:**
+- White background, 1px border, 8px radius
+- 24px padding (16px on mobile)
+- Clickable cards lift 4px on hover
+- Gradient top border for accent variant
+- Images can be placed inside (negative margin for full-width)
+
+**Usage:** Apply to any block element. Internal structure is flexible - no required child elements.
+
+---
+
+### Modal
+
+```css
+/* Backdrop */
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.5);
+  backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  z-index: 400;
+  animation: backdropFadeIn 300ms cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes backdropFadeIn {
   from {
     opacity: 0;
-    transform: translateY(20px);
+    backdrop-filter: blur(0);
   }
   to {
     opacity: 1;
-    transform: translateY(0);
+    backdrop-filter: blur(8px);
   }
 }
 
-Item 1: animation-delay: 0ms
-Item 2: animation-delay: 50ms
-Item 3: animation-delay: 100ms
-Item n: animation-delay: (n-1) * 50ms
-
-Max delay: 400ms (cap at 8th item)
-Animation: fadeInUp 300ms spring-entrance forwards
-```
-
-**Choreographed Sequences**:
-```
-Modal opening sequence:
-1. Backdrop fade in (150ms)
-2. Modal scale up (300ms spring-entrance, delay 50ms)
-3. Content fade in (200ms, delay 150ms)
-
-Success feedback sequence:
-1. Button scale (200ms spring-bounce)
-2. Checkmark appear (300ms spring-entrance, delay 100ms)
-3. Success message slide in (250ms spring-smooth, delay 200ms)
-```
-
-**What to Animate**:
-```
-✅ Always animate with spring:
-- transform (translate, scale, rotate)
-- opacity
-
-⚠️ Animate carefully with spring:
-- filter (blur, brightness) - can be janky
-
-❌ Never animate:
-- width, height (causes reflow)
-- margin, padding (causes reflow)
-- top, left (use transform instead)
-```
-
-**Performance Optimization**:
-```css
-/* Add to animated elements */
-will-change: transform, opacity;
-backface-visibility: hidden;
-transform: translateZ(0); /* Force GPU acceleration */
-
-/* Remove after animation */
-will-change: auto;
-```
-
----
-
-### Spacing Scale
-
-**Base unit: 4px**
-
-```
-0.5: 2px
-1: 4px
-2: 8px
-3: 12px
-4: 16px
-5: 20px
-6: 24px
-8: 32px
-10: 40px
-12: 48px
-16: 64px
-20: 80px
-24: 96px
-```
-
-**Contextual Guidelines**:
-- Icon-to-text gap: 2 (8px)
-- Within component: 3-4 (12-16px)
-- Between related items: 4 (16px)
-- Between groups: 6 (24px)
-- Between sections: 8-12 (32-48px)
-- Major sections: 12-16 (48-64px)
-
----
-
-### Typography
-
-**Font Stack**:
-```css
-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", 
-             Roboto, "Helvetica Neue", sans-serif;
-font-feature-settings: "kern" 1;
--webkit-font-smoothing: antialiased;
--moz-osx-font-smoothing: grayscale;
-text-rendering: optimizeLegibility;
-```
-
-**Size Scale**:
-```
-xs: 12px
-sm: 14px
-base: 16px
-lg: 18px
-xl: 20px
-2xl: 24px
-3xl: 30px
-4xl: 36px
-5xl: 48px
-6xl: 60px
-```
-
-**Weights**:
-```
-normal: 400
-medium: 500
-semibold: 600
-bold: 700
-```
-
-**Line Heights**:
-```
-none: 1
-tight: 1.25
-snug: 1.375
-normal: 1.5
-relaxed: 1.625
-loose: 2
-```
-
-**Letter Spacing**:
-```
-tighter: -0.05em
-tight: -0.025em
-normal: 0
-wide: 0.025em
-wider: 0.05em
-widest: 0.1em
-```
-
-**Gradient Text Effect**:
-```css
-/* Use sparingly for hero headings only */
-.gradient-text {
-  background: linear-gradient(135deg, #3B82F6 0%, #8B5CF6 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+/* Modal container */
+.modal {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 25px 50px -12px rgba(0,0,0,0.25);
+  max-width: 500px;
+  width: 100%;
+  max-height: 90vh;
+  overflow: hidden;
+  z-index: 500;
+  animation: modalEnter 400ms cubic-bezier(0.175, 0.885, 0.32, 1.275) 100ms backwards;
 }
 
-Usage:
-- Hero h1 only
-- Special call-out text
-- Feature highlight numbers
-```
-
----
-
-### Border Radius
-
-```
-none: 0px
-sm: 4px
-md: 6px (default)
-lg: 8px
-xl: 12px
-2xl: 16px
-3xl: 24px
-full: 9999px
-```
-
----
-
-### Shadows & Elevation
-
-**Light Mode**:
-```
-sm: 0 1px 2px 0 rgba(0,0,0,0.05)
-md: 0 4px 6px -1px rgba(0,0,0,0.1), 
-    0 2px 4px -1px rgba(0,0,0,0.06)
-lg: 0 10px 15px -3px rgba(0,0,0,0.1), 
-    0 4px 6px -2px rgba(0,0,0,0.05)
-xl: 0 20px 25px -5px rgba(0,0,0,0.1), 
-    0 10px 10px -5px rgba(0,0,0,0.04)
-2xl: 0 25px 50px -12px rgba(0,0,0,0.25)
-```
-
-**Gradient Shadow** :
-```
-shadow-primary: 0 8px 16px -4px rgba(59,130,246,0.3)
-shadow-success: 0 8px 16px -4px rgba(16,185,129,0.3)
-shadow-error: 0 8px 16px -4px rgba(239,68,68,0.3)
-
-Use with gradient buttons on hover
-Creates cohesive glow effect
-```
-
-**Dark Mode**:
-```
-sm: 0 1px 2px 0 rgba(0,0,0,0.3)
-md: 0 4px 6px -1px rgba(0,0,0,0.4), 
-    0 2px 4px -1px rgba(0,0,0,0.3)
-lg: 0 10px 15px -3px rgba(0,0,0,0.5), 
-    0 4px 6px -2px rgba(0,0,0,0.4)
-xl: 0 20px 25px -5px rgba(0,0,0,0.6), 
-    0 10px 10px -5px rgba(0,0,0,0.5)
-2xl: 0 25px 50px -12px rgba(0,0,0,0.7)
-
-Gradient shadows in dark mode (stronger):
-shadow-primary: 0 8px 16px -4px rgba(59,130,246,0.5)
-```
-
----
-
-### Z-Index Scale
-
-```
-base: 0
-dropdown: 100
-sticky: 200
-fixed: 300
-modal-backdrop: 400
-modal: 500
-popover: 600
-toast: 700
-tooltip: 800
-```
-
----
-
-## PART 2: COMPONENT PATTERNS
-
-### Buttons
-
-**Base Specs**:
-```
-Height: 40px (desktop), 44px (mobile)
-Horizontal padding: 16px
-Font: sm (14px), weight: medium (500)
-Line-height: 1
-Border-radius: md (6px)
-Transition: all 200ms spring-smooth
-Display: inline-flex
-Align-items: center
-Justify-content: center
-White-space: nowrap
-User-select: none
-Position: relative
-Cursor: pointer
-```
-
-**Icon Sizing**:
-```
-Icon: 16px (for 14px text)
-Icon: 20px (for 16-18px text)
-
-Icon + Text spacing:
-  Icon before: padding-left 12px, padding-right 16px, gap 8px
-  Icon after: padding-left 16px, padding-right 12px, gap 8px
-  Icon only: width 40px, padding 0, justify-content center
-```
-
----
-
-**Primary Variant**:
-```
-Background: primary-gradient
-Color: white
-Border: none
-Font-weight: medium (500)
-Box-shadow: 0 1px 2px rgba(0,0,0,0.05)
-Overflow: hidden (for gradient animation)
-
-Gradient animation on mount:
-  @keyframes gradientShift {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-  
-  Background-size: 200% 200%
-  Animation: gradientShift 3s ease infinite (subtle movement)
-
-Hover:
-  Background: primary-hover (darker gradient)
-  Transform: translateY(-2px)
-  Box-shadow: shadow-primary
-  Transition: all 200ms spring-smooth
-  
-  Magnetic effect:
-    Transform: translateY(-2px) 
-              translate(mouseOffsetX * 0.05, mouseOffsetY * 0.05)
-
-Active:
-  Transform: translateY(0) scale(0.98)
-  Box-shadow: 0 1px 2px rgba(0,0,0,0.05)
-  Transition: all 100ms spring-snappy
-
-Focus:
-  Outline: 2px solid primary-light
-  Outline-offset: 2px
-  Box-shadow: shadow-primary, 0 0 0 4px rgba(59,130,246,0.1)
-
-Disabled:
-  Background: linear-gradient(135deg, #CBD5E1 0%, #94A3B8 100%)
-  Color: white
-  Opacity: 0.6
-  Cursor: not-allowed
-  Pointer-events: none
-  Transform: none
-
-Loading:
-  Pointer-events: none
-  Cursor: wait
-  
-  Spinner overlay:
-    Position: absolute
-    Inset: 0
-    Display: flex
-    Align-items: center
-    Justify-content: center
-    Background: inherit (same gradient)
-    
-  Spinner:
-    Width: 16px
-    Height: 16px
-    Border: 2px solid rgba(255,255,255,0.3)
-    Border-top-color: white
-    Border-radius: full
-    Animation: spin 600ms linear infinite
-    
-  Text:
-    Opacity: 0
-    
-  Maintain width (don't collapse)
-```
-
----
-
-**Secondary Variant**:
-```
-Background: bg-primary
-Color: text-primary
-Border: 1.5px solid border-strong
-Font-weight: medium (500)
-
-Hover:
-  Background: bg-secondary
-  Border-color: text-secondary
-  Transform: translateY(-1px)
-  Box-shadow: sm
-  Transition: all 200ms spring-smooth
-  
-  Magnetic effect (subtle):
-    Transform: translateY(-1px) 
-              translate(mouseOffsetX * 0.03, mouseOffsetY * 0.03)
-
-Active:
-  Background: bg-tertiary
-  Transform: scale(0.98)
-  Transition: all 100ms spring-snappy
-
-Focus:
-  Outline: 2px solid primary-light
-  Outline-offset: 2px
-  Border-color: primary
-
-Disabled:
-  Background: bg-primary
-  Border-color: border
-  Color: text-disabled
-  Opacity: 0.6
-  Cursor: not-allowed
-
-Loading:
-  Same pattern as primary, but:
-    Spinner: border rgba(0,0,0,0.1), border-top primary
-```
-
----
-
-**Tertiary/Ghost Variant**:
-```
-Background: transparent
-Color: primary
-Border: none
-Padding: 8px 12px
-Font-weight: medium (500)
-
-Hover:
-  Background: primary-light
-  Color: primary
-  Transform: scale(1.02)
-  Transition: all 200ms spring-bounce
-
-Active:
-  Background: rgba(59,130,246,0.15)
-  Transform: scale(0.98)
-  Transition: all 100ms spring-snappy
-
-Focus:
-  Outline: 2px solid primary-light
-  Outline-offset: 2px
-  Background: primary-light
-```
-
----
-
-**Gradient Accent Button** (special variant):
-```
-Background: bg-primary
-Color: text-primary
-Border: 2px solid transparent
-Background-clip: padding-box
-Position: relative
-
-::before (gradient border):
-  Content: ""
-  Position: absolute
-  Inset: -2px
-  Background: primary-gradient
-  Border-radius: inherit
-  Z-index: -1
-  Opacity: 1
-
-Hover:
-  Background: bg-secondary
-  
-  ::before:
-    Background: primary-hover
-    Filter: brightness(1.1)
-
-Active:
-  Transform: scale(0.98)
-
-Use for:
-  Secondary CTAs that need more emphasis than ghost
-  Special actions (e.g., "Upgrade", "Get Started")
-```
-
----
-
-**Success/Error Variants**:
-```
-Success button:
-  Background: success-gradient
-  Box-shadow: shadow-success on hover
-  All other states same as primary
-
-Error/Destructive button:
-  Background: error-gradient
-  Box-shadow: shadow-error on hover
-  All other states same as primary
-```
-
----
-
-**Button with Icon Animation**:
-```
-Icon inside button:
-  Transition: transform 200ms spring-smooth
-
-Hover:
-  Icon (if right-arrow):
-    Transform: translateX(2px)
-    
-  Icon (if external link):
-    Transform: translate(1px, -1px)
-    
-  Icon (if download):
-    Transform: translateY(2px)
-```
-
----
-
-### Form Inputs
-
-**Text Input Base**:
-```
-Height: 40px (desktop), 44px (mobile)
-Padding: 0 12px
-Font: sm (14px), weight: normal (400)
-Line-height: 1.5
-Color: text-primary
-Background: bg-primary
-Border: 1.5px solid border
-Border-radius: md (6px)
-Transition: all 200ms spring-smooth
-Outline: none
-
-::placeholder:
-  Color: text-tertiary
-  Opacity: 1
-```
-
-**States**:
-```
-Default:
-  Border-color: border
-
-Hover:
-  Border-color: border-strong
-  Transform: translateY(-1px)
-  Transition: all 200ms spring-smooth
-
-Focus:
-  Border-color: primary
-  Outline: 2px solid primary-light
-  Outline-offset: 0px
-  Box-shadow: inset 0 0 0 1px primary, 
-              0 0 0 4px rgba(59,130,246,0.1)
-  Transform: translateY(-1px) scale(1.01)
-  Transition: all 200ms spring-entrance
-
-Error:
-  Border-color: error
-  
-  Focus:
-    Border-color: error
-    Outline: 2px solid error-light
-    Box-shadow: inset 0 0 0 1px error,
-                0 0 0 4px rgba(239,68,68,0.1)
-    
-  Animation on error (shake):
-    @keyframes shake {
-      0%, 100% { transform: translateX(0); }
-      25% { transform: translateX(-4px); }
-      75% { transform: translateX(4px); }
-    }
-    Animation: shake 200ms spring-bounce
-
-Success:
-  Border-color: success
-  
-  Animation on success:
-    @keyframes successPulse {
-      0% { box-shadow: 0 0 0 0 rgba(16,185,129,0.4); }
-      100% { box-shadow: 0 0 0 8px rgba(16,185,129,0); }
-    }
-    Animation: successPulse 400ms spring-smooth
-
-Disabled:
-  Background: bg-tertiary
-  Border-color: border
-  Color: text-disabled
-  Cursor: not-allowed
-  Opacity: 0.6
-```
-
----
-
-**Label**:
-```
-Display: block
-Margin-bottom: 6px
-Font: sm (14px), weight: medium (500)
-Color: text-primary
-Line-height: 1.25
-Transition: color 200ms spring-smooth
-
-Required indicator:
-  Content: " *"
-  Color: error
-  Margin-left: 2px
-  
-Focus-within (when input focused):
-  Color: primary
-  Transform: scale(1.01)
-  Transform-origin: left
-  Transition: all 200ms spring-smooth
-```
-
----
-
-**Error Message**:
-```
-Display: flex
-Align-items: flex-start
-Gap: 6px
-Margin-top: 6px
-Font: xs (12px)
-Color: error
-Line-height: 1.5
-
-Animation on appear:
-  @keyframes slideInDown {
-    from {
-      opacity: 0;
-      transform: translateY(-8px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-  Animation: slideInDown 200ms spring-entrance
-
-Icon:
-  Width: 14px
-  Height: 14px
-  Flex-shrink: 0
-  Margin-top: 2px
-  
-  Animation:
-    @keyframes iconBounce {
-      0%, 100% { transform: scale(1); }
-      50% { transform: scale(1.1); }
-    }
-    Animation: iconBounce 300ms spring-bounce
-```
-
----
-
-**Success Message**:
-```
-Same as error message, but:
-  Color: success
-  
-  Animation on appear:
-    @keyframes successSlideIn {
-      from {
-        opacity: 0;
-        transform: translateX(-8px);
-      }
-      to {
-        opacity: 1;
-        transform: translateX(0);
-      }
-    }
-    Animation: successSlideIn 250ms spring-smooth
-    
-  Icon (checkmark):
-    Animation: iconBounce 300ms spring-bounce (delayed 100ms)
-```
-
----
-
-**Checkbox/Radio with Spring**:
-```
-Custom box:
-  Width: 20px
-  Height: 20px
-  Border: 1.5px solid border-strong
-  Background: bg-primary
-  Transition: all 200ms spring-smooth
-  
-  Checkbox: border-radius sm (4px)
-  Radio: border-radius full
-
-Hover:
-  Border-color: primary
-  Transform: scale(1.05)
-  Transition: all 200ms spring-bounce
-
-Checked:
-  Background: primary-gradient
-  Border-color: primary
-  Transform: scale(1)
-  
-  Checkmark/dot entrance:
-    @keyframes checkAppear {
-      0% {
-        opacity: 0;
-        transform: scale(0) rotate(-45deg);
-      }
-      60% {
-        transform: scale(1.1) rotate(0deg);
-      }
-      100% {
-        opacity: 1;
-        transform: scale(1) rotate(0deg);
-      }
-    }
-    Animation: checkAppear 300ms spring-bounce
-
-Focus:
-  Outline: 2px solid primary-light
-  Outline-offset: 2px
-  Box-shadow: 0 0 0 4px rgba(59,130,246,0.1)
-```
-
----
-
-### Cards
-
-**Base Card**:
-```
-Background: bg-primary
-Border: 1px solid border
-Border-radius: lg (8px)
-Padding: 24px (desktop), 16px (mobile)
-Transition: all 300ms spring-smooth
-Overflow: hidden
-Position: relative
-```
-
-**If Clickable**:
-```
-Cursor: pointer
-User-select: none
-
-Hover:
-  Transform: translateY(-4px)
-  Box-shadow: lg
-  Border-color: border-strong
-  Transition: all 300ms spring-smooth
-  
-  Magnetic effect:
-    Transform: translateY(-4px) 
-              translate(mouseOffsetX * 0.03, mouseOffsetY * 0.03)
-
-Active:
-  Transform: translateY(-2px) scale(0.99)
-  Box-shadow: md
-  Transition: all 150ms spring-snappy
-```
-
-**Gradient Accent Card** :
-```
-Position: relative
-Border: none
-Padding: 24px
-Background: bg-primary
-Overflow: hidden
-
-::before (gradient accent):
-  Content: ""
-  Position: absolute
-  Top: 0
-  Left: 0
-  Right: 0
-  Height: 4px
-  Background: primary-gradient
-  Transform-origin: left
-  
-Hover:
-  ::before:
-    Height: 6px
-    Transition: height 200ms spring-smooth
-    
-  Box-shadow: shadow-primary (subtle)
-  
-Use for:
-  Featured cards
-  Pricing tiers
-  Important call-outs
-```
-
----
-
-**Card with Image**:
-```
-Image container:
-  Margin: -24px -24px 16px -24px
-  Aspect-ratio: 16/9
-  Overflow: hidden
-  Background: bg-tertiary
-  Position: relative
-  
-Image:
-  Width: 100%
-  Height: 100%
-  Object-fit: cover
-  Transition: transform 400ms spring-smooth
-  
-  Card hover:
-    Transform: scale(1.05) rotate(1deg)
-    
-Gradient overlay (optional):
-  Position: absolute
-  Inset: 0
-  Background: linear-gradient(
-    180deg,
-    transparent 0%,
-    rgba(0,0,0,0.3) 100%
-  )
-  Opacity: 0
-  Transition: opacity 300ms spring-smooth
-  
-  Card hover:
-    Opacity: 1
-```
-
----
-
-### Modals
-
-**Backdrop**:
-```
-Position: fixed
-Inset: 0
-Background: rgba(0,0,0,0.5)
-Backdrop-filter: blur(8px)
-Display: flex
-Align-items: center
-Justify-content: center
-Padding: 16px (mobile), 24px (desktop)
-Z-index: modal-backdrop (400)
-
-Entrance:
-  @keyframes backdropFadeIn {
-    from { 
-      opacity: 0;
-      backdrop-filter: blur(0px);
-    }
-    to { 
-      opacity: 1;
-      backdrop-filter: blur(8px);
-    }
-  }
-  Animation: backdropFadeIn 300ms spring-smooth
-
-Exit:
-  @keyframes backdropFadeOut {
-    from {
-      opacity: 1;
-      backdrop-filter: blur(8px);
-    }
-    to {
-      opacity: 0;
-      backdrop-filter: blur(0px);
-    }
-  }
-  Animation: backdropFadeOut 200ms spring-exit
-```
-
-**Modal Container**:
-```
-Background: bg-primary
-Border-radius: xl (12px)
-Box-shadow: 2xl
-Max-width: 500px
-Width: 100%
-Max-height: 90vh
-Display: flex
-Flex-direction: column
-Z-index: modal (500)
-Position: relative
-
-Entrance:
-  @keyframes modalEnter {
-    from {
-      opacity: 0;
-      transform: translateY(40px) scale(0.95);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0) scale(1);
-    }
-  }
-  Animation: modalEnter 400ms spring-entrance 100ms backwards
-
-Exit:
-  @keyframes modalExit {
-    from {
-      opacity: 1;
-      transform: translateY(0) scale(1);
-    }
-    to {
-      opacity: 0;
-      transform: translateY(20px) scale(0.98);
-    }
-  }
-  Animation: modalExit 250ms spring-exit forwards
-```
-
-**Modal Header**:
-```
-Padding: 20px 24px
-Border-bottom: 1px solid border
-Display: flex
-Align-items: center
-Justify-content: space-between
-Gap: 16px
-Flex-shrink: 0
-
-Entrance (staggered after modal):
-  @keyframes headerSlideIn {
-    from {
-      opacity: 0;
-      transform: translateY(-10px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-  Animation: headerSlideIn 250ms spring-smooth 200ms backwards
-
-Title:
-  Font: xl (20px), weight: semibold (600)
-  Color: text-primary
-  Margin: 0
-  Line-height: 1.25
-
-Close button:
-  Width: 32px
-  Height: 32px
-  Background: transparent
-  Border: none
-  Border-radius: md (6px)
-  Color: text-secondary
-  Cursor: pointer
-  Display: flex
-  Align-items: center
-  Justify-content: center
-  Transition: all 200ms spring-smooth
-  
-  Hover:
-    Background: bg-secondary
-    Color: text-primary
-    Transform: scale(1.1) rotate(90deg)
-    Transition: all 200ms spring-bounce
-    
-  Active:
-    Transform: scale(0.95)
-    Transition: all 100ms spring-snappy
-```
-
-**Modal Body**:
-```
-Padding: 24px
-Overflow-y: auto
-Flex: 1
-
-Entrance (staggered):
-  @keyframes bodyFadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  Animation: bodyFadeIn 200ms ease-out 300ms backwards
-```
-
-**Modal Footer**:
-```
-Padding: 16px 24px
-Border-top: 1px solid border
-Display: flex
-Justify-content: flex-end
-Gap: 8px
-Flex-shrink: 0
-
-Entrance (staggered):
-  Animation: headerSlideIn 250ms spring-smooth 350ms backwards
-
-Buttons:
-  Animation: none (inherit from footer)
-```
-
----
-
-### Badges
-
-**Base Badge**:
-```
-Display: inline-flex
-Align-items: center
-Padding: 4px 12px
-Border-radius: full (9999px)
-Font: xs (12px), weight: medium (500)
-Line-height: 1
-White-space: nowrap
-Transition: all 200ms spring-smooth
-```
-
-**Gradient Badge** :
-```
-Primary:
-  Background: primary-gradient
-  Color: white
-  Box-shadow: 0 2px 4px rgba(59,130,246,0.2)
-  
-  Hover (if clickable):
-    Transform: scale(1.05)
-    Box-shadow: shadow-primary
-    Transition: all 200ms spring-bounce
-
-Success:
-  Background: success-gradient
-  Color: white
-  Box-shadow: 0 2px 4px rgba(16,185,129,0.2)
-
-Subtle (no gradient):
-  Background: primary-light
-  Color: primary
-  
-  Hover:
-    Background: rgba(59,130,246,0.15)
-    Transform: scale(1.05)
-```
-
-**Badge Entrance Animation**:
-```
-@keyframes badgePop {
-  0% {
+@keyframes modalEnter {
+  from {
     opacity: 0;
-    transform: scale(0.8);
+    transform: translateY(40px) scale(0.95);
   }
-  60% {
-    transform: scale(1.05);
-  }
-  100% {
+  to {
     opacity: 1;
-    transform: scale(1);
+    transform: translateY(0) scale(1);
   }
 }
-Animation: badgePop 300ms spring-bounce
+
+/* Modal sections - optional structure helpers */
+.modal > header {
+  padding: 20px 24px;
+  border-bottom: 1px solid #E2E8F0;
+}
+
+.modal > main {
+  padding: 24px;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.modal > footer {
+  padding: 16px 24px;
+  border-top: 1px solid #E2E8F0;
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
 ```
+
+**Visual Description:**
+- Centered on screen with backdrop
+- Max width 500px, max height 90vh
+- Enters with slide + scale animation
+- Backdrop has blur effect
+- Close button typically in top-right
+
+**Usage:** Apply classes. Internal structure is flexible - use semantic HTML (header, main, footer) or divs.
 
 ---
 
-### Toast Notifications
+### Badge
 
-**Toast Container**:
-```
-Position: fixed
-Bottom: 24px
-Right: 24px
-Display: flex
-Flex-direction: column
-Gap: 12px
-Z-index: toast (700)
-Max-width: 420px
-Pointer-events: none
+```css
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 12px;
+  border-radius: 9999px;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.badge-primary {
+  background: linear-gradient(135deg, #3B82F6 0%, #2563EB 100%);
+  color: white;
+  box-shadow: 0 2px 4px rgba(59,130,246,0.2);
+}
+
+.badge-success {
+  background: linear-gradient(135deg, #10B981 0%, #059669 100%);
+  color: white;
+  box-shadow: 0 2px 4px rgba(16,185,129,0.2);
+}
+
+.badge-warning {
+  background: linear-gradient(135deg, #F59E0B 0%, #D97706 100%);
+  color: white;
+  box-shadow: 0 2px 4px rgba(245,158,11,0.2);
+}
+
+.badge-error {
+  background: linear-gradient(135deg, #EF4444 0%, #DC2626 100%);
+  color: white;
+  box-shadow: 0 2px 4px rgba(239,68,68,0.2);
+}
+
+.badge-subtle {
+  background: #DBEAFE;
+  color: #3B82F6;
+}
+
+/* If clickable */
+.badge:hover {
+  transform: scale(1.05);
+  transition: transform 200ms cubic-bezier(0.34, 1.56, 0.64, 1);
+}
 ```
 
-**Toast**:
-```
-Background: #1E293B (dark surface)
-Color: white
-Padding: 16px
-Border-radius: lg (8px)
-Box-shadow: xl
-Display: flex
-Align-items: flex-start
-Gap: 12px
-Pointer-events: auto
-Position: relative
-Overflow: hidden
+**Visual Description:**
+- Pill-shaped (full border radius)
+- Gradient backgrounds for variants (signature)
+- 12px text, 4px vertical padding
+- Scales 5% on hover if clickable
 
-Entrance:
-  @keyframes toastSlideIn {
-    from {
-      opacity: 0;
-      transform: translateX(100%) translateY(20px) rotate(5deg);
-    }
-    to {
-      opacity: 1;
-      transform: translateX(0) translateY(0) rotate(0deg);
-    }
+**Usage:** Apply to `<span>` or any inline element.
+
+---
+
+### Toast Notification
+
+```css
+/* Container - fixed position */
+.toast-container {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  z-index: 700;
+  max-width: 420px;
+  pointer-events: none;
+}
+
+/* Toast */
+.toast {
+  background: #1E293B;
+  color: white;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1);
+  display: flex;
+  gap: 12px;
+  pointer-events: auto;
+  position: relative;
+  overflow: hidden;
+  animation: toastSlideIn 400ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+@keyframes toastSlideIn {
+  from {
+    opacity: 0;
+    transform: translateX(100%) translateY(20px) rotate(5deg);
   }
-  Animation: toastSlideIn 400ms spring-entrance
-
-Exit:
-  @keyframes toastSlideOut {
-    from {
-      opacity: 1;
-      transform: translateX(0) scale(1);
-    }
-    to {
-      opacity: 0;
-      transform: translateX(120%) scale(0.9);
-    }
+  to {
+    opacity: 1;
+    transform: translateX(0) translateY(0) rotate(0deg);
   }
-  Animation: toastSlideOut 300ms spring-exit forwards
+}
+
+/* Variants - colored left border */
+.toast-success {
+  border-left: 3px solid #10B981;
+}
+
+.toast-error {
+  border-left: 3px solid #EF4444;
+}
+
+.toast-warning {
+  border-left: 3px solid #F59E0B;
+}
+
+.toast-info {
+  border-left: 3px solid #3B82F6;
+}
+
+/* Progress bar */
+.toast::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 3px;
+  background: rgba(255,255,255,0.2);
+  animation: progress var(--duration, 4s) linear forwards;
+}
+
+@keyframes progress {
+  from { width: 100%; }
+  to { width: 0; }
+}
 ```
 
-**Toast with Gradient Accent** :
+**Visual Description:**
+- Dark background (#1E293B), white text
+- Fixed bottom-right position
+- Slides in from right with rotation
+- Colored left border for variants
+- Progress bar at bottom (optional)
+- 16px padding, 8px border radius
+
+**Usage:** Apply classes. Structure flexible - typically icon + text content + close button.
+
+---
+
+### Alert
+
+```css
+.alert {
+  padding: 12px 16px;
+  border-radius: 6px;
+  border-left: 3px solid;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.alert-info {
+  background: rgba(59,130,246,0.1);
+  border-color: #3B82F6;
+  color: #0F172A;
+}
+
+.alert-success {
+  background: rgba(16,185,129,0.1);
+  border-color: #10B981;
+  color: #0F172A;
+}
+
+.alert-warning {
+  background: rgba(245,158,11,0.1);
+  border-color: #F59E0B;
+  color: #0F172A;
+}
+
+.alert-error {
+  background: rgba(239,68,68,0.1);
+  border-color: #EF4444;
+  color: #0F172A;
+}
 ```
-Border-left: 3px solid transparent
-Position: relative
 
-Success:
-  Border-image: success-gradient 1
-  
-  ::before (glow):
-    Content: ""
-    Position: absolute
-    Left: 0
-    Top: 0
-    Bottom: 0
-    Width: 3px
-    Background: success-gradient
-    Filter: blur(8px)
-    Opacity: 0.5
+**Visual Description:**
+- Colored background (10% opacity)
+- 3px left border matching color
+- 12px vertical, 16px horizontal padding
+- Icon and close button optional
 
-Error:
-  Border-image: error-gradient 1
-  Glow with error-gradient
-
-Info:
-  Border-image: primary-gradient 1
-  Glow with primary-gradient
-```
-
-**Progress Bar**:
-```
-Position: absolute
-Bottom: 0
-Left: 0
-Height: 3px
-Background: rgba(255,255,255,0.2)
-Transform-origin: left
-Width: 100%
-
-Animation:
-  @keyframes progressShrink {
-    from { transform: scaleX(1); }
-    to { transform: scaleX(0); }
-  }
-  Animation: progressShrink [duration] linear
-
-Gradient version:
-  Background: linear-gradient(
-    90deg,
-    transparent 0%,
-    white 50%,
-    transparent 100%
-  )
-  Background-size: 200% 100%
-  
-  Animation: 
-    progressShrink [duration] linear,
-    shimmer 1s ease-in-out infinite
-```
+**Usage:** Apply to any block element. Internal structure flexible.
 
 ---
 
 ### Loading States
 
-**Spinner with Gradient** :
-```
-Width: 24px
-Height: 24px
-Border-radius: full
-Position: relative
-
-::before:
-  Content: ""
-  Position: absolute
-  Inset: 0
-  Border-radius: full
-  Border: 3px solid transparent
-  Border-top-color: primary
-  Border-right-color: primary
-  Animation: spin 800ms linear infinite
-
-::after (gradient overlay):
-  Content: ""
-  Position: absolute
-  Inset: 0
-  Border-radius: full
-  Background: conic-gradient(
-    from 0deg,
-    transparent 0deg,
-    primary 360deg
-  )
-  Mask: radial-gradient(
-    farthest-side,
-    transparent calc(100% - 3px),
-    black calc(100% - 3px)
-  )
-  Animation: spin 800ms linear infinite
-
-In buttons:
-  Width: 16px
-  Height: 16px
-  Border-width: 2px
-```
-
-**Skeleton with Gradient Shimmer** :
-```
-Background: linear-gradient(
-  90deg,
-  bg-tertiary 0%,
-  bg-secondary 25%,
-  bg-tertiary 50%,
-  bg-secondary 75%,
-  bg-tertiary 100%
-)
-Background-size: 200% 100%
-Border-radius: sm (4px)
-
-Animation:
-  @keyframes shimmerGradient {
-    0% { background-position: 200% 0; }
-    100% { background-position: -200% 0; }
-  }
-  Animation: shimmerGradient 2s ease-in-out infinite
-
-Entrance (staggered for multiple):
-  @keyframes skeletonFadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  
-  Skeleton 1: animation-delay: 0ms
-  Skeleton 2: animation-delay: 50ms
-  Skeleton 3: animation-delay: 100ms
-```
-
-**Pulse Effect** (alternative):
-```
-@keyframes pulse {
-  0%, 100% { 
-    opacity: 1;
-    transform: scale(1);
-  }
-  50% { 
-    opacity: 0.7;
-    transform: scale(0.98);
-  }
-}
-Animation: pulse 2s spring-smooth infinite
-```
-
----
-
-### Hero Sections
-
-**Hero Background**:
-```
-Background: linear-gradient(
-  180deg,
-  rgba(59,130,246,0.05) 0%,
-  rgba(139,92,246,0.05) 50%,
-  transparent 100%
-)
-Position: relative
-Overflow: hidden
-
-::before (animated gradient orb):
-  Content: ""
-  Position: absolute
-  Top: -50%
-  Right: -20%
-  Width: 800px
-  Height: 800px
-  Background: radial-gradient(
-    circle at center,
-    rgba(59,130,246,0.15) 0%,
-    rgba(139,92,246,0.1) 50%,
-    transparent 70%
-  )
-  Border-radius: full
-  Filter: blur(40px)
-  
-  Animation:
-    @keyframes orbFloat {
-      0%, 100% {
-        transform: translate(0, 0) scale(1);
-      }
-      33% {
-        transform: translate(-50px, -30px) scale(1.1);
-      }
-      66% {
-        transform: translate(30px, 50px) scale(0.9);
-      }
-    }
-    Animation: orbFloat 20s spring-smooth infinite
-
-::after (second orb):
-  Same but mirrored position (left side)
-  Animation delay: 10s
-```
-
-**Hero Heading**:
-```
-Font: 5xl (48px) mobile, 6xl (60px) desktop
-Weight: bold (700)
-Line-height: tight (1.25)
-Letter-spacing: tight (-0.025em)
-
-Gradient text :
-  Background: linear-gradient(
-    135deg,
-    #3B82F6 0%,
-    #8B5CF6 50%,
-    #EC4899 100%
-  )
-  -webkit-background-clip: text
-  -webkit-text-fill-color: transparent
-  Background-clip: text
-  Background-size: 200% 200%
-  
-  Animation:
-    @keyframes gradientFlow {
-      0%, 100% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-    }
-    Animation: gradientFlow 8s ease infinite
-```
-
----
-
-## PART 3: LAYOUT SYSTEM
-
-### Container
-
-```
-Max-width: 1280px (default)
-Margin: 0 auto
-Padding: 0 16px (mobile), 0 24px (desktop)
-Width: 100%
-
-Narrow (articles, forms):
-  Max-width: 720px
-
-Wide:
-  Max-width: 1440px
-
-Full bleed:
-  Max-width: none
-```
-
----
-
-### Grid Layouts
-
-**Responsive Grid**:
 ```css
-display: grid;
-gap: 24px;
-grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-
-/* Staggered animation for grid items */
-.grid-item {
-  animation: gridItemEnter 400ms spring-entrance backwards;
-  animation-delay: calc(var(--item-index) * 80ms);
+/* Spinner */
+.spinner {
+  width: 24px;
+  height: 24px;
+  border: 3px solid #F1F5F9;
+  border-top-color: #3B82F6;
+  border-radius: 50%;
+  animation: spin 800ms linear infinite;
 }
 
-@keyframes gridItemEnter {
+.spinner-sm {
+  width: 16px;
+  height: 16px;
+  border-width: 2px;
+}
+
+.spinner-lg {
+  width: 32px;
+  height: 32px;
+  border-width: 4px;
+}
+
+/* Skeleton */
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    #F1F5F9 0%,
+    #F8FAFC 25%,
+    #F1F5F9 50%,
+    #F8FAFC 75%,
+    #F1F5F9 100%
+  );
+  background-size: 200% 100%;
+  border-radius: 4px;
+  animation: shimmer 2s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+```
+
+**Visual Description:**
+- Spinner: Border animation, top segment colored
+- Skeleton: Gradient shimmer animation
+- Sizes: sm (16px), base (24px), lg (32px)
+
+**Usage:** Apply to empty elements. Size with inline styles or width/height classes.
+
+---
+
+## PART 4: LAYOUT
+
+```css
+/* Container */
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 24px;
+  width: 100%;
+}
+
+.container-narrow {
+  max-width: 720px;
+}
+
+.container-wide {
+  max-width: 1440px;
+}
+
+/* Grid */
+.grid {
+  display: grid;
+  gap: 24px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+/* Flex utilities */
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+/* Responsive */
+@media (max-width: 767px) {
+  .container {
+    padding: 0 16px;
+  }
+  
+  .grid {
+    gap: 16px;
+    grid-template-columns: 1fr;
+  }
+}
+```
+
+---
+
+## PART 5: UTILITIES
+
+```css
+/* Spacing */
+.p-2 { padding: 8px; }
+.p-4 { padding: 16px; }
+.p-6 { padding: 24px; }
+
+.m-0 { margin: 0; }
+.m-2 { margin: 8px; }
+.m-4 { margin: 16px; }
+
+.mt-2 { margin-top: 8px; }
+.mt-4 { margin-top: 16px; }
+.mb-2 { margin-bottom: 8px; }
+.mb-4 { margin-bottom: 16px; }
+
+/* Text */
+.text-xs { font-size: 12px; }
+.text-sm { font-size: 14px; }
+.text-base { font-size: 16px; }
+.text-lg { font-size: 18px; }
+.text-xl { font-size: 20px; }
+.text-2xl { font-size: 24px; }
+
+.font-medium { font-weight: 500; }
+.font-semibold { font-weight: 600; }
+.font-bold { font-weight: 700; }
+
+.text-primary { color: #0F172A; }
+.text-secondary { color: #64748B; }
+.text-tertiary { color: #94A3B8; }
+
+.text-center { text-align: center; }
+
+/* Display */
+.block { display: block; }
+.inline-block { display: inline-block; }
+.hidden { display: none; }
+
+.w-full { width: 100%; }
+.h-full { height: 100%; }
+```
+
+---
+
+## PART 6: ACCESSIBILITY
+
+```css
+/* Focus states - all interactive elements */
+:focus-visible {
+  outline: 2px solid #DBEAFE;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 4px rgba(59,130,246,0.1);
+}
+
+*:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* Screen reader only */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+```
+
+---
+
+## PART 7: ADVANCED PATTERNS
+
+### Staggered List Animation
+
+```css
+/* Apply to grid/list items */
+.stagger-item {
+  animation: fadeInUp 400ms cubic-bezier(0.175, 0.885, 0.32, 1.275) backwards;
+}
+
+.stagger-item:nth-child(1) { animation-delay: 0ms; }
+.stagger-item:nth-child(2) { animation-delay: 80ms; }
+.stagger-item:nth-child(3) { animation-delay: 160ms; }
+.stagger-item:nth-child(4) { animation-delay: 240ms; }
+.stagger-item:nth-child(5) { animation-delay: 320ms; }
+.stagger-item:nth-child(6) { animation-delay: 400ms; }
+.stagger-item:nth-child(7) { animation-delay: 480ms; }
+.stagger-item:nth-child(8) { animation-delay: 560ms; }
+.stagger-item:nth-child(n+9) { animation-delay: 640ms; }
+
+@keyframes fadeInUp {
   from {
     opacity: 0;
     transform: translateY(30px) scale(0.95);
@@ -1517,180 +1137,74 @@ grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     transform: translateY(0) scale(1);
   }
 }
-
-/* Cap max delay */
-.grid-item:nth-child(n + 9) {
-  animation-delay: 640ms;
-}
 ```
 
----
-
-## PART 4: RESPONSIVE DESIGN
-
-### Breakpoints
-
-```
-xs: 0-479px
-sm: 480-639px
-md: 640-767px
-lg: 768-1023px
-xl: 1024-1279px
-2xl: 1280px+
-```
-
-### Mobile (<768px)
-
-```
-Padding: 16px
-Button height: 44px
-Touch targets: 44px minimum
-Grid: 1 column
-Reduce spacing by ~20%
-```
-
-### Desktop (≥768px)
-
-```
-Padding: 24px
-Button height: 40px
-Multi-column grids
-Horizontal layouts
-Enable magnetic hover effects
-```
-
----
-
-## PART 5: ACCESSIBILITY
-
-### Focus States
-
-```
-All interactive elements:
-  Outline: 2px solid primary-light
-  Outline-offset: 2px
-  Box-shadow: 0 0 0 4px rgba(59,130,246,0.1)
-  Transition: all 200ms spring-smooth
-
-Inputs (additional):
-  Border-color: primary
-  Box-shadow: inset 0 0 0 1px primary,
-              0 0 0 4px rgba(59,130,246,0.1)
-```
-
-### Color Contrast
-
-```
-Normal text: 4.5:1 minimum
-Large text (≥24px): 3:1 minimum
-Interactive elements: 3:1 minimum
-
-Gradient text:
-  Ensure average luminance meets contrast requirements
-  Test with both start and end colors
-```
-
-### Motion Preferences
+### Hero Gradient Background
 
 ```css
-@media (prefers-reduced-motion: reduce) {
-  * {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
-  }
-  
-  /* Disable magnetic effects */
-  .magnetic-hover {
-    transform: none !important;
-  }
-  
-  /* Disable gradient animations */
-  .gradient-animated {
-    animation: none !important;
-    background-position: 0% 50% !important;
-  }
+.hero {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(
+    180deg,
+    rgba(59,130,246,0.05) 0%,
+    transparent 100%
+  );
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  right: -20%;
+  width: 800px;
+  height: 800px;
+  background: radial-gradient(
+    circle,
+    rgba(59,130,246,0.15) 0%,
+    transparent 70%
+  );
+  border-radius: 50%;
+  filter: blur(40px);
+  animation: float 20s cubic-bezier(0.34, 1.56, 0.64, 1) infinite;
+}
+
+@keyframes float {
+  0%, 100% { transform: translate(0, 0); }
+  33% { transform: translate(-50px, -30px); }
+  66% { transform: translate(30px, 50px); }
 }
 ```
 
----
+### Gradient Text
 
-## PART 6: IMPLEMENTATION CHECKLIST
+```css
+.gradient-text {
+  background: linear-gradient(135deg, #3B82F6 0%, #8B5CF6 50%, #EC4899 100%);
+  background-size: 200% 200%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: gradientShift 8s ease infinite;
+}
 
-### Foundation
-- [ ] All spacing uses scale (4, 8, 12, 16, 20, 24...)
-- [ ] All colors use semantic names
-- [ ] Gradients defined for primary, success, warning, error
-- [ ] Spring easing functions set as defaults
-- [ ] Z-index scale used throughout
-
-### Elements
-- [ ] Primary buttons use gradient backgrounds
-- [ ] Spring physics on all transitions (200ms spring-smooth default)
-- [ ] Magnetic hover effects on buttons and cards
-- [ ] Gradient text effect on hero headings
-- [ ] Gradient shadows on primary button hover
-- [ ] Animated gradient orbs in hero sections
-- [ ] Staggered animations for lists/grids
-- [ ] Gradient accent borders for special cards
-
-### Animations
-- [ ] All transitions use spring easing (spring-smooth, spring-bounce, spring-snappy)
-- [ ] Entrance animations use spring-entrance
-- [ ] Exit animations use spring-exit
-- [ ] Staggered delays for multiple items (50-80ms per item)
-- [ ] Error states shake with spring-bounce
-- [ ] Success states pulse with spring-smooth
-- [ ] Icons bounce on appear
-- [ ] Close buttons rotate on hover
-- [ ] Images scale on card hover
-- [ ] Progress bars use gradient shimmer
-- [ ] Reduced motion support implemented
-
-### Gradients
-- [ ] Primary buttons have primary-gradient background
-- [ ] Gradient shadows match gradient colors
-- [ ] Gradient borders on accent components
-- [ ] Hero sections have gradient backgrounds
-- [ ] Toasts have gradient accent bars
-- [ ] Badges use gradients for emphasis
-- [ ] Spinners use gradient animation
-- [ ] Hero headings use animated gradient text
-- [ ] Card accents use 4px gradient top border
-
-### Polish
-- [ ] Magnetic hover on buttons (0.05 intensity)
-- [ ] Magnetic hover on cards (0.03 intensity)
-- [ ] Button loading maintains width
-- [ ] Input errors shake on validation
-- [ ] Success states pulse
-- [ ] Close button rotates 90° on hover
-- [ ] Icons animate based on context (arrows move, downloads bounce)
-- [ ] Gradient orbs float in hero backgrounds
-- [ ] Skeleton shimmer uses gradient
-- [ ] Toast progress bars use gradient
-
-### Performance
-- [ ] will-change added before animations
-- [ ] will-change removed after animations
-- [ ] Only transform/opacity animated
-- [ ] Reduced motion media query implemented
-- [ ] Gradient animations disabled for reduced motion
-- [ ] Magnetic effects disabled for reduced motion
+@keyframes gradientShift {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+```
 
 ---
 
 ## CRITICAL RULES
 
-1. **Always use spring easing** - Default: spring-smooth (200ms)
-2. **Gradients for emphasis only** - Primary buttons, CTAs, accents
-3. **Touch targets 44px minimum** on mobile
-4. **Visible focus states** - 2px outline + 4px glow
-5. **Body text 16px minimum** - Readability standard
-6. **Stagger list animations** - 50-80ms delay per item
-7. **Magnetic hover subtle** - Max 0.05 intensity
-8. **Respect prefers-reduced-motion** - Disable all animations
-9. **Gradient text sparingly** - Hero headings only
-10. **One h1 per page** - SEO and accessibility
-
----
+1. **Semantic Colors** - Use `var(--primary)` not `#3B82F6`
+2. **Scale Values** - Use spacing scale (4, 8, 12, 16...) - no arbitrary numbers
+3. **Touch Targets** - 44px minimum on mobile
+4. **Focus States** - Always visible (outline + glow)
+5. **Spring Easing** - Default transition: `200ms cubic-bezier(0.34, 1.56, 0.64, 1)`
+6. **Gradients** - Use for primary buttons, badges, CTAs
+7. **Minimal Markup** - No wrapper divs unless functionally required
+8. **Reduced Motion** - Respect `prefers-reduced-motion`
+9. **Mobile First** - Design for small screens, enhance for large
+10. **Body Text** - 16px minimum for readability
