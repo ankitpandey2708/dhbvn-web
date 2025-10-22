@@ -6,7 +6,7 @@ import React, { useEffect, useState, useMemo, useRef } from 'react';
 import { DataTable } from '@/components/ui/data-table';
 import { ColumnDef, Row } from '@tanstack/react-table';
 import { format } from 'date-fns';
-import { Loader2 } from 'lucide-react';
+import { OutageLoadingSkeleton } from '@/components/ui/skeleton';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { Search, Download } from 'lucide-react';
@@ -161,8 +161,8 @@ function SearchAndDownloadControls({
 }) {
   return (
     <div className={`flex items-center justify-between py-4 ${className}`}>
-      <div className="relative w-40 sm:w-72">
-        <Search className="absolute left-2 top-2.5 h-4 w-4 text-muted-foreground" aria-hidden="true" />
+      <div className="relative flex-1 max-w-md">
+        <Search className="absolute left-2 top-2.5 h-icon-sm w-icon-sm text-muted-foreground" aria-hidden="true" />
         <Input
           ref={searchInputRef}
           type="search"
@@ -176,12 +176,13 @@ function SearchAndDownloadControls({
       </div>
       <Button
         onClick={handleDownloadPDF}
-        variant="outline"
+        variant="ghost"
         size="sm"
         className="shrink-0 ml-2 relative z-10"
         aria-label="Download filtered results as PDF"
       >
-        <Download className="h-4 w-4" />
+        <Download className="h-icon-sm w-icon-sm mr-2" />
+        <span className="hidden sm:inline">Export</span>
       </Button>
     </div>
   );
@@ -299,13 +300,9 @@ export default function Home(): React.ReactElement {
     }
   };
 
-  // Show loading spinner while fetching data
+  // Show loading skeleton while fetching data
   if (loading) {
-    return (
-      <div className="flex items-center justify-center min-h-screen">
-        <Loader2 className="h-8 w-8 animate-spin" />
-      </div>
-    );
+    return <OutageLoadingSkeleton />;
   }
 
   // Show error message if data fetch fails
@@ -329,10 +326,10 @@ export default function Home(): React.ReactElement {
       <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10">
         <div className="flex flex-col gap-4">
           {/* Page Title and Subtitle */}
-          <h1 className="text-2xl sm:text-3xl font-bold text-left tracking-tight">Faridabad Power Outage Information</h1>
+          <h1 className="text-2xl sm:text-4xl font-bold text-left tracking-tight">Faridabad Power Outage Information</h1>
           {/* Show no data message if there is no data at all (mobile and desktop) */}
           {data.length > 0 && (
-            <p className="text-muted-foreground text-left sm:text-left">
+            <p className="text-muted-foreground text-left sm:text-left max-w-prose">
               Data refreshes every 5 minutes.
             </p>
           )}
@@ -356,7 +353,7 @@ export default function Home(): React.ReactElement {
             <div className="flex flex-col gap-4 block sm:hidden">
               {/* Render each outage as a card for mobile view */}
               {filteredData.map((item, idx) => (
-                <div key={idx} className="rounded-xl border border-border bg-card p-4 shadow-sm">
+                <div key={idx} className="rounded-xl border border-border bg-card p-card shadow-sm">
                   <div className="flex items-center justify-between mb-4">
                     <span className="font-semibold text-base truncate">{item.area}</span>
                     <span className="font-semibold text-base truncate">{item.feeder}</span>

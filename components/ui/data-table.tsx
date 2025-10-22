@@ -51,31 +51,37 @@ export function DataTable<TData, TValue>({
             <TableHeader>
               {table.getHeaderGroups().map((headerGroup) => (
                 <TableRow key={headerGroup.id}>
-                  {headerGroup.headers.map((header) => (
-                    <TableHead key={header.id} className="break-words">
-                      {header.isPlaceholder ? null : (
-                        <div
-                          className={
-                            header.column.getCanSort()
-                              ? 'cursor-pointer select-none flex items-center'
-                              : ''
-                          }
-                          onClick={header.column.getToggleSortingHandler()}
-                          role={header.column.getCanSort() ? 'button' : undefined}
-                          tabIndex={header.column.getCanSort() ? 0 : -1}
-                          aria-label={header.column.getCanSort() ? 'Sort column' : undefined}
-                        >
-                          {flexRender(
-                            header.column.columnDef.header,
-                            header.getContext()
-                          )}
-                          {header.column.getCanSort() && (
-                            <ArrowUpDown className="ml-2 h-4 w-4 text-muted-foreground" />
-                          )}
-                        </div>
-                      )}
-                    </TableHead>
-                  ))}
+                  {headerGroup.headers.map((header) => {
+                    const isTimeColumn = header.column.id === 'start_time' || header.column.id === 'restoration_time';
+                    return (
+                      <TableHead
+                        key={header.id}
+                        className={`break-words ${isTimeColumn ? 'text-right' : ''}`}
+                      >
+                        {header.isPlaceholder ? null : (
+                          <div
+                            className={
+                              header.column.getCanSort()
+                                ? `cursor-pointer select-none flex items-center ${isTimeColumn ? 'justify-end' : ''}`
+                                : isTimeColumn ? 'flex justify-end' : ''
+                            }
+                            onClick={header.column.getToggleSortingHandler()}
+                            role={header.column.getCanSort() ? 'button' : undefined}
+                            tabIndex={header.column.getCanSort() ? 0 : -1}
+                            aria-label={header.column.getCanSort() ? 'Sort column' : undefined}
+                          >
+                            {flexRender(
+                              header.column.columnDef.header,
+                              header.getContext()
+                            )}
+                            {header.column.getCanSort() && (
+                              <ArrowUpDown className="ml-2 h-icon-sm w-icon-sm text-muted-foreground" />
+                            )}
+                          </div>
+                        )}
+                      </TableHead>
+                    );
+                  })}
                 </TableRow>
               ))}
             </TableHeader>
@@ -83,23 +89,26 @@ export function DataTable<TData, TValue>({
               {table.getRowModel().rows?.length ? (
                 table.getRowModel().rows.map((row) => (
                   <TableRow key={row.id}>
-                    {row.getVisibleCells().map((cell) => (
-                      <TableCell 
-                        key={cell.id} 
-                        className={`
-                          ${cell.column.id === 'area' ? 'min-w-[150px] sm:min-w-[200px] break-words' : ''}
-                          ${cell.column.id === 'feeder' ? 'min-w-[100px] sm:min-w-[150px] break-words' : ''}
-                          ${cell.column.id === 'start_time' ? 'min-w-[150px] sm:min-w-[200px] break-words' : ''}
-                          ${cell.column.id === 'restoration_time' ? 'min-w-[150px] sm:min-w-[200px] break-words' : ''}
-                          ${cell.column.id === 'reason' ? 'min-w-[150px] sm:min-w-[300px] break-words' : ''}
-                        `}
-                      >
-                        {flexRender(
-                          cell.column.columnDef.cell,
-                          cell.getContext()
-                        )}
-                      </TableCell>
-                    ))}
+                    {row.getVisibleCells().map((cell) => {
+                      const isTimeColumn = cell.column.id === 'start_time' || cell.column.id === 'restoration_time';
+                      return (
+                        <TableCell
+                          key={cell.id}
+                          className={`
+                            ${cell.column.id === 'area' ? 'min-w-col-sm sm:min-w-col-md break-words' : ''}
+                            ${cell.column.id === 'feeder' ? 'min-w-col-sm break-words' : ''}
+                            ${cell.column.id === 'start_time' ? 'min-w-col-sm sm:min-w-col-md break-words text-right' : ''}
+                            ${cell.column.id === 'restoration_time' ? 'min-w-col-sm sm:min-w-col-md break-words text-right' : ''}
+                            ${cell.column.id === 'reason' ? 'min-w-col-sm sm:min-w-col-lg break-words' : ''}
+                          `}
+                        >
+                          {flexRender(
+                            cell.column.columnDef.cell,
+                            cell.getContext()
+                          )}
+                        </TableCell>
+                      );
+                    })}
                   </TableRow>
                 ))
               ) : (
