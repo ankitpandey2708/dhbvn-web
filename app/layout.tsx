@@ -5,6 +5,7 @@ import { Analytics } from '@vercel/analytics/react'
 import { GitHubBadge } from './components/github-badge'
 import { ThemeToggle } from '../components/ui/ThemeToggle'
 import './globals.css'
+import '../file.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -49,7 +50,7 @@ export default function RootLayout({
   children: React.ReactNode
 }): React.ReactElement {
   return (
-    <html lang="en">
+    <html lang="en" data-beautify="auto">
       <head>
         <link
           rel="icon"
