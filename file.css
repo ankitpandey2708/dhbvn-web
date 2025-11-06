@@ -1,0 +1,227 @@
+/* beautify-tailwind.css — Tailwind-safe drop-in polish
+   Layers: tokens, soft (default), auto (opt-in), strong (opt-in)
+   Load this AFTER Tailwind’s compiled CSS. */
+
+@layer tokens, soft, auto, strong;
+
+/* --------------------------------------
+   TOKENS — semantic variables
+   (Usable with Tailwind arbitrary values if needed)
+-------------------------------------- */
+@layer tokens {
+  :root {
+    /* Palette */
+    --primary: #3B82F6;
+    --primary-hover: #2563EB;
+    --primary-active: #1D4ED8;
+    --primary-light: #DBEAFE;
+
+    --success: #10B981;
+    --warning: #F59E0B;
+    --error: #EF4444;
+
+    --text-primary: #0F172A;
+    --text-secondary: #64748B;
+    --text-tertiary: #94A3B8;
+    --text-disabled: #CBD5E1;
+
+    --bg-primary: #FFFFFF;
+    --bg-secondary: #F8FAFC;
+    --bg-tertiary: #F1F5F9;
+    --bg-toast: #1E293B;
+
+    --border: #E2E8F0;
+    --border-strong: #CBD5E1;
+
+    /* Radii & shadows */
+    --radius-sm: 4px;
+    --radius-md: 6px;
+    --radius-lg: 8px;
+    --radius-xl: 12px;
+    --radius-full: 9999px;
+
+    --shadow-sm: 0 1px 2px rgba(0,0,0,0.05);
+    --shadow-md: 0 4px 6px -1px rgba(0,0,0,0.10), 0 2px 4px -1px rgba(0,0,0,0.06);
+    --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.10), 0 4px 6px -2px rgba(0,0,0,0.05);
+
+    /* Motion */
+    --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+    --duration-fast: 120ms;
+    --duration-base: 200ms;
+    --duration-slow: 300ms;
+
+    /* Rings */
+    --ring-fallback: rgba(59,130,246,0.35);
+    --ring: color-mix(in srgb, var(--primary), white 65%);
+
+    /* Tables */
+    --table-stripe: #F1F5F9;
+  }
+
+  /* Supports Tailwind’s class-based dark mode (.dark) and system dark mode */
+  .dark :root,
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-primary: #F1F5F9;
+      --text-secondary: #94A3B8;
+      --text-tertiary: #64748B;
+
+      --bg-primary: #0F172A;
+      --bg-secondary: #1E293B;
+      --bg-tertiary: #334155;
+      --bg-toast: #0F172A;
+
+      --border: #334155;
+      --border-strong: #475569;
+
+      --ring-fallback: rgba(96,165,250,0.35);
+    }
+  }
+}
+
+/* --------------------------------------
+   SOFT — safe, non-breaking polish
+   Low specificity via :where; no layout properties changed.
+   Tailwind utilities win if present.
+-------------------------------------- */
+@layer soft {
+  /* Links */
+  :where(a) {
+    color: var(--primary);
+    text-decoration: none;
+    transition: color var(--duration-fast), text-decoration-color var(--duration-fast);
+  }
+  :where(a:hover, a:focus-visible) {
+    color: var(--primary-hover);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+
+  /* Focus ring (skip if Tailwind ring utilities are present) */
+  :where(a, button, input, select, textarea, [role="button"], [tabindex]):focus-visible:not([class*="ring-"]) {
+    outline: 2px solid var(--ring-fallback);
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+  }
+  @media (prefers-contrast: more) {
+    :where(:focus-visible):not([class*="ring-"]) { outline-width: 3px; outline-offset: 3px; }
+  }
+  @media (forced-colors: active) {
+    :where(:focus-visible) { outline: 2px solid CanvasText; }
+  }
+
+  /* Native controls adopt brand color */
+  :where(input[type="checkbox"], input[type="radio"], input[type="range"], progress) {
+    accent-color: var(--primary);
+  }
+
+  /* Placeholders and selection */
+  :where(input::placeholder, textarea::placeholder) { color: var(--text-tertiary); }
+  ::selection { background: color-mix(in srgb, var(--primary), white 70%); color: var(--text-primary); }
+  ::-moz-selection { background: color-mix(in srgb, var(--primary), white 70%); color: var(--text-primary); }
+
+  /* Reduced motion — gentle */
+  @media (prefers-reduced-motion: reduce) {
+    :where(*) { transition-duration: 0.01ms; animation-duration: 0.01ms; animation-iteration-count: 1; }
+  }
+}
+
+/* --------------------------------------
+   AUTO — opt-in heuristic polish for Tailwind
+   Enable: <html data-beautify="auto"> or <body data-beautify="auto">
+   Decorative only: no margins/paddings/width/height/display changes.
+   Skips elements already using Tailwind ring/shadow/rounded utilities.
+-------------------------------------- */
+@layer auto {
+  /* Buttons and button-like elements */
+  :where(html[data-beautify~="auto"], body[data-beautify~="auto"])
+  :is(button, [type="button"], [type="submit"], [role="button"])
+  :not([class*="ring-"]):not([class*="shadow-"]):not([class*="rounded-"]) {
+    border-radius: var(--radius-md);
+    box-shadow: 0 0 0 1px var(--border), var(--shadow-sm);
+    transition: box-shadow var(--duration-base) var(--ease-spring), transform var(--duration-base) var(--ease-spring);
+  }
+  :where(html[data-beautify~="auto"], body[data-beautify~="auto"])
+  :is(button, [type="button"], [type="submit"], [role="button"])
+  :hover:not([class*="ring-"]):not([class*="shadow-"]):not([class*="rounded-"]) {
+    box-shadow: 0 0 0 1px var(--border-strong), var(--shadow-md);
+    transform: translateY(-2px);
+  }
+  :where(html[data-beautify~="auto"], body[data-beautify~="auto"])
+  :is(button, [type="button"], [type="submit"], [role="button"])
+  :active:not([class*="ring-"]):not([class*="shadow-"]):not([class*="rounded-"]) {
+    transform: translateY(0) scale(0.98);
+  }
+
+  /* Inputs (keep layout; add glow) */
+  :where(html[data-beautify~="auto"], body[data-beautify~="auto"])
+  :is(input, select, textarea)
+  :not([class*="ring-"]):not([class*="shadow-"]):not([class*="rounded-"]) {
+    border-radius: var(--radius-md);
+    box-shadow: 0 0 0 1px var(--border);
+    transition: box-shadow var(--duration-base) var(--ease-spring), transform var(--duration-base) var(--ease-spring);
+  }
+  :where(html[data-beautify~="auto"], body[data-beautify~="auto"])
+  :is(input:hover, select:hover, textarea:hover)
+  :not([class*="ring-"]):not([class*="shadow-"]):not([class*="rounded-"]) {
+    box-shadow: 0 0 0 1px var(--border-strong);
+    transform: translateY(-1px);
+  }
+  :where(html[data-beautify~="auto"], body[data-beautify~="auto"])
+  :is(input:focus, select:focus, textarea:focus)
+  :not([class*="ring-"]):not([class*="shadow-"]):not([class*="rounded-"]) {
+    /* fallback first, then mix */
+    box-shadow: 0 0 0 1px var(--border-strong), 0 0 0 4px rgba(59,130,246,0.10);
+    box-shadow: 0 0 0 1px var(--border-strong), 0 0 0 4px color-mix(in srgb, var(--primary), transparent 90%);
+  }
+
+  /* Card-like containers (heuristic by class name) */
+  :where(html[data-beautify~="auto"], body[data-beautify~="auto"])
+  :is([class*="card"], [class*="panel"], [class*="box"], [class*="tile"], [class*="module"])
+  :not([class*="ring-"]):not([class*="shadow-"]):not([class*="rounded-"]) {
+    border-radius: var(--radius-lg);
+    box-shadow: 0 0 0 1px var(--border), var(--shadow-sm);
+    transition: box-shadow var(--duration-slow) var(--ease-spring), transform var(--duration-slow) var(--ease-spring);
+  }
+  :where(html[data-beautify~="auto"], body[data-beautify~="auto"])
+  :is([class*="card"].clickable, [class*="panel"].clickable, [class*="box"].clickable, [class*="tile"].clickable, [class*="module"].clickable)
+  :hover:not([class*="ring-"]):not([class*="shadow-"]):not([class*="rounded-"]) {
+    transform: translateY(-4px);
+    box-shadow: 0 0 0 1px var(--border-strong), var(--shadow-lg);
+  }
+
+  /* Tables: color-only zebra striping (no layout change) */
+  :where(html[data-beautify~="auto"], body[data-beautify~="auto"]) table tbody tr:nth-child(odd) {
+    background: var(--table-stripe);
+  }
+
+  /* Respect reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    :where(html[data-beautify~="auto"], body[data-beautify~="auto"])
+    :is(button, [type="button"], [type="submit"], [role="button"], input, select, textarea,
+        [class*="card"], [class*="panel"], [class*="box"], [class*="tile"], [class*="module"]) {
+      transform: none !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+/* --------------------------------------
+   STRONG — opt-in typographic lift
+   Enable: <html data-beautify="auto strong"> or <body …>
+   Tailwind utilities still win; no spacing/layout changes here.
+-------------------------------------- */
+@layer strong {
+  :where(html[data-beautify~="strong"], body[data-beautify~="strong"]) {
+    color-scheme: light dark;
+  }
+  /* Headings: subtle tracking and shadow (decorative only) */
+  :where(html[data-beautify~="strong"], body[data-beautify~="strong"]) :is(h1,h2,h3) {
+    letter-spacing: -0.01em;
+    text-shadow: 0 1px 0 rgba(0,0,0,0.07);
+  }
+}
+
+/* Opt-out helper for local escapes (works in modern browsers) */
+.b-no-beautify { all: revert-layer; }
