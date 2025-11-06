@@ -45,8 +45,8 @@ export function DataTable<TData, TValue>({
 
   return (
     <div>
-      <div className="rounded-xl border bg-card/50 backdrop-blur-sm">
-        <div className="overflow-x-auto">
+      <div className="rounded-xl border bg-card/50 backdrop-blur-sm b-card">
+        <div className="overflow-x-auto b-overflow-auto">
           <Table>
             <TableHeader>
               {table.getHeaderGroups().map((headerGroup) => (

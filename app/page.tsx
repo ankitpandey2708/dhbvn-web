@@ -308,9 +308,9 @@ export default function Home(): React.ReactElement {
   // Show error message if data fetch fails
   if (error) {
     return (
-      <div className="flex items-center justify-center min-h-screen">
-        <div className="text-red-500 text-center">
-          <h2 className="text-xl font-bold mb-2">Error</h2>
+      <div className="flex items-center justify-center min-h-screen b-flex b-items-center b-justify-center">
+        <div className="text-red-500 text-center b-alert b-alert--error b-text-center">
+          <h2 className="text-xl font-bold mb-2 b-text-xl b-font-bold b-mb-2">Error</h2>
           <p>{error}</p>
         </div>
       </div>
@@ -323,18 +323,18 @@ export default function Home(): React.ReactElement {
       <Script id="structured-data" type="application/ld+json">
         {JSON.stringify(structuredData)}
       </Script>
-      <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10">
-        <div className="flex flex-col gap-4">
+      <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10 b-container">
+        <div className="flex flex-col gap-4 b-flex b-flex-col b-gap-6">
           {/* Page Title and Subtitle */}
-          <h1 className="text-2xl sm:text-4xl font-bold text-left tracking-tight">Faridabad Power Outage Information</h1>
+          <h1 className="text-2xl sm:text-4xl font-bold text-left tracking-tight b-text-4xl b-font-extrabold b-gradient-text">Faridabad Power Outage Information</h1>
           {/* Show no data message if there is no data at all (mobile and desktop) */}
           {data.length > 0 && (
-            <p className="text-muted-foreground text-left sm:text-left max-w-prose">
+            <p className="text-muted-foreground text-left sm:text-left max-w-prose b-text-secondary b-text-lg">
               Data refreshes every 5 minutes.
             </p>
           )}
           {data.length === 0 && (
-            <div className="text-center text-muted-foreground py-16 text-lg font-medium">
+            <div className="text-center text-muted-foreground py-16 text-lg font-medium b-alert b-alert--info b-py-8 b-text-center">
               No power outages reported by DHBVN
             </div>
           )}
@@ -350,22 +350,22 @@ export default function Home(): React.ReactElement {
           )}
           {/* Mobile Card Layout */}
           {filteredData.length > 0 && (
-            <div className="flex flex-col gap-4 block sm:hidden">
+            <div className="flex flex-col gap-4 block sm:hidden b-flex b-flex-col b-gap-4">
               {/* Render each outage as a card for mobile view */}
               {filteredData.map((item, idx) => (
-                <div key={idx} className="rounded-xl border border-border bg-card p-card shadow-sm">
-                  <div className="flex items-center justify-between mb-4">
-                    <span className="font-semibold text-base truncate">{item.area}</span>
-                    <span className="font-semibold text-base truncate">{item.feeder}</span>
+                <div key={idx} className="rounded-xl border border-border bg-card p-card shadow-sm b-card b-stagger-item">
+                  <div className="flex items-center justify-between mb-4 b-flex b-justify-between b-mb-4">
+                    <span className="font-semibold text-base truncate b-font-semibold b-text-base">{item.area}</span>
+                    <span className="font-semibold text-base truncate b-font-semibold b-text-base">{item.feeder}</span>
                   </div>
-                  <div className="flex items-center justify-between text-xs text-muted-foreground">
+                  <div className="flex items-center justify-between text-xs text-muted-foreground b-flex b-justify-between b-text-sm b-text-secondary">
                     <div>
                       Period<br />
-                      <span className="font-medium text-foreground">{item.start_time} -<br />{item.restoration_time}</span>
+                      <span className="font-medium text-foreground b-font-medium b-text-primary">{item.start_time} -<br />{item.restoration_time}</span>
                     </div>
-                    <div className="text-right">
+                    <div className="text-right b-text-right">
                       Reason<br />
-                      <span className="font-medium text-foreground">{item.reason}</span>
+                      <span className="font-medium text-foreground b-font-medium b-text-primary">{item.reason}</span>
                     </div>
                   </div>
                 </div>
