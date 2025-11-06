@@ -5,7 +5,6 @@ import { Analytics } from '@vercel/analytics/react'
 import { GitHubBadge } from './components/github-badge'
 import { ThemeToggle } from '../components/ui/ThemeToggle'
 import './globals.css'
-import '../enhanced-styles.css'
 
 const inter = Inter({ subsets: ['latin'] })
 

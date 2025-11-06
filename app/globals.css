@@ -73,4 +73,7 @@
   body {
     @apply bg-background text-foreground antialiased leading-[1.5];
   }
-} 
+}
+
+/* Import enhanced-styles.css for modern SaaS visual enhancements */
+@import '../enhanced-styles.css';
