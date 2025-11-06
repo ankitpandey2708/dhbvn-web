@@ -1,7 +1,10 @@
+/* Import enhanced-styles.css for modern SaaS visual enhancements */
+@import '../enhanced-styles.css';
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
- 
+
 @layer base {
   :root {
     --background: 0 0% 100%;
@@ -74,6 +77,3 @@
     @apply bg-background text-foreground antialiased leading-[1.5];
   }
 }
-
-/* Import enhanced-styles.css for modern SaaS visual enhancements */
-@import '../enhanced-styles.css';
