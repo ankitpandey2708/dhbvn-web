@@ -7,22 +7,24 @@ function Skeleton({
   return (
     <div
       className={cn(
-        "animate-pulse rounded-md bg-muted/50",
+        "relative overflow-hidden rounded-lg bg-neutral-100",
         className
       )}
       {...props}
-    />
+    >
+      <div className="absolute inset-0 -translate-x-full animate-shimmer bg-gradient-to-r from-neutral-100 via-neutral-50 to-neutral-100" />
+    </div>
   )
 }
 
 function TableSkeleton() {
   return (
-    <div className="rounded-xl border bg-card/50 backdrop-blur-sm overflow-hidden">
+    <div className="rounded-xl border border-neutral-200/60 bg-white shadow-sm overflow-hidden">
       <div className="overflow-x-auto">
         <div className="w-full">
           {/* Header */}
-          <div className="border-b">
-            <div className="flex h-12 px-4 items-center gap-4">
+          <div className="border-b border-neutral-200/60">
+            <div className="flex h-14 px-6 items-center gap-6">
               <Skeleton className="h-4 w-24" />
               <Skeleton className="h-4 w-24" />
               <Skeleton className="h-4 w-32" />
@@ -36,8 +38,8 @@ function TableSkeleton() {
               <div
                 key={i}
                 className={cn(
-                  "flex h-16 px-4 items-center gap-4 border-b",
-                  i % 2 === 1 && "bg-muted/20"
+                  "flex h-16 px-6 items-center gap-6 border-b border-neutral-200/60",
+                  i % 2 === 1 && "bg-neutral-50/30"
                 )}
               >
                 <Skeleton className="h-4 w-32" />
@@ -56,7 +58,7 @@ function TableSkeleton() {
 
 function CardSkeleton() {
   return (
-    <div className="rounded-xl border border-border bg-card p-card shadow-sm">
+    <div className="rounded-xl border border-neutral-200/60 bg-white p-6 shadow-sm hover:shadow-md transition-shadow">
       <div className="flex items-center justify-between mb-4">
         <Skeleton className="h-5 w-24" />
         <Skeleton className="h-5 w-16" />

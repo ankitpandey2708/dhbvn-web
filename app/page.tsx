@@ -162,27 +162,27 @@ function SearchAndDownloadControls({
   return (
     <div className={`flex items-center justify-between py-4 ${className}`}>
       <div className="relative flex-1 max-w-md">
-        <Search className="absolute left-2 top-2.5 h-icon-sm w-icon-sm text-muted-foreground" aria-hidden="true" />
+        <Search className="absolute left-4 top-1/2 -translate-y-1/2 h-5 w-5 text-neutral-400" aria-hidden="true" />
         <Input
           ref={searchInputRef}
           type="search"
           inputMode="search"
-          placeholder="Search area or feeder"
+          placeholder="Search area or feeder..."
           value={globalFilter}
           onChange={(event) => setGlobalFilter(event.target.value)}
-          className="pl-8 text-sm"
+          className="pl-11"
           aria-label="Search by area or feeder"
         />
       </div>
       <Button
         onClick={handleDownloadPDF}
-        variant="ghost"
-        size="sm"
-        className="shrink-0 ml-2 relative z-10"
+        variant="secondary"
+        size="default"
+        className="shrink-0 ml-3"
         aria-label="Download filtered results as PDF"
       >
-        <Download className="h-icon-sm w-icon-sm mr-2" />
-        <span className="hidden sm:inline">Export</span>
+        <Download className="h-5 w-5 mr-2" />
+        <span className="hidden sm:inline">Export PDF</span>
       </Button>
     </div>
   );
@@ -308,10 +308,15 @@ export default function Home(): React.ReactElement {
   // Show error message if data fetch fails
   if (error) {
     return (
-      <div className="flex items-center justify-center min-h-screen">
-        <div className="text-red-500 text-center">
-          <h2 className="text-xl font-bold mb-2">Error</h2>
-          <p>{error}</p>
+      <div className="flex items-center justify-center min-h-screen bg-neutral-50">
+        <div className="text-center max-w-md">
+          <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-gradient-to-br from-error-50 to-error-100 mb-4">
+            <svg className="w-8 h-8 text-error-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+            </svg>
+          </div>
+          <h2 className="text-2xl font-bold text-neutral-900 mb-2 tracking-tight">Error Loading Data</h2>
+          <p className="text-neutral-600">{error}</p>
         </div>
       </div>
     );
@@ -323,19 +328,27 @@ export default function Home(): React.ReactElement {
       <Script id="structured-data" type="application/ld+json">
         {JSON.stringify(structuredData)}
       </Script>
-      <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10">
-        <div className="flex flex-col gap-4">
+      <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
+        <div className="flex flex-col gap-6">
           {/* Page Title and Subtitle */}
-          <h1 className="text-2xl sm:text-4xl font-bold text-left tracking-tight">Faridabad Power Outage Information</h1>
+          <div className="space-y-3">
+            <h1 className="text-3xl sm:text-4xl font-bold text-neutral-950 tracking-tight">Faridabad Power Outage Information</h1>
+            {data.length > 0 && (
+              <p className="text-base text-neutral-600 max-w-prose">
+                Real-time outage data, automatically refreshed every 5 minutes.
+              </p>
+            )}
+          </div>
           {/* Show no data message if there is no data at all (mobile and desktop) */}
-          {data.length > 0 && (
-            <p className="text-muted-foreground text-left sm:text-left max-w-prose">
-              Data refreshes every 5 minutes.
-            </p>
-          )}
           {data.length === 0 && (
-            <div className="text-center text-muted-foreground py-16 text-lg font-medium">
-              No power outages reported by DHBVN
+            <div className="text-center py-24 px-6">
+              <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-gradient-to-br from-success-50 to-success-100 mb-6">
+                <svg className="w-8 h-8 text-success-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+              </div>
+              <h3 className="text-xl font-semibold text-neutral-900 mb-2 tracking-tight">All Clear</h3>
+              <p className="text-neutral-600">No power outages reported by DHBVN</p>
             </div>
           )}
           {/* Search and Download Controls - Mobile */}
@@ -353,19 +366,22 @@ export default function Home(): React.ReactElement {
             <div className="flex flex-col gap-4 block sm:hidden">
               {/* Render each outage as a card for mobile view */}
               {filteredData.map((item, idx) => (
-                <div key={idx} className="rounded-xl border border-border bg-card p-card shadow-sm">
-                  <div className="flex items-center justify-between mb-4">
-                    <span className="font-semibold text-base truncate">{item.area}</span>
-                    <span className="font-semibold text-base truncate">{item.feeder}</span>
+                <div
+                  key={idx}
+                  className="rounded-xl border border-neutral-200/60 bg-white p-6 shadow-sm hover:shadow-md transition-all duration-200 hover:-translate-y-0.5"
+                >
+                  <div className="flex items-center justify-between mb-4 gap-3">
+                    <span className="font-semibold text-base text-neutral-900 truncate">{item.area}</span>
+                    <span className="font-medium text-sm text-neutral-700 px-3 py-1 bg-neutral-100 rounded-full truncate">{item.feeder}</span>
                   </div>
-                  <div className="flex items-center justify-between text-xs text-muted-foreground">
-                    <div>
-                      Period<br />
-                      <span className="font-medium text-foreground">{item.start_time} -<br />{item.restoration_time}</span>
+                  <div className="flex items-start justify-between text-sm gap-4">
+                    <div className="flex-1">
+                      <span className="text-xs font-medium text-neutral-500 uppercase tracking-wide">Period</span>
+                      <p className="font-medium text-neutral-900 mt-1">{item.start_time} -<br />{item.restoration_time}</p>
                     </div>
-                    <div className="text-right">
-                      Reason<br />
-                      <span className="font-medium text-foreground">{item.reason}</span>
+                    <div className="text-right flex-1">
+                      <span className="text-xs font-medium text-neutral-500 uppercase tracking-wide">Reason</span>
+                      <p className="font-medium text-neutral-900 mt-1">{item.reason}</p>
                     </div>
                   </div>
                 </div>
@@ -374,8 +390,8 @@ export default function Home(): React.ReactElement {
           )}
           {/* Show no results message if search yields no data but there is data (mobile only) */}
           {data.length > 0 && filteredData.length === 0 && (
-            <div className="text-center text-muted-foreground py-8 block sm:hidden">
-              No results found for your search.
+            <div className="text-center py-16 block sm:hidden">
+              <p className="text-neutral-600">No results found for your search.</p>
             </div>
           )}
           {/* Desktop Table Layout */}
@@ -397,8 +413,8 @@ export default function Home(): React.ReactElement {
               )}
               {/* Show no results message if search yields no data but there is data (desktop only) */}
               {data.length > 0 && filteredData.length === 0 && (
-                <div className="text-center text-muted-foreground py-8">
-                  No results found for your search.
+                <div className="text-center py-16">
+                  <p className="text-neutral-600">No results found for your search.</p>
                 </div>
               )}
             </div>

@@ -45,7 +45,7 @@ export function DataTable<TData, TValue>({
 
   return (
     <div>
-      <div className="rounded-xl border bg-card/50 backdrop-blur-sm">
+      <div className="rounded-xl border border-neutral-200/60 bg-white shadow-sm hover:shadow-md transition-shadow duration-200">
         <div className="overflow-x-auto">
           <Table>
             <TableHeader>
@@ -62,7 +62,7 @@ export function DataTable<TData, TValue>({
                           <div
                             className={
                               header.column.getCanSort()
-                                ? `cursor-pointer select-none flex items-center ${isTimeColumn ? 'justify-end' : ''}`
+                                ? `cursor-pointer select-none flex items-center gap-2 hover:text-neutral-900 transition-colors ${isTimeColumn ? 'justify-end' : ''}`
                                 : isTimeColumn ? 'flex justify-end' : ''
                             }
                             onClick={header.column.getToggleSortingHandler()}
@@ -75,7 +75,7 @@ export function DataTable<TData, TValue>({
                               header.getContext()
                             )}
                             {header.column.getCanSort() && (
-                              <ArrowUpDown className="ml-2 h-icon-sm w-icon-sm text-muted-foreground" />
+                              <ArrowUpDown className="h-4 w-4 text-neutral-400" />
                             )}
                           </div>
                         )}
@@ -95,7 +95,7 @@ export function DataTable<TData, TValue>({
                         <TableCell
                           key={cell.id}
                           className={`
-                            ${cell.column.id === 'area' ? 'min-w-col-sm sm:min-w-col-md break-words' : ''}
+                            ${cell.column.id === 'area' ? 'min-w-col-sm sm:min-w-col-md break-words font-semibold text-neutral-900' : ''}
                             ${cell.column.id === 'feeder' ? 'min-w-col-sm break-words' : ''}
                             ${cell.column.id === 'start_time' ? 'min-w-col-sm sm:min-w-col-md break-words text-right' : ''}
                             ${cell.column.id === 'restoration_time' ? 'min-w-col-sm sm:min-w-col-md break-words text-right' : ''}
@@ -115,7 +115,7 @@ export function DataTable<TData, TValue>({
                 <TableRow>
                   <TableCell
                     colSpan={columns.length}
-                    className="h-24 text-center text-muted-foreground"
+                    className="h-24 text-center text-neutral-600"
                   >
                     No results.
                   </TableCell>
