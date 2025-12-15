@@ -352,27 +352,24 @@ export default function Home(): React.ReactElement {
       </Script>
       <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
         <div className="flex flex-col gap-6">
-          {/* District Selector */}
-          <div className="w-full sm:w-auto">
-            <label htmlFor="district-select" className="block text-sm font-medium text-neutral-700 mb-2">
-              Select District
-            </label>
-            <select
-              id="district-select"
-              value={selectedDistrict}
-              onChange={(e) => setSelectedDistrict(e.target.value)}
-              className="w-full sm:w-64 px-4 py-2 border border-neutral-300 rounded-lg bg-white text-neutral-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all"
-            >
-              {DISTRICTS.map((district) => (
-                <option key={district.value} value={district.value}>
-                  {district.label}
-                </option>
-              ))}
-            </select>
-          </div>
-          {/* Page Title and Subtitle */}
+          {/* Page Title with District Selector */}
           <div className="space-y-3">
-            <h1 className="text-3xl sm:text-4xl font-bold text-neutral-950 tracking-tight">{currentDistrictName} Power Outage Information</h1>
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+              <h1 className="text-3xl sm:text-4xl font-bold text-neutral-950 tracking-tight">{currentDistrictName} Power Outage Information</h1>
+              <select
+                id="district-select"
+                value={selectedDistrict}
+                onChange={(e) => setSelectedDistrict(e.target.value)}
+                className="w-full sm:w-auto px-4 py-2 border border-neutral-300 rounded-lg bg-white text-neutral-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all text-sm sm:text-base"
+                aria-label="Select District"
+              >
+                {DISTRICTS.map((district) => (
+                  <option key={district.value} value={district.value}>
+                    {district.label}
+                  </option>
+                ))}
+              </select>
+            </div>
             {data.length > 0 && (
               <p className="text-base text-neutral-600 max-w-prose">
                 Real-time outage data, automatically refreshed every 5 minutes.
