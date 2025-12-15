@@ -4,9 +4,9 @@ import { Analytics } from '@vercel/analytics/react'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Faridabad Power Outage Information | DHBVN Live Updates',
-  description: 'Get real-time information about power outages in Faridabad. Track ongoing outages, restoration times, and affected areas powered by DHBVN data.',
-  keywords: ['Faridabad power outage',  'Faridabad electricity outage', 'power cut Faridabad', 'Faridabad electricity status', 'Faridabad electricity updates', 'power restoration Faridabad'],
+  title: 'DHBVN Power Outage Information | Haryana Live Updates',
+  description: 'Get real-time information about power outages across Haryana districts. Track ongoing outages, restoration times, and affected areas powered by DHBVN data.',
+  keywords: ['DHBVN power outage', 'Haryana electricity outage', 'power cut Haryana', 'Faridabad power outage', 'Gurugram power outage', 'Hisar power outage', 'DHBVN live updates', 'power restoration Haryana'],
   alternates: {
     canonical: 'https://dhbvn.vercel.app',
   },
@@ -18,8 +18,8 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     url: 'https://dhbvn.vercel.app',
-    title: 'Faridabad Power Outage Tracker | Real-time Updates',
-    description: 'Track real-time power outages in Faridabad with location, feeder details, start times and expected restoration times.',
+    title: 'DHBVN Power Outage Tracker | Real-time Updates',
+    description: 'Track real-time power outages across Haryana districts including Faridabad, Gurugram, Hisar, and more with location, feeder details, and expected restoration times.',
     siteName: 'DHBVN Outage Tracker',
     images: [
       {
@@ -32,8 +32,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary',
-    title: 'Faridabad Power Outage Information',
-    description: 'Real-time updates on power outages in Faridabad areas',
+    title: 'DHBVN Power Outage Information | Haryana',
+    description: 'Real-time updates on power outages across Haryana districts',
     images: ['https://www.dhbvn.org.in/RAPDRP-Redesign-theme/images/favicon.ico'],
   },
 }
