@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Premium Background - Off-white, not pure white */
+    --background: 210 20% 98%;  /* #fafbfc - warmer than pure white */
+    --foreground: 222 47% 11%;  /* #1f2933 - darkest text */
+
+    /* Card - Pure white for contrast */
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+
+    /* Premium Indigo Primary Palette */
+    --primary-50: 239 100% 97%;   /* #eef2ff */
+    --primary-100: 239 84% 94%;   /* #e0e7ff */
+    --primary-200: 239 84% 90%;   /* #c7d2fe */
+    --primary-300: 239 84% 82%;   /* #a5b4fc */
+    --primary-400: 239 84% 74%;   /* #818cf8 */
+    --primary-500: 239 84% 67%;   /* #6366f1 - Main brand */
+    --primary-600: 239 84% 58%;   /* #4f46e5 */
+    --primary-700: 239 84% 53%;   /* #4338ca */
+    --primary-800: 239 67% 52%;   /* #3730a3 */
+    --primary-900: 239 67% 44%;   /* #312e81 */
+
+    --primary: 239 84% 67%;        /* primary-500 */
+    --primary-foreground: 0 0% 100%;
+
+    /* Sophisticated Neutrals - Warmer tones */
+    --neutral-0: 0 0% 100%;        /* #ffffff */
+    --neutral-50: 210 20% 98%;     /* #fafbfc */
+    --neutral-100: 210 17% 98%;    /* #f5f7fa */
+    --neutral-200: 214 15% 91%;    /* #e4e7eb */
+    --neutral-300: 213 13% 83%;    /* #cbd2d9 */
+    --neutral-400: 211 10% 71%;    /* #9aa5b1 */
+    --neutral-500: 211 12% 63%;    /* #7b8794 */
+    --neutral-600: 209 14% 56%;    /* #616e7c */
+    --neutral-700: 209 18% 50%;    /* #52606d */
+    --neutral-800: 209 20% 43%;    /* #3e4c59 */
+    --neutral-900: 210 24% 37%;    /* #323f4b */
+    --neutral-950: 222 47% 11%;    /* #1f2933 */
+
+    --secondary: 210 17% 98%;
+    --secondary-foreground: 222 47% 11%;
+
+    --muted: 210 17% 98%;
+    --muted-foreground: 211 12% 63%;
+
+    /* Purple/Pink Accent */
+    --accent-500: 283 83% 64%;     /* #a855f7 */
+    --accent-600: 283 83% 56%;     /* #9333ea */
+    --accent: 283 83% 64%;
+    --accent-foreground: 0 0% 100%;
+
+    /* Semantic Colors */
+    --success-50: 152 81% 96%;     /* #ecfdf5 */
+    --success-500: 160 84% 39%;    /* #10b981 */
+    --success-600: 160 84% 32%;    /* #059669 */
+
+    --error-50: 0 86% 97%;         /* #fef2f2 */
+    --error-500: 0 72% 51%;        /* #ef4444 */
+    --error-600: 0 74% 42%;        /* #dc2626 */
+
+    --warning-50: 48 100% 96%;     /* #fffbeb */
+    --warning-500: 38 92% 50%;     /* #f59e0b */
+    --warning-600: 32 95% 44%;     /* #d97706 */
+
+    --destructive: 0 72% 51%;      /* error-500 */
+    --destructive-foreground: 0 0% 100%;
+
+    /* Subtle borders with transparency */
+    --border: 214 15% 91% / 0.6;   /* neutral-200 with 60% opacity */
+    --input: 214 15% 91%;
+    --ring: 239 84% 67%;            /* primary-500 */
+
+    --radius: 0.75rem;              /* 12px - larger for premium feel */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
+    line-height: 1.6;
+  }
+
+  /* Premium focus states */
+  *:focus-visible {
+    @apply outline-none ring-4 ring-primary-500/20 rounded;
+  }
+
+  /* Smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Better heading rendering */
+  h1, h2, h3, h4, h5, h6 {
+    @apply tracking-tight font-semibold text-neutral-900;
+  }
+
+  /* Reduced motion support */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+} 
