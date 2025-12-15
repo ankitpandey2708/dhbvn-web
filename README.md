@@ -2,16 +2,18 @@
 
 # DHBVN Power Outage Tracker
 
-Real-time information about power outages in Faridabad powered by DHBVN data.
+Real-time information about power outages across Haryana districts powered by DHBVN data.
 
 ## Features
 
-- Real-time tracking of power outages in Faridabad
+- **Multi-district support**: Track power outages across 12 Haryana districts (Faridabad, Gurugram, Hisar, Jind, Fatehabad, Sirsa, Bhiwani, Mahendargarh, Rewari, Nuh, Palwal, Charkhi Dadri)
+- **District selector dropdown**: Easily switch between districts to view their outage data
 - Search functionality to find outages by area or feeder
 - Display of outage start time and expected restoration time
 - Mobile-responsive design
-- Downloadable PDF reports
+- Downloadable PDF reports with district-specific titles
 - Auto-refreshing data (every 5 minutes)
+- Dynamic metadata and structured data based on selected district
 
 ## SEO Implementation
 
