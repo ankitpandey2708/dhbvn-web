@@ -1,0 +1,21 @@
+name: Check Outages and Send Notifications
+
+on:
+  schedule:
+    # Run every 15 minutes
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # Allow manual trigger for testing
+
+jobs:
+  check-outages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Call outage checker endpoint
+        run: |
+          curl -X GET "${{ secrets.APP_URL }}/api/cron/check-outages" \
+            -H "Authorization: Bearer ${{ secrets.CRON_SECRET }}" \
+            -f --silent --show-error || echo "Request failed"
+
+      - name: Log completion
+        run: echo "Outage check completed at $(date)"

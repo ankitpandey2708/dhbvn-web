@@ -98,7 +98,35 @@ vercel --prod
 
 ---
 
-### Step 5: Set Webhook (30 seconds)
+### Step 5: Configure GitHub Actions (1 minute)
+
+**Why GitHub Actions?** Vercel Hobby only allows daily cron jobs, but we need to check every 15 minutes. GitHub Actions is free and perfect for this!
+
+1. Go to your GitHub repo → **Settings** → **Secrets and variables** → **Actions**
+
+2. Click **New repository secret** and add these 2 secrets:
+
+   **Secret 1:**
+   - Name: `APP_URL`
+   - Value: `https://dhbvn.vercel.app`
+
+   **Secret 2:**
+   - Name: `CRON_SECRET`
+   - Value: (same random string you generated earlier)
+
+3. **That's it!** GitHub Actions will automatically run every 15 minutes after you push the code.
+
+**To verify it's working:**
+- Go to **Actions** tab in your repo
+- You'll see "Check Outages and Send Notifications" workflow
+- It runs every 15 minutes automatically
+
+**Manual trigger (for testing):**
+- Go to Actions → Select workflow → Click "Run workflow"
+
+---
+
+### Step 6: Set Webhook (30 seconds)
 
 After deployment, set your webhook URL:
 
@@ -125,7 +153,7 @@ You should see: `"url": "https://dhbvn.vercel.app/api/telegram/webhook"`
 
 ---
 
-### Step 6: Initialize Database (30 seconds)
+### Step 7: Initialize Database (30 seconds)
 
 ```bash
 # Connect to your database and run the schema
@@ -139,7 +167,7 @@ psql $POSTGRES_URL -f lib/database/schema.sql
 
 ---
 
-### Step 7: Test! (1 minute)
+### Step 8: Test! (1 minute)
 
 1. **Open your bot** in Telegram (link from BotFather)
 
