@@ -91,12 +91,14 @@ async function saveOutage(districtId: number, outage: DHBVNData): Promise<void> 
 async function markResolved(hashes: string[]): Promise<OutageSnapshot[]> {
   if (hashes.length === 0) return [];
 
-  const result = await sql`
-    UPDATE outage_snapshots
-    SET is_resolved = true, last_seen = NOW()
-    WHERE outage_hash = ANY(${hashes}) AND is_resolved = false
-    RETURNING *
-  `;
+  // Use parameterized query for array parameter
+  const result = await sql.query(
+    `UPDATE outage_snapshots
+     SET is_resolved = true, last_seen = NOW()
+     WHERE outage_hash = ANY($1) AND is_resolved = false
+     RETURNING *`,
+    [hashes]
+  );
 
   return result.rows as OutageSnapshot[];
 }
@@ -158,21 +160,29 @@ export async function cleanupOldOutages(daysOld: number = 30): Promise<number> {
     AND last_seen < NOW() - INTERVAL '${daysOld} days'
   `;
 
-  return result.rowCount;
+  return result.rowCount ?? 0;
 }
 
 // Get outage statistics
 export async function getOutageStats(districtId?: number) {
-  const condition = districtId ? sql`WHERE district_id = ${districtId}` : sql``;
-
-  const result = await sql`
-    SELECT
-      COUNT(*) FILTER (WHERE is_resolved = false) as active_count,
-      COUNT(*) FILTER (WHERE is_resolved = true) as resolved_count,
-      COUNT(DISTINCT district_id) as affected_districts
-    FROM outage_snapshots
-    ${condition}
-  `;
-
-  return result.rows[0];
+  if (districtId) {
+    const result = await sql`
+      SELECT
+        COUNT(*) FILTER (WHERE is_resolved = false) as active_count,
+        COUNT(*) FILTER (WHERE is_resolved = true) as resolved_count,
+        COUNT(DISTINCT district_id) as affected_districts
+      FROM outage_snapshots
+      WHERE district_id = ${districtId}
+    `;
+    return result.rows[0];
+  } else {
+    const result = await sql`
+      SELECT
+        COUNT(*) FILTER (WHERE is_resolved = false) as active_count,
+        COUNT(*) FILTER (WHERE is_resolved = true) as resolved_count,
+        COUNT(DISTINCT district_id) as affected_districts
+      FROM outage_snapshots
+    `;
+    return result.rows[0];
+  }
 }

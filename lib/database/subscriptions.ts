@@ -101,7 +101,7 @@ export async function unsubscribe(chatId: string): Promise<boolean> {
     WHERE chat_id = ${chatId}
   `;
 
-  return result.rowCount > 0;
+  return (result.rowCount ?? 0) > 0;
 }
 
 // Resubscribe a user (in case they stopped and want to restart)
@@ -112,7 +112,7 @@ export async function resubscribe(chatId: string): Promise<boolean> {
     WHERE chat_id = ${chatId}
   `;
 
-  return result.rowCount > 0;
+  return (result.rowCount ?? 0) > 0;
 }
 
 // Update last notification sent timestamp

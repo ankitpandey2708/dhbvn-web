@@ -50,7 +50,7 @@ async function processDistrict(districtId: number, districtName: string) {
 
   if (subscribers.length === 0) {
     console.log(`No subscribers for district ${districtId}`);
-    return { districtId, districtName, subscribers: 0, newOutages: 0, resolved: 0 };
+    return { districtId, districtName, subscribers: 0, newOutages: 0, resolved: 0, sent: 0, failed: 0 };
   }
 
   const notifications: Array<{ chatId: string; message: string }> = [];
