@@ -67,6 +67,21 @@ Send Notifications (batch to subscribers)
 
 ## Quick Start
 
+### 🚀 Fastest Way: Twilio (15 minutes)
+
+Perfect for testing and small-medium scale deployment:
+
+1. **Sign up at Twilio:** https://www.twilio.com/try-twilio (Get $15 free credit)
+2. **Enable WhatsApp Sandbox:** Console → Messaging → Send WhatsApp message
+3. **Get credentials:** Copy Account SID, Auth Token, WhatsApp Number
+4. **Deploy:** Follow [TWILIO_QUICKSTART.md](./TWILIO_QUICKSTART.md) for detailed steps
+
+**→ See [TWILIO_QUICKSTART.md](./TWILIO_QUICKSTART.md) for complete 15-minute setup guide**
+
+### 📈 For Production Scale: Meta Cloud API
+
+Better for large-scale deployment (5,000+ users):
+
 1. **Install dependencies:**
    ```bash
    npm install
@@ -75,7 +90,7 @@ Send Notifications (batch to subscribers)
 2. **Set up environment variables:**
    ```bash
    cp .env.example .env.local
-   # Fill in your WhatsApp and database credentials
+   # Fill in your Meta WhatsApp credentials
    ```
 
 3. **Initialize database:**
@@ -88,14 +103,17 @@ Send Notifications (batch to subscribers)
    vercel --prod
    ```
 
-5. **Configure webhook** in Meta/Twilio dashboard:
+5. **Configure webhook** in Meta dashboard:
    ```
    https://dhbvn.vercel.app/api/whatsapp/webhook
    ```
 
+**→ See [WHATSAPP_BOT_SETUP.md](./WHATSAPP_BOT_SETUP.md) for complete setup guide**
+
 ## Documentation
 
-- **Setup Guide:** [WHATSAPP_BOT_SETUP.md](./WHATSAPP_BOT_SETUP.md) - Complete step-by-step deployment guide
+- **Quick Start (Twilio):** [TWILIO_QUICKSTART.md](./TWILIO_QUICKSTART.md) - Get started in 15 minutes ⭐
+- **Complete Setup Guide:** [WHATSAPP_BOT_SETUP.md](./WHATSAPP_BOT_SETUP.md) - Detailed deployment for both providers
 - **Implementation Plan:** [WHATSAPP_BOT_PLAN.md](./WHATSAPP_BOT_PLAN.md) - Technical specs and design decisions
 - **Architecture:** [WHATSAPP_BOT_ARCHITECTURE.md](./WHATSAPP_BOT_ARCHITECTURE.md) - System diagrams and flows
 

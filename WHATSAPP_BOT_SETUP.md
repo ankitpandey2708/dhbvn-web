@@ -26,21 +26,74 @@ This will install the new dependencies:
 
 ### Step 2: Choose Your WhatsApp Provider
 
-**Option A: Meta Cloud API (Recommended - Free tier)**
-- ✅ 1,000 free conversations/month
-- ✅ Interactive lists and buttons
-- ❌ Requires business verification (takes 2-3 days)
-
-**Option B: Twilio (Easier setup)**
-- ✅ Quick setup (instant sandbox)
-- ✅ Great for testing
+**Option A: Twilio (Recommended for Quick Start) ⭐**
+- ✅ Instant setup (15 minutes with sandbox)
+- ✅ No business verification needed
+- ✅ Great for testing and small scale
+- ✅ Reliable infrastructure
 - ❌ Costs $0.005-$0.02 per message
 
-**👉 Choose Meta for production, Twilio for quick testing**
+**Option B: Meta Cloud API (Best for Scale)**
+- ✅ 1,000 free conversations/month
+- ✅ Interactive lists and buttons
+- ✅ Lower costs at scale
+- ❌ Requires business verification (takes 2-3 days)
+- ❌ More complex setup
+
+**👉 Start with Twilio to test quickly, migrate to Meta for production scale**
 
 ---
 
-## 📱 Meta Cloud API Setup (Recommended)
+## 📞 Twilio Setup (Recommended - 15 minutes) ⭐
+
+### 1. Create Twilio Account (3 minutes)
+
+1. Sign up at https://www.twilio.com/try-twilio
+2. Verify your email and phone number
+3. You'll get $15 free trial credit
+
+### 2. Enable WhatsApp Sandbox (2 minutes)
+
+1. Go to Console → Messaging → Try it out → Send a WhatsApp message
+2. You'll see a QR code and join code
+3. Scan the QR code or:
+   - Open WhatsApp
+   - Send the join code (e.g., "join xyz-123") to the Twilio sandbox number
+   - You'll receive a confirmation message
+
+**Note:** Sandbox is perfect for testing. For production, you can request your own WhatsApp number.
+
+### 3. Get Your Credentials (2 minutes)
+
+From the Twilio Console dashboard, copy these values:
+
+```bash
+Account SID: ACxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx (found on dashboard)
+Auth Token: Click "View" to reveal (found on dashboard)
+WhatsApp Number: whatsapp:+14155238886 (your sandbox number)
+```
+
+### 4. Configure Webhook (3 minutes)
+
+1. Go to Console → Messaging → Settings → WhatsApp sandbox settings
+2. Under "When a message comes in", enter:
+   ```
+   https://dhbvn.vercel.app/api/whatsapp/webhook
+   ```
+3. Method: **POST**
+4. Click **Save**
+
+**That's it!** You're ready to receive messages. ✅
+
+### 5. Test Your Setup (2 minutes)
+
+1. Send "Hi" to your Twilio WhatsApp number
+2. You should see the webhook being called in Vercel logs
+3. Bot will respond once deployed (see deployment steps below)
+
+---
+
+## 📱 Meta Cloud API Setup (Alternative - For Scale)
 
 ### 1. Create Meta Business Account (5 minutes)
 
@@ -90,37 +143,6 @@ For testing, the temporary token works. For production:
 
 ---
 
-## 📞 Twilio Setup (Alternative)
-
-### 1. Create Twilio Account
-
-1. Sign up at https://www.twilio.com/try-twilio
-2. Verify your email and phone number
-
-### 2. Enable WhatsApp Sandbox
-
-1. Go to Console → Messaging → Try it out → Send a WhatsApp message
-2. Follow instructions to join your WhatsApp sandbox
-3. Send the code (e.g., "join xyz-123") to the Twilio number
-
-### 3. Get Your Credentials
-
-```
-Account SID: Found in console dashboard
-Auth Token: Found in console dashboard
-WhatsApp Number: e.g., whatsapp:+14155238886
-```
-
-### 4. Configure Webhook
-
-1. Go to Console → Messaging → Settings → WhatsApp sandbox settings
-2. Enter your webhook URL:
-   ```
-   https://dhbvn.vercel.app/api/whatsapp/webhook
-   ```
-
----
-
 ## 🗄️ Database Setup (5 minutes)
 
 ### Option A: Vercel Postgres (Easiest)
@@ -163,7 +185,34 @@ cp .env.example .env.local
 
 ### 2. Fill in all values
 
-#### For Meta Cloud API:
+#### For Twilio (Recommended): ⭐
+
+```env
+# Application
+NEXT_PUBLIC_BASE_URL=https://dhbvn.vercel.app
+
+# WhatsApp Provider
+WHATSAPP_PROVIDER=twilio
+
+# Twilio Credentials (from your Twilio dashboard)
+TWILIO_ACCOUNT_SID=ACxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+TWILIO_AUTH_TOKEN=your_auth_token_here
+TWILIO_WHATSAPP_NUMBER=whatsapp:+14155238886
+TWILIO_WEBHOOK_URL=https://dhbvn.vercel.app/api/whatsapp/webhook
+
+# Cron Security (generate random string)
+CRON_SECRET=generate_random_string_here
+
+# Database (automatically set by Vercel if using Vercel Postgres)
+# POSTGRES_URL=postgres://...
+```
+
+**Quick tip:** Generate CRON_SECRET with:
+```bash
+openssl rand -base64 32
+```
+
+#### For Meta Cloud API (Alternative):
 
 ```env
 # Application
@@ -177,27 +226,6 @@ WHATSAPP_PHONE_NUMBER_ID=123456789012345
 WHATSAPP_ACCESS_TOKEN=EAAxxxxxxxxxxxxx
 WHATSAPP_VERIFY_TOKEN=my_secret_verify_token_123
 WHATSAPP_APP_SECRET=abc123def456
-
-# Cron Security
-CRON_SECRET=generate_random_string_here
-
-# Database (automatically set by Vercel if using Vercel Postgres)
-# POSTGRES_URL=postgres://...
-```
-
-#### For Twilio:
-
-```env
-# Application
-NEXT_PUBLIC_BASE_URL=https://dhbvn.vercel.app
-
-# WhatsApp Provider
-WHATSAPP_PROVIDER=twilio
-
-# Twilio Credentials
-TWILIO_ACCOUNT_SID=ACxxxxxxxxxxxxxxxx
-TWILIO_AUTH_TOKEN=your_auth_token
-TWILIO_WHATSAPP_NUMBER=whatsapp:+14155238886
 
 # Cron Security
 CRON_SECRET=generate_random_string_here

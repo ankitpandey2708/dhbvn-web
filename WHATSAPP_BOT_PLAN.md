@@ -55,36 +55,51 @@ Bot (auto-sent): "⚠️ New Outage Alert - Faridabad
 
 ## 🔧 Technical Architecture
 
-### Option 1: Meta WhatsApp Cloud API (Recommended)
+### Option 1: Twilio WhatsApp API (Recommended for Quick Start) ⭐
 **Pros:**
-- Free tier: 1,000 conversations/month
-- Official WhatsApp integration
-- Interactive buttons & lists support
-- No additional costs for development
+- ✅ Instant setup (15 minutes with sandbox)
+- ✅ Excellent documentation and support
+- ✅ Reliable infrastructure (99.95% uptime)
+- ✅ Great for testing and MVP
+- ✅ Easy to upgrade to production number
+- ✅ No business verification needed for sandbox
 
 **Cons:**
-- Requires Meta Business verification
-- Setup complexity (2-3 days)
+- ❌ Costs: $0.005 per inbound, $0.02 per outbound message
+- ❌ Sandbox has Twilio branding
+- ❌ Text-based interactions only (no interactive lists)
 
-### Option 2: Twilio WhatsApp Business API
+**Best for:** Quick prototyping, testing, small to medium scale (< 5,000 users)
+
+**💰 Cost for 1,000 users:** ~$600/month (3 notifications/user/month)
+
+### Option 2: Meta WhatsApp Cloud API (Best for Scale)
 **Pros:**
-- Easy setup (1 hour)
-- Great documentation
-- Reliable infrastructure
+- ✅ Free tier: 1,000 conversations/month
+- ✅ Official WhatsApp integration
+- ✅ Interactive buttons & lists support
+- ✅ Better branding (no provider watermark)
+- ✅ Lower costs at scale
 
 **Cons:**
-- Costs: $0.005-$0.02 per message
-- Limited interactive features on sandbox
+- ❌ Requires Meta Business verification (2-3 days)
+- ❌ More complex setup
+- ❌ Stricter content policies
 
-### Option 3: Baileys (Open Source Library)
+**Best for:** Production at scale (> 5,000 users), better user experience
+
+**💰 Cost for 1,000 users:** ~$264/month (after free tier)
+
+### Option 3: Baileys (Open Source Library) - ❌ NOT RECOMMENDED
 **Pros:**
 - Completely free
 - Full WhatsApp Web API control
 
 **Cons:**
-- Against WhatsApp ToS (risk of ban)
-- Requires constant QR code refresh
-- Not recommended for production
+- ❌ Against WhatsApp ToS (risk of ban)
+- ❌ Requires constant QR code refresh
+- ❌ Not suitable for production
+- ❌ No support or reliability guarantees
 
 ---
 
@@ -300,26 +315,52 @@ ${outages.map((o, i) => `${i + 1}. ${formatOutageMessage(o)}`).join('\n---\n')}
 
 ## 💰 Cost Estimation
 
-### Meta Cloud API Pricing
-- First 1,000 conversations/month: **Free**
-- Business-initiated: $0.0088/conversation
-- User-initiated: Free
+### Twilio Pricing (Recommended for Start)
+- **Inbound messages:** $0.005/message
+- **Outbound messages:** $0.02/message
+- **Free trial:** $15 credit (covers ~750 outbound messages)
 
-**Estimated for 1,000 subscribers:**
-- ~30,000 notifications/month (3 outages/subscriber/month)
-- Cost: ~$264/month
+**Cost by User Scale:**
 
-### Twilio Pricing
-- Inbound messages: $0.005/message
-- Outbound messages: $0.02/message
+| Users | Monthly Messages | Cost/Month | Notes |
+|-------|-----------------|------------|-------|
+| 10 | ~90 | **$1.80** | Free trial covers months |
+| 100 | ~900 | **$18** | Great for testing |
+| 1,000 | ~9,000 | **$180** | Consider Meta at this scale |
+| 5,000 | ~45,000 | **$900** | Migrate to Meta recommended |
 
-**Estimated for 1,000 subscribers:**
-- ~30,000 notifications/month
-- Cost: ~$600/month
+*Assumes 3 outages/user/month + setup messages*
 
-### Infrastructure Costs
-- Vercel Pro (for cron jobs): **Free** on Hobby tier (60 cron executions/day limit)
-- Database (Vercel Postgres/Supabase): **Free** tier sufficient for < 5,000 users
+**Best for:** Testing, MVP, < 1,000 users
+
+### Meta Cloud API Pricing (Best for Scale)
+- **First 1,000 conversations/month:** **Free**
+- **Business-initiated:** $0.0088/conversation
+- **User-initiated:** Free
+
+**Cost by User Scale:**
+
+| Users | Monthly Conversations | Cost/Month | Notes |
+|-------|---------------------|------------|-------|
+| 10 | ~30 | **Free** | Under free tier |
+| 100 | ~300 | **Free** | Under free tier |
+| 1,000 | ~3,000 | **$17.60** | After free tier |
+| 5,000 | ~15,000 | **$123.20** | Much cheaper than Twilio |
+
+**Best for:** Production, > 1,000 users, cost optimization
+
+### Infrastructure Costs (Both Providers)
+- **Vercel:** **Free** on Hobby tier (sufficient for < 10,000 users)
+- **Database:** **Free** tier (Vercel Postgres or Supabase)
+  - Vercel Postgres: 256MB free (~ 5,000 users)
+  - Supabase: 500MB free (~ 10,000 users)
+
+### 💡 Cost Optimization Strategy
+
+1. **Start (0-100 users):** Twilio - Easy setup, free trial covers costs
+2. **Growth (100-1,000 users):** Twilio - $180/month is manageable
+3. **Scale (1,000+ users):** Migrate to Meta - Save ~85% on messaging costs
+4. **Enterprise (10,000+ users):** Meta + optimize cron frequency
 
 ---
 
@@ -393,19 +434,47 @@ ${outages.map((o, i) => `${i + 1}. ${formatOutageMessage(o)}`).join('\n---\n')}
 
 ## 🎯 Recommended Tech Stack
 
+### For Quick Start & Testing
 ```json
 {
-  "whatsapp": "Meta Cloud API",
+  "whatsapp": "Twilio",
   "database": "Vercel Postgres",
   "scheduler": "Vercel Cron",
   "deployment": "Vercel (existing)",
   "additional-deps": [
-    "whatsapp-api-js",  // Meta Cloud API client
     "@vercel/postgres",  // Database
-    "zod",  // Already installed - for validation
-    "node-cache"  // For rate limiting
+    "node-cache",  // Rate limiting
+    "zod"  // Already installed - validation
   ]
 }
+```
+
+**Why Twilio?**
+- ✅ 15-minute setup with sandbox
+- ✅ No business verification needed
+- ✅ $15 free trial credit
+- ✅ Perfect for testing and MVP
+
+### For Production Scale (1,000+ users)
+```json
+{
+  "whatsapp": "Meta Cloud API",
+  "database": "Vercel Postgres or Supabase",
+  "scheduler": "Vercel Cron",
+  "deployment": "Vercel (existing)",
+  "additional-deps": [
+    "@vercel/postgres",  // Database
+    "node-cache",  // Rate limiting
+    "zod"  // Already installed - validation
+  ]
+}
+```
+
+**Why Meta?**
+- ✅ 1,000 free conversations/month
+- ✅ Interactive lists and buttons
+- ✅ Lower costs at scale (~85% cheaper)
+- ✅ Better user experience
 ```
 
 ---
