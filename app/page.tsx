@@ -360,10 +360,7 @@ export default function Home(): React.ReactElement {
             <select
               id="district-select"
               value={selectedDistrict}
-              onChange={(e) => {
-                setSelectedDistrict(e.target.value);
-                setLoading(true);
-              }}
+              onChange={(e) => setSelectedDistrict(e.target.value)}
               className="w-full sm:w-64 px-4 py-2 border border-neutral-300 rounded-lg bg-white text-neutral-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all"
             >
               {DISTRICTS.map((district) => (
