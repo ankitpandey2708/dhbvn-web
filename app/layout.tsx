@@ -38,6 +38,11 @@ export const metadata: Metadata = {
   },
 }
 
+export const viewport = {
+  width: 'device-width',
+  initialScale: 1.0,
+}
+
 export default function RootLayout({
   children,
 }: {
@@ -50,7 +55,6 @@ export default function RootLayout({
           rel="icon"
           href="https://www.dhbvn.org.in/RAPDRP-Redesign-theme/images/favicon.ico"
         />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </head>
       <body className="font-sans selection:bg-accent selection:text-accent-foreground">
         {children}
