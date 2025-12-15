@@ -1,10 +1,11 @@
-// Database operations for WhatsApp subscriptions
+// Database operations for Telegram subscriptions
 
 import { sql } from '@vercel/postgres';
 
 export interface Subscription {
   id: number;
-  phone_number: string;
+  chat_id: string;
+  username: string | null;
   district_id: number;
   district_name: string;
   subscribed_at: Date;
@@ -37,18 +38,20 @@ export function getDistrictName(districtId: number): string {
 
 // Create or update a subscription
 export async function upsertSubscription(
-  phoneNumber: string,
-  districtId: number
+  chatId: string,
+  districtId: number,
+  username?: string
 ): Promise<Subscription> {
   const districtName = getDistrictName(districtId);
 
   const result = await sql`
-    INSERT INTO whatsapp_subscriptions (phone_number, district_id, district_name, is_active)
-    VALUES (${phoneNumber}, ${districtId}, ${districtName}, true)
-    ON CONFLICT (phone_number)
+    INSERT INTO telegram_subscriptions (chat_id, username, district_id, district_name, is_active)
+    VALUES (${chatId}, ${username || null}, ${districtId}, ${districtName}, true)
+    ON CONFLICT (chat_id)
     DO UPDATE SET
       district_id = ${districtId},
       district_name = ${districtName},
+      username = ${username || null},
       is_active = true,
       updated_at = NOW()
     RETURNING *
@@ -57,11 +60,11 @@ export async function upsertSubscription(
   return result.rows[0] as Subscription;
 }
 
-// Get subscription by phone number
-export async function getSubscription(phoneNumber: string): Promise<Subscription | null> {
+// Get subscription by chat ID
+export async function getSubscription(chatId: string): Promise<Subscription | null> {
   const result = await sql`
-    SELECT * FROM whatsapp_subscriptions
-    WHERE phone_number = ${phoneNumber}
+    SELECT * FROM telegram_subscriptions
+    WHERE chat_id = ${chatId}
   `;
 
   return result.rows[0] as Subscription || null;
@@ -70,7 +73,7 @@ export async function getSubscription(phoneNumber: string): Promise<Subscription
 // Get all active subscriptions for a district
 export async function getSubscriptionsByDistrict(districtId: number): Promise<Subscription[]> {
   const result = await sql`
-    SELECT * FROM whatsapp_subscriptions
+    SELECT * FROM telegram_subscriptions
     WHERE district_id = ${districtId} AND is_active = true
     ORDER BY subscribed_at DESC
   `;
@@ -82,7 +85,7 @@ export async function getSubscriptionsByDistrict(districtId: number): Promise<Su
 export async function getActiveDistricts(): Promise<number[]> {
   const result = await sql`
     SELECT DISTINCT district_id
-    FROM whatsapp_subscriptions
+    FROM telegram_subscriptions
     WHERE is_active = true
     ORDER BY district_id
   `;
@@ -91,33 +94,33 @@ export async function getActiveDistricts(): Promise<number[]> {
 }
 
 // Unsubscribe a user
-export async function unsubscribe(phoneNumber: string): Promise<boolean> {
+export async function unsubscribe(chatId: string): Promise<boolean> {
   const result = await sql`
-    UPDATE whatsapp_subscriptions
+    UPDATE telegram_subscriptions
     SET is_active = false, updated_at = NOW()
-    WHERE phone_number = ${phoneNumber}
+    WHERE chat_id = ${chatId}
   `;
 
   return result.rowCount > 0;
 }
 
 // Resubscribe a user (in case they stopped and want to restart)
-export async function resubscribe(phoneNumber: string): Promise<boolean> {
+export async function resubscribe(chatId: string): Promise<boolean> {
   const result = await sql`
-    UPDATE whatsapp_subscriptions
+    UPDATE telegram_subscriptions
     SET is_active = true, updated_at = NOW()
-    WHERE phone_number = ${phoneNumber}
+    WHERE chat_id = ${chatId}
   `;
 
   return result.rowCount > 0;
 }
 
 // Update last notification sent timestamp
-export async function updateLastNotification(phoneNumber: string): Promise<void> {
+export async function updateLastNotification(chatId: string): Promise<void> {
   await sql`
-    UPDATE whatsapp_subscriptions
+    UPDATE telegram_subscriptions
     SET last_notification_sent = NOW()
-    WHERE phone_number = ${phoneNumber}
+    WHERE chat_id = ${chatId}
   `;
 }
 
@@ -128,7 +131,7 @@ export async function getStats() {
       COUNT(*) as total_subscriptions,
       COUNT(*) FILTER (WHERE is_active = true) as active_subscriptions,
       COUNT(DISTINCT district_id) FILTER (WHERE is_active = true) as active_districts
-    FROM whatsapp_subscriptions
+    FROM telegram_subscriptions
   `;
 
   return result.rows[0];
@@ -141,7 +144,7 @@ export async function getDistrictStats() {
       district_id,
       district_name,
       COUNT(*) as subscriber_count
-    FROM whatsapp_subscriptions
+    FROM telegram_subscriptions
     WHERE is_active = true
     GROUP BY district_id, district_name
     ORDER BY subscriber_count DESC

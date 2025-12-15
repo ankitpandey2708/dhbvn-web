@@ -1,9 +1,10 @@
--- WhatsApp Bot Database Schema for DHBVN
+-- Telegram Bot Database Schema for DHBVN
 
 -- Table: User subscriptions
-CREATE TABLE IF NOT EXISTS whatsapp_subscriptions (
+CREATE TABLE IF NOT EXISTS telegram_subscriptions (
   id SERIAL PRIMARY KEY,
-  phone_number VARCHAR(20) UNIQUE NOT NULL,
+  chat_id VARCHAR(50) UNIQUE NOT NULL,
+  username VARCHAR(100),
   district_id INTEGER NOT NULL CHECK (district_id BETWEEN 1 AND 12),
   district_name VARCHAR(50) NOT NULL,
   subscribed_at TIMESTAMP DEFAULT NOW(),
@@ -31,10 +32,10 @@ CREATE TABLE IF NOT EXISTS outage_snapshots (
 
 -- Indexes for performance
 CREATE INDEX IF NOT EXISTS idx_active_subscriptions
-  ON whatsapp_subscriptions(is_active, district_id);
+  ON telegram_subscriptions(is_active, district_id);
 
-CREATE INDEX IF NOT EXISTS idx_phone_lookup
-  ON whatsapp_subscriptions(phone_number);
+CREATE INDEX IF NOT EXISTS idx_chat_lookup
+  ON telegram_subscriptions(chat_id);
 
 CREATE INDEX IF NOT EXISTS idx_district_active
   ON outage_snapshots(district_id, is_resolved);
@@ -51,12 +52,12 @@ BEGIN
 END;
 $$ language 'plpgsql';
 
-CREATE TRIGGER update_whatsapp_subscriptions_updated_at
-  BEFORE UPDATE ON whatsapp_subscriptions
+CREATE TRIGGER update_telegram_subscriptions_updated_at
+  BEFORE UPDATE ON telegram_subscriptions
   FOR EACH ROW
   EXECUTE FUNCTION update_updated_at_column();
 
 -- Sample data for testing (optional)
 -- Uncomment to insert test subscription
--- INSERT INTO whatsapp_subscriptions (phone_number, district_id, district_name)
--- VALUES ('+919999999999', 10, 'Faridabad');
+-- INSERT INTO telegram_subscriptions (chat_id, username, district_id, district_name)
+-- VALUES ('123456789', 'testuser', 10, 'Faridabad');

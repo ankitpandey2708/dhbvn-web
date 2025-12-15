@@ -10,8 +10,8 @@ import {
   detectOutageChanges,
   DHBVNData,
 } from '@/lib/database/outages';
-import { sendBatchMessages } from '@/lib/whatsapp/client';
-import * as templates from '@/lib/whatsapp/templates';
+import { sendBatchMessages } from '@/lib/messaging/telegram-client';
+import * as templates from '@/lib/messaging/telegram-templates';
 
 // Fetch outages from the DHBVN API
 async function fetchOutagesForDistrict(districtId: number): Promise<DHBVNData[]> {
@@ -53,7 +53,7 @@ async function processDistrict(districtId: number, districtName: string) {
     return { districtId, districtName, subscribers: 0, newOutages: 0, resolved: 0 };
   }
 
-  const notifications: Array<{ phone: string; message: string }> = [];
+  const notifications: Array<{ chatId: string; message: string }> = [];
 
   // Send notifications for new outages
   if (changes.new.length > 0) {
@@ -61,7 +61,7 @@ async function processDistrict(districtId: number, districtName: string) {
 
     for (const subscriber of subscribers) {
       notifications.push({
-        phone: subscriber.phone_number,
+        chatId: subscriber.chat_id,
         message,
       });
     }
@@ -80,7 +80,7 @@ async function processDistrict(districtId: number, districtName: string) {
 
       for (const subscriber of subscribers) {
         notifications.push({
-          phone: subscriber.phone_number,
+          chatId: subscriber.chat_id,
           message,
         });
       }
@@ -91,7 +91,7 @@ async function processDistrict(districtId: number, districtName: string) {
 
   // Send all notifications in batch
   if (notifications.length > 0) {
-    const results = await sendBatchMessages(notifications, 80);
+    const results = await sendBatchMessages(notifications);
     console.log(`Sent ${results.success}/${notifications.length} notifications for ${districtName}`);
 
     return {

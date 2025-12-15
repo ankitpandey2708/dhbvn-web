@@ -16,17 +16,18 @@ Real-time information about power outages across Haryana districts powered by DH
 - Auto-refreshing data (every 5 minutes)
 - Dynamic metadata and structured data based on selected district
 
-### WhatsApp Bot 📱 NEW!
-- **Real-time notifications**: Get instant alerts on WhatsApp when power outages occur or are restored
+### Telegram Bot 💬 NEW! **100% FREE**
+- **Real-time notifications**: Get instant alerts on Telegram when power outages occur or are restored
 - **District subscriptions**: Subscribe to alerts for your specific district
-- **Interactive commands**: STATUS, CHANGE, STOP, and more
+- **Interactive commands**: /start, /status, /change, /stop, and more
 - **Smart notifications**: Only notified of actual changes (new outages or restorations)
-- **Multi-provider support**: Works with Twilio (recommended) or Meta Cloud API
-- **Quick setup**: Get started in 15 minutes with Twilio
+- **Inline keyboards**: Beautiful button-based district selection
+- **5-minute setup**: Fastest bot setup, completely free forever!
+- **No limits**: Unlimited messages, unlimited users, $0/month
 
 **Quick Start:**
-- [15-Minute Twilio Setup](./TWILIO_QUICKSTART.md) ⭐ (Recommended for testing)
-- [Complete Documentation](./WHATSAPP_BOT_README.md) (Full guide for both providers)
+- [5-Minute Telegram Setup](./TELEGRAM_QUICKSTART.md) ⭐ (FREE FOREVER!)
+- Share your bot: `https://t.me/your_bot_username`
 
 ## SEO Implementation
 
