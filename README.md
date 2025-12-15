@@ -6,6 +6,7 @@ Real-time information about power outages across Haryana districts powered by DH
 
 ## Features
 
+### Web Application
 - **Multi-district support**: Track power outages across 12 Haryana districts (Faridabad, Gurugram, Hisar, Jind, Fatehabad, Sirsa, Bhiwani, Mahendargarh, Rewari, Nuh, Palwal, Charkhi Dadri)
 - **District selector dropdown**: Easily switch between districts to view their outage data
 - Search functionality to find outages by area or feeder
@@ -14,6 +15,15 @@ Real-time information about power outages across Haryana districts powered by DH
 - Downloadable PDF reports with district-specific titles
 - Auto-refreshing data (every 5 minutes)
 - Dynamic metadata and structured data based on selected district
+
+### WhatsApp Bot 📱 NEW!
+- **Real-time notifications**: Get instant alerts on WhatsApp when power outages occur or are restored
+- **District subscriptions**: Subscribe to alerts for your specific district
+- **Interactive commands**: STATUS, CHANGE, STOP, and more
+- **Smart notifications**: Only notified of actual changes (new outages or restorations)
+- **Multi-provider support**: Works with Meta Cloud API or Twilio
+
+[→ View WhatsApp Bot Documentation](./WHATSAPP_BOT_README.md)
 
 ## SEO Implementation
 
