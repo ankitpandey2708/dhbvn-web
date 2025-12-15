@@ -56,13 +56,23 @@ const headers = {
   'Content-Type': 'application/json'
 };
 
-const payload = {
-  "inputxml": "PD94bWwgdmVyc2lvbj0iMS4wIj8+PFJlcXVlc3QgVkVSU0lPTj0iMiIgTEFOR1VBR0VfSUQ9IjEiIExPQ0FUSU9OPSIiPjxDb21wYW55IENvbXBhbnlfSWQ9IjkzIiAvPjxQcm9qZWN0IFByb2plY3RfSWQ9IjMwNCIgLz48VXNlciBVc2VyX0lkPSJBbm9ueW1vdXMiIC8+PElVVkxvZ2luIElVVkxvZ2luX0lkPSJBbm9ueW1vdXMiIC8+PFJPTEUgUk9MRV9JRD0iMTU5NSIgLz48RXZlbnQgQ29udHJvbF9JZD0iMTMwNDA0IiAvPjxDaGlsZCBDb250cm9sX0lkPSIxMjU2ODEiIFJlcG9ydD0iSFRNTCIgQUNfSUQ9IjE2Mzk0NCI+PFBhcmVudCBDb250cm9sX0lkPSIxMzA0MDIiIFZhbHVlPSIxMCIgRGF0YV9Gb3JtX0lkPSIiLz48L0NoaWxkPjwvUmVxdWVzdD4=",
-  "DocVersion": "1"
-};
+// Helper function to generate the payload with a specific district value
+function generatePayload(districtValue: string = "10") {
+  const xmlTemplate = `<?xml version="1.0"?><Request VERSION="2" LANGUAGE_ID="1" LOCATION=""><Company Company_Id="93" /><Project Project_Id="304" /><User User_Id="Anonymous" /><IUVLogin IUVLogin_Id="Anonymous" /><ROLE ROLE_ID="1595" /><Event Control_Id="130404" /><Child Control_Id="125681" Report="HTML" AC_ID="163944"><Parent Control_Id="130402" Value="${districtValue}" Data_Form_Id=""/></Child></Request>`;
+  const encodedXml = Buffer.from(xmlTemplate).toString('base64');
 
-export async function GET() {
+  return {
+    "inputxml": encodedXml,
+    "DocVersion": "1"
+  };
+}
+
+export async function GET(request: Request) {
   try {
+    // Extract district value from query params, default to "10" (Faridabad)
+    const { searchParams } = new URL(request.url);
+    const district = searchParams.get('district') || '10';
+
     const missingEnvVars = Object.entries(requiredEnvVars)
       .filter(([_, value]) => !value)
       .map(([key]) => key);
@@ -74,7 +84,10 @@ export async function GET() {
     }
 
     const now = new Date();
-    
+
+    // Generate payload with the selected district
+    const payload = generatePayload(district);
+
     // Make the API request
     const response = await fetch(DHBVN_API_URL, {
       method: 'POST',

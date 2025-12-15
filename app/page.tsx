@@ -188,7 +188,25 @@ function SearchAndDownloadControls({
   );
 }
 
+// District mapping for dropdown
+const DISTRICTS = [
+  { value: '1', label: 'Jind' },
+  { value: '2', label: 'Fatehabad' },
+  { value: '3', label: 'Sirsa' },
+  { value: '4', label: 'Hisar' },
+  { value: '5', label: 'Bhiwani' },
+  { value: '6', label: 'Mahendargarh' },
+  { value: '7', label: 'Rewari' },
+  { value: '8', label: 'Gurugram' },
+  { value: '9', label: 'Nuh' },
+  { value: '10', label: 'Faridabad' },
+  { value: '11', label: 'Palwal' },
+  { value: '12', label: 'Charkhi Dadri' },
+] as const;
+
 export default function Home(): React.ReactElement {
+  // State for selected district (default to "10" - Faridabad)
+  const [selectedDistrict, setSelectedDistrict] = useState('10');
   // State for fetched outage data
   const [data, setData] = useState<DHBVNData[]>([]);
   // Loading state for data fetch
@@ -199,6 +217,9 @@ export default function Home(): React.ReactElement {
   const [globalFilter, setGlobalFilter] = useState('');
   // Ref for search input (to focus on data load)
   const searchInputRef = useRef<HTMLInputElement>(null);
+
+  // Get the current district name
+  const currentDistrictName = DISTRICTS.find(d => d.value === selectedDistrict)?.label || 'Faridabad';
 
   // Fetch outage data from API or use dummy data in development
   useEffect(() => {
@@ -225,7 +246,7 @@ export default function Home(): React.ReactElement {
         return;
       }
       try {
-        const response = await fetch('/api/dhbvn');
+        const response = await fetch(`/api/dhbvn?district=${selectedDistrict}`);
         if (!response.ok) {
           const errorData = await response.json();
           throw new Error(errorData.error || 'Failed to fetch data');
@@ -243,7 +264,7 @@ export default function Home(): React.ReactElement {
     // Set up interval to refresh data every 5 minutes
     const interval = setInterval(fetchData, 5 * 60 * 1000);
     return () => clearInterval(interval);
-  }, []);
+  }, [selectedDistrict]);
 
   // Focus the search input when data changes
   useEffect(() => {
@@ -275,6 +296,7 @@ export default function Home(): React.ReactElement {
         row.restoration_time,
         row.reason,
       ]),
+      title: `${currentDistrictName} Power Outage Information`,
     });
   };
 
@@ -282,16 +304,16 @@ export default function Home(): React.ReactElement {
   const structuredData = {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
-    name: 'Faridabad Power Outage Information',
-    description: 'Real-time information about power outages in Faridabad with location details',
+    name: `${currentDistrictName} Power Outage Information`,
+    description: `Real-time information about power outages in ${currentDistrictName} with location details`,
     url: 'https://dhbvn.vercel.app',
     mainEntity: {
       '@type': 'Dataset',
-      name: 'Faridabad Power Outage Dataset',
-      description: 'Collection of current power outages in Faridabad with details including affected areas, feeders, outage start times, and expected restoration times.',
-      keywords: 'Faridabad power outage, Faridabad electricity outage, power cut Faridabad, Faridabad electricity status, Faridabad electricity updates,power restoration Faridabad',
+      name: `${currentDistrictName} Power Outage Dataset`,
+      description: `Collection of current power outages in ${currentDistrictName} with details including affected areas, feeders, outage start times, and expected restoration times.`,
+      keywords: `${currentDistrictName} power outage, ${currentDistrictName} electricity outage, power cut ${currentDistrictName}, ${currentDistrictName} electricity status, ${currentDistrictName} electricity updates,power restoration ${currentDistrictName}`,
       temporal: 'Real-time data, updated every 5 minutes',
-      spatialCoverage: 'Faridabad, Haryana, India',
+      spatialCoverage: `${currentDistrictName}, Haryana, India`,
       publisher: {
         '@type': 'Organization',
         name: 'DHBVN Information Portal',
@@ -330,9 +352,30 @@ export default function Home(): React.ReactElement {
       </Script>
       <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
         <div className="flex flex-col gap-6">
+          {/* District Selector */}
+          <div className="w-full sm:w-auto">
+            <label htmlFor="district-select" className="block text-sm font-medium text-neutral-700 mb-2">
+              Select District
+            </label>
+            <select
+              id="district-select"
+              value={selectedDistrict}
+              onChange={(e) => {
+                setSelectedDistrict(e.target.value);
+                setLoading(true);
+              }}
+              className="w-full sm:w-64 px-4 py-2 border border-neutral-300 rounded-lg bg-white text-neutral-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all"
+            >
+              {DISTRICTS.map((district) => (
+                <option key={district.value} value={district.value}>
+                  {district.label}
+                </option>
+              ))}
+            </select>
+          </div>
           {/* Page Title and Subtitle */}
           <div className="space-y-3">
-            <h1 className="text-3xl sm:text-4xl font-bold text-neutral-950 tracking-tight">Faridabad Power Outage Information</h1>
+            <h1 className="text-3xl sm:text-4xl font-bold text-neutral-950 tracking-tight">{currentDistrictName} Power Outage Information</h1>
             {data.length > 0 && (
               <p className="text-base text-neutral-600 max-w-prose">
                 Real-time outage data, automatically refreshed every 5 minutes.
