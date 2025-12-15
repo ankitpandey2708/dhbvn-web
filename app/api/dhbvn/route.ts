@@ -120,15 +120,19 @@ export async function GET(request: Request) {
     
     // Parse XML to JSON
     const result = await parseStringPromise(xmlData) as DHBVNResponse;
-    
-    if (!result?.RESULT?.RESULTS?.[0]?.Rowset) {
+
+    // Check if we have a valid RESULT structure
+    if (!result?.RESULT?.RESULTS?.[0]) {
       console.error('Invalid XML structure:', result);
       throw new Error('Invalid response structure from DHBVN API');
     }
-    
-    console.log('Total rows received from API:', result.RESULT.RESULTS[0].Rowset.length);
-    
-    const data: DHBVNData[] = result.RESULT.RESULTS[0].Rowset
+
+    // If Rowset is missing, it means there are no power outages
+    const rowset = result.RESULT.RESULTS[0].Rowset || [];
+
+    console.log('Total rows received from API:', rowset.length);
+
+    const data: DHBVNData[] = rowset
       .filter(row => {
         // Check if all required fields are present
         return row.AREA?.[0] && 
