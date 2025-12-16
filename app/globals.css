@@ -81,9 +81,7 @@
 
     --radius: 0.75rem;              /* 12px - larger for premium feel */
   }
-}
 
-@layer base {
   * {
     @apply border-border;
   }
@@ -92,6 +90,7 @@
     @apply bg-background text-foreground antialiased;
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
     line-height: 1.6;
+    zoom: 80%;
   }
 
   /* Premium focus states */
