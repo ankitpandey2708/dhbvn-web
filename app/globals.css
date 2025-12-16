@@ -90,7 +90,6 @@
     @apply bg-background text-foreground antialiased;
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
     line-height: 1.6;
-    zoom: 80%;
   }
 
   /* Premium focus states */
@@ -101,6 +100,7 @@
   /* Smooth scrolling */
   html {
     scroll-behavior: smooth;
+    zoom: 80%;
   }
 
   /* Better heading rendering */
