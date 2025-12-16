@@ -81,9 +81,7 @@
 
     --radius: 0.75rem;              /* 12px - larger for premium feel */
   }
-}
 
-@layer base {
   * {
     @apply border-border;
   }
