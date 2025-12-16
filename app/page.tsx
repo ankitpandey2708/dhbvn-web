@@ -33,7 +33,7 @@ const columns: ColumnDef<DHBVNData>[] = [
     cell: ({ row }: { row: Row<DHBVNData> }) => {
       const value = row.getValue('start_time') as string;
       const date = parseOutageDate(value);
-      return date ? format(date, 'PPpp') : value;
+      return date ? format(date, 'dd-MMM-yyyy hh:mm:ss a') : value;
     },
   },
   {
@@ -42,7 +42,7 @@ const columns: ColumnDef<DHBVNData>[] = [
     cell: ({ row }: { row: Row<DHBVNData> }) => {
       const value = row.getValue('restoration_time') as string;
       const date = parseOutageDate(value);
-      return date ? format(date, 'PPpp') : value;
+      return date ? format(date, 'dd-MMM-yyyy hh:mm:ss a') : value;
     },
   },
   {
