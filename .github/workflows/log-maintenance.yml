@@ -1,0 +1,26 @@
+name: Log Maintenance
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run every day at midnight UTC
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Log Cleanup
+        run: |
+          TARGET_URL="${{ secrets.APP_URL }}"
+          if [ -z "$TARGET_URL" ]; then
+             echo "APP_URL secret not set"
+             exit 1
+          fi
+
+          response=$(curl -s -w "%{http_code}" -o /dev/null -H "Authorization: Bearer ${{ secrets.CRON_SECRET }}" "$TARGET_URL/api/cron/cleanup-logs")
+          
+          if [ "$response" != "200" ]; then
+            echo "Failed to cleanup logs. Status code: $response"
+            exit 1
+          fi
+          echo "Log cleanup triggered successfully"
