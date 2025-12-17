@@ -11,7 +11,7 @@ function shouldLoadAnalytics(): boolean {
   // Check if user has opted out via query parameter
   if (typeof window !== 'undefined') {
     const params = new URLSearchParams(window.location.search)
-    if (params.get('notrack') === 'true' || params.get('dev') === 'true') {
+    if (params.get('track') === 'false') {
       return false
     }
   }
