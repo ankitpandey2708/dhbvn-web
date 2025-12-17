@@ -8,9 +8,12 @@ function shouldLoadAnalytics(): boolean {
     return false
   }
 
-  // Check if user has opted out of analytics via localStorage
-  if (typeof window !== 'undefined' && localStorage.getItem('disable-analytics') === 'true') {
-    return false
+  // Check if user has opted out via query parameter
+  if (typeof window !== 'undefined') {
+    const params = new URLSearchParams(window.location.search)
+    if (params.get('notrack') === 'true' || params.get('dev') === 'true') {
+      return false
+    }
   }
 
   return true
