@@ -9,6 +9,18 @@ const nextConfig = {
     DHBVN_TOKEN: process.env.DHBVN_TOKEN,
     DHBVN_ROLE_ID: process.env.DHBVN_ROLE_ID,
   },
+  async rewrites() {
+    return [
+      {
+        source: '/api/data/:match*',
+        destination: 'https://dhbvn.vercel.app/_vercel/insights/:match*',
+      },
+      {
+        source: '/api/performance/:match*',
+        destination: 'https://dhbvn.vercel.app/_vercel/speed-insights/:match*',
+      },
+    ];
+  },
 }
 
 module.exports = nextConfig 
