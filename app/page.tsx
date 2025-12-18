@@ -1,13 +1,13 @@
-// This is a Next.js client component for displaying power outage information for Faridabad
+// DHBVN Power Outage Tracker - Electro-Industrial Dashboard
 'use client';
 
-// Import necessary React hooks and UI components
 import React, { useEffect, useState, useMemo, useRef } from 'react';
 import { DataTable } from '@/components/ui/data-table';
 import { ColumnDef, Row } from '@tanstack/react-table';
 import { format } from 'date-fns';
 import { OutageLoadingSkeleton } from '@/components/ui/skeleton';
 import Script from 'next/script';
+import { Zap, Clock, MapPin, AlertCircle, CheckCircle2 } from 'lucide-react';
 
 import { DHBVNData } from '@/lib/dhbvn-api';
 import { DISTRICTS as DB_DISTRICTS } from '@/lib/database/subscriptions';
@@ -17,7 +17,7 @@ import { generateOutagePDF } from '@/lib/pdf-generator';
 import { parseOutageDate, filterByAreaAndFeeder } from '@/lib/utils';
 import { Button } from '@/components/ui/button';
 
-// Define the columns for the DataTable, including custom cell renderers for date formatting
+// Table columns with monospace data formatting
 const columns: ColumnDef<DHBVNData>[] = [
   {
     accessorKey: 'area',
@@ -33,7 +33,11 @@ const columns: ColumnDef<DHBVNData>[] = [
     cell: ({ row }: { row: Row<DHBVNData> }) => {
       const value = row.getValue('start_time') as string;
       const date = parseOutageDate(value);
-      return date ? format(date, 'dd-MMM-yyyy hh:mm:ss a') : value;
+      return (
+        <span className="font-mono text-sm">
+          {date ? format(date, 'dd-MMM-yyyy HH:mm') : value}
+        </span>
+      );
     },
   },
   {
@@ -42,7 +46,11 @@ const columns: ColumnDef<DHBVNData>[] = [
     cell: ({ row }: { row: Row<DHBVNData> }) => {
       const value = row.getValue('restoration_time') as string;
       const date = parseOutageDate(value);
-      return date ? format(date, 'dd-MMM-yyyy hh:mm:ss a') : value;
+      return (
+        <span className="font-mono text-sm">
+          {date ? format(date, 'dd-MMM-yyyy HH:mm') : value}
+        </span>
+      );
     },
   },
   {
@@ -51,35 +59,26 @@ const columns: ColumnDef<DHBVNData>[] = [
   },
 ];
 
-// District mapping for dropdown
+// District mapping
 const DISTRICTS = DB_DISTRICTS.map(d => ({
   value: d.id.toString(),
   label: d.name
 }));
 
 export default function Home(): React.ReactElement {
-  // State for selected district (default to "10" - Faridabad)
   const [selectedDistrict, setSelectedDistrict] = useState('10');
-  // State for fetched outage data
   const [data, setData] = useState<DHBVNData[]>([]);
-  // Loading state for data fetch
   const [loading, setLoading] = useState(true);
-  // Error state for fetch failures
   const [error, setError] = useState<string | null>(null);
-  // State for global search filter
   const [globalFilter, setGlobalFilter] = useState('');
-  // Ref for search input (to focus on data load)
   const searchInputRef = useRef<HTMLInputElement>(null);
 
-  // Get the current district name
   const currentDistrictName = DISTRICTS.find(d => d.value === selectedDistrict)?.label || 'Faridabad';
 
-  // Fetch outage data from API or use dummy data in development
+  // Fetch outage data
   useEffect(() => {
     const fetchData = async () => {
-      // NOTE: Remove development dummy data in real production build if API is always available
       if (process.env.NODE_ENV !== 'production') {
-        // Use dummy data in development
         setData([
           {
             area: 'Sector 16',
@@ -115,25 +114,21 @@ export default function Home(): React.ReactElement {
     };
 
     fetchData();
-    // Set up interval to refresh data every 5 minutes
     const interval = setInterval(fetchData, 5 * 60 * 1000);
     return () => clearInterval(interval);
   }, [selectedDistrict]);
 
-  // Focus the search input when data changes
   useEffect(() => {
     if (searchInputRef.current) {
       searchInputRef.current.focus();
     }
   }, [data]);
 
-  // Memoized filtered data based on area/feeder search
   const filteredData = useMemo(
     () => filterByAreaAndFeeder(data, globalFilter),
     [data, globalFilter]
   );
 
-  // Handler to trigger PDF download of filtered data
   const handleDownloadPDF = () => {
     generateOutagePDF({
       columns: [
@@ -154,7 +149,7 @@ export default function Home(): React.ReactElement {
     });
   };
 
-  // Generate JSON-LD structured data for this page
+  // Structured data for SEO
   const structuredData = {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
@@ -165,7 +160,7 @@ export default function Home(): React.ReactElement {
       '@type': 'Dataset',
       name: `${currentDistrictName} Power Outage Dataset`,
       description: `Collection of current power outages in ${currentDistrictName} with details including affected areas, feeders, outage start times, and expected restoration times.`,
-      keywords: `${currentDistrictName} power outage, ${currentDistrictName} electricity outage, power cut ${currentDistrictName}, ${currentDistrictName} electricity status, ${currentDistrictName} electricity updates,power restoration ${currentDistrictName}`,
+      keywords: `${currentDistrictName} power outage, ${currentDistrictName} electricity outage, power cut ${currentDistrictName}, ${currentDistrictName} electricity status`,
       temporal: 'Real-time data, updated every 5 minutes',
       spatialCoverage: `${currentDistrictName}, Haryana, India`,
       publisher: {
@@ -176,133 +171,207 @@ export default function Home(): React.ReactElement {
     }
   };
 
-  // Show loading skeleton while fetching data
   if (loading) {
     return <OutageLoadingSkeleton />;
   }
 
-  // Show error message if data fetch fails
   if (error) {
     return (
-      <div className="flex items-center justify-center min-h-screen bg-neutral-50">
-        <div className="text-center max-w-md">
-          <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-linear-to-br from-error-50 to-error-100 mb-4">
-            <svg className="w-8 h-8 text-error-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
-            </svg>
+      <div className="flex items-center justify-center min-h-screen">
+        <div className="text-center max-w-md animate-fade-in-up">
+          <div className="inline-flex items-center justify-center w-20 h-20 rounded-2xl glass mb-6">
+            <AlertCircle className="w-10 h-10 text-error-500" />
           </div>
-          <h2 className="text-2xl font-bold text-neutral-900 mb-2 tracking-tight">Error Loading Data</h2>
-          <p className="text-neutral-600">{error}</p>
-          <Button onClick={() => window.location.reload()} className="mt-4">
-            Retry
+          <h2 className="text-2xl font-bold text-foreground mb-3 tracking-tight">
+            Connection Error
+          </h2>
+          <p className="text-neutral-400 mb-6">{error}</p>
+          <Button onClick={() => window.location.reload()}>
+            <Zap className="w-4 h-4 mr-2" />
+            Retry Connection
           </Button>
         </div>
       </div>
     );
   }
 
-  // Main UI rendering
   return (
     <>
       <Script id="structured-data" type="application/ld+json">
         {JSON.stringify(structuredData)}
       </Script>
-      <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
-        <div className="flex flex-col gap-6">
-          {/* Page Title with District Selector */}
-          <div className="space-y-3">
-            <h1 className="text-3xl sm:text-4xl font-bold text-neutral-950 tracking-tight">
+
+      <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12 relative">
+        {/* Hero Section */}
+        <header className="mb-8 sm:mb-12 animate-fade-in-up">
+          {/* Live Status Badge */}
+          <div className="flex items-center gap-3 mb-6">
+            <div className="flex items-center gap-2 px-3 py-1.5 rounded-full glass text-xs font-medium text-primary-400 uppercase tracking-wider">
+              <span className="relative flex h-2 w-2">
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary-400 opacity-75"></span>
+                <span className="relative inline-flex rounded-full h-2 w-2 bg-primary-500"></span>
+              </span>
+              Live Data
+            </div>
+            <span className="text-neutral-500 text-sm">
+              Auto-refresh every 5 min
+            </span>
+          </div>
+
+          {/* Title with District Selector */}
+          <div className="flex flex-col gap-2">
+            <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight">
               <DistrictSelect
                 value={selectedDistrict}
                 onChange={setSelectedDistrict}
               />
-              Power Outage Information
+              <span className="text-foreground">Power Outages</span>
             </h1>
-            {data.length > 0 && (
-              <p className="text-base text-neutral-600 max-w-prose">
-                Real-time outage data, automatically refreshed every 5 minutes.
-              </p>
-            )}
+            <p className="text-neutral-400 text-lg max-w-2xl">
+              Real-time outage tracking powered by DHBVN data
+            </p>
           </div>
-          {/* Show no data message if there is no data at all (mobile and desktop) */}
-          {data.length === 0 && (
-            <div className="text-center py-24 px-6">
-              <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-linear-to-br from-success-50 to-success-100 mb-6">
-                <svg className="w-8 h-8 text-success-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-                </svg>
+
+          {/* Stats Row */}
+          {data.length > 0 && (
+            <div className="flex flex-wrap gap-4 mt-8 stagger-2" style={{ animationFillMode: 'both' }}>
+              <div className="flex items-center gap-3 px-4 py-3 rounded-xl glass">
+                <div className="p-2 rounded-lg bg-error-500/10">
+                  <Zap className="w-5 h-5 text-error-500" />
+                </div>
+                <div>
+                  <p className="text-2xl font-bold text-foreground font-mono">{data.length}</p>
+                  <p className="text-xs text-neutral-500 uppercase tracking-wider">Active Outages</p>
+                </div>
               </div>
-              <p className="text-neutral-600">No power outages reported by DHBVN</p>
+
+              <div className="flex items-center gap-3 px-4 py-3 rounded-xl glass">
+                <div className="p-2 rounded-lg bg-primary-500/10">
+                  <MapPin className="w-5 h-5 text-primary-500" />
+                </div>
+                <div>
+                  <p className="text-2xl font-bold text-foreground font-mono">
+                    {new Set(data.map(d => d.area)).size}
+                  </p>
+                  <p className="text-xs text-neutral-500 uppercase tracking-wider">Areas Affected</p>
+                </div>
+              </div>
+
+              <div className="flex items-center gap-3 px-4 py-3 rounded-xl glass">
+                <div className="p-2 rounded-lg bg-accent-500/10">
+                  <Clock className="w-5 h-5 text-accent-500" />
+                </div>
+                <div>
+                  <p className="text-2xl font-bold text-foreground font-mono">
+                    {new Set(data.map(d => d.feeder)).size}
+                  </p>
+                  <p className="text-xs text-neutral-500 uppercase tracking-wider">Feeders</p>
+                </div>
+              </div>
             </div>
           )}
-          {/* Search and Download Controls - Mobile */}
+        </header>
+
+        {/* No Outages State */}
+        {data.length === 0 && (
+          <div className="text-center py-24 px-6 animate-fade-in-up">
+            <div className="inline-flex items-center justify-center w-24 h-24 rounded-3xl glass mb-8">
+              <CheckCircle2 className="w-12 h-12 text-success-500" />
+            </div>
+            <h2 className="text-2xl font-bold text-foreground mb-3">All Systems Operational</h2>
+            <p className="text-neutral-400 max-w-md mx-auto">
+              No power outages currently reported by DHBVN for {currentDistrictName}
+            </p>
+          </div>
+        )}
+
+        {/* Mobile Search Controls */}
+        {data.length > 0 && (
+          <SearchAndDownloadControls
+            globalFilter={globalFilter}
+            setGlobalFilter={setGlobalFilter}
+            handleDownloadPDF={handleDownloadPDF}
+            searchInputRef={searchInputRef}
+            className="block sm:hidden mb-6"
+          />
+        )}
+
+        {/* Mobile Card Layout */}
+        {filteredData.length > 0 && (
+          <div className="flex flex-col gap-4 sm:hidden">
+            {filteredData.map((item, idx) => (
+              <article
+                key={idx}
+                className="rounded-xl glass p-5 transition-all duration-300 hover:border-primary-500/30 animate-fade-in-up"
+                style={{ animationDelay: `${idx * 50}ms`, animationFillMode: 'both' }}
+              >
+                {/* Card Header */}
+                <div className="flex items-start justify-between gap-3 mb-4">
+                  <div className="flex items-center gap-2">
+                    <div className="p-1.5 rounded-lg bg-primary-500/10">
+                      <MapPin className="w-4 h-4 text-primary-500" />
+                    </div>
+                    <span className="font-semibold text-foreground">{item.area}</span>
+                  </div>
+                  <span className="font-mono text-sm text-primary-400 px-2.5 py-1 rounded-lg bg-primary-500/10">
+                    {item.feeder}
+                  </span>
+                </div>
+
+                {/* Time Information */}
+                <div className="grid grid-cols-2 gap-4 mb-4">
+                  <div>
+                    <p className="text-xs text-neutral-500 uppercase tracking-wider mb-1">Started</p>
+                    <p className="font-mono text-sm text-foreground">{item.start_time}</p>
+                  </div>
+                  <div className="text-right">
+                    <p className="text-xs text-neutral-500 uppercase tracking-wider mb-1">Est. Restore</p>
+                    <p className="font-mono text-sm text-foreground">{item.restoration_time}</p>
+                  </div>
+                </div>
+
+                {/* Reason */}
+                <div className="pt-3 border-t border-neutral-800">
+                  <span className="inline-flex items-center gap-1.5 text-sm text-neutral-400">
+                    <AlertCircle className="w-3.5 h-3.5" />
+                    {item.reason}
+                  </span>
+                </div>
+              </article>
+            ))}
+          </div>
+        )}
+
+        {/* Mobile No Results */}
+        {data.length > 0 && filteredData.length === 0 && (
+          <div className="text-center py-16 sm:hidden">
+            <p className="text-neutral-500">No results match your search</p>
+          </div>
+        )}
+
+        {/* Desktop Layout */}
+        <div className="hidden sm:block">
           {data.length > 0 && (
             <SearchAndDownloadControls
               globalFilter={globalFilter}
               setGlobalFilter={setGlobalFilter}
               handleDownloadPDF={handleDownloadPDF}
               searchInputRef={searchInputRef}
-              className="block sm:hidden"
+              className="mb-6"
             />
           )}
-          {/* Mobile Card Layout */}
+
           {filteredData.length > 0 && (
-            <div className="flex flex-col gap-4 block sm:hidden">
-              {/* Render each outage as a card for mobile view */}
-              {filteredData.map((item, idx) => (
-                <div
-                  key={idx}
-                  className="rounded-xl border border-neutral-200/60 bg-white p-6 shadow-sm hover:shadow-md transition-all duration-200 hover:-translate-y-0.5"
-                >
-                  <div className="flex items-center justify-between mb-4 gap-3">
-                    <span className="font-semibold text-base text-neutral-900 truncate">{item.area}</span>
-                    <span className="font-medium text-sm text-neutral-700 px-3 py-1 bg-neutral-100 rounded-full truncate">{item.feeder}</span>
-                  </div>
-                  <div className="flex items-start justify-between text-sm gap-4">
-                    <div className="flex-1">
-                      <span className="text-xs font-medium text-neutral-500 uppercase tracking-wide">Period</span>
-                      <p className="font-medium text-neutral-900 mt-1">{item.start_time} -<br />{item.restoration_time}</p>
-                    </div>
-                    <div className="text-right flex-1">
-                      <span className="text-xs font-medium text-neutral-500 uppercase tracking-wide">Reason</span>
-                      <p className="font-medium text-neutral-900 mt-1">{item.reason}</p>
-                    </div>
-                  </div>
-                </div>
-              ))}
+            <div className="animate-fade-in-up stagger-3" style={{ animationFillMode: 'both' }}>
+              <DataTable columns={columns} data={filteredData} />
             </div>
           )}
-          {/* Show no results message if search yields no data but there is data (mobile only) */}
+
           {data.length > 0 && filteredData.length === 0 && (
-            <div className="text-center py-16 block sm:hidden">
-              <p className="text-neutral-600">No results found for your search.</p>
+            <div className="text-center py-16">
+              <p className="text-neutral-500">No results match your search</p>
             </div>
           )}
-          {/* Desktop Table Layout */}
-          <div className="overflow-x-auto -mx-4 sm:mx-0 hidden sm:block">
-            <div className="min-w-[800px] sm:min-w-0">
-              {/* Search and Download Controls - Desktop */}
-              {data.length > 0 && (
-                <SearchAndDownloadControls
-                  globalFilter={globalFilter}
-                  setGlobalFilter={setGlobalFilter}
-                  handleDownloadPDF={handleDownloadPDF}
-                  searchInputRef={searchInputRef}
-                  className="hidden sm:flex"
-                />
-              )}
-              {/* Render the data table for desktop view if there are filtered results */}
-              {filteredData.length > 0 && (
-                <DataTable columns={columns} data={filteredData} />
-              )}
-              {/* Show no results message if search yields no data but there is data (desktop only) */}
-              {data.length > 0 && filteredData.length === 0 && (
-                <div className="text-center py-16">
-                  <p className="text-neutral-600">No results found for your search.</p>
-                </div>
-              )}
-            </div>
-          </div>
         </div>
       </main>
     </>

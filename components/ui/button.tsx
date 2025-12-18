@@ -4,26 +4,28 @@ import { cva, type VariantProps } from "class-variance-authority"
 import { cn } from "@/lib/utils"
 
 const buttonVariants = cva(
-  "inline-flex items-center justify-center whitespace-nowrap rounded-lg text-base font-semibold transition-all duration-200 focus-visible:outline-hidden focus-visible:ring-4 focus-visible:ring-primary-500/20 disabled:pointer-events-none disabled:opacity-50 data-[state=loading]:cursor-wait",
+  "inline-flex items-center justify-center whitespace-nowrap rounded-lg text-sm font-semibold transition-all duration-200 focus-visible:outline-hidden disabled:pointer-events-none disabled:opacity-50 data-[state=loading]:cursor-wait",
   {
     variants: {
       variant: {
         default:
-          "relative bg-linear-to-b from-primary-500 to-primary-600 text-white shadow-md hover:shadow-lg hover:from-primary-600 hover:to-primary-700 active:scale-95",
+          "relative bg-gradient-to-b from-primary-500 to-primary-600 text-primary-foreground shadow-lg hover:shadow-glow hover:from-primary-400 hover:to-primary-500 active:scale-[0.98] focus-visible:shadow-glow",
         destructive:
-          "bg-linear-to-b from-error-500 to-error-600 text-white shadow-md hover:shadow-lg hover:from-error-600 hover:to-error-600 active:scale-95",
+          "bg-gradient-to-b from-error-500 to-error-600 text-white shadow-lg hover:from-error-400 hover:to-error-500 hover:shadow-[0_0_20px_-4px_rgba(255,59,92,0.4)] active:scale-[0.98]",
         outline:
-          "border border-neutral-200 bg-white text-neutral-700 shadow-sm hover:bg-neutral-50 hover:border-neutral-300 hover:text-neutral-900 hover:shadow active:scale-95",
+          "border border-neutral-700 bg-transparent text-neutral-300 hover:bg-neutral-800/50 hover:border-neutral-600 hover:text-foreground active:scale-[0.98]",
         secondary:
-          "bg-white border border-neutral-200 text-neutral-700 shadow-sm hover:bg-neutral-50 hover:border-neutral-300 hover:text-neutral-900 hover:shadow active:scale-95",
-        ghost: "text-neutral-600 hover:text-neutral-900 hover:bg-neutral-100 active:scale-95",
-        link: "text-primary-500 underline-offset-4 hover:underline hover:text-primary-600",
+          "glass text-neutral-300 hover:text-foreground hover:border-primary-500/30 active:scale-[0.98]",
+        ghost:
+          "text-neutral-400 hover:text-foreground hover:bg-neutral-800/50 active:scale-[0.98]",
+        link:
+          "text-primary-500 underline-offset-4 hover:underline hover:text-primary-400",
       },
       size: {
-        default: "h-12 px-6 py-3",
-        sm: "h-10 px-4 py-2 text-sm rounded-lg",
-        lg: "h-14 px-8 py-4 text-lg rounded-lg",
-        icon: "h-12 w-12",
+        default: "h-11 px-5 py-2.5",
+        sm: "h-9 px-3.5 py-2 text-xs rounded-lg",
+        lg: "h-12 px-6 py-3 text-base rounded-lg",
+        icon: "h-11 w-11",
       },
     },
     defaultVariants: {
@@ -59,4 +61,4 @@ const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
 )
 Button.displayName = "Button"
 
-export { Button, buttonVariants } 
+export { Button, buttonVariants }
