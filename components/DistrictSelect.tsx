@@ -1,10 +1,9 @@
 'use client';
 
 import React, { useState, useRef, useEffect } from 'react';
-import { Check, ChevronDown } from 'lucide-react';
+import { Check, ChevronDown, MapPin } from 'lucide-react';
 import { DISTRICTS as DB_DISTRICTS } from '@/lib/database/subscriptions';
 
-// District mapping from database source
 const DISTRICTS = DB_DISTRICTS.map(d => ({
     value: d.id.toString(),
     label: d.name
@@ -40,43 +39,62 @@ export function DistrictSelect({
     }, []);
 
     return (
-        <div className="relative inline-block mr-2" ref={containerRef}>
+        <div className="relative inline-block mr-3" ref={containerRef}>
             <button
                 onClick={() => setIsOpen(!isOpen)}
-                className="group flex items-center gap-1 font-bold bg-transparent border-b-2 border-neutral-300 focus:border-blue-500 focus:outline-hidden cursor-pointer hover:border-neutral-400 transition-colors py-1"
+                className="group inline-flex items-center gap-2 font-bold bg-transparent cursor-pointer transition-all duration-300 py-1"
                 aria-label="Select District"
                 aria-haspopup="listbox"
                 aria-expanded={isOpen}
             >
-                <span>{selectedLabel}</span>
+                <span className="electric-text text-shadow-glow">{selectedLabel}</span>
                 <ChevronDown
-                    className={`h-5 w-5 text-neutral-500 transition-transform duration-200 ${isOpen ? 'rotate-180' : ''}`}
+                    className={`h-6 w-6 text-primary-400 transition-transform duration-300 ${isOpen ? 'rotate-180' : ''} group-hover:text-primary-300`}
                 />
             </button>
 
+            {/* Dropdown Panel */}
             {isOpen && (
-                <div className="absolute top-full left-0 z-50 mt-1 max-h-60 w-48 overflow-auto rounded-md bg-white py-1 text-base shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-hidden sm:text-sm">
-                    <ul role="listbox">
-                        {DISTRICTS.map((district) => (
+                <div
+                    className="absolute top-full left-0 z-50 mt-3 w-56 overflow-hidden rounded-xl glass shadow-2xl animate-fade-in-down"
+                    style={{ animationDuration: '200ms' }}
+                >
+                    {/* Header */}
+                    <div className="px-4 py-3 border-b border-neutral-800/50">
+                        <div className="flex items-center gap-2 text-xs text-neutral-500 uppercase tracking-wider font-medium">
+                            <MapPin className="w-3.5 h-3.5" />
+                            Select District
+                        </div>
+                    </div>
+
+                    {/* Options List */}
+                    <ul role="listbox" className="max-h-64 overflow-auto py-2">
+                        {DISTRICTS.map((district, index) => (
                             <li
                                 key={district.value}
-                                className={`relative cursor-pointer select-none py-2 pl-3 pr-9 hover:bg-neutral-100 ${district.value === value ? 'bg-neutral-50 text-blue-600 font-medium' : 'text-neutral-900'
-                                    }`}
+                                className={`
+                                    relative flex items-center justify-between px-4 py-2.5 cursor-pointer select-none
+                                    transition-all duration-150
+                                    ${district.value === value
+                                        ? 'bg-primary-500/10 text-primary-400'
+                                        : 'text-neutral-300 hover:bg-neutral-800/50 hover:text-foreground'
+                                    }
+                                `}
                                 role="option"
                                 aria-selected={district.value === value}
                                 onClick={() => {
                                     onChange(district.value);
                                     setIsOpen(false);
                                 }}
+                                style={{
+                                    animationDelay: `${index * 25}ms`,
+                                    animationFillMode: 'both'
+                                }}
                             >
-                                <div className="flex items-center">
-                                    <span className="block truncate">{district.label}</span>
-                                </div>
-                                {district.value === value ? (
-                                    <span className="absolute inset-y-0 right-0 flex items-center pr-4 text-blue-600">
-                                        <Check className="h-4 w-4" aria-hidden="true" />
-                                    </span>
-                                ) : null}
+                                <span className="font-medium">{district.label}</span>
+                                {district.value === value && (
+                                    <Check className="h-4 w-4 text-primary-500" aria-hidden="true" />
+                                )}
                             </li>
                         ))}
                     </ul>

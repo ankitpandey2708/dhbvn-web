@@ -7,29 +7,29 @@ function Skeleton({
   return (
     <div
       className={cn(
-        "relative overflow-hidden rounded-lg bg-neutral-100",
+        "relative overflow-hidden rounded-lg bg-neutral-800/50",
         className
       )}
       {...props}
     >
-      <div className="absolute inset-0 -translate-x-full animate-shimmer bg-linear-to-r from-neutral-100 via-neutral-50 to-neutral-100" />
+      <div className="absolute inset-0 -translate-x-full animate-shimmer bg-gradient-to-r from-neutral-800/50 via-neutral-700/30 to-neutral-800/50" />
     </div>
   )
 }
 
 function TableSkeleton() {
   return (
-    <div className="rounded-xl border border-neutral-200/60 bg-white shadow-sm overflow-hidden">
+    <div className="rounded-xl glass overflow-hidden">
       <div className="overflow-x-auto">
         <div className="w-full">
           {/* Header */}
-          <div className="border-b border-neutral-200/60">
-            <div className="flex h-14 px-6 items-center gap-6">
-              <Skeleton className="h-4 w-24" />
-              <Skeleton className="h-4 w-24" />
-              <Skeleton className="h-4 w-32" />
-              <Skeleton className="h-4 w-40" />
-              <Skeleton className="h-4 w-24" />
+          <div className="border-b border-neutral-800/50">
+            <div className="flex h-12 px-4 items-center gap-6">
+              <Skeleton className="h-3 w-20" />
+              <Skeleton className="h-3 w-20" />
+              <Skeleton className="h-3 w-24" />
+              <Skeleton className="h-3 w-32" />
+              <Skeleton className="h-3 w-20" />
             </div>
           </div>
           {/* Rows */}
@@ -37,16 +37,17 @@ function TableSkeleton() {
             {Array.from({ length: 5 }).map((_, i) => (
               <div
                 key={i}
-                className={cn(
-                  "flex h-16 px-6 items-center gap-6 border-b border-neutral-200/60",
-                  i % 2 === 1 && "bg-neutral-50/30"
-                )}
+                className="flex h-16 px-4 items-center gap-6 border-b border-neutral-800/30"
+                style={{
+                  animationDelay: `${i * 100}ms`,
+                  animationFillMode: 'both'
+                }}
               >
-                <Skeleton className="h-4 w-32" />
-                <Skeleton className="h-4 w-20" />
-                <Skeleton className="h-4 w-40" />
-                <Skeleton className="h-4 w-40" />
                 <Skeleton className="h-4 w-28" />
+                <Skeleton className="h-4 w-16" />
+                <Skeleton className="h-4 w-36" />
+                <Skeleton className="h-4 w-36" />
+                <Skeleton className="h-4 w-24" />
               </div>
             ))}
           </div>
@@ -58,20 +59,26 @@ function TableSkeleton() {
 
 function CardSkeleton() {
   return (
-    <div className="rounded-xl border border-neutral-200/60 bg-white p-6 shadow-sm hover:shadow-md transition-shadow">
+    <div className="rounded-xl glass p-5">
       <div className="flex items-center justify-between mb-4">
-        <Skeleton className="h-5 w-24" />
-        <Skeleton className="h-5 w-16" />
+        <div className="flex items-center gap-2">
+          <Skeleton className="h-8 w-8 rounded-lg" />
+          <Skeleton className="h-4 w-24" />
+        </div>
+        <Skeleton className="h-6 w-14 rounded-lg" />
       </div>
-      <div className="flex items-center justify-between">
+      <div className="grid grid-cols-2 gap-4 mb-4">
         <div className="space-y-2">
           <Skeleton className="h-3 w-12" />
-          <Skeleton className="h-4 w-32" />
+          <Skeleton className="h-4 w-28" />
         </div>
-        <div className="space-y-2 items-end flex flex-col">
-          <Skeleton className="h-3 w-12" />
-          <Skeleton className="h-4 w-20" />
+        <div className="space-y-2 flex flex-col items-end">
+          <Skeleton className="h-3 w-16" />
+          <Skeleton className="h-4 w-28" />
         </div>
+      </div>
+      <div className="pt-3 border-t border-neutral-800">
+        <Skeleton className="h-4 w-20" />
       </div>
     </div>
   )
@@ -79,33 +86,46 @@ function CardSkeleton() {
 
 function OutageLoadingSkeleton() {
   return (
-    <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10">
-      <div className="flex flex-col gap-4">
-        {/* Page Title */}
-        <Skeleton className="h-8 sm:h-10 w-80 sm:w-96" />
+    <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12 relative">
+      <div className="flex flex-col gap-6">
+        {/* Live Badge */}
+        <Skeleton className="h-7 w-28 rounded-full" />
 
-        {/* Subtitle */}
-        <Skeleton className="h-5 w-64" />
-
-        {/* Search and Download Controls - Mobile */}
-        <div className="flex items-center justify-between py-4 block sm:hidden">
-          <Skeleton className="h-11 w-40" />
-          <Skeleton className="h-10 w-10 ml-2" />
+        {/* Title */}
+        <div className="space-y-3">
+          <Skeleton className="h-10 sm:h-12 w-72 sm:w-96" />
+          <Skeleton className="h-5 w-56" />
         </div>
 
-        {/* Mobile Cards */}
-        <div className="flex flex-col gap-4 block sm:hidden">
-          {Array.from({ length: 3 }).map((_, i) => (
-            <CardSkeleton key={i} />
-          ))}
+        {/* Stats Row */}
+        <div className="flex flex-wrap gap-4 mt-4">
+          <Skeleton className="h-20 w-36 rounded-xl" />
+          <Skeleton className="h-20 w-36 rounded-xl" />
+          <Skeleton className="h-20 w-36 rounded-xl" />
+        </div>
+
+        {/* Mobile Layout */}
+        <div className="sm:hidden">
+          {/* Search Controls */}
+          <div className="flex items-center gap-3 mt-4 mb-6">
+            <Skeleton className="h-11 flex-1 max-w-md" />
+            <Skeleton className="h-11 w-11" />
+          </div>
+
+          {/* Cards */}
+          <div className="flex flex-col gap-4">
+            {Array.from({ length: 3 }).map((_, i) => (
+              <CardSkeleton key={i} />
+            ))}
+          </div>
         </div>
 
         {/* Desktop Layout */}
         <div className="hidden sm:block">
-          {/* Search and Download Controls - Desktop */}
-          <div className="flex items-center justify-between py-4">
-            <Skeleton className="h-11 w-72" />
-            <Skeleton className="h-10 w-20 ml-2" />
+          {/* Search Controls */}
+          <div className="flex items-center gap-3 mb-6">
+            <Skeleton className="h-11 w-80" />
+            <Skeleton className="h-11 w-28" />
           </div>
 
           {/* Table */}
