@@ -379,7 +379,7 @@
 
   /* Premium focus states with electric glow */
   *:focus-visible {
-    @apply outline-hidden;
+    @apply outline-none;
     box-shadow: 0 0 0 2px hsl(var(--background)), 0 0 0 4px hsl(var(--primary-500)), 0 0 20px -4px rgba(0, 229, 255, 0.5);
     border-radius: var(--radius);
   }

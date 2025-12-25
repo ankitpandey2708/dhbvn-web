@@ -7,13 +7,19 @@ export default function manifest(): MetadataRoute.Manifest {
     description: 'Real-time information about power outages across Haryana districts with location details',
     start_url: '/',
     display: 'standalone',
-    background_color: '#ffffff',
-    theme_color: '#6366f1',
+    background_color: '#0a1118',
+    theme_color: '#0a1118',
+    orientation: 'portrait',
     icons: [
       {
-        src: 'https://www.dhbvn.org.in/RAPDRP-Redesign-theme/images/favicon.ico',
-        sizes: '64x64',
-        type: 'image/x-icon',
+        src: '/icon-192',
+        sizes: '192x192',
+        type: 'image/png',
+      },
+      {
+        src: '/icon-512',
+        sizes: '512x512',
+        type: 'image/png',
       },
     ],
   }
