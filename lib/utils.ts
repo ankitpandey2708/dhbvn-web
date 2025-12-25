@@ -13,7 +13,12 @@ export function parseOutageDate(dateStr: string): Date | null {
     if (!datePart || !timePart) return null;
 
     const [day, month, year] = datePart.split('-');
-    return new Date(`${year}-${month}-${day} ${timePart}`);
+    const date = new Date(`${year}-${month}-${day} ${timePart}`);
+
+    // Check if the date is valid
+    if (isNaN(date.getTime())) return null;
+
+    return date;
   } catch {
     return null;
   }
