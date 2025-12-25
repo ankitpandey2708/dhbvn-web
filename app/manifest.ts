@@ -9,12 +9,5 @@ export default function manifest(): MetadataRoute.Manifest {
     display: 'standalone',
     background_color: '#ffffff',
     theme_color: '#6366f1',
-    icons: [
-      {
-        src: 'https://www.dhbvn.org.in/RAPDRP-Redesign-theme/images/favicon.ico',
-        sizes: '64x64',
-        type: 'image/x-icon',
-      },
-    ],
   }
 } 

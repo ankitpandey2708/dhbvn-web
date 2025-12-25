@@ -51,10 +51,6 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <head>
-        <link
-          rel="icon"
-          href="https://www.dhbvn.org.in/RAPDRP-Redesign-theme/images/favicon.ico"
-        />
         <meta name="theme-color" content="#0a1118" />
         <meta name="color-scheme" content="dark" />
       </head>
@@ -66,7 +62,7 @@ export default function RootLayout({
           href="https://t.me/dhbvn_bot"
           target="_blank"
           rel="noopener noreferrer"
-          className="fixed bottom-6 right-6 z-50 group flex items-center justify-center p-4 rounded-2xl bg-gradient-to-br from-[#0088cc] to-[#0066aa] text-white shadow-lg transition-all duration-300 hover:scale-105 hover:shadow-[0_0_30px_-5px_rgba(0,136,204,0.6)] focus:outline-hidden focus:ring-2 focus:ring-[#0088cc] focus:ring-offset-2 focus:ring-offset-neutral-950"
+          className="fixed bottom-6 right-6 z-50 group flex items-center justify-center p-4 rounded-2xl bg-gradient-to-br from-[#0088cc] to-[#0066aa] text-white shadow-lg transition-all duration-300 hover:scale-105 hover:shadow-[0_0_30px_-5px_rgba(0,136,204,0.6)] focus:outline-none focus:ring-2 focus:ring-[#0088cc] focus:ring-offset-2 focus:ring-offset-neutral-950"
           aria-label="Chat with DHBVN Bot on Telegram"
         >
           {/* Glow effect */}
