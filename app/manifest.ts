@@ -7,7 +7,7 @@ export default function manifest(): MetadataRoute.Manifest {
     description: 'Real-time information about power outages across Haryana districts with location details',
     start_url: '/',
     display: 'standalone',
-    background_color: '#0a1118',
-    theme_color: '#0a1118',
+    background_color: '#ffffff',
+    theme_color: '#6366f1',
   }
 } 

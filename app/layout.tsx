@@ -53,12 +53,6 @@ export default function RootLayout({
       <head>
         <meta name="theme-color" content="#0a1118" />
         <meta name="color-scheme" content="dark" />
-        {/* Apple PWA meta tags for iOS Safari compatibility */}
-        <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-        <meta name="apple-mobile-web-app-title" content="DHBVN Outages" />
-        <meta name="format-detection" content="telephone=no" />
-        <meta name="mobile-web-app-capable" content="yes" />
       </head>
       <body className="relative z-10">
         {children}
