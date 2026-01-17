@@ -7,7 +7,7 @@ import { DISTRICTS as DB_DISTRICTS } from '@/lib/database/subscriptions';
 const DISTRICTS = DB_DISTRICTS.map(d => ({
     value: d.id.toString(),
     label: d.name
-}));
+})).sort((a, b) => a.label.localeCompare(b.label));
 
 interface DistrictSelectProps {
     value: string;
