@@ -1,0 +1,4293 @@
+[
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "220 KV SECTOR-57",
+    "feeder_name": "IND 33 KV ESSEL HOUSING",
+    "cin_14": "126211551ESHSG"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "220 KV SECTOR-57",
+    "feeder_name": "IND 33 KV VATIKA BRAHMA",
+    "cin_14": "122111551VATKA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "ADARSH NAGAR (U)",
+    "cin_14": "122111273ADRSH"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "ARJUN NAGAR (U)",
+    "cin_14": "122111273ARJUN"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "CITY-I (U)M/ROAD",
+    "cin_14": "122111273CITY1"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "CITY-II (U)M/ROAD",
+    "cin_14": "122111273CITY2"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "CIVIL HOSPITAL (U)",
+    "cin_14": "122111273INDCI"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "IDC-II",
+    "cin_14": "122111273IDC02"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "IND EIL",
+    "cin_14": "122111273EIL00"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "IND GOVT. COLLEGE",
+    "cin_14": "122111273INDGO"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "IND JMD & GLAXY",
+    "cin_14": "122111273JMDGL"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "IND MVL",
+    "cin_14": "122111273MVL00"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "INDUSTRIAL ESTATE",
+    "cin_14": "122111273INDES"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "JACOMPURA (U)",
+    "cin_14": "122111273JACMP"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "MDI (U)",
+    "cin_14": "122111273MDI00"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "MICROWAVE (U)",
+    "cin_14": "122111273MICRO"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "PANJIRI PLANT (U)",
+    "cin_14": "122111273PANJI"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "POLICE LINE (U)",
+    "cin_14": "122111273POLIC"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "S/STN M/ROAD",
+    "cin_14": "122111273SUBST"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "SEC-15 (U)",
+    "cin_14": "122111273SEC15"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "SEC-38 (U)",
+    "cin_14": "122111273SEC38"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "SHEETLA MATA (U)",
+    "cin_14": "122111273SHEET"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "SUBHASH NAGAR (U)",
+    "cin_14": "122111273SUBHH"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "URBAN ESTATE -I (U) M/ROAD",
+    "cin_14": "122111273URBAN"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "IND PALM COURT",
+    "cin_14": "122111267INDPA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "VEER NAGAR (U)",
+    "cin_14": "122111274VEERN"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "HOPE APARTMENT (U)",
+    "cin_14": "122111296HOPAP"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "IND ENGINEERING INDIA LTD.",
+    "cin_14": "122111296ENGNE"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "IND EXPERION",
+    "cin_14": "122111296EXPER"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "IND HUDA BOOSTER",
+    "cin_14": "122111296HUDAB"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "IND SIGNATURE TOWER -II",
+    "cin_14": "122111296SGNA2"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "IND SIGNATURE TOWER -III",
+    "cin_14": "122111296SGNA3"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "KIRTI NAGAR (U)",
+    "cin_14": "122111296KRTNR"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "MOTHER DAIRY (U)",
+    "cin_14": "122111296MOTHE"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "RAM NAGAR (MU)",
+    "cin_14": "122111296RAMNA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "S/STN.",
+    "cin_14": "122111296SUBST"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SECTOR-15-I (U)",
+    "cin_14": "122111296SEC15"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "VIJAY RATAN VIHAR (U)",
+    "cin_14": "122111296VRV00"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "ASHOK VIHAR (U)",
+    "cin_14": "122111295ASHOK"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "D/PUR ROAD (U)",
+    "cin_14": "122111295DPROD"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "EROS (U)",
+    "cin_14": "122111295EROS0"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "KHEDI/SEC-4 (U)",
+    "cin_14": "122111295KHEDI"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "L/VIHAR (MU)",
+    "cin_14": "122111295LVIHA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "R/STN-II (U)",
+    "cin_14": "122111295R/STN"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "SECTOR-5 (U)",
+    "cin_14": "122111295SECTO"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "APNA ENCLAVE (U)",
+    "cin_14": "122111458APNAE"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "DAYANAND COLONY (U)",
+    "cin_14": "122111458DAYAN"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "SECTOR-5 (U)",
+    "cin_14": "122111458SECT5"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "SECTOR-6 (U)",
+    "cin_14": "122111458SECT6"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "SHEETLA MATA (U)",
+    "cin_14": "122111458SMATA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "IDC",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "VILL. GURUGRAM (U)",
+    "cin_14": "122111458GURUG"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "220/33 KV SEC-85 GURUGRAM",
+    "feeder_name": "IND 33 KV RAPRASTHA CITY",
+    "cin_14": "122141630PCITY"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "4/8 MARLA (U)",
+    "cin_14": "122141307MARLA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "BNC",
+    "cin_14": "122141307BNC00"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "BNC-II",
+    "cin_14": "122141307BNC20"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "IND CIVIL HOSPITAL",
+    "cin_14": "122141307INDCI"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "IND CORONA HOUSING",
+    "cin_14": "122141307CORON"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "IND COUNTRYWIDE",
+    "cin_14": "122141307COUNT"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "IND DHOOT",
+    "cin_14": "122141307DHOOT"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "IND NBCC",
+    "cin_14": "122141307INBCC"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "SEC-37C (U)",
+    "cin_14": "122141307SEC37"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "SECTOR-10 (U)",
+    "cin_14": "122141307SECTO"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "BASAI ROAD (U)",
+    "cin_14": "122141289BASAI"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "DHANKOT (U)",
+    "cin_14": "122141289DHANK"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND APT",
+    "cin_14": "122141289APT00"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "P&T (U)",
+    "cin_14": "122141273PNT00"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "PATEL NAGAR - II (U)",
+    "cin_14": "122141273PATEN"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "ANJANA DHANI (U)",
+    "cin_14": "122141274ANJDH"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "BNC-1 (U)",
+    "cin_14": "122141274BNC1U"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "D-BLOCK",
+    "cin_14": "122141274D-BLK"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "ELECTROPLATING ZONE",
+    "cin_14": "122141274ELECT"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "H.B.COLONY (U)",
+    "cin_14": "122141274HBCOL"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "HSIDC-I",
+    "cin_14": "122141274HSID1"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "HSIDC-II",
+    "cin_14": "122141274HSID2"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "HSIDC-III",
+    "cin_14": "122141274HSID3"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "HUDA (U)",
+    "cin_14": "122141274HUDAU"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "IND CYBER PARK",
+    "cin_14": "122141274CYBER"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "IND HONEYWELL",
+    "cin_14": "122141274HONEY"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "IND HPL",
+    "cin_14": "122141274HPL00"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "IND JBM",
+    "cin_14": "122141274JBM00"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "IND MATRIX",
+    "cin_14": "122141274MATRX"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "IND STANVEC CHEMICAL",
+    "cin_14": "122141274STANV"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "INDIAN OIL (U)",
+    "cin_14": "122141274INDOL"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "INDO",
+    "cin_14": "122141274INDOI"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "KHANDSA DHANI (U)",
+    "cin_14": "122141274KHADH"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "KRISHNA",
+    "cin_14": "122141274KSHNA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "NH-8",
+    "cin_14": "122141274NH8DL"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "PACE CITY",
+    "cin_14": "122141274PACE1"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "PACE CITY-II",
+    "cin_14": "122141274PACE2"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "PATAUDI ROAD (U)",
+    "cin_14": "122141274PATAU"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "PHASE-VI",
+    "cin_14": "122141274PHASE"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "RAJ NAGAR (U)",
+    "cin_14": "122141274RAJNA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "RAJASTHAN COLONY (U)",
+    "cin_14": "122141274RAJAS"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "S/STN SEC-10-A",
+    "cin_14": "122141274SUBST"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "SARASWATI ENCLAVE (U)",
+    "cin_14": "122141274SARAS"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "SEC-37-I (U)",
+    "cin_14": "122141274SEC37"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "SEC-37-II (U)",
+    "cin_14": "122141274SE372"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "SECT-37",
+    "cin_14": "122141274SEC03"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "SECTOR-10A (U)",
+    "cin_14": "122141274SECTO"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "SHIV SHAKTI (U)",
+    "cin_14": "122141274SHIVS"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "SHIVAJI NAGAR (U)",
+    "cin_14": "122141274SHIVA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "VILL.KHANDSA (U)",
+    "cin_14": "122141274VILLK"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "CIVIL LINE (U)",
+    "cin_14": "122141296CIVIL"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "JAIL LAND (U)",
+    "cin_14": "122141296JALND"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "JAIL ROAD (U)",
+    "cin_14": "122141296JAILR"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "KHANDSA RD. (U)",
+    "cin_14": "122141296KHAND"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "P&T SECTOR-15 (U)",
+    "cin_14": "122141296PT000"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "PATEL NAGAR (U)",
+    "cin_14": "122141296PATEL"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "HARI NAGAR (U)",
+    "cin_14": "122141284HARIN"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "KADIPUR",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "ORIENT CRAFT-II",
+    "cin_14": "122141284ORIEN"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "MOHAMAD HERI (U)",
+    "cin_14": "122131306MOHAM"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "AMBEDKAR NAGAR (U)",
+    "cin_14": "122131307ABNGR"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "B.I.A. (U)",
+    "cin_14": "122131307BIA00"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "BASAI INDUSTRIES (U)",
+    "cin_14": "122131307BASAN"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "BASAI PARK (U)",
+    "cin_14": "122131307BPARK"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "BASAI ROAD-II (U)",
+    "cin_14": "122131307BASAI"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "BASAI VILLAGE (U)",
+    "cin_14": "122131307BASAV"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "BHAWANI ENCLAVE (U)",
+    "cin_14": "122131307BHAWA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "BUS STAND BASAI (U)",
+    "cin_14": "122131307BSBSI"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "DADA BHAIYA (U)",
+    "cin_14": "122131307DADAB"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "DAYAL MARKET (U)",
+    "cin_14": "122131307DAYAL"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "DEVI LAL COLONY (U)",
+    "cin_14": "122131307DEVAC"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "DISPOSAL (U)",
+    "cin_14": "122131307DISPO"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "FIROZ GANDHI COLONY (MU)",
+    "cin_14": "122131307FRZGC"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "GEETA BHAWAN (U)",
+    "cin_14": "122131307GEETA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "GURUDWARA(U)",
+    "cin_14": "122131307GRUDW"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "GYMKHANA (U)",
+    "cin_14": "122131307GYMKH"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "HOUSING BOARD (U)",
+    "cin_14": "122131307HBARD"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "IND ESIC",
+    "cin_14": "122131307INDES"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "JYOTI PARK (U)",
+    "cin_14": "122131307JYOTI"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "MARKET-9 (U)",
+    "cin_14": "122131307MRKT9"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "NEHRU LANE (U)",
+    "cin_14": "122131307NEHRU"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "NEW COLONY (U)",
+    "cin_14": "122131307NEWCO"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "PATAUDI ROAD (U)",
+    "cin_14": "122131307PATAU"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "PATAUDI-II (U)",
+    "cin_14": "122131307PATA2"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "RATAN GARDEN (U)",
+    "cin_14": "122131307RTNGD"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "RAVI NAGAR (U)",
+    "cin_14": "122131307RVNGR"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "S/STN. 220/66 KV SECT-9",
+    "cin_14": "122131307SUBST"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "SECTOR-9 (U)",
+    "cin_14": "122131307SECT9"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "SHAKUNTLA (U)",
+    "cin_14": "122131307SHAKU"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "SHIV PURI OLD (U)",
+    "cin_14": "122131307SHIVP"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "SOCIETIES (U)",
+    "cin_14": "122131307SOCES"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "URBAN ESTATE-II (U)",
+    "cin_14": "122131307URBAN"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "WATER WORKS SECTOR-9A (U)",
+    "cin_14": "122131307WWS9A"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "KIRTI NAGAR (U)",
+    "cin_14": "122131273KIRTI"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "SEC-4(NEW) (U)",
+    "cin_14": "122131295SEC-4"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "BAL BHAWAN (U)",
+    "cin_14": "122131458BALWN"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "BHIMGARH KHERI (U)",
+    "cin_14": "122131458BHIMG"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "DAYAL MARKET (U)",
+    "cin_14": "122131458DAYAL"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "DHANWA PUR ROAD (U)",
+    "cin_14": "122131458DPURR"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "DHANWAPUR FATAK (U)",
+    "cin_14": "122131458FATAK"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "DOULTABAD FLYOVER (U)",
+    "cin_14": "122131458DBFLY"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "GYM KHANA CLUB (U)",
+    "cin_14": "122131458GYMKH"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "HOUSING BOARD (U)",
+    "cin_14": "122131458HBORD"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "HOUSING BOARD COLONY",
+    "cin_14": "122131458HOBDC"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "KATARIA MARKET (U)",
+    "cin_14": "122131458KTMKT"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "LAXMAN VIHAR (U)",
+    "cin_14": "122131458LAXMA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "SECTOR-4 (U)",
+    "cin_14": "122131458SECT4"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "SECTOR-7 (U)",
+    "cin_14": "122131458SECT7"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "SUB STATION (66 KV SEC-4)",
+    "cin_14": "122131458SUBST"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "SURYA VIHAR (U)",
+    "cin_14": "122131458SURYA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "URBAN ESTATE (U)",
+    "cin_14": "122131458URBES"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW COLONY",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "WATER SUPPLY-4 (U)",
+    "cin_14": "122131458WSPY4"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "DAULTABAD (U)",
+    "cin_14": "122121306DAULT"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "DHANKOT-II (U)",
+    "cin_14": "122121306DHANK"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "DHANWAPUR ROAD (U)",
+    "cin_14": "122121306DHANW"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "DHARAMPUR (U)",
+    "cin_14": "122121306DHARM"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "IND ADANI M2K",
+    "cin_14": "122121306ADANI"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "IND ATS COCOON",
+    "cin_14": "122121306ATSCO"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "IND CHINTEL",
+    "cin_14": "122121306CINTL"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "IND EMAAR",
+    "cin_14": "122121306EMAAR"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "IND FLOROTTON",
+    "cin_14": "122121306FLORO"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "IND HELLA",
+    "cin_14": "122121306HELLA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "IND M3M",
+    "cin_14": "122121306INM3M"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "IND SATYA",
+    "cin_14": "122121306SATYA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "IND W.T.P.",
+    "cin_14": "122121306INDWT"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "KHERKI MAZRA AP",
+    "cin_14": "122121306KHERK"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "NEW PALAM VIHAR (U)",
+    "cin_14": "122121306NEWPV"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "RAJINDERA PARK (U)",
+    "cin_14": "122121306RAJIN"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "S/STN.",
+    "cin_14": "122121306SUBS1"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "S/STN. 400KVA",
+    "cin_14": "122121306SUBS2"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "SHER SINGH VIHAR (U)",
+    "cin_14": "122121306SHERS"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "SHER SINGH VIHAR-II (U)",
+    "cin_14": "122121306SHER2"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "SURAT NAGAR (U)",
+    "cin_14": "122121306SURAP"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "VISHNU GARDEN (U)",
+    "cin_14": "122121306VISHN"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220/33 KV SECTOR-107",
+    "feeder_name": "IND 33 KV EXPERION DEVELOPER PVT. LTD.",
+    "cin_14": "122121629EDPER"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220/33 KV SECTOR-107",
+    "feeder_name": "IND 33 KV JOYVILLE SHAPOORJI PVT. LTD.",
+    "cin_14": "122121629JSRJI"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220/33 KV SECTOR-107",
+    "feeder_name": "IND SOBHA",
+    "cin_14": "122121629SOBHA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220/33 KV SECTOR-107",
+    "feeder_name": "S/STN. SECTOR-107",
+    "cin_14": "122121629SUBST"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "HSIDC (U)",
+    "cin_14": "122121307HSIDU"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "IND WATER TREATMENT PLANT",
+    "cin_14": "122121274INDWA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "BABAPARKASHPURI (U)",
+    "cin_14": "122121295BABAP"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "BAJGHERA (MU)",
+    "cin_14": "122121295BAGHA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "IND C.S.N",
+    "cin_14": "122121295INCSN"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "IND EXPERION",
+    "cin_14": "122121295EXPER"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "IND MAHINDRA LIFE",
+    "cin_14": "122121295MLIFE"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "IND PURI CONSTRUCTION",
+    "cin_14": "122121295PURIC"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "NEW PALAM VIHAR (SEC-2) (U)",
+    "cin_14": "122121295NEWPA"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "SAI KUNJ (U)",
+    "cin_14": "122121295SAIKU"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "T-BLOCK (U)",
+    "cin_14": "122121295TBLOK"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "IND MAGIC INFO",
+    "cin_14": "122121458MAGIC"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "66 KV SECTOR-4",
+    "feeder_name": "RAM VIHAR (U)",
+    "cin_14": "122121458RAMVI"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "NEW PALAM VIHAR",
+    "ss_name": "66KV S/STN SECTOR-2",
+    "feeder_name": "J-BLOCK (U)",
+    "cin_14": "122121295JBLOK"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "SECTOR-37",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "BASAI INDUSTRIES NEW (U)",
+    "cin_14": "122431307BSIND"
+  },
+  {
+    "division": "CITY GURGAON",
+    "sub_division": "SECTOR-37",
+    "ss_name": "220/66 KV SECT-9",
+    "feeder_name": "BIA-NEW (U)",
+    "cin_14": "122431307BANEW"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "33 KV MAU",
+    "feeder_name": "BHUDKA DS",
+    "cin_14": "122331628BUDKA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "33 KV MAU",
+    "feeder_name": "KAPDIWAS AP",
+    "cin_14": "122331628KPDWS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "33 KV MAU",
+    "feeder_name": "MAHESHWARI AP",
+    "cin_14": "122331628MHEWR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "33 KV MAU",
+    "feeder_name": "MAU DS",
+    "cin_14": "122331628MAUDS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "33 KV MAU",
+    "feeder_name": "PALASOLI AP",
+    "cin_14": "122331628PLASO"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "33 KV MAU",
+    "feeder_name": "S/STN. MAU",
+    "cin_14": "122331628SUBST"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "ANSAL (API)",
+    "cin_14": "122331285ANSAP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "B/KALAN AP",
+    "cin_14": "122331285BKALA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "B/KHURD DS",
+    "cin_14": "122331285BKHUR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "BILASPUR AP",
+    "cin_14": "122331285BILAS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "BINOLA AP",
+    "cin_14": "122331285BINOL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "BINOLA CKT 2",
+    "cin_14": "122331285INDB2"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "BINOLA CKT 3",
+    "cin_14": "122331285BCKT3"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "BINOLA NO.1",
+    "cin_14": "122331285INDB1"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "D/SHANKAR DS",
+    "cin_14": "122331285DSHAN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "G/GARH AP",
+    "cin_14": "122331285GGARH"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND ALICON",
+    "cin_14": "122331285ALICO"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND ASHIYANA",
+    "cin_14": "122331285ASHYA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND B/KUMARI",
+    "cin_14": "122331285INDBK"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND BAJAJ AUTO",
+    "cin_14": "122331285BAJAJ"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND BHARAT SEAT",
+    "cin_14": "122331285INDBH"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND BML UNIVERSITY",
+    "cin_14": "122331285BMUNV"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND EMBASSY",
+    "cin_14": "122331285EMBAS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND G.L.S.",
+    "cin_14": "122331285INDGL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND INTEGRA",
+    "cin_14": "122331285INTEG"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND JINDAL",
+    "cin_14": "122331285JNDAD"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND LORD KRISHNA",
+    "cin_14": "122331285KRSHA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND MAGFILTER",
+    "cin_14": "122331285MAGFT"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND MUNJAL AUTO",
+    "cin_14": "122331285MUNJA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND OMAX AUTO",
+    "cin_14": "122331285OMAXA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND RELIANT",
+    "cin_14": "122331285RELIA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND STAREX ENTERPRISES",
+    "cin_14": "122331285STARE"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND SUNSET",
+    "cin_14": "122331285SUNST"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND VEEKAY POLYCOAT",
+    "cin_14": "122331285VEEKA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND VITA LIFE",
+    "cin_14": "122331285VTAFE"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "JAMALPUR DS",
+    "cin_14": "122331285JAMAL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "LANGRA DS",
+    "cin_14": "122331285LNGRA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "MOU AP",
+    "cin_14": "122331285MOUAP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "NOORPUR AP",
+    "cin_14": "122331285NOORP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "PATHRARI AP",
+    "cin_14": "122331285PAHAP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "RATHIWAS AP",
+    "cin_14": "122331285RATHI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "S/STN.",
+    "cin_14": "122331285SUBST"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "SIDHRAWALI AP",
+    "cin_14": "122331285SIDHR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "SIDHRAWALI GEN.",
+    "cin_14": "122331285INDSI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "TATARPUR AP",
+    "cin_14": "122331285TATAR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "U/MAJRA DS",
+    "cin_14": "122331285UMAJR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV JAMALPUR",
+    "feeder_name": "BASLAMBI DS",
+    "cin_14": "122331536BASLA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV JAMALPUR",
+    "feeder_name": "BINOLA AP",
+    "cin_14": "122331536BINOL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV JAMALPUR",
+    "feeder_name": "GOSHGARH-II AP",
+    "cin_14": "122331536GGARH"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV JAMALPUR",
+    "feeder_name": "IND AMAZON",
+    "cin_14": "122331536AMAZN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV JAMALPUR",
+    "feeder_name": "IND JMK",
+    "cin_14": "122331536INJMK"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV JAMALPUR",
+    "feeder_name": "JAMALPUR DS",
+    "cin_14": "122331536JAMAL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV JAMALPUR",
+    "feeder_name": "KHARKHARI AP",
+    "cin_14": "122331536KHARK"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV JAMALPUR",
+    "feeder_name": "S/STN 66 KV JAMALPUR",
+    "cin_14": "122331536SUBST"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "IND BEST KOKI",
+    "cin_14": "122331278BSTKO"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "BHORAKALAN",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "IND VITA LIFE",
+    "cin_14": "122331278VITAL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "HUDA WTP CHANDU DS",
+    "cin_14": "122351306HUDAW"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "IND DASMESH SGT",
+    "cin_14": "122351306DASHM"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "IND GMDA CHANDU BUDHERA WTP",
+    "cin_14": "122351306CBWTP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "220 KV DAULTABAD",
+    "feeder_name": "OM NAGAR DS",
+    "cin_14": "122351306MAKDO"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "220 KV SEC-95 & MAU",
+    "feeder_name": "IND 33 KV AWHO",
+    "cin_14": "122351569AWHOD"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "220 KV SEC-95 & MAU",
+    "feeder_name": "IND 66 KV CHANDU (WTP)",
+    "cin_14": "122351569CHNDU"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "220 KV SEC-95 & MAU",
+    "feeder_name": "IND CHIRAG",
+    "cin_14": "122351569CIRAG"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "220 KV SEC-95 & MAU",
+    "feeder_name": "IND JUBILANT",
+    "cin_14": "122351569JBLNT"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "220 KV SEC-95 & MAU",
+    "feeder_name": "IND RAM SONS",
+    "cin_14": "122351569RMSNS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "220 KV SEC-95 & MAU",
+    "feeder_name": "S/STN. 33KV OR ACDB SEC-95",
+    "cin_14": "122351569SUBST"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "220/33 KV SEC-85 GURUGRAM",
+    "feeder_name": "IND ADHIKANSH(M3M)",
+    "cin_14": "122351630ADM3M"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "BABRA DS",
+    "cin_14": "122351268BABRA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "BIRHERA DS",
+    "cin_14": "122351268GUGAN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "CHANDU DS",
+    "cin_14": "122351268CHAND"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "CITY F/NAGAR (U)",
+    "cin_14": "122351268CITYF"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "DABODA DS",
+    "cin_14": "122351268DAAP1"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "DHANAWAS DS",
+    "cin_14": "122351268DHANA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "GANESH MARKET (U)",
+    "cin_14": "122351268GANES"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "GARHI DS",
+    "cin_14": "122351268GARHI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "GUGANA AP",
+    "cin_14": "122351268GUGNA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "HAZIPUR DS",
+    "cin_14": "122351268HAZIP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "IND HILLTOP",
+    "cin_14": "122351268HLTOP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "IND JAWAHAR NAVODYA VIDYALAYA",
+    "cin_14": "122351268INJNV"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "IND LOGISTIC PARK",
+    "cin_14": "122351268LPARK"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "IND PRJ WAREHOUSE",
+    "cin_14": "122351268PRJWH"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "IND PUBLIC HEALTH W/WORK M/PUR",
+    "cin_14": "122351268INDPU"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "JUROLA DS",
+    "cin_14": "122351268JUROL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "KAROLA DS",
+    "cin_14": "122351268KAROL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "KHETAWAS DS",
+    "cin_14": "122351268KHETA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "KHWASPUR DS",
+    "cin_14": "122351268KHWAS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "MAJRI DS",
+    "cin_14": "122351268MAJRI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "MANKROLA DS",
+    "cin_14": "122351268MANKR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "MUBARIKPUR DS",
+    "cin_14": "122351268MUBAR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "MUSHED PUR DS",
+    "cin_14": "122351268MUSHE"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "PALRI DS",
+    "cin_14": "122351268PLRDS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "PATLI DS",
+    "cin_14": "122351268PATLI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "S/STN F/NAGAR",
+    "cin_14": "122351268SUBST"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "SIWARI DS",
+    "cin_14": "122351268SIWAP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "TAJ NAGAR DS",
+    "cin_14": "122351268TAJDS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV F/NAGAR",
+    "feeder_name": "TAJ NAGAR VILLAGE DS",
+    "cin_14": "122351268TAJNA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "AUXILARY",
+    "cin_14": "122351289AUXIL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "BADHA DS",
+    "cin_14": "122351289BADHA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "GARHI STATION DS",
+    "cin_14": "122351289GARDS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "HARSARU CITY",
+    "cin_14": "122351289HARCT"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "HARSARU DS",
+    "cin_14": "122351289HARAP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "HAYATPUR DS",
+    "cin_14": "122351289HAYAT"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND AMIRA FOOD",
+    "cin_14": "122351289INDAM"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND BESTECH SEC-92",
+    "cin_14": "122351289BES92"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND DLF SEC-90-91",
+    "cin_14": "122351289DLFSE"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND GDL",
+    "cin_14": "122351289GDNDD"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND HSIDC W/WORKS",
+    "cin_14": "122351289HSIDC"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND P.H.MAKROLA",
+    "cin_14": "122351289INDPH"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND RAM PARSTHA SARE HOME PVT. LTD.",
+    "cin_14": "122351289RPSHP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND SARA HOMES",
+    "cin_14": "122351289SHOME"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND TRIM INDIA",
+    "cin_14": "122351289TRIMI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND TULIP",
+    "cin_14": "122351289TULIP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "S/STN.",
+    "cin_14": "122351289SUBST"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "WAZIRPUR DS",
+    "cin_14": "122351289WAZIR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV JAMALPUR",
+    "feeder_name": "BABRA AP",
+    "cin_14": "122351536BABRA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV JAMALPUR",
+    "feeder_name": "IND WTP",
+    "cin_14": "122351536WTPIN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "FARUKH NAGAR",
+    "ss_name": "66 KV JAMALPUR",
+    "feeder_name": "KHAWASHPUR DS",
+    "cin_14": "122351536KWSPR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "33 KV KAKORIA",
+    "feeder_name": "HOD AP",
+    "cin_14": "122361461HODAP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "33 KV KAKORIA",
+    "feeder_name": "IND BALEWA",
+    "cin_14": "122361461BLEWA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "33 KV KAKORIA",
+    "feeder_name": "KHALIPUR AP",
+    "cin_14": "122361461KHALI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "BASUNDA AP",
+    "cin_14": "122361276BASUN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "BRIJPURA AP",
+    "cin_14": "122361276BRIJP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "CHILLAR DS",
+    "cin_14": "122361276CHILL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "DADAWAS AP",
+    "cin_14": "122361276DADAW"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "FARIDPUR DS",
+    "cin_14": "122361276FARID"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "HAILLY MANDI (MU)",
+    "cin_14": "122361276HAILL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "JATAULA AP",
+    "cin_14": "122361276JATAU"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "JORIKALAN DS",
+    "cin_14": "122361276JORIK"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "KHANDEWALA DS",
+    "cin_14": "122361276KHAND"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "KHETIAWAS AP",
+    "cin_14": "122361276KHETI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "MANDPURA DS",
+    "cin_14": "122361276MANDP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "MEHCHANA AP",
+    "cin_14": "122361276MEHCH"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "MOZABAD AP",
+    "cin_14": "122361276MOZAB"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "HAILY MANDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "TODAPUR (U)",
+    "cin_14": "122361276TOPUR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "KHERKI DOULA",
+    "ss_name": "220/33 KV SEC-85 GURUGRAM",
+    "feeder_name": "IND 33 KV BESTECH ANANDA",
+    "cin_14": "122361630BANDA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "KHERKI DOULA",
+    "ss_name": "220/33 KV SEC-85 GURUGRAM",
+    "feeder_name": "IND 33 KV SS GROUP SEC-85",
+    "cin_14": "122361630SSGRP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "KHERKI DOULA",
+    "ss_name": "220/33 KV SEC-85 GURUGRAM",
+    "feeder_name": "IND VATIKA-II(83)",
+    "cin_14": "122361630VATKA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "KHERKI DOULA",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND KRISMI",
+    "cin_14": "122361289KRISM"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "KHERKI DOULA",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND SONA BLW-II",
+    "cin_14": "122361294SBLW2"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "IMT CABLE",
+    "cin_14": "122311290MTCAB"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "IMT MANESAR SEC-1, NO.4 (KAKROLA) DS",
+    "cin_14": "122311290SE1N4"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "IND 66 KV BHARTI REALITY",
+    "cin_14": "122311290REALT"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "IND 66 KV HONDA (H.M.S.I)",
+    "cin_14": "122311290HONDA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "IND 66 KV MUNJAL KIRIU",
+    "cin_14": "122311290MUNJ1"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "IND ASCOT O/G NO-6",
+    "cin_14": "122311290INDAS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "IND M1 A DLF",
+    "cin_14": "122311290MADLF"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "IND M1 DLF",
+    "cin_14": "122311290M1DLF"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "IND POLICE LINE",
+    "cin_14": "122311290PCENE"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "IND UID",
+    "cin_14": "122311290UDNDD"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "MICROMAX",
+    "cin_14": "122311290SE1N9"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "NAKHROLA DS",
+    "cin_14": "122311290NROLA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "S/STN IMT MANESAR SEC-1",
+    "cin_14": "122311290SUBST"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "SANSERA",
+    "cin_14": "122311290SANSR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "SEC-1 O/G NO. 5 (U)",
+    "cin_14": "122311290OGNO5"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "SECTOR-6",
+    "cin_14": "122311290SECT6"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "SIDCO (U)",
+    "cin_14": "122311290SIDCO"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV IMT MANESAR SECTOR-1",
+    "feeder_name": "SUBROS",
+    "cin_14": "122311290SUBRS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV PANCHGAON",
+    "feeder_name": "IND 33 KV AMITY",
+    "cin_14": "122311523AMITY"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV PANCHGAON",
+    "feeder_name": "IND 33 KV CCE PROJECT",
+    "cin_14": "122311523CCEPR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV ALAMEDA",
+    "cin_14": "122311308ALAME"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV CORPORATE GREEN",
+    "cin_14": "122311308CORPG"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV SHYAM COMMUNICATION",
+    "cin_14": "122311308SHYAM"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV TRL",
+    "cin_14": "122311308TRL33"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220 KV SECTOR-95",
+    "feeder_name": "IND 220 KV MSIL",
+    "cin_14": "122311569IMSIL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220/33 KV SEC-85 GURUGRAM",
+    "feeder_name": "IND RELIABLE REAL TECH",
+    "cin_14": "122311630RRTEH"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "220/33 KV SEC-85 GURUGRAM",
+    "feeder_name": "IND ULTIMA",
+    "cin_14": "122311630ULTMA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "33 KV VILLAGE PANCHGAON",
+    "feeder_name": "CHANDLA DS",
+    "cin_14": "122311631CNDLA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "33 KV VILLAGE PANCHGAON",
+    "feeder_name": "KHERKI AP",
+    "cin_14": "122311631KHRKI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "33 KV VILLAGE PANCHGAON",
+    "feeder_name": "MOKALWAS AP",
+    "cin_14": "122311631MOKAL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "33 KV VILLAGE PANCHGAON",
+    "feeder_name": "PANCHGAON AP",
+    "cin_14": "122311631PNCGN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "33 KV VILLAGE PANCHGAON",
+    "feeder_name": "PUKHARPUR DS",
+    "cin_14": "122311631PUKHA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "33 KV VILLAGE PANCHGAON",
+    "feeder_name": "S/STN. VILLAGE PANCHGAON",
+    "cin_14": "122311631SUBST"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV B/KALAN",
+    "feeder_name": "IND AMITY",
+    "cin_14": "122311285AMITY"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "DARBARIPUR (U)",
+    "cin_14": "122311289DARBA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND AVL",
+    "cin_14": "122311289INAVL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND BAJAJ MOTORS",
+    "cin_14": "122311289BAJAJ"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND BESTECH",
+    "cin_14": "122311289BESTC"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND DEEPANSHU",
+    "cin_14": "122311289DEEPA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND DLF SEC-86",
+    "cin_14": "122311289INDDL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND MAPSKO",
+    "cin_14": "122311289MAPSK"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND MICROTEK",
+    "cin_14": "122311289INDMI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND ORRIS SEC-85",
+    "cin_14": "122311289ORRIS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND SKYCOURT",
+    "cin_14": "122311289SKYCO"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND VATIKA SEC-82",
+    "cin_14": "122311289VAT82"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "IND VATIKA SEC-83",
+    "cin_14": "122311289VAT83"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "NARSINGHPUR (U)",
+    "cin_14": "122311289NARSI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "SIHI (MU)",
+    "cin_14": "122311289SIHIM"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV HARSARU",
+    "feeder_name": "SIKANDERPUR DS",
+    "cin_14": "122311289SIKAN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "ASHOK POWER",
+    "cin_14": "122311294AKPWR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "ASK - 1",
+    "cin_14": "122311294ASK00"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IMT CABLE",
+    "cin_14": "122311294MTCAB"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IMT MANESAR NO-3 (AV LIGHT)",
+    "cin_14": "122311294MANE3"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IMT MANESAR NO-5 (RICHA)",
+    "cin_14": "122311294MANE5"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IMT MANESAR NO-6 (LUMAX)",
+    "cin_14": "122311294MANE6"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND AA AUTOTECH INDPT.",
+    "cin_14": "122311294INDAA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND AJAY ENTERPRISES",
+    "cin_14": "122311294INDAJ"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND ALAIRE",
+    "cin_14": "122311294ALAIR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND ASK -- 2 (NEW)",
+    "cin_14": "122311294ASK2N"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND ASK -- 3",
+    "cin_14": "122311294ASK3D"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND AV LIGHT",
+    "cin_14": "122311294AVLIG"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND IICA",
+    "cin_14": "122311294CANDD"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND IMT MANESAR NO-4 JBM",
+    "cin_14": "122311294N4JBM"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND IMT MANESAR NO-7 (EIH)",
+    "cin_14": "122311294N4EIH"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND ITC",
+    "cin_14": "122311294INDIT"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND KAP KONES",
+    "cin_14": "122311294INDKA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND KUMAR PRINTERS",
+    "cin_14": "122311294INDKU"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND LUMAX DK",
+    "cin_14": "122311294INDLI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND MARK EXHAUST",
+    "cin_14": "122311294MARKX"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND MINDA",
+    "cin_14": "122311294MNDAD"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND NAVITASYS",
+    "cin_14": "122311294NAVIT"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND ROCK LAND",
+    "cin_14": "122311294ROCKL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND SONA BLW",
+    "cin_14": "122311294SONAB"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND UID",
+    "cin_14": "122311294UD2ND"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "IND UPPAL",
+    "cin_14": "122311294INDUP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "MAX 'OP'",
+    "cin_14": "122311294MAX'O"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "MICROMAX",
+    "cin_14": "122311294SE1N9"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "MINDA",
+    "cin_14": "122311294MINDA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "ORIENT",
+    "cin_14": "122311294ORENT"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "S/STN. SECTOR-2",
+    "cin_14": "122311294SUBST"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "SANSERA",
+    "cin_14": "122311294SANSR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "SECTOR-6",
+    "cin_14": "122311294SECT6"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR (SEC-2)",
+    "feeder_name": "SUBROS",
+    "cin_14": "122311294SUBRS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "AUTO DÉCOR",
+    "cin_14": "122311303DAUTO"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "BASS DS",
+    "cin_14": "122311303BASKS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "BHUMIKA",
+    "cin_14": "122311303BHUMK"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "DHANA DS",
+    "cin_14": "122311303DHANA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "HARYANA INDUSTRIAL",
+    "cin_14": "122311303OGNO2"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND AGILENT",
+    "cin_14": "122311303INDAG"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND ANANT RAJ",
+    "cin_14": "122311303INDAR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND ASK",
+    "cin_14": "122311303ASKND"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND ASTI",
+    "cin_14": "122311303ASTIN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND ATO TECH",
+    "cin_14": "122311303ATECH"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND BAJAJ MOTORS",
+    "cin_14": "122311303BAJAJ"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND BANNETT COLOMAN",
+    "cin_14": "122311303BENET"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND FMI",
+    "cin_14": "122311303FMIND"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND HCL",
+    "cin_14": "122311303HCNDD"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND HI LEX",
+    "cin_14": "122311303HEXND"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND HMC",
+    "cin_14": "122311303INHMC"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND INERGY",
+    "cin_14": "122311303NERGY"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND JAI BHARAT MARUTI",
+    "cin_14": "122311303JBHAR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND KML",
+    "cin_14": "122311303KMNDD"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND MACHINO PLASTIC",
+    "cin_14": "122311303MACHI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND MARUTI SUZUKI",
+    "cin_14": "122311303MARUT"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND NATRIP",
+    "cin_14": "122311303NATRI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND NESTLE",
+    "cin_14": "122311303NESTL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND NISSHINBO",
+    "cin_14": "122311303NSHBO"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND NTF",
+    "cin_14": "122311303IDNTF"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND RANEE POLYMER",
+    "cin_14": "122311303RANEE"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND RGL",
+    "cin_14": "122311303RGNDD"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND SKH",
+    "cin_14": "122311303SKHND"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND SKH-I",
+    "cin_14": "122311303SKHN1"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND SUBROS",
+    "cin_14": "122311303SUBRS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND SWARNIM MODELAMA",
+    "cin_14": "122311303SWARN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND TOLL PLAZA",
+    "cin_14": "122311303TOLPZ"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "IND UNITECH MACHINE",
+    "cin_14": "122311303UNITC"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "JAGUAR",
+    "cin_14": "122311303JGUAR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "METALEX INDUSTRIAL",
+    "cin_14": "122311303METAX"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "NAPINO",
+    "cin_14": "122311303NAPIN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "NEW METALEX",
+    "cin_14": "122311303NMETA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "NK INDIA",
+    "cin_14": "122311303INDIA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "PRIYANKA",
+    "cin_14": "122311303PRIYN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "ROOP AUTO",
+    "cin_14": "122311303ROOPA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "SKH METAL",
+    "cin_14": "122311303SKHTL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "SUB STATION",
+    "cin_14": "122311303SUBST"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SEC-8",
+    "feeder_name": "SUBROS TO RICCO INDUSTRIAL",
+    "cin_14": "122311303OGNO3"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "ANU AUTO",
+    "cin_14": "122311291ANUAU"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "APRA",
+    "cin_14": "122311291PRPPRA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "BHAGWAN AUTO",
+    "cin_14": "122311291BGNAT"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "HAMDARD",
+    "cin_14": "122311291HAMDA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "IND ASK",
+    "cin_14": "122311291INASK"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "IND BAXTER",
+    "cin_14": "122311291INDBA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "IND BHARTI",
+    "cin_14": "122311291INDBH"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "IND ENDURANCE",
+    "cin_14": "122311291ENDUR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "IND HI-TECH",
+    "cin_14": "122311291INDHI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "IND HSIDC",
+    "cin_14": "122311291HSIDC"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "IND KUNDAN CARE",
+    "cin_14": "122311291KCARE"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "IND MOTHERSON",
+    "cin_14": "122311291INDMO"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "IND NARMADA POLYMER",
+    "cin_14": "122311291NARMA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "IND NEEL METAL",
+    "cin_14": "122311291INDNE"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "IND SD BIOSENSOR",
+    "cin_14": "122311291SDSOR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "IND SPM",
+    "cin_14": "122311291INDSP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "IND STELITE FORGING",
+    "cin_14": "122311291INDST"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "IND SUBROS",
+    "cin_14": "122311291SUBND"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "IND SUN VACUUM",
+    "cin_14": "122311291INDSU"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "IND SUPERON",
+    "cin_14": "122311291SUPER"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "INTRADING",
+    "cin_14": "122311291INTRA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "KATYANI",
+    "cin_14": "122311291KATYA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "LAXMI AUTO",
+    "cin_14": "122311291XMTUA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "MANKIND",
+    "cin_14": "122311291MNKND"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "NLDK",
+    "cin_14": "122311291INDNL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "PACKMAN",
+    "cin_14": "122311291PKMAN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "PANKAJ",
+    "cin_14": "122311291PANKJ"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "PRICOL",
+    "cin_14": "122311291PRICO"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "S/STN IMT MANESAR",
+    "cin_14": "122311291SUBST"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "SAKATA",
+    "cin_14": "122311291SAKAT"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "SARITA HONDA",
+    "cin_14": "122311291INDSA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "SECTOR-8",
+    "cin_14": "122311291SECT8"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "SHIV SHAKTI",
+    "cin_14": "122311291SHIVS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "STAR GAS",
+    "cin_14": "122311291STARG"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "TARUN",
+    "cin_14": "122311291RUNAT"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR SECTOR-4",
+    "feeder_name": "TOYOTA",
+    "cin_14": "122311291TOYOT"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "HSIIDC STREET LIGHT",
+    "cin_14": "122311286HDCSL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IMT MANESAR NO. 1/FRIGO GLASS",
+    "cin_14": "122311286FRIGO"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IMT MANESAR NO. 10/RANEE",
+    "cin_14": "122311286RANEE"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IMT MANESAR NO. 3/MUNJAL",
+    "cin_14": "122311286MUNJA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IMT MANESAR NO. 4/OMAX",
+    "cin_14": "122311286AG000"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IMT MANESAR NO. 5/JNS",
+    "cin_14": "122311286JNS00"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IMT MANESAR NO. 6/SLD",
+    "cin_14": "122311286SLD00"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IMT MANESAR NO. 7/JOHNSON NOW NTF",
+    "cin_14": "122311286JOHNS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IMT MANESAR NO. 8/SPM",
+    "cin_14": "122311286SPM00"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IMT MANESAR NO. 9/GANDHI",
+    "cin_14": "122311286GANDH"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND ANAND GAS",
+    "cin_14": "122311286INDAN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND DENSO",
+    "cin_14": "122311286DENSO"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND ESIC HOSPITAL",
+    "cin_14": "122311286INDES"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND FCC RICO",
+    "cin_14": "122311286INDFC"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND ICAT",
+    "cin_14": "122311286ICAT0"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND JAI USHIN",
+    "cin_14": "122311286INDJA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND JOHANSON",
+    "cin_14": "122311286JOHAN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND KRISHNA MARUTI",
+    "cin_14": "122311286KRSHN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND MARUTI SUZUKI",
+    "cin_14": "122311286MARSU"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND MASS ASSOCIATES",
+    "cin_14": "122311286INDMA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND MEHSANA DAIRY",
+    "cin_14": "122311286INDME"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND NBC",
+    "cin_14": "122311286NBC00"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND NEW AG",
+    "cin_14": "122311286INDNE"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND NHK",
+    "cin_14": "122311286NHKND"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND NTF NEW",
+    "cin_14": "122311286NTFNW"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND ROOP POLYMERS",
+    "cin_14": "122311286RPPYM"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "IND SARV PRIYA",
+    "cin_14": "122311286SARVP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "ISE UDYOG",
+    "cin_14": "122311286ISEUG"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "KASAN DS",
+    "cin_14": "122311286KASAN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "KHOH DS",
+    "cin_14": "122311286KHOHD"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV IMT MANESAR(SECT-3)",
+    "feeder_name": "S/STN IMT MANESAR",
+    "cin_14": "122311286SUBST"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "BAR GUJJAR DS",
+    "cin_14": "122311277BARGU"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "BASKUSLA DS",
+    "cin_14": "122311277BASKU"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "CHANDLA DS",
+    "cin_14": "122311277CHAND"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "HALDI RAM",
+    "cin_14": "122311277HALDI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "IBP DS",
+    "cin_14": "122311277IBPDS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "IND AIRCONE+TILDA",
+    "cin_14": "122311277INDAI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "IND EMAAR MGF",
+    "cin_14": "122311277EMAAR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "IND FORNITER HOME",
+    "cin_14": "122311277FRNTE"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "IND GRAPHIC RESEARCH",
+    "cin_14": "122311277GRAPH"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "IND KARMA LAKE LAND",
+    "cin_14": "122311277INDKA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "IND MINDA",
+    "cin_14": "122311277MINDA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "IND NBRC/ NBRC (U)",
+    "cin_14": "122311277INDNB"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "IND NSG",
+    "cin_14": "122311277INDNS"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "IND PICCADILLY",
+    "cin_14": "122311277INDPI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "IND SIYONA",
+    "cin_14": "122311277SYONA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "IND VAN MALLY",
+    "cin_14": "122311277VANMA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "IND VATIKA",
+    "cin_14": "122311277VATKA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "KANKROLA DS/ BHORA CHOWK (U)",
+    "cin_14": "122311277KANKR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "MANESAR DS",
+    "cin_14": "122311277MANES"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "MOHD.PUR AP",
+    "cin_14": "122311277MOHDP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "MOHMADPUR",
+    "cin_14": "122311277MOHMA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "MOKALWAS AP",
+    "cin_14": "122311277MOKAL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "NAKHROLA AP",
+    "cin_14": "122311277NAKHR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "NAURANG PUR DS",
+    "cin_14": "122311277NAURA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "NAWADA DS",
+    "cin_14": "122311277NAWAD"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "PACHGAON AP/ IND BESTECH",
+    "cin_14": "122311277PACHG"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "PERFETTI",
+    "cin_14": "122311277PERFE"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "POKHARPUR DS",
+    "cin_14": "122311277POKHA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "RAMPURA AP",
+    "cin_14": "122311277RAMPA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "S/STN MANESAR",
+    "cin_14": "122311277SUBST"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "SECTOR-81 DS",
+    "cin_14": "122311277SEC81"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "SIKANDERPUR DS",
+    "cin_14": "122311277SIKAN"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV MANESAR",
+    "feeder_name": "SIKHO PUR DS",
+    "cin_14": "122311277SIKHO"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV SECTOR 10 A GURGAON",
+    "feeder_name": "KHERKI DAULA (MU)",
+    "cin_14": "122311274KHERK"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "MANESAR",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "MOHAMAD PUR-II (MU)",
+    "cin_14": "122311284MOHAM"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "33 KV DHAKIA",
+    "feeder_name": "DAULATABAD AP",
+    "cin_14": "122321442DAUBD"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "33 KV DHAKIA",
+    "feeder_name": "DRAPUR AP",
+    "cin_14": "122321442DRAPU"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "33 KV DHAKIA",
+    "feeder_name": "LOKRI DS",
+    "cin_14": "122321442LOKRI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "33 KV DHAKIA",
+    "feeder_name": "MALAHERA AP",
+    "cin_14": "122321442MALAH"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "33 KV DHAKIA",
+    "feeder_name": "NANU KALAN DS",
+    "cin_14": "122321442NANUK"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "33 KV DHAKIA",
+    "feeder_name": "SUB STATION",
+    "cin_14": "122321442SSTNT"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "33 KV KAKORIA",
+    "feeder_name": "CHILLAR DS",
+    "cin_14": "122321461CHILR"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV JAMALPUR",
+    "feeder_name": "IND SUNSET",
+    "cin_14": "122321536SNSET"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV JAMALPUR",
+    "feeder_name": "JORI KALAN DS",
+    "cin_14": "122321536JORIK"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "AMAR PURI (U)",
+    "cin_14": "122321276APURI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "BHOKARKA AP",
+    "cin_14": "122321276BHOKA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "CITY PATAUDI (MU)",
+    "cin_14": "122321276CITYP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "DOULATABAD AP",
+    "cin_14": "122321276DOULA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "GHILLAWAS DS",
+    "cin_14": "122321276GHILL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "GHOSH GARH AP",
+    "cin_14": "122321276GHOSH"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "HUDA SEC-1 (U)",
+    "cin_14": "122321276HSEC1"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "IND CIVIL HOSPITAL",
+    "cin_14": "122321276CIVIL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "IND JAISHREE",
+    "cin_14": "122321276INDJA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "IND KSD",
+    "cin_14": "122321276INKSD"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "IND MALT INDIA",
+    "cin_14": "122321276INDMA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "IND P/HOUSE ICHHAPURI",
+    "cin_14": "122321276INDPH"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "IND STP",
+    "cin_14": "122321276INSTP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "JATAULI (U)",
+    "cin_14": "122321276JATAL"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "KHANPUR DS",
+    "cin_14": "122321276KHANP"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "KHOR AP",
+    "cin_14": "122321276KHORA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "LOKRA AP",
+    "cin_14": "122321276LOKRA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "MIRZAPUR DS",
+    "cin_14": "122321276MIRZA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "MUMTAZPUR DS",
+    "cin_14": "122321276MUMTA"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "NARHERA AP",
+    "cin_14": "122321276NARHE"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "RAJPURA AP",
+    "cin_14": "122321276RAJPU"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "RANSIKA AP",
+    "cin_14": "122321276RANSI"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "S/STN PATAUDI",
+    "cin_14": "122321276SUBST"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "SAMPKA AP",
+    "cin_14": "122321276SAMPK"
+  },
+  {
+    "division": "MANESAR",
+    "sub_division": "PATAUDI",
+    "ss_name": "66 KV PATAUDI",
+    "feeder_name": "TAILPURI AP",
+    "cin_14": "122321276TAILP"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-23",
+    "ss_name": "66 KV PH-1 U/VIHAR",
+    "feeder_name": "66 KV PH-1 U/VIHAR SUB STATION",
+    "cin_14": "126231641SUBST"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-23",
+    "ss_name": "66 KV PH-1 U/VIHAR",
+    "feeder_name": "HANUMAN CHOWK (U)",
+    "cin_14": "126231641HNUMN"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-23",
+    "ss_name": "66 KV PH-1 U/VIHAR",
+    "feeder_name": "IND TEOSHNIWAL",
+    "cin_14": "126231641TOSWL"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-23",
+    "ss_name": "66 KV PH-1 U/VIHAR",
+    "feeder_name": "JANGRA BAZAR",
+    "cin_14": "126231641JGRAB"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-23",
+    "ss_name": "66 KV PH-1 U/VIHAR",
+    "feeder_name": "PEER BABA",
+    "cin_14": "126231641PBABA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-23",
+    "ss_name": "66 KV PH-1 U/VIHAR",
+    "feeder_name": "RAM CHOWK",
+    "cin_14": "126231641RAMCK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-23",
+    "ss_name": "66 KV PH-1 U/VIHAR",
+    "feeder_name": "VATS MARKET",
+    "cin_14": "126231641VATSM"
+  }
+]

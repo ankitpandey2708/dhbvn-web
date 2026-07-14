@@ -1,0 +1,5868 @@
+[
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV AGROHA",
+    "feeder_name": "IND JAWAHAR NAVODYA VIDYALYA",
+    "cin_14": "115461038INDNA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "AKAL AP",
+    "cin_14": "115461048AKALP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "BADOPAL DS",
+    "cin_14": "115461048BADOP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "BHODA AP",
+    "cin_14": "115461048BHOAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "BHODA DS",
+    "cin_14": "115461048BHODS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "CHAPLA MORI AP",
+    "cin_14": "115461048CHAPL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "DHANGER AP",
+    "cin_14": "115461048DHANG"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "DHANGER DS",
+    "cin_14": "115461048DHAGR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "DHANI MAJRA AP",
+    "cin_14": "115461048DHMAJ"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "DHARNIA DS",
+    "cin_14": "115461048DHARN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "IND CHC BADOPAL",
+    "cin_14": "115461048CHCPL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "IND PUMP HOUSE BADOPAL",
+    "cin_14": "115461048INPH1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "KAJAL HERI DS",
+    "cin_14": "115461048KAJAL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "KUMHARIYA AP",
+    "cin_14": "115461048KUMHA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "M.P. ROHI AP",
+    "cin_14": "115461048MPROH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "S/STN 33 KV BADOPAL",
+    "cin_14": "115461048SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "SABARWAS AP",
+    "cin_14": "115461048SABAR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BADOPAL",
+    "ss_name": "33 KV BADOPAL",
+    "feeder_name": "SALAM KHERA AP",
+    "cin_14": "115461048SAAP1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "132 KV BHATTU",
+    "feeder_name": "BANAWALI DS",
+    "cin_14": "115451083BADS1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "132 KV BHATTU",
+    "feeder_name": "BHATTU MANDI (U)",
+    "cin_14": "115451083BHATT"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "132 KV BHATTU",
+    "feeder_name": "DHAND AP",
+    "cin_14": "115451083KIRDH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "132 KV BHATTU",
+    "feeder_name": "DHINGSARA AP",
+    "cin_14": "115451083DHING"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "132 KV BHATTU",
+    "feeder_name": "MEHUWALA AP",
+    "cin_14": "115451083MEHUW"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "132 KV BHATTU",
+    "feeder_name": "MODEL TOWN (U)",
+    "cin_14": "115451083MODEL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "132 KV BHATTU",
+    "feeder_name": "RAMSARA AP",
+    "cin_14": "115451083RAMSA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "132 KV BHATTU",
+    "feeder_name": "S/STN 132 KV BHATTU",
+    "cin_14": "115451083SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "132 KV BHATTU",
+    "feeder_name": "SIRDHAN DS",
+    "cin_14": "115451083SIRDH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "132 KV BHATTU",
+    "feeder_name": "THUIYAN DS",
+    "cin_14": "115451083THUIY"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "33 KV BANGAON",
+    "feeder_name": "BAGGU MORI AP",
+    "cin_14": "115451140BAGGU"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "33 KV BANGAON",
+    "feeder_name": "MASTAAN AP",
+    "cin_14": "115451140MASTN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "33 KV DHABI KALAN",
+    "feeder_name": "DAYAR AP",
+    "cin_14": "115451031DAYAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "33 KV DHABI KALAN",
+    "feeder_name": "DHABI KALAN DS",
+    "cin_14": "115451031DHABI"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "33 KV DHABI KALAN",
+    "feeder_name": "GADALI DS",
+    "cin_14": "115451031GADAL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "33 KV DHABI KALAN",
+    "feeder_name": "JANDWALA DS",
+    "cin_14": "115451031JANDW"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "33 KV DHABI KALAN",
+    "feeder_name": "KHABRA AP",
+    "cin_14": "115451031KHBRA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "33 KV DHABI KALAN",
+    "feeder_name": "MANDORI AP",
+    "cin_14": "115451031MNDOR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "33 KV DHABI KALAN",
+    "feeder_name": "S/STN 33 KV DHABI KALAN",
+    "cin_14": "115451031SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "BHATTU",
+    "ss_name": "33 KV DHABI KALAN",
+    "feeder_name": "SHIV BHOLE DS",
+    "cin_14": "115451031BHOLE"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "132 KV FATEHABAD",
+    "feeder_name": "AZAD NAGAR AP",
+    "cin_14": "115411076AZADP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "132 KV FATEHABAD",
+    "feeder_name": "CHUGE ALI AP",
+    "cin_14": "115411076CHUGE"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "132 KV FATEHABAD",
+    "feeder_name": "DHANI CHHATRIAN AP",
+    "cin_14": "115411076DHAP1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "132 KV FATEHABAD",
+    "feeder_name": "IND JINDAL INDUSTRIES",
+    "cin_14": "115411076JNDAD"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "132 KV FATEHABAD",
+    "feeder_name": "INDUSTRIAL AREA (MU)",
+    "cin_14": "115411076IAFBD"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "132 KV FATEHABAD",
+    "feeder_name": "KHAN MOHMAD AP",
+    "cin_14": "115411076KHANM"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "132 KV FATEHABAD",
+    "feeder_name": "ROOP NAGAR AP",
+    "cin_14": "115411076ROOPN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "220 KV FATEHABAD",
+    "feeder_name": "DHANI BIKANERI AP",
+    "cin_14": "115411089DHANI"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "220 KV FATEHABAD",
+    "feeder_name": "HUDA (U)",
+    "cin_14": "115411089HUDAF"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "220 KV FATEHABAD",
+    "feeder_name": "IND ALPHA CITY",
+    "cin_14": "115411089INDAL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "220 KV FATEHABAD",
+    "feeder_name": "IND SOMA TOWN",
+    "cin_14": "115411089SMATW"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "220 KV FATEHABAD",
+    "feeder_name": "MINI SECT. (U)",
+    "cin_14": "115411089MINIS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "KATA KHERI AP",
+    "cin_14": "115411053KATAK"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "MASHITAN DS",
+    "cin_14": "115411053MASHI"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV DHIR (BOSWAL)",
+    "feeder_name": "AZAD NAGAR AP",
+    "cin_14": "115411020AZADN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV DHIR (BOSWAL)",
+    "feeder_name": "BILASPUR AP",
+    "cin_14": "115411020BLASP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV DHIR (BOSWAL)",
+    "feeder_name": "BOSWAL AP",
+    "cin_14": "115411020BOSWL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV DHIR (BOSWAL)",
+    "feeder_name": "DHANI BIKANERI AP",
+    "cin_14": "115411020DHBIK"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV DHIR (BOSWAL)",
+    "feeder_name": "DHANI CHATTRIAN AP",
+    "cin_14": "115411020CHATT"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV DHIR (BOSWAL)",
+    "feeder_name": "DHANI JAWALA AP",
+    "cin_14": "115411020JWALA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV DHIR (BOSWAL)",
+    "feeder_name": "DHANI MASITAN AP",
+    "cin_14": "115411020DMAST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV DHIR (BOSWAL)",
+    "feeder_name": "DHANI THOBA AP",
+    "cin_14": "115411020THOBA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV DHIR (BOSWAL)",
+    "feeder_name": "DHIR DS",
+    "cin_14": "115411020DHIRD"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV DHIR (BOSWAL)",
+    "feeder_name": "JHAR SAHIB DS",
+    "cin_14": "115411020JHARS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV DHIR (BOSWAL)",
+    "feeder_name": "KATAKHERI AP",
+    "cin_14": "115411020KATKH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV DHIR (BOSWAL)",
+    "feeder_name": "KHAN MOHMAD AP",
+    "cin_14": "115411020MOHMA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV DHIR (BOSWAL)",
+    "feeder_name": "MASITAN AP",
+    "cin_14": "115411020MASIT"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV DHIR (BOSWAL)",
+    "feeder_name": "S/STN 33 KV DHIR (BOSWAL)",
+    "cin_14": "115411020SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV DHIR (BOSWAL)",
+    "feeder_name": "SHRI BALAJI RDS",
+    "cin_14": "115411020BLAJI"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV FATEHABAD",
+    "feeder_name": "BHATIA COLONY (U)",
+    "cin_14": "115411047BHATI"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV FATEHABAD",
+    "feeder_name": "BHATTU ROAD (U)",
+    "cin_14": "115411047BHATT"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV FATEHABAD",
+    "feeder_name": "BOSWAL AP",
+    "cin_14": "115411047BOSWA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV FATEHABAD",
+    "feeder_name": "CITY FATEHABAD (U)",
+    "cin_14": "115411047CITYF"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV FATEHABAD",
+    "feeder_name": "FATEHABAD (U)",
+    "cin_14": "115411047FATEH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV FATEHABAD",
+    "feeder_name": "HISAR ROAD (U)",
+    "cin_14": "115411047HISAR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV FATEHABAD",
+    "feeder_name": "IND CIVIL HOSPITAL",
+    "cin_14": "115411047CIVIL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV FATEHABAD",
+    "feeder_name": "JAWAHAR CHOWK (U)",
+    "cin_14": "115411047JAWAH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV FATEHABAD",
+    "feeder_name": "MODEL TOWN (U)",
+    "cin_14": "115411047MODEL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV FATEHABAD",
+    "feeder_name": "RATIA CHUNGI (U)",
+    "cin_14": "115411047CHUNG"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV FATEHABAD",
+    "feeder_name": "S/STN 33 KV FATEHABAD",
+    "cin_14": "115411047SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV FATEHABAD",
+    "feeder_name": "SIRSA ROAD (U)",
+    "cin_14": "115411047SROAD"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV FATEHABAD",
+    "feeder_name": "YOG NAGAR (U)",
+    "cin_14": "115411047YOGNA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV HAZRAWAN KALAN",
+    "feeder_name": "MALHAR AP",
+    "cin_14": "115411007MALHA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV HUDA SEC-3 FATEHABAD",
+    "feeder_name": "AUTO MARKET (U)",
+    "cin_14": "115411019AUTOM"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV HUDA SEC-3 FATEHABAD",
+    "feeder_name": "BOSWAL AP",
+    "cin_14": "115411019BOSWL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV HUDA SEC-3 FATEHABAD",
+    "feeder_name": "HUDA (U)",
+    "cin_14": "115411019HUDAF"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV HUDA SEC-3 FATEHABAD",
+    "feeder_name": "IND ALPHA TOWN",
+    "cin_14": "115411019ALPHA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV HUDA SEC-3 FATEHABAD",
+    "feeder_name": "IND COURT(DIST. & S.JUDGE)",
+    "cin_14": "115411019DSJGE"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV HUDA SEC-3 FATEHABAD",
+    "feeder_name": "IND SOMA TOWN",
+    "cin_14": "115411019SOMAT"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV HUDA SEC-3 FATEHABAD",
+    "feeder_name": "KHEMA KHATI ROAD (U)",
+    "cin_14": "115411019KKROD"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV HUDA SEC-3 FATEHABAD",
+    "feeder_name": "MINI SECRETRIATE (U)",
+    "cin_14": "115411019MINIS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY FATEHABAD",
+    "ss_name": "33 KV HUDA SEC-3 FATEHABAD",
+    "feeder_name": "S/STN 33 KV HUDA SEC-3 FATEHABAD",
+    "cin_14": "115411019SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "AHERWAN-I AP",
+    "cin_14": "115431078AHEAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "AHERWAN-II DS",
+    "cin_14": "115431078AHEDS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "BHIRA RAM",
+    "cin_14": "115431078BHRAM"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "DHANI RURIWALI-I AP",
+    "cin_14": "115431078DHANI"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "GURUSAR AP",
+    "cin_14": "115431078GURUS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "GURUSAR DS",
+    "cin_14": "115431078GURDS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "NAMDHARI AP",
+    "cin_14": "115431078NAMDH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "PALSAR AP",
+    "cin_14": "115431078PALSA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "RAIPUR AP",
+    "cin_14": "115431078RAIAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "RURIWALI-II AP",
+    "cin_14": "115431078RURIW"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "S/STN 132 KV AHERWAN",
+    "cin_14": "115431078SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV RATIA",
+    "feeder_name": "GURUSAR AP",
+    "cin_14": "115431077GUAP1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV RATIA",
+    "feeder_name": "S/STN 132 KV RATIA",
+    "cin_14": "115431077SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV TELIWARA",
+    "feeder_name": "BILASPUR DHANI AP",
+    "cin_14": "115431082BILAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV TELIWARA",
+    "feeder_name": "BURJA AP",
+    "cin_14": "115431082BURAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV TELIWARA",
+    "feeder_name": "CHIMO AP",
+    "cin_14": "115431082CHIMO"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV TELIWARA",
+    "feeder_name": "GHASWA AP",
+    "cin_14": "115431082GHASW"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV TELIWARA",
+    "feeder_name": "IND WAHEGURU & CHAHAL INDUSTRIES",
+    "cin_14": "115431082WAHEG"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV TELIWARA",
+    "feeder_name": "KUNAL-II AP",
+    "cin_14": "115431082KUNAL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV TELIWARA",
+    "feeder_name": "NANHERI AP",
+    "cin_14": "115431082NANHE"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV TELIWARA",
+    "feeder_name": "NATHWAN -I AP",
+    "cin_14": "115431082NAT01"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV TELIWARA",
+    "feeder_name": "NATHWAN- II AP",
+    "cin_14": "115431082NATHW"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV TELIWARA",
+    "feeder_name": "S/STN 132 KV TELIWARA",
+    "cin_14": "115431082SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV TELIWARA",
+    "feeder_name": "TELIWARA DS",
+    "cin_14": "115431082TELIW"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "132 KV TELIWARA",
+    "feeder_name": "TIBBA DHANI AP",
+    "cin_14": "115431082DTIBA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV BABANPUR",
+    "feeder_name": "BABA LABH SINGH AP",
+    "cin_14": "115431532BLABH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV BABANPUR",
+    "feeder_name": "BABANPUR DS",
+    "cin_14": "115431532BABAN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV BABANPUR",
+    "feeder_name": "BADALGARH AP",
+    "cin_14": "115431532BADAL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV BABANPUR",
+    "feeder_name": "CHETANPURI AP",
+    "cin_14": "115431532CHETN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV BABANPUR",
+    "feeder_name": "KALIPUR AP",
+    "cin_14": "115431532KALIP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV BABANPUR",
+    "feeder_name": "S/STN 33 KV BABANPUR",
+    "cin_14": "115431532SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV CHANDO KHURD",
+    "feeder_name": "BABA PAL AP",
+    "cin_14": "115431046BABAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV CHANDO KHURD",
+    "feeder_name": "CHANDO KHURD AP",
+    "cin_14": "115431046CHNKD"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV CHANDO KHURD",
+    "feeder_name": "JANSEWA DS",
+    "cin_14": "115431046JANSE"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV CHANDO KHURD",
+    "feeder_name": "MUNSHIWALI AP",
+    "cin_14": "115431046MUNSH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV CHANDO KHURD",
+    "feeder_name": "MUNSHIWALI -II /GHAGGAR AP",
+    "cin_14": "115431046MUAP2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV CHANDO KHURD",
+    "feeder_name": "NANAK NAGAR AP",
+    "cin_14": "115431046NANAK"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV CHANDO KHURD",
+    "feeder_name": "PEHOWA DHANI AP",
+    "cin_14": "115431046PEHAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV CHANDO KHURD",
+    "feeder_name": "S/STN 33 KV CHANDO KHURD",
+    "cin_14": "115431046SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV DEGOH",
+    "feeder_name": "KISAN AP",
+    "cin_14": "115431029KISAN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV DEGOH",
+    "feeder_name": "KUNAL AP",
+    "cin_14": "115431029KUNAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV DEGOH",
+    "feeder_name": "M.P. SOTTAR AP",
+    "cin_14": "115431029MPSOT"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV DEGOH",
+    "feeder_name": "NOHAR AP",
+    "cin_14": "115431029NOHAR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV DEGOH",
+    "feeder_name": "PURAN SINGH AP",
+    "cin_14": "115431029PRNSH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV DEGOH",
+    "feeder_name": "RANGOI AP",
+    "cin_14": "115431029RANGO"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV DEGOH",
+    "feeder_name": "SARDARA AP",
+    "cin_14": "115431029SRDRA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV DHANI BABANPUR",
+    "feeder_name": "CHAK DHANI AP",
+    "cin_14": "115431204CHAKD"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV DHANI BABANPUR",
+    "feeder_name": "DHANI BABANPUR DS",
+    "cin_14": "115431204DHANI"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV DHANI BABANPUR",
+    "feeder_name": "GAGHER AP",
+    "cin_14": "115431204GAGHR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV DHANI BABANPUR",
+    "feeder_name": "KALAR DHANI AP",
+    "cin_14": "115431204KALAR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV DHANI BABANPUR",
+    "feeder_name": "NANAK AP",
+    "cin_14": "115431204NANAK"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV DHANI BABANPUR",
+    "feeder_name": "S/STN 33 KV DHANI BABANPUR",
+    "cin_14": "115431204SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV HAMJAPUR",
+    "feeder_name": "ACADEMY AP",
+    "cin_14": "115431052ACDMY"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV HAMJAPUR",
+    "feeder_name": "AJEETSAR AP",
+    "cin_14": "115431052AJEET"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV HAMJAPUR",
+    "feeder_name": "BHARPUR DS",
+    "cin_14": "115431052BHARP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV HAMJAPUR",
+    "feeder_name": "BHATHA DHANI AP",
+    "cin_14": "115431052BHATH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV HAMJAPUR",
+    "feeder_name": "FATEHABAD ROAD AP",
+    "cin_14": "115431052FROAD"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV HAMJAPUR",
+    "feeder_name": "HAMJAPUR AP",
+    "cin_14": "115431052HMPUR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV HAMJAPUR",
+    "feeder_name": "IND COURT COMPLEX",
+    "cin_14": "115431052CUTPX"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV HAMJAPUR",
+    "feeder_name": "IND GAWAR CITY",
+    "cin_14": "115431052GCITY"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV HAMJAPUR",
+    "feeder_name": "S/STN 33 KV HAMJAPUR",
+    "cin_14": "115431052SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV HAMJAPUR",
+    "feeder_name": "SEHNAL AP",
+    "cin_14": "115431052SEHNA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV HAMJAPUR",
+    "feeder_name": "SUNDER NAGAR AP",
+    "cin_14": "115431052SUNDE"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV KAMANA",
+    "feeder_name": "BAGICHA DHANI AP",
+    "cin_14": "115431014BAGIC"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV KAMANA",
+    "feeder_name": "BHUNDERWAS AP",
+    "cin_14": "115431014BHUND"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV KAMANA",
+    "feeder_name": "GHAGGAR AP",
+    "cin_14": "115431014GHAAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV KAMANA",
+    "feeder_name": "KAMANA AP",
+    "cin_14": "115431014KAMAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV KAMANA",
+    "feeder_name": "KAMANA DS",
+    "cin_14": "115431014KAMAN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV KAMANA",
+    "feeder_name": "KOLGARH AP",
+    "cin_14": "115431014KOLGA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV KAMANA",
+    "feeder_name": "MASTRAM AP",
+    "cin_14": "115431014MASTR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV KAMANA",
+    "feeder_name": "S/STN 33 KV KAMANA",
+    "cin_14": "115431014SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV MEHMRA",
+    "feeder_name": "BABANPUR AP",
+    "cin_14": "115431050BABAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV MEHMRA",
+    "feeder_name": "BADALGARH AP",
+    "cin_14": "115431050BGAP1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV MEHMRA",
+    "feeder_name": "BADALGARH-II AP",
+    "cin_14": "115431050BGAP2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV MEHMRA",
+    "feeder_name": "BARA AP",
+    "cin_14": "115431050BAAP1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV MEHMRA",
+    "feeder_name": "BHAKHRA AP",
+    "cin_14": "115431050BHAAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV MEHMRA",
+    "feeder_name": "BHANI KHERA AP",
+    "cin_14": "115431050BHKAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV MEHMRA",
+    "feeder_name": "CHETAN PURI AP",
+    "cin_14": "115431050CHETA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV MEHMRA",
+    "feeder_name": "GRAMEEN DS",
+    "cin_14": "115431050GRDS2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV MEHMRA",
+    "feeder_name": "KAULGARH AP",
+    "cin_14": "115431050KAAP2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV MEHMRA",
+    "feeder_name": "MEHMRA AP",
+    "cin_14": "115431050MEAP2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV MEHMRA",
+    "feeder_name": "NIKONA AP",
+    "cin_14": "115431050NIKON"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV MEHMRA",
+    "feeder_name": "POLICE CHOWKI AP",
+    "cin_14": "115431050POAP1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV MEHMRA",
+    "feeder_name": "S/STN 33 KV MEHMRA",
+    "cin_14": "115431050SUST2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV NANHERI",
+    "feeder_name": "KALANDERGARH AP",
+    "cin_14": "115431024KALAN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV NANHERI",
+    "feeder_name": "KUNAL-II AP",
+    "cin_14": "115431024KUAP2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV NANHERI",
+    "feeder_name": "KUNAL-L AP",
+    "cin_14": "115431024KUNAL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV NANHERI",
+    "feeder_name": "NANHERI AP",
+    "cin_14": "115431024NANAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV NANHERI",
+    "feeder_name": "NANHERI DS",
+    "cin_14": "115431024NANDS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV NANHERI",
+    "feeder_name": "NANHERI-III AP",
+    "cin_14": "115431024NAAP3"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV NANHERI",
+    "feeder_name": "S/STN 33 KV NANHERI",
+    "cin_14": "115431024SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RAIPUR DHANI",
+    "feeder_name": "CHANDO - II AP",
+    "cin_14": "115431055CHAAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RAIPUR DHANI",
+    "feeder_name": "DHANI RAIPUR AP",
+    "cin_14": "115431055DHANI"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RAIPUR DHANI",
+    "feeder_name": "GURUSAR DS",
+    "cin_14": "115431055GURUS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RAIPUR DHANI",
+    "feeder_name": "JANSEWA DS",
+    "cin_14": "115431055JANSE"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RAIPUR DHANI",
+    "feeder_name": "LOKSEWA DS",
+    "cin_14": "115431055LOKSE"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RAIPUR DHANI",
+    "feeder_name": "RAIPUR AP",
+    "cin_14": "115431055RAIPU"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RAIPUR DHANI",
+    "feeder_name": "RANGOI AP",
+    "cin_14": "115431055RANAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RAIPUR DHANI",
+    "feeder_name": "S/STN 33 KV RAIPUR DHANI",
+    "cin_14": "115431055SUST2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RAIPUR DHANI",
+    "feeder_name": "SOTTER AP",
+    "cin_14": "115431055SOTAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RAIPUR DHANI",
+    "feeder_name": "SUKHMANPUR AP",
+    "cin_14": "115431055SUKHM"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RATIA",
+    "feeder_name": "BUDHLADA ROAD (U)",
+    "cin_14": "115431456BUDHL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RATIA",
+    "feeder_name": "CITY- I RATIA (U)",
+    "cin_14": "115431456CITY1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RATIA",
+    "feeder_name": "CITY- II RATIA (U)",
+    "cin_14": "115431456CITY2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RATIA",
+    "feeder_name": "CITY- III RATIA (U)",
+    "cin_14": "115431456CITY3"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RATIA",
+    "feeder_name": "CITY-IV RATIA (U)",
+    "cin_14": "115431456CITY4"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RATIA",
+    "feeder_name": "GHAGGAR AP",
+    "cin_14": "115431456GHAAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RATIA",
+    "feeder_name": "IND CIVIL HOSPITAL",
+    "cin_14": "115431456CIVIL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RATIA",
+    "feeder_name": "KHOKHAR DHANI AP",
+    "cin_14": "115431456KHOKH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RATIA",
+    "feeder_name": "MODEL TOWN (U)",
+    "cin_14": "115431456MTOWN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RATIA",
+    "feeder_name": "NATHWAN AP",
+    "cin_14": "115431456NAAP1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV RATIA",
+    "feeder_name": "S/STN 33 KV RATIA",
+    "cin_14": "115431456SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV TELIWARA",
+    "feeder_name": "BABANPUR AP",
+    "cin_14": "115431049BAAP1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV TELIWARA",
+    "feeder_name": "CHIMMO DS",
+    "cin_14": "115431049CHIMO"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV TELIWARA",
+    "feeder_name": "DHANI KOULGARH AP",
+    "cin_14": "115431049DHNAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV TELIWARA",
+    "feeder_name": "GHASHWA AP",
+    "cin_14": "115431049GHASH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV TELIWARA",
+    "feeder_name": "KUNAL AP",
+    "cin_14": "115431049KUNAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV TELIWARA",
+    "feeder_name": "LAMBA AP",
+    "cin_14": "115431049LAMAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV TELIWARA",
+    "feeder_name": "S/STN 33 KV TELIWARA",
+    "cin_14": "115431049SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV TELIWARA",
+    "feeder_name": "TELIWARA DS",
+    "cin_14": "115431049TELIW"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "33 KV TELIWARA",
+    "feeder_name": "TIBBA DHANI AP",
+    "cin_14": "115431049TDHNI"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "S/STN JAKHAN DADI",
+    "feeder_name": "BABA MUKAND AP",
+    "cin_14": "115431656BAMKD"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "S/STN JAKHAN DADI",
+    "feeder_name": "BABA NANAK AP",
+    "cin_14": "115431656BANAK"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "S/STN JAKHAN DADI",
+    "feeder_name": "RAM NAGAR (U)",
+    "cin_14": "115431656RAMNR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "S/STN JAKHAN DADI",
+    "feeder_name": "S/ STN. JAKHAN DADI",
+    "cin_14": "115431656SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "CITY RATIA",
+    "ss_name": "S/STN JAKHAN DADI",
+    "feeder_name": "SEHNAL ROAD (U)",
+    "cin_14": "115431656SNROD"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV BHUTHAN KALAN",
+    "feeder_name": "DHANI MAJRA DS",
+    "cin_14": "115421085DHANI"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV BHUTHAN KALAN",
+    "feeder_name": "IND 33KV GHAVP",
+    "cin_14": "115421085GHAVP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV BHUTHAN KALAN",
+    "feeder_name": "S/STN 132 KV BHUTHAN KALAN",
+    "cin_14": "115421085SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV DING",
+    "feeder_name": "IND GILLAN KHERA-W/W",
+    "cin_14": "115421206INDGI"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV DING",
+    "feeder_name": "IND PWW",
+    "cin_14": "115421206PWWND"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV DING",
+    "feeder_name": "KARNOLI-I AP",
+    "cin_14": "115421206KARAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV DING",
+    "feeder_name": "KARNOLI-II AP",
+    "cin_14": "115421206KARRU"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV DING",
+    "feeder_name": "RURAL AP",
+    "cin_14": "115421206RURAL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV FATEHABAD",
+    "feeder_name": "DAULTPUR AP",
+    "cin_14": "115421076DAULT"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV FATEHABAD",
+    "feeder_name": "DHANI ISSAR AP",
+    "cin_14": "115421076DHAIS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV FATEHABAD",
+    "feeder_name": "IND WT PLANT",
+    "cin_14": "115421076WTPLA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV FATEHABAD",
+    "feeder_name": "KHARATI KHERA AP",
+    "cin_14": "115421076KHARA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV FATEHABAD",
+    "feeder_name": "MAJRA-I AP",
+    "cin_14": "115421076MAJRA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV FATEHABAD",
+    "feeder_name": "MANAWALI AP",
+    "cin_14": "115421076MANAW"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV FATEHABAD",
+    "feeder_name": "MATANA-I AP",
+    "cin_14": "115421076MATAN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV FATEHABAD",
+    "feeder_name": "S/STN 132 KV FATEHABAD",
+    "cin_14": "115421076SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "132 KV FATEHABAD",
+    "feeder_name": "SANGATSAR AP",
+    "cin_14": "115421076SNGTR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "220 KV FATEHABAD",
+    "feeder_name": "BARSEEN AP",
+    "cin_14": "115421089BARSE"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "220 KV FATEHABAD",
+    "feeder_name": "BIGHAR AP",
+    "cin_14": "115421089BIGHA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "220 KV FATEHABAD",
+    "feeder_name": "BIGHAR-II AP",
+    "cin_14": "115421089BIGH2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "220 KV FATEHABAD",
+    "feeder_name": "BISLA DS",
+    "cin_14": "115421089BISLA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "220 KV FATEHABAD",
+    "feeder_name": "IND POWER GRID",
+    "cin_14": "115421089INDPO"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "220 KV FATEHABAD",
+    "feeder_name": "MAJRA-II AP",
+    "cin_14": "115421089MAJR2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "220 KV FATEHABAD",
+    "feeder_name": "MATANA -II DS",
+    "cin_14": "115421089MATAN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "220 KV FATEHABAD",
+    "feeder_name": "POLICE LINE (U)",
+    "cin_14": "115421089POLIC"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "220 KV FATEHABAD",
+    "feeder_name": "S/STN 220 KV FATEHABAD",
+    "cin_14": "115421089SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "220 KV FATEHABAD",
+    "feeder_name": "TULSI NAGAR AP",
+    "cin_14": "115421089TUSNA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "220 KV FATEHABAD",
+    "feeder_name": "WATER TREATMENT PLANT (MU)",
+    "cin_14": "115421089WTPNT"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BANGAON",
+    "feeder_name": "BALAJI AP",
+    "cin_14": "115421140BALAJ"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BANGAON",
+    "feeder_name": "BANGAON DS",
+    "cin_14": "115421140BANGA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BANGAON",
+    "feeder_name": "BMK DS",
+    "cin_14": "115421140BMKDS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BANGAON",
+    "feeder_name": "GEEN MATA AP",
+    "cin_14": "115421140GEENM"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BANGAON",
+    "feeder_name": "KRISHAN PARNAMI AP",
+    "cin_14": "115421140KPARN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BANGAON",
+    "feeder_name": "MAST KALANDER AP",
+    "cin_14": "115421140MASTK"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BANGAON",
+    "feeder_name": "S/STN 33 KV BANGAON",
+    "cin_14": "115421140SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "ALISADAR-I AP",
+    "cin_14": "115421045ALIS2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "BANAWALI AP",
+    "cin_14": "115421045BANAW"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "BEHBALPUR AP",
+    "cin_14": "115421045BEHBA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "BHAROLAWALI AP",
+    "cin_14": "115421045BHARO"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "BHATTU SOTTAR AP",
+    "cin_14": "115421045SOTTA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "DHANI NAND RAM AP",
+    "cin_14": "115421045NANDR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "GYANI DIDAR SINGH AP",
+    "cin_14": "115421045GYANI"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "HANSPUR DS",
+    "cin_14": "115421045HANSP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "HUKAM CHAND AP",
+    "cin_14": "115421045HKAMC"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "JATEHADAR BANTA SINGH AP",
+    "cin_14": "115421045JATEH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "MUSEALI DS",
+    "cin_14": "115421045MUSEA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "NAKHATIA AP",
+    "cin_14": "115421045NAKHA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "NEW THEIR-II AP",
+    "cin_14": "115421045THEI2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "OLD THEIR-I AP",
+    "cin_14": "115421045THEI1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "RATTA TIBBA AP",
+    "cin_14": "115421045RATTA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "S/STN 33 KV BEHBALPUR",
+    "cin_14": "115421045SUST1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHIRDANA",
+    "feeder_name": "BASANT MOR AP",
+    "cin_14": "115421018BASAN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHIRDANA",
+    "feeder_name": "BHIRDANA DS",
+    "cin_14": "115421018BHIRD"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHIRDANA",
+    "feeder_name": "BIHARI AP",
+    "cin_14": "115421018BIHAR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHIRDANA",
+    "feeder_name": "DHANI 86 AP",
+    "cin_14": "115421018DHA86"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHIRDANA",
+    "feeder_name": "DHANI MS DELU AP",
+    "cin_14": "115421018MSDLU"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHIRDANA",
+    "feeder_name": "FOJA SINGH AP",
+    "cin_14": "115421018FOJAS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHIRDANA",
+    "feeder_name": "GAUSHALA AP",
+    "cin_14": "115421018GUSHL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHIRDANA",
+    "feeder_name": "GERA AP",
+    "cin_14": "115421018GERAF"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHIRDANA",
+    "feeder_name": "ISHWAR AP",
+    "cin_14": "115421018ISHWA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHIRDANA",
+    "feeder_name": "KATAKHERI AP",
+    "cin_14": "115421018KATAK"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHIRDANA",
+    "feeder_name": "RAJABAD AP",
+    "cin_14": "115421018RAJAB"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHIRDANA",
+    "feeder_name": "S/STN 33 KV BHIRDANA",
+    "cin_14": "115421018SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHUTHAN",
+    "feeder_name": "BHIRDANA-I AP",
+    "cin_14": "115421011BHI01"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHUTHAN",
+    "feeder_name": "BHIRDANA-II AP",
+    "cin_14": "115421011BHI02"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHUTHAN",
+    "feeder_name": "BHUTHAN AP",
+    "cin_14": "115421011BHUTH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHUTHAN",
+    "feeder_name": "GARH CHANDERI AP",
+    "cin_14": "115421011GARHC"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHUTHAN",
+    "feeder_name": "IND H.M.FOODS",
+    "cin_14": "115421011INHMF"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHUTHAN",
+    "feeder_name": "JHALNIA AP",
+    "cin_14": "115421011JHALN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHUTHAN",
+    "feeder_name": "MAJRA-II AP",
+    "cin_14": "115421011MAJAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHUTHAN",
+    "feeder_name": "PALSAR AP",
+    "cin_14": "115421011PALSA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHUTHAN",
+    "feeder_name": "S/STN 33 KV BHUTHAN",
+    "cin_14": "115421011SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BHUTHAN",
+    "feeder_name": "SOTTER AP",
+    "cin_14": "115421011SOTTE"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BODIWALI",
+    "feeder_name": "BODIWALI AP",
+    "cin_14": "115421385BODAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BODIWALI",
+    "feeder_name": "BODIWALI DS",
+    "cin_14": "115421385BODDS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BODIWALI",
+    "feeder_name": "GILLAN KHERA AP",
+    "cin_14": "115421385GILAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BODIWALI",
+    "feeder_name": "GILLAN KHERA DS",
+    "cin_14": "115421385GILDS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BODIWALI",
+    "feeder_name": "IND HERBAL PARK GILLAN KHERA",
+    "cin_14": "115421385HERBA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BODIWALI",
+    "feeder_name": "PEER BABA AP",
+    "cin_14": "115421385PEERB"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BODIWALI",
+    "feeder_name": "S/STN 33 KV BODIWALI",
+    "cin_14": "115421385SSTNT"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV BODIWALI",
+    "feeder_name": "SARWARPUR AP",
+    "cin_14": "115421385SARWA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "AHLISADAR - II AP",
+    "cin_14": "115421016AHLIS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "DARIYAPUR DS",
+    "cin_14": "115421016DARDS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "DARIYAPUR AP",
+    "cin_14": "115421016DARIT"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "DESH RAJ SAHIB SINGH AP",
+    "cin_14": "115421016DESHR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "DHANI BALKAR SINGH AP",
+    "cin_14": "115421016DHBAL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "DHANI GOPAL SINGH AP",
+    "cin_14": "115421016GOPAL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "DHANI GOVIND SINGH AP",
+    "cin_14": "115421016DHAGS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "DHANI NANAKSAR (A) AP",
+    "cin_14": "115421016DHANA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "DHANI NANAKSAR (B) AP",
+    "cin_14": "115421016DHANB"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "DHANI SANTOKH SINGH AP",
+    "cin_14": "115421016DHSAN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "DHANI SHEKHANWALI DS",
+    "cin_14": "115421016DHASW"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "GUJJAR KHERA AP",
+    "cin_14": "115421016GUJAR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "HARIPURA AP",
+    "cin_14": "115421016HARIP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "HAZRAWAN - II AP",
+    "cin_14": "115421016HAZRA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "KUKRANWALI DS",
+    "cin_14": "115421016KUKRA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "S/STN 33 KV DARIYAPUR",
+    "cin_14": "115421016SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV DARIYAPUR",
+    "feeder_name": "URBAN MIX (MU)",
+    "cin_14": "115421016URBAN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HAZRAWAN KALAN",
+    "feeder_name": "BANAWALI AP",
+    "cin_14": "115421007BANAW"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HAZRAWAN KALAN",
+    "feeder_name": "DHANI GURNAM DS",
+    "cin_14": "115421007DHADS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HAZRAWAN KALAN",
+    "feeder_name": "DHANI ISHAR AP",
+    "cin_14": "115421007DHSHA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HAZRAWAN KALAN",
+    "feeder_name": "DHANI KHICHAR AP",
+    "cin_14": "115421007DKHAR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HAZRAWAN KALAN",
+    "feeder_name": "DHANI THOBA AP",
+    "cin_14": "115421007DHAAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HAZRAWAN KALAN",
+    "feeder_name": "DHANI UNNIS AP",
+    "cin_14": "115421007UNIWA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HAZRAWAN KALAN",
+    "feeder_name": "DHANI UPPAL AP",
+    "cin_14": "115421007DUPAL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HAZRAWAN KALAN",
+    "feeder_name": "HAZRAWAN KALAN AP",
+    "cin_14": "115421007HAZKA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HAZRAWAN KALAN",
+    "feeder_name": "HAZRAWAN KHURD AP",
+    "cin_14": "115421007HAZKH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HAZRAWAN KALAN",
+    "feeder_name": "IND R R INDUSTRIES",
+    "cin_14": "115421007RRNDT"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HAZRAWAN KALAN",
+    "feeder_name": "KARIYAN AP",
+    "cin_14": "115421007KARIY"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HAZRAWAN KALAN",
+    "feeder_name": "MUSEALI AP",
+    "cin_14": "115421007MUSEA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HAZRAWAN KALAN",
+    "feeder_name": "NAKHATIA AP",
+    "cin_14": "115421007NAKHA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HAZRAWAN KALAN",
+    "feeder_name": "RATTA TIBBA AP",
+    "cin_14": "115421007RATTA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HAZRAWAN KALAN",
+    "feeder_name": "S/STN 33 KV HAZRAWAN KALAN",
+    "cin_14": "115421007SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HUDA SEC-3 FATEHABAD",
+    "feeder_name": "DHANI GODARA AP",
+    "cin_14": "115421019GODAR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HUDA SEC-3 FATEHABAD",
+    "feeder_name": "JOSAN AP",
+    "cin_14": "115421019JSNAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV HUDA SEC-3 FATEHABAD",
+    "feeder_name": "MAJRA AP",
+    "cin_14": "115421019MAJRA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV JHALNIA",
+    "feeder_name": "BARSIN POONIA AP",
+    "cin_14": "115421653BARSN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV JHALNIA",
+    "feeder_name": "JHALNIA DS",
+    "cin_14": "115421653JLNIA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV JHALNIA",
+    "feeder_name": "KALIRANA AP",
+    "cin_14": "115421653KRANA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV JHALNIA",
+    "feeder_name": "LOHMROR AP",
+    "cin_14": "115421653LMROR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV JHALNIA",
+    "feeder_name": "S/STN JHALNIA",
+    "cin_14": "115421653SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV KARNOLI",
+    "feeder_name": "AHLISADAR DS",
+    "cin_14": "115421627ALISR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV KARNOLI",
+    "feeder_name": "BILASPUR AP",
+    "cin_14": "115421627BLSPR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV KARNOLI",
+    "feeder_name": "GREWAL AP",
+    "cin_14": "115421627GEWAL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV KARNOLI",
+    "feeder_name": "IND WATER WORKS",
+    "cin_14": "115421627INDWW"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV KARNOLI",
+    "feeder_name": "KARNOLI DS",
+    "cin_14": "115421627KARNL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV KARNOLI",
+    "feeder_name": "NANAKCHAND AP",
+    "cin_14": "115421627NAKCD"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV KARNOLI",
+    "feeder_name": "ONKAR MAL AP",
+    "cin_14": "115421627OKRML"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV KARNOLI",
+    "feeder_name": "S/STN KARNOLI",
+    "cin_14": "115421627SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV SOTTAR BHATTU",
+    "feeder_name": "BANTA SINGH AP",
+    "cin_14": "115421131BANTA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV SOTTAR BHATTU",
+    "feeder_name": "BHOJ RAJ AP",
+    "cin_14": "115421131BHRAJ"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV SOTTAR BHATTU",
+    "feeder_name": "MILKH RAJ AP",
+    "cin_14": "115421131MIRAJ"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV SOTTAR BHATTU",
+    "feeder_name": "RAM CHANDER AP",
+    "cin_14": "115421131RAMCH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV SOTTAR BHATTU",
+    "feeder_name": "S/STN 33 KV SOTTAR BHATTU",
+    "cin_14": "115421131SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV SOTTAR BHATTU",
+    "feeder_name": "SHER SINGH AP",
+    "cin_14": "115421131SHERS"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "33 KV SOTTAR BHATTU",
+    "feeder_name": "SOTTAR BHATTU DS",
+    "cin_14": "115421131SOTTA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U FATEHABAD",
+    "ss_name": "400 KV MATANA",
+    "feeder_name": "IND POWER GRID",
+    "cin_14": "115421556PGRID"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "BAROTA AP",
+    "cin_14": "115441078BRTAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "BEHAL BHOMIAN -I AP",
+    "cin_14": "115441078BEHAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "BEHAL BHOMIAN-II DS",
+    "cin_14": "115441078BEH02"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "PHOOLAN AP",
+    "cin_14": "115441078PHOOL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "PHOOLAN-B AP",
+    "cin_14": "115441078PHBAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "RANGOI AP",
+    "cin_14": "115441078RANGO"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "132 KV AHERWAN",
+    "feeder_name": "SHEKHUPUR AP",
+    "cin_14": "115441078SHEKH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "132 KV RATIA",
+    "feeder_name": "BAHMANWALA AP",
+    "cin_14": "115441077BHMAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "132 KV RATIA",
+    "feeder_name": "BHUNDARWAS AP",
+    "cin_14": "115441077BHUND"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "132 KV RATIA",
+    "feeder_name": "LALI AP",
+    "cin_14": "115441077LALIA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "132 KV RATIA",
+    "feeder_name": "MIRANA AP",
+    "cin_14": "115441077MRANP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "132 KV RATIA",
+    "feeder_name": "MUDH AP",
+    "cin_14": "115441077MUDHA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "132 KV RATIA",
+    "feeder_name": "MUDH-B AP",
+    "cin_14": "115441077MUDHB"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "132 KV RATIA",
+    "feeder_name": "RATTAN GARH AP",
+    "cin_14": "115441077RATTA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "132 KV RATIA",
+    "feeder_name": "ROJAWALI AP",
+    "cin_14": "115441077ROJAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ALALWAS",
+    "feeder_name": "ALALWAS DS",
+    "cin_14": "115441017ALALW"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ALALWAS",
+    "feeder_name": "DADUPUR AP",
+    "cin_14": "115441017DADAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ALALWAS",
+    "feeder_name": "GAGHAR AP",
+    "cin_14": "115441017GAGAR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ALALWAS",
+    "feeder_name": "KALOTHA AP",
+    "cin_14": "115441017KALOT"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ALALWAS",
+    "feeder_name": "KHAIRPUR NEW AP",
+    "cin_14": "115441017KHAIR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ALALWAS",
+    "feeder_name": "KHARPUR AP",
+    "cin_14": "115441017KHARP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ALALWAS",
+    "feeder_name": "LALI AP",
+    "cin_14": "115441017LALAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ALALWAS",
+    "feeder_name": "LALI -B AP",
+    "cin_14": "115441017LALIB"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ALALWAS",
+    "feeder_name": "S/STN 33 KV ALALWAS",
+    "cin_14": "115441017SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ALALWAS",
+    "feeder_name": "SUCHHA AP",
+    "cin_14": "115441017SUCHA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ALIKA",
+    "feeder_name": "ALIKA DS",
+    "cin_14": "115441548ALIKA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ALIKA",
+    "feeder_name": "HUKMAWALI AP",
+    "cin_14": "115441548HUKMA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ALIKA",
+    "feeder_name": "JALPUL AP",
+    "cin_14": "115441548JALPL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ALIKA",
+    "feeder_name": "MALPEER AP",
+    "cin_14": "115441548MALPR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ALIKA",
+    "feeder_name": "MALWALA AP",
+    "cin_14": "115441548MALWL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ALIKA",
+    "feeder_name": "S/STN. 33 KV ALIKA",
+    "cin_14": "115441548SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "AHARWAN AP",
+    "cin_14": "115441053AHARW"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "AYALKI AP",
+    "cin_14": "115441053AYALK"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "AYALKI-B AP",
+    "cin_14": "115441053AYBAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "BAROTA DS",
+    "cin_14": "115441053BAROT"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "BHOLA AP",
+    "cin_14": "115441053BHOLA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "CHAN KOTHI - II AP",
+    "cin_14": "115441053CHAAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "CHAN KOTHI-I AP",
+    "cin_14": "115441053CHA01"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "IND JBS FOOD INDUSTRIES",
+    "cin_14": "115441053HARKI"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "IND MANGLA RICE UNIT",
+    "cin_14": "115441053MGRUT"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "JHANDWALA (A) AP",
+    "cin_14": "115441053JHAP1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "JHANDWALA (B) AP",
+    "cin_14": "115441053JHAP2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "JHANDWALA (C) AP",
+    "cin_14": "115441053JHAP3"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "JHAR SAHIB DS",
+    "cin_14": "115441053JHDS1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "KHUMBAR DS",
+    "cin_14": "115441053KHUMB"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "MARMKORI AP",
+    "cin_14": "115441053MARMK"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "NURKI (A) AP",
+    "cin_14": "115441053NUAP1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "NURKI (B) AP",
+    "cin_14": "115441053NUAP2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "RAJABAD AP",
+    "cin_14": "115441053RAJAB"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "S/STN 33 KV AYALKI",
+    "cin_14": "115441053SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV AYALKI",
+    "feeder_name": "SHEKHUPUR AP",
+    "cin_14": "115441053SHEKH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV BALIALA",
+    "feeder_name": "BALIYALA DS",
+    "cin_14": "115441051BALIY"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV BALIALA",
+    "feeder_name": "BALIYALA AP",
+    "cin_14": "115441051BAYAA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV BALIALA",
+    "feeder_name": "BORA AP",
+    "cin_14": "115441051BOAP1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV BALIALA",
+    "feeder_name": "KHARPUR AP",
+    "cin_14": "115441051KHA01"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV BALIALA",
+    "feeder_name": "LADUWAS (MIRANA) AP",
+    "cin_14": "115441051MRAAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV BALIALA",
+    "feeder_name": "LUTHERA AP",
+    "cin_14": "115441051LUTAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV BALIALA",
+    "feeder_name": "NANGAL AP",
+    "cin_14": "115441051NAAP1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV BALIALA",
+    "feeder_name": "NANGAL DHANI AP",
+    "cin_14": "115441051NANDH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV BALIALA",
+    "feeder_name": "PLOT AP",
+    "cin_14": "115441051PLOTA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV BALIALA",
+    "feeder_name": "RATTAN GARH DS",
+    "cin_14": "115441051RATTA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV BALIALA",
+    "feeder_name": "S/STN 33 KV BALIALA",
+    "cin_14": "115441051SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV BEHBALPUR",
+    "feeder_name": "HANSPUR AP",
+    "cin_14": "115441045HANAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV GANDHA/AJIT NAGAR",
+    "feeder_name": "AJIT NAGAR DS",
+    "cin_14": "115441033AJDS1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV GANDHA/AJIT NAGAR",
+    "feeder_name": "ALIKA AP",
+    "cin_14": "115441033ALAP2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV GANDHA/AJIT NAGAR",
+    "feeder_name": "BIRABADI AP",
+    "cin_14": "115441033BIAP1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV GANDHA/AJIT NAGAR",
+    "feeder_name": "GHAGER AP",
+    "cin_14": "115441033GHAGE"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV GANDHA/AJIT NAGAR",
+    "feeder_name": "JHALPUL AP",
+    "cin_14": "115441033JHPAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV GANDHA/AJIT NAGAR",
+    "feeder_name": "MALPEER AP",
+    "cin_14": "115441033MALPE"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV GANDHA/AJIT NAGAR",
+    "feeder_name": "MALWALA AP",
+    "cin_14": "115441033MAAP2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV GANDHA/AJIT NAGAR",
+    "feeder_name": "MUDH AP",
+    "cin_14": "115441033MUDHP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV GANDHA/AJIT NAGAR",
+    "feeder_name": "S/STN 33 KV GANDHA/AJIT NAGAR",
+    "cin_14": "115441033SUST1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV GANDHA/AJIT NAGAR",
+    "feeder_name": "SAHARNA AP",
+    "cin_14": "115441033SAHAR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV GANDHA/AJIT NAGAR",
+    "feeder_name": "SUKHCHAIN AP",
+    "cin_14": "115441033SUKHC"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HANSPUR",
+    "feeder_name": "GDS AP",
+    "cin_14": "115441575GDSAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HANSPUR",
+    "feeder_name": "HANS DS",
+    "cin_14": "115441575HANSD"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HANSPUR",
+    "feeder_name": "KHUNAN DS",
+    "cin_14": "115441575KUNAN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HANSPUR",
+    "feeder_name": "MANAKPUR AP",
+    "cin_14": "115441575MANAK"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HANSPUR",
+    "feeder_name": "NAHAR AP",
+    "cin_14": "115441575NAHAR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HANSPUR",
+    "feeder_name": "S/STN. 33 KV HANSPUR",
+    "cin_14": "115441575SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HANSPUR",
+    "feeder_name": "TIBBI AP",
+    "cin_14": "115441575TIBBI"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "BHARPUR AP",
+    "cin_14": "115441054BHARP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "CHAHODA AP",
+    "cin_14": "115441054CHUAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "DADUPUR DS",
+    "cin_14": "115441054DADUP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "HANSPUR AP",
+    "cin_14": "115441054HANAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "HAROLI DS",
+    "cin_14": "115441054HAROL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "HUKMAWALI AP",
+    "cin_14": "115441054HUKAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "J P ADDA DS",
+    "cin_14": "115441054JPADD"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "JOLLAPUR AP",
+    "cin_14": "115441054JOAP2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "KHUNAN NEW AP",
+    "cin_14": "115441054KHUNA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "LALI AP",
+    "cin_14": "115441054LALIA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "MUSA DHANI AP",
+    "cin_14": "115441054MUSAD"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "NAGPUR DS",
+    "cin_14": "115441054NADS2"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "NAKTA AP",
+    "cin_14": "115441054NAKAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "PEER AP",
+    "cin_14": "115441054PEERA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "PHOOLAN AP",
+    "cin_14": "115441054PHOAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "RATTA KHERA AP",
+    "cin_14": "115441054RATTA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "S/STN 33 KV HAROLI",
+    "cin_14": "115441054SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "SUKHCHAIN AP",
+    "cin_14": "115441054SUKHA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "TAMSPURA AP",
+    "cin_14": "115441054TAMSP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HAROLI",
+    "feeder_name": "TIBBA AP",
+    "cin_14": "115441054TBBAA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV HUKMAWALI",
+    "feeder_name": "HUKMAWALI DS",
+    "cin_14": "115441542HUKMA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV MEHMODKI",
+    "feeder_name": "BHAGAT SINGH AP",
+    "cin_14": "115441063BHAGT"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV MEHMODKI",
+    "feeder_name": "BHAKHRA AP",
+    "cin_14": "115441063BHKHP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV MEHMODKI",
+    "feeder_name": "GAGAR AP",
+    "cin_14": "115441063GAGAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV MEHMODKI",
+    "feeder_name": "GRAMEEN DS",
+    "cin_14": "115441063GRAME"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV MEHMODKI",
+    "feeder_name": "IND GURUHAR RICE MILL",
+    "cin_14": "115441063GRMIL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV MEHMODKI",
+    "feeder_name": "KARNAL DHANI AP",
+    "cin_14": "115441063KARAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV MEHMODKI",
+    "feeder_name": "KHAI AP",
+    "cin_14": "115441063KHAIA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV MEHMODKI",
+    "feeder_name": "LADHUWAS AP",
+    "cin_14": "115441063LAD03"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV MEHMODKI",
+    "feeder_name": "MEHMODKI AP",
+    "cin_14": "115441063MEAP1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV MEHMODKI",
+    "feeder_name": "MOFAR AP",
+    "cin_14": "115441063MOFAR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV MEHMODKI",
+    "feeder_name": "PILCHHIAN AP",
+    "cin_14": "115441063PILCH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV MEHMODKI",
+    "feeder_name": "S/STN 33 KV MEHMODKI",
+    "cin_14": "115441063SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV MEHMODKI",
+    "feeder_name": "SARDAREWALA AP",
+    "cin_14": "115441063SAAP1"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV NOORKI AHLI",
+    "feeder_name": "CHANKOTHI AP",
+    "cin_14": "115441606CHANK"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV NOORKI AHLI",
+    "feeder_name": "CHUGE AHLI AP",
+    "cin_14": "115441606CHUGE"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV NOORKI AHLI",
+    "feeder_name": "KHUMBER AP",
+    "cin_14": "115441606KMBER"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV NOORKI AHLI",
+    "feeder_name": "MALHAR AP",
+    "cin_14": "115441606MLHAR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV NOORKI AHLI",
+    "feeder_name": "NOORKI RDS",
+    "cin_14": "115441606NORKI"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV NOORKI AHLI",
+    "feeder_name": "S/STN. NOORKI AHLI",
+    "cin_14": "115441606SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV PHOOLAN",
+    "feeder_name": "JAMUNA AP",
+    "cin_14": "115441568JMUNA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV PHOOLAN",
+    "feeder_name": "MANDIR AP",
+    "cin_14": "115441568MNDIR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV PHOOLAN",
+    "feeder_name": "MANGE RAM AP",
+    "cin_14": "115441568MANGE"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV PHOOLAN",
+    "feeder_name": "NOGAJA AP",
+    "cin_14": "115441568NOGJA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV PHOOLAN",
+    "feeder_name": "PHOOLAN DS",
+    "cin_14": "115441568PHOOL"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV PHOOLAN",
+    "feeder_name": "PREM NATH AP",
+    "cin_14": "115441568PREMN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV PHOOLAN",
+    "feeder_name": "RAMBAG AP",
+    "cin_14": "115441568RAMBG"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV PHOOLAN",
+    "feeder_name": "S/STN 33 KV PHOOLAN",
+    "cin_14": "115441568SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV RATIA",
+    "feeder_name": "IND STP CITY RATIA",
+    "cin_14": "115441456STPRA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV RATTA KHERA",
+    "feeder_name": "BALAJI AP",
+    "cin_14": "115441524BALAJ"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV RATTA KHERA",
+    "feeder_name": "BHIM AP",
+    "cin_14": "115441524BHIMA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV RATTA KHERA",
+    "feeder_name": "DERA AP",
+    "cin_14": "115441524DERAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV RATTA KHERA",
+    "feeder_name": "GURU KIRPA AP",
+    "cin_14": "115441524GRUKA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV RATTA KHERA",
+    "feeder_name": "KARIPEER AP",
+    "cin_14": "115441524KARIP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV RATTA KHERA",
+    "feeder_name": "MAHADEV AP",
+    "cin_14": "115441524MHADV"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV RATTA KHERA",
+    "feeder_name": "NEHAR AP",
+    "cin_14": "115441524NEHAR"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV RATTA KHERA",
+    "feeder_name": "RATTA KHERA DS",
+    "cin_14": "115441524RATAK"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV RATTA KHERA",
+    "feeder_name": "S/STN 33 KV RATTA KHERA",
+    "cin_14": "115441524SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV RATTA KHERA",
+    "feeder_name": "SHIV AP",
+    "cin_14": "115441524SHIVA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ROJAWALI",
+    "feeder_name": "BABA NANAK AP",
+    "cin_14": "115441531NANAK"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ROJAWALI",
+    "feeder_name": "BAHMANWALA AP",
+    "cin_14": "115441531BAHMA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ROJAWALI",
+    "feeder_name": "BHAKHRA AP",
+    "cin_14": "115441531BHAKH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ROJAWALI",
+    "feeder_name": "MIRANA AP",
+    "cin_14": "115441531MIRAN"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ROJAWALI",
+    "feeder_name": "RATTANGARH AP",
+    "cin_14": "115441531RGARH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ROJAWALI",
+    "feeder_name": "ROJAWALI DS",
+    "cin_14": "115441531ROJAW"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV ROJAWALI",
+    "feeder_name": "S/STN 33 KV ROJAWALI",
+    "cin_14": "115441531SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV SHEKHUPUR SOTTER",
+    "feeder_name": "BABA AP",
+    "cin_14": "115441607BABAP"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV SHEKHUPUR SOTTER",
+    "feeder_name": "BATRA AP",
+    "cin_14": "115441607BATRA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV SHEKHUPUR SOTTER",
+    "feeder_name": "BEHALBHUMIA AP",
+    "cin_14": "115441607BUMIA"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV SHEKHUPUR SOTTER",
+    "feeder_name": "S/STN. SHEKHUPUR SOTTER",
+    "cin_14": "115441607SUBST"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV SHEKHUPUR SOTTER",
+    "feeder_name": "SHEKHUPUR RDS",
+    "cin_14": "115441607SHEKH"
+  },
+  {
+    "division": "FATEHABAD",
+    "sub_division": "S/U RATIA",
+    "ss_name": "33 KV SHEKHUPUR SOTTER",
+    "feeder_name": "TIRATH SINGH AP",
+    "cin_14": "115441607TIRTH"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "220 KV BHUNA",
+    "feeder_name": "BAWAN KOTHI AP",
+    "cin_14": "115551090BAWAN"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "220 KV BHUNA",
+    "feeder_name": "BHUNA AP",
+    "cin_14": "115551090BHUNA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "220 KV BHUNA",
+    "feeder_name": "BHUNA-I (U)",
+    "cin_14": "115551090BHUN1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "220 KV BHUNA",
+    "feeder_name": "BHUNA-II (U)",
+    "cin_14": "115551090BHUN2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "220 KV BHUNA",
+    "feeder_name": "DHOLU AP",
+    "cin_14": "115551090DHOLU"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "220 KV BHUNA",
+    "feeder_name": "IND 33 KV NUCLEAR PLANT",
+    "cin_14": "115551090NUCPP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "220 KV BHUNA",
+    "feeder_name": "S/STN 220 KV BHUNA",
+    "cin_14": "115551090SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "220 KV BHUNA",
+    "feeder_name": "TIBBI -I AP",
+    "cin_14": "115551090OLDTI"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "220 KV BHUNA",
+    "feeder_name": "TIBBI -II AP",
+    "cin_14": "115551090NEWTI"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUNA",
+    "feeder_name": "BALANWALI DS",
+    "cin_14": "115551030BADS1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUNA",
+    "feeder_name": "BHATTU DS",
+    "cin_14": "115551030BHATT"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUNA",
+    "feeder_name": "BHUNA-III",
+    "cin_14": "115551030BUNA3"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUNA",
+    "feeder_name": "BUWAN AP",
+    "cin_14": "115551030BUWAN"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUNA",
+    "feeder_name": "CHOUDHARY AP",
+    "cin_14": "115551030CODRY"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUNA",
+    "feeder_name": "DHANI GOPAL DS",
+    "cin_14": "115551030DHANI"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUNA",
+    "feeder_name": "JANDLI AP",
+    "cin_14": "115551030JANDL"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUNA",
+    "feeder_name": "KHASA DS",
+    "cin_14": "115551030KHASA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUNA",
+    "feeder_name": "KHERY AP",
+    "cin_14": "115551030OLDKH"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUNA",
+    "feeder_name": "NANDHORI -II AP",
+    "cin_14": "115551030NAN02"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUNA",
+    "feeder_name": "NEW HASANGA AP",
+    "cin_14": "115551030NHASN"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUNA",
+    "feeder_name": "NEW KHERY AP",
+    "cin_14": "115551030NEWKH"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUNA",
+    "feeder_name": "S/MILL (MU)",
+    "cin_14": "115551030SMILL"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUNA",
+    "feeder_name": "S/STN 33 KV BHUNA",
+    "cin_14": "115551030SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUNA",
+    "feeder_name": "VISHWAS AP",
+    "cin_14": "115551030VSWAS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUTHAN",
+    "feeder_name": "CHANDRAWAL AP",
+    "cin_14": "115551011CHATW"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUTHAN",
+    "feeder_name": "HASSANGA-I AP",
+    "cin_14": "115551011HAS01"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUTHAN",
+    "feeder_name": "HASSANGA-II AP",
+    "cin_14": "115551011HASAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUTHAN",
+    "feeder_name": "KHERA AP",
+    "cin_14": "115551011KHEAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUTHAN",
+    "feeder_name": "NEW KHERA-B AP",
+    "cin_14": "115551011KHERA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BHUTHAN",
+    "feeder_name": "PANDRI DS",
+    "cin_14": "115551011PADS1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BUWAN",
+    "feeder_name": "BHATTU AP",
+    "cin_14": "115551448BHATU"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BUWAN",
+    "feeder_name": "BHOJRAJ DS",
+    "cin_14": "115551448BHOJR"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BUWAN",
+    "feeder_name": "BOSTI AP",
+    "cin_14": "115551448BOSTI"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BUWAN",
+    "feeder_name": "BUWAN DS",
+    "cin_14": "115551448BUWAN"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BUWAN",
+    "feeder_name": "BUWAN KOTHI AP",
+    "cin_14": "115551448BUKTW"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BUWAN",
+    "feeder_name": "DULAT AP",
+    "cin_14": "115551448DULTW"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BUWAN",
+    "feeder_name": "S/STN 33 KV BUWAN",
+    "cin_14": "115551448SSTNT"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV BUWAN",
+    "feeder_name": "SANCHLA AP",
+    "cin_14": "115551448SANTW"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV CHAMAR KHERA",
+    "feeder_name": "CHAMAR KHERA AP",
+    "cin_14": "115551025CHAAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV DEGOH",
+    "feeder_name": "BHUNDRA AP",
+    "cin_14": "115551029BHUTW"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV DEGOH",
+    "feeder_name": "DEGOH AP",
+    "cin_14": "115551029DEGHP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV DEGOH",
+    "feeder_name": "DEGOH DS",
+    "cin_14": "115551029DEDS1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV DEGOH",
+    "feeder_name": "DHOLU -II AP",
+    "cin_14": "115551029DHO02"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV DEGOH",
+    "feeder_name": "DHOLU-I AP",
+    "cin_14": "115551029DHO01"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV DEGOH",
+    "feeder_name": "GHOTRU AP",
+    "cin_14": "115551029GHOTR"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV DEGOH",
+    "feeder_name": "MAGHAWALI AP",
+    "cin_14": "115551029MAGHA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV DEGOH",
+    "feeder_name": "S/STN 33 KV DEGOH",
+    "cin_14": "115551029SUBS1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV GORAKHPUR",
+    "feeder_name": "CHOBARA AP",
+    "cin_14": "115551298CHOBA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV GORAKHPUR",
+    "feeder_name": "GORAKHPUR AP",
+    "cin_14": "115551298GORAK"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV GORAKHPUR",
+    "feeder_name": "GORAKHPUR DS",
+    "cin_14": "115551298GORKH"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV GORAKHPUR",
+    "feeder_name": "MOCHI DS",
+    "cin_14": "115551298MOCHI"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV GORAKHPUR",
+    "feeder_name": "S/STN 33 KV GORAKHPUR",
+    "cin_14": "115551298SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV GORAKHPUR",
+    "feeder_name": "SIWANI BOLAN AP",
+    "cin_14": "115551298BOLAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV GORAKHPUR",
+    "feeder_name": "SIWANI BOLAN DS",
+    "cin_14": "115551298BOLAN"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV JANDLI KHURD",
+    "feeder_name": "BALA JI AP",
+    "cin_14": "115551585BALAJ"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV JANDLI KHURD",
+    "feeder_name": "HIND AP",
+    "cin_14": "115551585HINDP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV JANDLI KHURD",
+    "feeder_name": "JANDLI DS",
+    "cin_14": "115551585JANDL"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV JANDLI KHURD",
+    "feeder_name": "KHAJURI DS",
+    "cin_14": "115551585KHAJU"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV JANDLI KHURD",
+    "feeder_name": "S/STN. 33 KV JANDLI KHURD",
+    "cin_14": "115551585SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV LEHRIAN",
+    "feeder_name": "BHUNDRA AP",
+    "cin_14": "115551060BHUND"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV LEHRIAN",
+    "feeder_name": "BHUNDRA-II AP",
+    "cin_14": "115551060BHUN2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV LEHRIAN",
+    "feeder_name": "GURUDWARA AP",
+    "cin_14": "115551060GRURA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV LEHRIAN",
+    "feeder_name": "KANI KHERI AP",
+    "cin_14": "115551060KANIK"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV LEHRIAN",
+    "feeder_name": "LEHRIAN AP",
+    "cin_14": "115551060LEAP2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV LEHRIAN",
+    "feeder_name": "LEHRIAN DS",
+    "cin_14": "115551060LEHDS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV LEHRIAN",
+    "feeder_name": "RASULPUR AP",
+    "cin_14": "115551060RASAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV LEHRIAN",
+    "feeder_name": "RASULPUR DS",
+    "cin_14": "115551060RASDS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV LEHRIAN",
+    "feeder_name": "REHAN KHERI AP",
+    "cin_14": "115551060REHTW"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV LEHRIAN",
+    "feeder_name": "REHAN KHERI DS",
+    "cin_14": "115551060REHAN"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV LEHRIAN",
+    "feeder_name": "S/STN 33 KV LEHRIAN",
+    "cin_14": "115551060SUST1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV LEHRIAN",
+    "feeder_name": "SINTHLA DS",
+    "cin_14": "115551060SINTH"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NADHORI",
+    "feeder_name": "GHOTRU AP",
+    "cin_14": "115551064GHOTR"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NADHORI",
+    "feeder_name": "GHOTRU DS",
+    "cin_14": "115551064GHTDS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NADHORI",
+    "feeder_name": "HASANGA AP",
+    "cin_14": "115551064HASTW"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NADHORI",
+    "feeder_name": "JAMBHESHWAR AP",
+    "cin_14": "115551064JAMBH"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NADHORI",
+    "feeder_name": "KHERA AP",
+    "cin_14": "115551064KHERA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NADHORI",
+    "feeder_name": "NADHORI AP",
+    "cin_14": "115551064NADAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NADHORI",
+    "feeder_name": "NADHORI DS",
+    "cin_14": "115551064NADDS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NADHORI",
+    "feeder_name": "NEW JANDLY AP",
+    "cin_14": "115551064JANDL"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NADHORI",
+    "feeder_name": "RAMDEV AP",
+    "cin_14": "115551064RAMDV"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NADHORI",
+    "feeder_name": "S/STN 33 KV NADHORI",
+    "cin_14": "115551064SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NEHLA",
+    "feeder_name": "BAIJALPUR AP",
+    "cin_14": "115551032BAIJA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NEHLA",
+    "feeder_name": "DEHMAN DS",
+    "cin_14": "115551032DEDS1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NEHLA",
+    "feeder_name": "GORAKHPUR AP",
+    "cin_14": "115551032GOAP1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NEHLA",
+    "feeder_name": "GORAKHPUR DS",
+    "cin_14": "115551032GRKHP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NEHLA",
+    "feeder_name": "KHERY AP",
+    "cin_14": "115551032KHERY"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NEHLA",
+    "feeder_name": "NEHAR COLONY DS",
+    "cin_14": "115551032NEHAR"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NEHLA",
+    "feeder_name": "NEHLA AP",
+    "cin_14": "115551032NEAP1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NEHLA",
+    "feeder_name": "NUCLEAR POWER PLANT (U)",
+    "cin_14": "115551032NUCPP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NEHLA",
+    "feeder_name": "S/STN 33 KV NEHLA",
+    "cin_14": "115551032SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV NEHLA",
+    "feeder_name": "SIWANI DS",
+    "cin_14": "115551032SIDS1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "BHUNA",
+    "ss_name": "33 KV RAIPUR DHANI",
+    "feeder_name": "NEW HASSANGA AP",
+    "cin_14": "115551055HASSA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "PURAN MAJRA AP",
+    "cin_14": "115511084PURAN"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "BALIYALA AP",
+    "cin_14": "115511079BALAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "BALIYALA DS",
+    "cin_14": "115511079BALDS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "CITY-12 (U)",
+    "cin_14": "115511079CTY12"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "CITY-I (U) 132 KV TOHANA",
+    "cin_14": "115511079CITY1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "CITY-II (U) 132 KV TOHANA",
+    "cin_14": "115511079CITY2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "CITY-III (U) 132 KV TOHANA",
+    "cin_14": "115511079CITY3"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "CITY-IV (U) 132 KV TOHANA",
+    "cin_14": "115511079CT04A"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "CITY-V (U) 132 KV TOHANA",
+    "cin_14": "115511079CITY5"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "CIVIL HOSPITAL (U)",
+    "cin_14": "115511079INDCI"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "DANGRA DS",
+    "cin_14": "115511079DADS1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "GOVINDPURA AP",
+    "cin_14": "115511079JAMAL"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "IND COURT COMPLEX",
+    "cin_14": "115511079COURT"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "IND STP (PUBLIC HEALTH)",
+    "cin_14": "115511079STPPH"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "KANHARI DS",
+    "cin_14": "115511079KANHA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "KANHERI AP",
+    "cin_14": "115511079KANHE"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "LALODA AP",
+    "cin_14": "115511079LALOD"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "LOHA KHERA AP",
+    "cin_14": "115511079LOHAK"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "NARWANA ROAD AP",
+    "cin_14": "115511079NARWA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "PURAN MAJRA AP",
+    "cin_14": "115511079PURAN"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "PVT. MEDICAL ENCLAVE (U)",
+    "cin_14": "115511079PVTME"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "S/STN 132 KV TOHANA",
+    "cin_14": "115511079SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "SAMAIN AP",
+    "cin_14": "115511079SAMAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "220 KV SAMAIN",
+    "feeder_name": "SAMAIN DS",
+    "cin_14": "115511450SADS2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV NANGLA",
+    "feeder_name": "BIDHAI KHERA AP",
+    "cin_14": "115511449BIDHA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV NANGLA",
+    "feeder_name": "IND M/S SHER AGRO",
+    "cin_14": "115511449SRAGO"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV NANGLA",
+    "feeder_name": "LALODA AP",
+    "cin_14": "115511449LAAP2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV NANGLA",
+    "feeder_name": "NANGLA AP",
+    "cin_14": "115511449NAAP2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV NANGLA",
+    "feeder_name": "NANGLA DS",
+    "cin_14": "115511449NANDS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV NANGLA",
+    "feeder_name": "NANGLI AP",
+    "cin_14": "115511449NAGLI"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV NANGLA",
+    "feeder_name": "S/STN 33 KV NANGLA",
+    "cin_14": "115511449SSTNT"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV NANGLA",
+    "feeder_name": "SAMAIN AP",
+    "cin_14": "115511449SAAP2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV RATTA KHERA (TOHANA)",
+    "feeder_name": "DANGRA AP",
+    "cin_14": "115511644DGRAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV RATTA KHERA (TOHANA)",
+    "feeder_name": "DANGRA DS",
+    "cin_14": "115511644DNGRA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV RATTA KHERA (TOHANA)",
+    "feeder_name": "MADUWALA AP",
+    "cin_14": "115511644MDUWA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV RATTA KHERA (TOHANA)",
+    "feeder_name": "RATTA KHERA AP",
+    "cin_14": "115511644RTKHA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV RATTA KHERA (TOHANA)",
+    "feeder_name": "RATTA KHERA DS",
+    "cin_14": "115511644RATRA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV RATTA KHERA (TOHANA)",
+    "feeder_name": "S/STN",
+    "cin_14": "115511644SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV TOHANA",
+    "feeder_name": "CITY-11",
+    "cin_14": "115511488CIT11"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV TOHANA",
+    "feeder_name": "CITY-III (U) 33 KV TOHANA",
+    "cin_14": "115511488CITY3"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV TOHANA",
+    "feeder_name": "CITY-IV (U) 33 KV TOHANA",
+    "cin_14": "115511488CITY4"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV TOHANA",
+    "feeder_name": "CITY-IX (U) 33 KV TOHANA",
+    "cin_14": "115511488CITY9"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV TOHANA",
+    "feeder_name": "CITY-V (U) 33 KV TOHANA",
+    "cin_14": "115511488CITY5"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV TOHANA",
+    "feeder_name": "CITY-VI (U) 33 KV TOHANA",
+    "cin_14": "115511488CITY2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV TOHANA",
+    "feeder_name": "CITY-VII (U) 33 KV TOHANA",
+    "cin_14": "115511488CITY1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV TOHANA",
+    "feeder_name": "CITY-VIII (U) 33 KV TOHANA",
+    "cin_14": "115511488CITY8"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV TOHANA",
+    "feeder_name": "CITY-X (U) 33 KV TOHANA",
+    "cin_14": "115511488CIT10"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV TOHANA",
+    "feeder_name": "PURAN MAJRA AP",
+    "cin_14": "115511488PURAN"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "CITY TOHANA",
+    "ss_name": "33 KV TOHANA",
+    "feeder_name": "S/STN 33 KV OLD POWER HOUSE TOHANA",
+    "cin_14": "115511488SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "BHAKHARA AP",
+    "cin_14": "115531084BHAKR"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "CHURPUR AP",
+    "cin_14": "115531084CHURP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "CITY-II (U) 132 KV JAKHAL",
+    "cin_14": "115531084CITY2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "COLONY (U)",
+    "cin_14": "115531084COLON"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "GHAGHAR AP",
+    "cin_14": "115531084GHAGR"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "IND RAILWAY",
+    "cin_14": "115531084INDRA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "IND SEWERAGE TREATMENT PLANT",
+    "cin_14": "115531084INSTP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "JAKHAL AP",
+    "cin_14": "115531084JAKAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "JAKHAL CITY (U)",
+    "cin_14": "115531084JAKHA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "MEOND AP",
+    "cin_14": "115531084MEOND"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "MEOND KALAN AP",
+    "cin_14": "115531084MENDK"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "NARAIL DS",
+    "cin_14": "115531084NARAI"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "NARIAL AP",
+    "cin_14": "115531084NARIA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "S/STN 132 KV JAKHAL",
+    "cin_14": "115531084SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "SIDHANI AP",
+    "cin_14": "115531084SIDHA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "TALWARA AP",
+    "cin_14": "115531084TALAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "TALWARA DS",
+    "cin_14": "115531084TALDS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "TIBBA AP",
+    "cin_14": "115531084TIBAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "CHILEWAL DS",
+    "cin_14": "115531056CHDS1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "CHUPUR-II AP",
+    "cin_14": "115531056CUPUR"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "GIRNO AP",
+    "cin_14": "115531056GIRNO"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "JAKHAL AP",
+    "cin_14": "115531056JAKAL"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV SADHANWAS",
+    "feeder_name": "CHANDPURA & MUNDLIAN DS",
+    "cin_14": "115531059CHADS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV SADHANWAS",
+    "feeder_name": "CHANDPURA -I AP",
+    "cin_14": "115531059CHAAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV SADHANWAS",
+    "feeder_name": "CHANDPURA-II AP",
+    "cin_14": "115531059CHA02"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV SADHANWAS",
+    "feeder_name": "DERA AP",
+    "cin_14": "115531059DERAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV SADHANWAS",
+    "feeder_name": "JAMU DHANI AP",
+    "cin_14": "115531059JAMUD"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV SADHANWAS",
+    "feeder_name": "MUNDLIAN AP",
+    "cin_14": "115531059MUNDL"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV SADHANWAS",
+    "feeder_name": "RAJPURI AP",
+    "cin_14": "115531059RAJPU"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV SADHANWAS",
+    "feeder_name": "S/STN 33 KV SADHANWAS",
+    "cin_14": "115531059SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV SADHANWAS",
+    "feeder_name": "SADHANWAS AP",
+    "cin_14": "115531059SADHA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV SADHANWAS",
+    "feeder_name": "SADHANWAS DS",
+    "cin_14": "115531059SIDS1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV SADHANWAS",
+    "feeder_name": "SIDHANI DS",
+    "cin_14": "115531059SIDAN"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV SADHANWAS",
+    "feeder_name": "SIDHANI-I AP",
+    "cin_14": "115531059SIDAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV SADHANWAS",
+    "feeder_name": "SIDHANI-II AP",
+    "cin_14": "115531059SI2AP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV SADHANWAS",
+    "feeder_name": "TIBBA AP",
+    "cin_14": "115531059TIBBA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV SHAKARPURA",
+    "feeder_name": "GHAGGAR AP",
+    "cin_14": "115531021GHAGR"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "33 KV SHAKARPURA",
+    "feeder_name": "HEAD AP",
+    "cin_14": "115531021HEADA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "S/STN MEOND KALAN",
+    "feeder_name": "DERA AP",
+    "cin_14": "115531657DRAAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "S/STN MEOND KALAN",
+    "feeder_name": "KHURD AP",
+    "cin_14": "115531657KURDA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "S/STN MEOND KALAN",
+    "feeder_name": "MEOND DS",
+    "cin_14": "115531657MODDS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "S/STN MEOND KALAN",
+    "feeder_name": "NAHAR AP",
+    "cin_14": "115531657NHRAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "S/STN MEOND KALAN",
+    "feeder_name": "RANGOI AP",
+    "cin_14": "115531657RGOAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "JAKHAL",
+    "ss_name": "S/STN MEOND KALAN",
+    "feeder_name": "S/STN MEOND KALAN",
+    "cin_14": "115531657SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV DHARSHUL",
+    "feeder_name": "DHARSHUL AP",
+    "cin_14": "115521080DHARS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV DHARSHUL",
+    "feeder_name": "DIWANA AP",
+    "cin_14": "115521080DIWAN"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV DHARSHUL",
+    "feeder_name": "INDACHOI AP",
+    "cin_14": "115521080INDAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV DHARSHUL",
+    "feeder_name": "INDUSTRIAL (MU)",
+    "cin_14": "115521080IFDHA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV DHARSHUL",
+    "feeder_name": "JABTA KHERA AP",
+    "cin_14": "115521080JABTA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV DHARSHUL",
+    "feeder_name": "KARANDI AP",
+    "cin_14": "115521080KARAN"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV DHARSHUL",
+    "feeder_name": "KHATU SHYAM AP",
+    "cin_14": "115521080KUYAM"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV DHARSHUL",
+    "feeder_name": "KULLAN DS",
+    "cin_14": "115521080KUAND"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV DHARSHUL",
+    "feeder_name": "KULLAN -I AP",
+    "cin_14": "115521080KUL01"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV DHARSHUL",
+    "feeder_name": "KULLAN -II AP",
+    "cin_14": "115521080KUL02"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV DHARSHUL",
+    "feeder_name": "MANGHERA AP",
+    "cin_14": "115521080MANAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV DHARSHUL",
+    "feeder_name": "MANGHERA DS",
+    "cin_14": "115521080MANDS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV DHARSHUL",
+    "feeder_name": "NANHERI AP",
+    "cin_14": "115521080NAHNP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV DHARSHUL",
+    "feeder_name": "POKHERI AP",
+    "cin_14": "115521080POKHE"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV DHARSHUL",
+    "feeder_name": "RATTA AP",
+    "cin_14": "115521080RATTA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV DHARSHUL",
+    "feeder_name": "S/STN 132 KV DHARSHUL",
+    "cin_14": "115521080SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV JAKHAL",
+    "feeder_name": "UDEYPUR AP",
+    "cin_14": "115521084UDEYP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "132 KV TOHANA",
+    "feeder_name": "MADHUWANA AP (JAMALPUR)",
+    "cin_14": "115521079MADHU"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV BUWAN",
+    "feeder_name": "IND ARCHIT NUWOOD",
+    "cin_14": "115521448ARCHT"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV BUWAN",
+    "feeder_name": "INDACHOI AP",
+    "cin_14": "115521448NDACH"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV CHANDER KHURD",
+    "feeder_name": "AMANI-I AP",
+    "cin_14": "115521485AMANI"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV CHANDER KHURD",
+    "feeder_name": "BHODI AP",
+    "cin_14": "115521485BHDAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV CHANDER KHURD",
+    "feeder_name": "BHODIA KHERA DS",
+    "cin_14": "115521485BHODI"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV CHANDER KHURD",
+    "feeder_name": "CHANDER DS",
+    "cin_14": "115521485CHADS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV CHANDER KHURD",
+    "feeder_name": "DASHMESH NAGAR AP",
+    "cin_14": "115521485DHMNA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV CHANDER KHURD",
+    "feeder_name": "IND M/S BHAGWATI INDUSTRY",
+    "cin_14": "115521485BGWTI"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV CHANDER KHURD",
+    "feeder_name": "RAVIDAS AP",
+    "cin_14": "115521485RAVDP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV CHANDER KHURD",
+    "feeder_name": "S/STN 33 KV CHANDER KHURD",
+    "cin_14": "115521485SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV CHANDER KHURD",
+    "feeder_name": "SURAJPURI AP",
+    "cin_14": "115521485SURAJ"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV DAMKORA(TOHANA)",
+    "feeder_name": "DAMKORA AP",
+    "cin_14": "115521645DAMRA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV DAMKORA(TOHANA)",
+    "feeder_name": "DAMKORA DS",
+    "cin_14": "115521645DKORA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV DAMKORA(TOHANA)",
+    "feeder_name": "JAMALPUR AP",
+    "cin_14": "115521645JMAPR"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV DAMKORA(TOHANA)",
+    "feeder_name": "KASIMPUR AP",
+    "cin_14": "115521645KSMPR"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV DAMKORA(TOHANA)",
+    "feeder_name": "MITC AP",
+    "cin_14": "115521645MITCP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV DAMKORA(TOHANA)",
+    "feeder_name": "NANHERI AP",
+    "cin_14": "115521645NHERI"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV DAMKORA(TOHANA)",
+    "feeder_name": "S/STN",
+    "cin_14": "115521645SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV DHARSUL",
+    "feeder_name": "DHARSUL AP",
+    "cin_14": "115521058DHRSL"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV DHARSUL",
+    "feeder_name": "DHARSUL DS",
+    "cin_14": "115521058DHARS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV DHARSUL",
+    "feeder_name": "DIWANA AP",
+    "cin_14": "115521058DIWAN"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV DHARSUL",
+    "feeder_name": "JAKHAL ROAD AP",
+    "cin_14": "115521058JKLRD"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV DHARSUL",
+    "feeder_name": "JAPTA KHERA AP",
+    "cin_14": "115521058JAPTA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV DHARSUL",
+    "feeder_name": "NANHERI AP",
+    "cin_14": "115521058NANHE"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV DHARSUL",
+    "feeder_name": "NEW RATTA AP",
+    "cin_14": "115521058NRATT"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV DHARSUL",
+    "feeder_name": "S/STN 33 KV DHARSUL",
+    "cin_14": "115521058SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "AKANWALI - A AP",
+    "cin_14": "115521028AKAAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "AKANWALI DS",
+    "cin_14": "115521028AKDS1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "AKANWALI-B AP",
+    "cin_14": "115521028AKANB"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "GULARWALA - A AP",
+    "cin_14": "115521028GUAP1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "GULLARWALA -B AP",
+    "cin_14": "115521028GULLA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "IND SHIVA IND",
+    "cin_14": "115521028SHVAA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "LEHRA THEY AP",
+    "cin_14": "115521028LEAP1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "LEKHU WALI DHANI DS",
+    "cin_14": "115521028LEDS1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "NANAKSAR - A AP",
+    "cin_14": "115521028NAAP2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "NANAKSAR-B AP",
+    "cin_14": "115521028NANAK"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "S/STN 33 KV GULARWALA",
+    "cin_14": "115521028SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "SALIMPURI - A AP",
+    "cin_14": "115521028SAAP1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "SALIMPURI - B AP",
+    "cin_14": "115521028SAMPU"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "SALIMPURI DS",
+    "cin_14": "115521028SALDS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "SHAKARPURA - A AP",
+    "cin_14": "115521028SHA01"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "SHAKARPURA - B AP",
+    "cin_14": "115521028SHA03"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV GULARWALA",
+    "feeder_name": "TIBBA FARM AP",
+    "cin_14": "115521028TBBAF"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV JAMALPUR",
+    "feeder_name": "AMANI AP",
+    "cin_14": "115521026AMANI"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV JAMALPUR",
+    "feeder_name": "IND SARNA IND",
+    "cin_14": "115521026INDSA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV JAMALPUR",
+    "feeder_name": "INDUSTRIAL (MU)",
+    "cin_14": "115521026INDFD"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV JAMALPUR",
+    "feeder_name": "JAMALPUR DS",
+    "cin_14": "115521026MADHU"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV JAMALPUR",
+    "feeder_name": "JAMALPUR AP",
+    "cin_14": "115521026JAMAL"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV JAMALPUR",
+    "feeder_name": "KASTURBA AP",
+    "cin_14": "115521026KASRB"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV JAMALPUR",
+    "feeder_name": "KHANORA AP",
+    "cin_14": "115521026KHNOR"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV JAMALPUR",
+    "feeder_name": "NANHERI AP",
+    "cin_14": "115521026NANHR"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV JAMALPUR",
+    "feeder_name": "S/STN 33 KV JAMALPUR",
+    "cin_14": "115521026SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV KARANDI",
+    "feeder_name": "BABANPUR DHANI-I AP",
+    "cin_14": "115521061BAAP1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV KARANDI",
+    "feeder_name": "DHANI BUDANPUR-II AP",
+    "cin_14": "115521061BUDAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV KARANDI",
+    "feeder_name": "KARANDI-I AP",
+    "cin_14": "115521061KAR01"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV KARANDI",
+    "feeder_name": "KARANDI-II AP",
+    "cin_14": "115521061KAR02"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV KARANDI",
+    "feeder_name": "MUSSA KHERA-I AP",
+    "cin_14": "115521061MUAP1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV KARANDI",
+    "feeder_name": "MUSSA KHERA-II AP",
+    "cin_14": "115521061MUAP2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV KARANDI",
+    "feeder_name": "NEW NANHERI AP",
+    "cin_14": "115521061NNANH"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV KARANDI",
+    "feeder_name": "RATTA-I AP",
+    "cin_14": "115521061RATTA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV KARANDI",
+    "feeder_name": "RATTA-II AP",
+    "cin_14": "115521061RAT2P"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV KARANDI",
+    "feeder_name": "ROOPANWALI DS",
+    "cin_14": "115521061ROOPA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV KARANDI",
+    "feeder_name": "S/STN 33 KV KARANDI",
+    "cin_14": "115521061SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV PIRTHLA",
+    "feeder_name": "FATEHPURI-A AP",
+    "cin_14": "115521057FAAAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV PIRTHLA",
+    "feeder_name": "FATEHPURI-B AP",
+    "cin_14": "115521057FABAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV PIRTHLA",
+    "feeder_name": "FATEHPURI-C AP",
+    "cin_14": "115521057FACAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV PIRTHLA",
+    "feeder_name": "FATEHPURI-D AP",
+    "cin_14": "115521057FADAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV PIRTHLA",
+    "feeder_name": "INDACHHUI- A AP",
+    "cin_14": "115521057INDAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV PIRTHLA",
+    "feeder_name": "INDACHHUI-B AP",
+    "cin_14": "115521057INBAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "BUDANPUR AP",
+    "cin_14": "115521056BUAP1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "DAMKORA AP",
+    "cin_14": "115521056DMKRA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "HAIDERWALA AP",
+    "cin_14": "115521056HAAP2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "HINDALWALA AP",
+    "cin_14": "115521056HINDA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "IND CHANDI",
+    "cin_14": "115521056CHAND"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "KASIMPUR AP",
+    "cin_14": "115521056KASIM"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "LALUWAL DS",
+    "cin_14": "115521056LALUW"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "M.I.T.C. AP",
+    "cin_14": "115521056MIAP1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "MAMUPUR DS",
+    "cin_14": "115521056MAMUP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "NATHUWAL AP",
+    "cin_14": "115521056NATHU"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "RAINWALI AP",
+    "cin_14": "115521056RAAP1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "S/STN 33 KV RAINWALI",
+    "cin_14": "115521056SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV RAINWALI",
+    "feeder_name": "UDEYPUR DS",
+    "cin_14": "115521056UDEYP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV SHAKARPURA",
+    "feeder_name": "DHER AP",
+    "cin_14": "115521021DHERP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV SHAKARPURA",
+    "feeder_name": "NEW LEHRA THEY AP",
+    "cin_14": "115521021NLTHE"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV SHAKARPURA",
+    "feeder_name": "RANGOI AP",
+    "cin_14": "115521021RANGO"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV SHAKARPURA",
+    "feeder_name": "RATTA AP",
+    "cin_14": "115521021RATTA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV SHAKARPURA",
+    "feeder_name": "S/STN 33 KV SHAKARPURA",
+    "cin_14": "115521021SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV SHAKARPURA",
+    "feeder_name": "SHAKARPURA AP",
+    "cin_14": "115521021SHAKA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "S/U TOHANA",
+    "ss_name": "33 KV SHAKARPURA",
+    "feeder_name": "SHAKARPURA DS",
+    "cin_14": "115521021SHAKD"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "132 KV UKLANA",
+    "feeder_name": "CITY - I (U) 132 KV UKLANA",
+    "cin_14": "115541081CITY1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "132 KV UKLANA",
+    "feeder_name": "CITY- II (U) 132 KV UKLANA",
+    "cin_14": "115541081CITY2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "132 KV UKLANA",
+    "feeder_name": "CITY- III (U) 132 KV UKLANA",
+    "cin_14": "115541081CITY3"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "132 KV UKLANA",
+    "feeder_name": "DAULATPUR DS",
+    "cin_14": "115541081SADS2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "132 KV UKLANA",
+    "feeder_name": "DOULATPUR AP",
+    "cin_14": "115541081DOULA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "132 KV UKLANA",
+    "feeder_name": "GAJUWALA DS",
+    "cin_14": "115541081GAJUW"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "132 KV UKLANA",
+    "feeder_name": "IND 4 NO. HT CONNECTION",
+    "cin_14": "115541081HTCNT"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "132 KV UKLANA",
+    "feeder_name": "LITANI DS",
+    "cin_14": "115541081LITAN"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "132 KV UKLANA",
+    "feeder_name": "MADANPURA AP",
+    "cin_14": "115541081MADAN"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "132 KV UKLANA",
+    "feeder_name": "S/STN 132 KV UKLANA",
+    "cin_14": "115541081SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "132 KV UKLANA",
+    "feeder_name": "SAHU DS",
+    "cin_14": "115541081SADS1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "132 KV UKLANA",
+    "feeder_name": "SANIANA AP",
+    "cin_14": "115541081SANIA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "132 KV UKLANA",
+    "feeder_name": "SUREWALA AP",
+    "cin_14": "115541081SUREW"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "220 KV BHUNA",
+    "feeder_name": "IND 132 KV RAILWAY",
+    "cin_14": "115541090RAILW"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV BITHMARA",
+    "feeder_name": "BHIMEWALA AP",
+    "cin_14": "115541457BHIME"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV BITHMARA",
+    "feeder_name": "BITHMARA AP",
+    "cin_14": "115541457BTHAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV BITHMARA",
+    "feeder_name": "BITHMARA DS",
+    "cin_14": "115541457BTHDS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV BITHMARA",
+    "feeder_name": "CHITAIN AP",
+    "cin_14": "115541457CHTAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV BITHMARA",
+    "feeder_name": "CHITAIN DS",
+    "cin_14": "115541457CHTDS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV BITHMARA",
+    "feeder_name": "S/STN 33 KV BITHMARA",
+    "cin_14": "115541457SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV BITHMARA",
+    "feeder_name": "SUREWALA AP",
+    "cin_14": "115541457SUREW"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV CHAMAR KHERA",
+    "feeder_name": "CHAMAR KHERA AP",
+    "cin_14": "115541025CHAAP"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV CHAMAR KHERA",
+    "feeder_name": "CHAMAR KHERA DS",
+    "cin_14": "115541025CHADS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV CHAMAR KHERA",
+    "feeder_name": "IND CHAMAR KHERA WATER SUPPLY",
+    "cin_14": "115541025ICKWS"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV CHAMAR KHERA",
+    "feeder_name": "KHAIRY AP",
+    "cin_14": "115541025KHARY"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV CHAMAR KHERA",
+    "feeder_name": "KHAIRY DS",
+    "cin_14": "115541025KHAIR"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV CHAMAR KHERA",
+    "feeder_name": "S/STN. 33 KV CHAMAR KHERA",
+    "cin_14": "115541025SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV CHAMAR KHERA",
+    "feeder_name": "SANIYANA AP",
+    "cin_14": "115541025SANIY"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV CHAMAR KHERA",
+    "feeder_name": "SANIYANA DS",
+    "cin_14": "115541025SANID"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV CHAMAR KHERA",
+    "feeder_name": "SANIYANA-II AP",
+    "cin_14": "115541025SANI2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV PIRTHLA",
+    "feeder_name": "PARTHA DS",
+    "cin_14": "115541057PADS2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV PIRTHLA",
+    "feeder_name": "PIRTHLA (A) AP",
+    "cin_14": "115541057PIAP1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV PIRTHLA",
+    "feeder_name": "PIRTHLA (B) AP",
+    "cin_14": "115541057PIAP2"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV PIRTHLA",
+    "feeder_name": "PIRTHLA (C) AP",
+    "cin_14": "115541057PIAP3"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV PIRTHLA",
+    "feeder_name": "S/STN 33 KV PIRTHLA",
+    "cin_14": "115541057SUST1"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV PIRTHLA",
+    "feeder_name": "SANIANA AP",
+    "cin_14": "115541057SANIA"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV UKLANA",
+    "feeder_name": "CITY-4",
+    "cin_14": "115541648CITY4"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV UKLANA",
+    "feeder_name": "RAMDEV AP",
+    "cin_14": "115541648RMDEV"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV UKLANA",
+    "feeder_name": "S/STN UKLANA",
+    "cin_14": "115541648SUBST"
+  },
+  {
+    "division": "TOHANA",
+    "sub_division": "UKLANA",
+    "ss_name": "33 KV UKLANA",
+    "feeder_name": "SAHU DS",
+    "cin_14": "115541648SAHUS"
+  }
+]
