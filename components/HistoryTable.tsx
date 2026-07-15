@@ -215,7 +215,7 @@ export default function HistoryTable({ districtId, districtName }: Props) {
               ) : error ? (
                 <tr><td colSpan={6} className="px-4 py-12 text-center">
                   <Database className="w-8 h-8 mx-auto text-error-500/60 mb-2" />
-                  <p className="text-error-400 text-sm font-medium">Failed to load history</p>
+                  <p className="text-error-400 text-sm font-medium uppercase">Failed to load history</p>
                   <p className="text-neutral-500 text-xs mt-1">{error}</p>
                 </td></tr>
               ) : rows.length === 0 ? (
@@ -250,7 +250,7 @@ export default function HistoryTable({ districtId, districtName }: Props) {
           ) : error ? (
             <div className="text-center py-12">
               <Database className="w-8 h-8 mx-auto text-error-500/60 mb-2" />
-              <p className="text-error-400 text-sm font-medium">Failed to load history</p>
+              <p className="text-error-400 text-sm font-medium uppercase">Failed to load history</p>
               <p className="text-neutral-500 text-xs mt-1">{error}</p>
             </div>
           ) : rows.length === 0 ? (

@@ -184,7 +184,7 @@ export default function OutageDashboard({ initialDistrictId = '10' }: OutageDash
             </div>
           </div>
           <p className="text-neutral-500 text-sm mt-3 max-w-2xl">
-            Power outage status board · feeders, affected areas &amp; restoration windows · refreshed every 5&nbsp;minutes
+            Live outage status, refreshed every 5&nbsp;minutes
           </p>
 
           {/* Status console — a control-room readout strip */}
