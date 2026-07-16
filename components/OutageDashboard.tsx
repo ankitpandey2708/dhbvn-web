@@ -215,7 +215,7 @@ export default function OutageDashboard({ initialDistrictId = '10' }: OutageDash
 
               {/* Feeders down */}
               <div className="px-5 py-4">
-                <p className="eyebrow text-neutral-500 mb-2">Feeders down</p>
+                <p className="eyebrow text-neutral-500 mb-2">Feeders</p>
                 <p className="flex items-baseline gap-1.5">
                   <span className="text-3xl font-mono font-semibold tabular text-foreground leading-none">
                     {loading ? '··' : feederCount}
