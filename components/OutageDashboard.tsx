@@ -154,7 +154,7 @@ export default function OutageDashboard({ initialDistrictId = '10' }: OutageDash
                 Live signal
               </span>
               <span className="text-neutral-700">/</span>
-              <span className="text-neutral-500">DHBVN feed</span>
+              <span className="text-neutral-500">DHBVN mehal</span>
             </div>
             <div className="flex items-center gap-1">
               <button
