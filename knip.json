@@ -1,0 +1,9 @@
+{
+  "$schema": "https://unpkg.com/knip@5/schema.json",
+  "entry": [
+    "eslint.config.mjs"
+  ],
+  "ignore": [
+    "open-next.config.ts"
+  ]
+}

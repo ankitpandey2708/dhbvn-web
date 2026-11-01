@@ -1,0 +1,3026 @@
+[
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV AGON",
+    "feeder_name": "AGON AP",
+    "cin_14": "125341012AGNAP"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV AGON",
+    "feeder_name": "CHAINPURI AP",
+    "cin_14": "125341012CHAIN"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV AGON",
+    "feeder_name": "DOHA AP",
+    "cin_14": "125341012DOHAP"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV AGON",
+    "feeder_name": "IND PUBLIC HELTH AGON",
+    "cin_14": "125341012PHAGN"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV AGON",
+    "feeder_name": "IND SUDUCON STONE",
+    "cin_14": "125341012STONE"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV AGON",
+    "feeder_name": "KOLGAON DS",
+    "cin_14": "125341012KOLGA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV AGON",
+    "feeder_name": "MAHOLI DS",
+    "cin_14": "125341012MAHOL"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV AGON",
+    "feeder_name": "NANGAL DS",
+    "cin_14": "125341012NANGA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV AGON",
+    "feeder_name": "RAWLI DS",
+    "cin_14": "125341012RAWLI"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV AGON",
+    "feeder_name": "S/STN 33 KV AGON",
+    "cin_14": "125341012SUBST"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV BASAI MEO",
+    "feeder_name": "BASAI AP",
+    "cin_14": "125341526BASAP"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV BASAI MEO",
+    "feeder_name": "BASAI MEO DS",
+    "cin_14": "125341526BASAI"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV BASAI MEO",
+    "feeder_name": "DORAKHI DS",
+    "cin_14": "125341526DORAK"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV BASAI MEO",
+    "feeder_name": "GHATA SAMSABAD AP",
+    "cin_14": "125341526GHATA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV BASAI MEO",
+    "feeder_name": "IND BANKE BIHARI",
+    "cin_14": "125341526BANKE"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV BASAI MEO",
+    "feeder_name": "IND JKY",
+    "cin_14": "125341526INJKY"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV BASAI MEO",
+    "feeder_name": "S/STN 33 KV BASAI MEO",
+    "cin_14": "125341526SUBST"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV F.P.ZHIRKA",
+    "feeder_name": "AGON DS",
+    "cin_14": "125341264AGOND"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV F.P.ZHIRKA",
+    "feeder_name": "BHOND DS",
+    "cin_14": "125341264BHOND"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV F.P.ZHIRKA",
+    "feeder_name": "BIWAN- I AP",
+    "cin_14": "125341264BIAP1"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV F.P.ZHIRKA",
+    "feeder_name": "BIWAN -II DS",
+    "cin_14": "125341264BIDS1"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV F.P.ZHIRKA",
+    "feeder_name": "BIWAN -II DS",
+    "cin_14": "125341264BIDS2"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV F.P.ZHIRKA",
+    "feeder_name": "CHITODA AP",
+    "cin_14": "125341264CHITO"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV F.P.ZHIRKA",
+    "feeder_name": "CITY [F/ZHIRKA] (U)",
+    "cin_14": "125341264CTFZH"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV F.P.ZHIRKA",
+    "feeder_name": "CITY-II [F/ZHIRKA] (U)",
+    "cin_14": "125341264CTFZ2"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV F.P.ZHIRKA",
+    "feeder_name": "IND F.P.J. W/SUPPLY",
+    "cin_14": "125341264INDFP"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV F.P.ZHIRKA",
+    "feeder_name": "IND SHIVALIK",
+    "cin_14": "125341264SIVIK"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV F.P.ZHIRKA",
+    "feeder_name": "IND STP",
+    "cin_14": "125341264INSTP"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV F.P.ZHIRKA",
+    "feeder_name": "MAHU DS",
+    "cin_14": "125341264MAHUD"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV F.P.ZHIRKA",
+    "feeder_name": "PATHKHORI AP",
+    "cin_14": "125341264PATHK"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV F.P.ZHIRKA",
+    "feeder_name": "RANIYALA AP",
+    "cin_14": "125341264RANIY"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV F.P.ZHIRKA",
+    "feeder_name": "RAWA DS",
+    "cin_14": "125341264RAWAD"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV F.P.ZHIRKA",
+    "feeder_name": "S/STN F.P. ZHIRKA",
+    "cin_14": "125341264SUBST"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV HIRWARI",
+    "feeder_name": "BHAGOLA DS",
+    "cin_14": "125341258BHAGL"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV HIRWARI",
+    "feeder_name": "BIWAN AP",
+    "cin_14": "125341258BIWAN"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV HIRWARI",
+    "feeder_name": "BIWAN DS",
+    "cin_14": "125341258BIWAD"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV HIRWARI",
+    "feeder_name": "HIRWARI DS",
+    "cin_14": "125341258HIRWA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV HIRWARI",
+    "feeder_name": "IND HIRWARI PUBLIC HEALTH",
+    "cin_14": "125341258PHHWR"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV HIRWARI",
+    "feeder_name": "IND NHAI",
+    "cin_14": "125341258INHAI"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV HIRWARI",
+    "feeder_name": "NANGLI AP",
+    "cin_14": "125341258NANGL"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV HIRWARI",
+    "feeder_name": "REEGARH AP",
+    "cin_14": "125341258REEGR"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV HIRWARI",
+    "feeder_name": "S/STN HIRWARI",
+    "cin_14": "125341258SUBST"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "FIROZPUR ZIRKA",
+    "ss_name": "33 KV HIRWARI",
+    "feeder_name": "TIGRA AP",
+    "cin_14": "125341258TIGRA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV BHADAS",
+    "feeder_name": "BHADAS DS",
+    "cin_14": "125351265BHDAS"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV BHADAS",
+    "feeder_name": "GHAGAS-I AP",
+    "cin_14": "125351265GHAG1"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV BHADAS",
+    "feeder_name": "GHAGAS-II DS",
+    "cin_14": "125351265GHAG2"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV BHADAS",
+    "feeder_name": "IND AGGARWAL",
+    "cin_14": "125351265AGGAR"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV BHADAS",
+    "feeder_name": "IND BANARSI P/HOUSE",
+    "cin_14": "125351265INDBA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV BHADAS",
+    "feeder_name": "IND P/H BHADAS",
+    "cin_14": "125351265INPHB"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV BHADAS",
+    "feeder_name": "IND ZAREEN FOOD",
+    "cin_14": "125351265ZFOOD"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV BHADAS",
+    "feeder_name": "JALALPUR DS",
+    "cin_14": "125351265JALAL"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV BHADAS",
+    "feeder_name": "S/STN BHADAS",
+    "cin_14": "125351265SUBST"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV BHADAS",
+    "feeder_name": "UMRA DS",
+    "cin_14": "125351265UMRAD"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV BUBALHERI",
+    "feeder_name": "BUBALHERI DS",
+    "cin_14": "125351527BUBAL"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV BUBALHERI",
+    "feeder_name": "CHANDRAKA DS",
+    "cin_14": "125351527CHAND"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV BUBALHERI",
+    "feeder_name": "DHANA AP",
+    "cin_14": "125351527DHANA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV BUBALHERI",
+    "feeder_name": "GHATWASAN DS",
+    "cin_14": "125351527GHATW"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV BUBALHERI",
+    "feeder_name": "JHARPURI DS",
+    "cin_14": "125351527JHARP"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV BUBALHERI",
+    "feeder_name": "S/STN 33 KV BUBALHERI",
+    "cin_14": "125351527SUBST"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV PINANGWA",
+    "feeder_name": "IND ALANAPEES",
+    "cin_14": "125351266ALANA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV PINANGWA",
+    "feeder_name": "KHANPUR GHATI DS",
+    "cin_14": "125351266GHATI"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV PINANGWA",
+    "feeder_name": "LAHABASS DS",
+    "cin_14": "125351266LAHAB"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV PINANGWA",
+    "feeder_name": "PINGWAN (U)",
+    "cin_14": "125351266PINGW"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV PINANGWA",
+    "feeder_name": "S/STN PINANGWA",
+    "cin_14": "125351266SUBST"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV PINANGWA",
+    "feeder_name": "SHIKRAWAN DS",
+    "cin_14": "125351266SHIKR"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV PINANGWA",
+    "feeder_name": "TIGAON AP",
+    "cin_14": "125351266TIGAP"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV PINANGWA",
+    "feeder_name": "TIGAON DS",
+    "cin_14": "125351266TIGDS"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV RITHAT",
+    "feeder_name": "KHANPUR AP",
+    "cin_14": "125351614KHNPR"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV RITHAT",
+    "feeder_name": "KHAWJLIKA DS",
+    "cin_14": "125351614KWJKA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV RITHAT",
+    "feeder_name": "RANIYALA DS",
+    "cin_14": "125351614RNYLA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV RITHAT",
+    "feeder_name": "RITHAT S/STN.",
+    "cin_14": "125351614SUBST"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV RITHAT",
+    "feeder_name": "RITHATH DS",
+    "cin_14": "125351614RTHTH"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV RITHAT",
+    "feeder_name": "UMRA DS",
+    "cin_14": "125351614UMRAR"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV SAKRAS",
+    "feeder_name": "CHITODA AP",
+    "cin_14": "125351470CHTAP"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV SAKRAS",
+    "feeder_name": "IND PUBLIC HELTH SAKRAS",
+    "cin_14": "125351470PHSKR"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV SAKRAS",
+    "feeder_name": "MAHU DS",
+    "cin_14": "125351470MAHDS"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV SAKRAS",
+    "feeder_name": "RAWA AP",
+    "cin_14": "125351470RAWAP"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV SAKRAS",
+    "feeder_name": "SAKRAS AP",
+    "cin_14": "125351470SAKAP"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV SAKRAS",
+    "feeder_name": "SAKRAS DS",
+    "cin_14": "125351470SAKDS"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "33 KV SAKRAS",
+    "feeder_name": "SUB STATION (33 KV SAKRAS)",
+    "cin_14": "125351470SUBST"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "66 KV NAGINA",
+    "feeder_name": "BADARPUR DS",
+    "cin_14": "125351282BADAR"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "66 KV NAGINA",
+    "feeder_name": "IND ALNAVED",
+    "cin_14": "125351282ALVED"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "66 KV NAGINA",
+    "feeder_name": "IND MANDI KHERA HOSPITAL",
+    "cin_14": "125351282MANDK"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "66 KV NAGINA",
+    "feeder_name": "MARORA AP",
+    "cin_14": "125351282MAROR"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "66 KV NAGINA",
+    "feeder_name": "NAGINA (U)",
+    "cin_14": "125351282NAGIN"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "66 KV NAGINA",
+    "feeder_name": "NAGINA AP",
+    "cin_14": "125351282NAGAP"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "66 KV NAGINA",
+    "feeder_name": "NAI NANGLA DS",
+    "cin_14": "125351282NAIGL"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "66 KV NAGINA",
+    "feeder_name": "NAWLI DS",
+    "cin_14": "125351282NAWLI"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "66 KV NAGINA",
+    "feeder_name": "S/STN NAGINA",
+    "cin_14": "125351282SUBST"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "66 KV NAGINA",
+    "feeder_name": "SAKRAS AP",
+    "cin_14": "125351282SAKRA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NAGINA",
+    "ss_name": "66 KV NAGINA",
+    "feeder_name": "SHEKPUR DS",
+    "cin_14": "125351282SHEKP"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "33 KV GHASERA",
+    "feeder_name": "CHHAPERA DS",
+    "cin_14": "125321583CHPRA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "33 KV GHASERA",
+    "feeder_name": "GHASERA DS",
+    "cin_14": "125321583GHASE"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "33 KV GHASERA",
+    "feeder_name": "IND SUGARPUR",
+    "cin_14": "125321583SUGAR"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "33 KV GHASERA",
+    "feeder_name": "KURTHALA DS",
+    "cin_14": "125321583KURTH"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "33 KV GHASERA",
+    "feeder_name": "S/STN. 33 KV GHASERA",
+    "cin_14": "125321583SUBST"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "33 KV UJJINA",
+    "feeder_name": "DIBIPUR DS",
+    "cin_14": "125321597DBPUR"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "33 KV UJJINA",
+    "feeder_name": "IND NATIONAL HIGHWAY EXPRESS",
+    "cin_14": "125321597NHGWE"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "33 KV UJJINA",
+    "feeder_name": "IND PUBLIC HEALTH FANGEL",
+    "cin_14": "125321597PHLTH"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "33 KV UJJINA",
+    "feeder_name": "IND R U V FOOD",
+    "cin_14": "125321597RUVOD"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "33 KV UJJINA",
+    "feeder_name": "JAISINGHPUR DS",
+    "cin_14": "125321597JSPUR"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "33 KV UJJINA",
+    "feeder_name": "KAIRAKA DS",
+    "cin_14": "125321597KRAKA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "33 KV UJJINA",
+    "feeder_name": "S/STN. UJJINA",
+    "cin_14": "125321597SUBST"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "33 KV UJJINA",
+    "feeder_name": "UJJINA DS",
+    "cin_14": "125321597UJINA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "ADBAR DS",
+    "cin_14": "125321281ADBAR"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "ALDUKA DS",
+    "cin_14": "125321281ADKDS"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "BAI DS",
+    "cin_14": "125321281BAIDS"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "BUS STAND ROAD NUH (U)",
+    "cin_14": "125321281STAND"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "CITY NUH (U)",
+    "cin_14": "125321281NUH00"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "CITY NUH-II (U)",
+    "cin_14": "125321281NUH02"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "CIVIL LINE (U)",
+    "cin_14": "125321281CIVIL"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "GHASERA DS",
+    "cin_14": "125321281GHASE"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "HUSSAINPUR",
+    "cin_14": "125321281HUSAN"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "IND 33 KV CAN PACK",
+    "cin_14": "125321281CPACK"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "IND 33 KV MEDICAL COLLEGE",
+    "cin_14": "125321281MEDIC"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "IND 33 KV VARUN BEVERAGES",
+    "cin_14": "125321281VARUN"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "IND AOV FOOD",
+    "cin_14": "125321281INAOV"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "IND JAIL",
+    "cin_14": "125321281INJAL"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "IND NAVODYA VIDYALA",
+    "cin_14": "125321281NOVOD"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "IND PALLA ENGINEERING",
+    "cin_14": "125321281PLAEN"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "IND SUDAKA P/HEALTH",
+    "cin_14": "125321281INDSU"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "MALLAB DS",
+    "cin_14": "125321281MALLA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "MEOLI -II DS",
+    "cin_14": "125321281MEOL2"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "MEOLI-I AP",
+    "cin_14": "125321281MEOL1"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "REHNA DS",
+    "cin_14": "125321281REHNA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "S/STN NUH",
+    "cin_14": "125321281SUBST"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "NUH",
+    "ss_name": "66 KV NUH",
+    "feeder_name": "UJJINA DS",
+    "cin_14": "125321281UJJIN"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "33 KV DONDAL",
+    "feeder_name": "DONDAL DS",
+    "cin_14": "125331471DNDDS"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "33 KV DONDAL",
+    "feeder_name": "IND BABA HANUMAN",
+    "cin_14": "125331471HANUM"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "33 KV DONDAL",
+    "feeder_name": "IND MAHADEVA",
+    "cin_14": "125331471MAHAD"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "33 KV DONDAL",
+    "feeder_name": "IND MUSKAN TRADING COMPANY",
+    "cin_14": "125331471MUSKN"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "33 KV DONDAL",
+    "feeder_name": "IND RAINYWELL",
+    "cin_14": "125331471RAINY"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "33 KV DONDAL",
+    "feeder_name": "JAMALGARH-II DS",
+    "cin_14": "125331471JM2DS"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "33 KV DONDAL",
+    "feeder_name": "LUHINGA DS",
+    "cin_14": "125331471LHNDS"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "33 KV DONDAL",
+    "feeder_name": "MALHAKA DS",
+    "cin_14": "125331471MHKDS"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "33 KV DONDAL",
+    "feeder_name": "SUB STATION (33 KV DONDAL)",
+    "cin_14": "125331471SUBST"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "33 KV GULALTA",
+    "feeder_name": "HINGANPUR DS",
+    "cin_14": "125331634HGNPR"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "33 KV GULALTA",
+    "feeder_name": "JALIKA DS",
+    "cin_14": "125331634JLIKA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "33 KV GULALTA",
+    "feeder_name": "RAIPUR DS",
+    "cin_14": "125331634RAIPR"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "33 KV GULALTA",
+    "feeder_name": "S/STN. GULALTA",
+    "cin_14": "125331634SUBST"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "33 KV GULALTA",
+    "feeder_name": "SIROLI DS",
+    "cin_14": "125331634SIRLI"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "BICHORE DS",
+    "cin_14": "125331302BICHO"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "BISRU DS",
+    "cin_14": "125331302BISRU"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "GHEERA DS",
+    "cin_14": "125331302GERAA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "GULALTA DS",
+    "cin_14": "125331302GULAL"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "IND BHAGWATI FOODS",
+    "cin_14": "125331302BHAGF"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "IND BHARAT BRICKES",
+    "cin_14": "125331302BHARA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "IND CIVIL HOSPITAL",
+    "cin_14": "125331302INDCI"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "IND COLLEGE",
+    "cin_14": "125331302COLEG"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "IND ITI MARORA",
+    "cin_14": "125331302MRORA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "IND MUKEEM STONE",
+    "cin_14": "125331302MUKEM"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "IND RATAN MILK",
+    "cin_14": "125331302RATAN"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "IND RGRP",
+    "cin_14": "125331302RGRPD"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "INDANA DS",
+    "cin_14": "125331302INDNA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "JAMALGARH-I DS",
+    "cin_14": "125331302JAMAL"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "NAHEDA DS",
+    "cin_14": "125331302NAHED"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "NAI RDS",
+    "cin_14": "125331302NAIDS"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "PEMA AP",
+    "cin_14": "125331302PEMAP"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "PUNHANA (U)",
+    "cin_14": "125331302PUNHA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "PUNHANA-II(U)",
+    "cin_14": "125331302PUNH2"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "S/STN",
+    "cin_14": "125331302SUBST"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "SHAH CHOKHA DS",
+    "cin_14": "125331302SHAHC"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "SINGAR DS",
+    "cin_14": "125331302SINGA"
+  },
+  {
+    "division": "NUH",
+    "sub_division": "PUNHANA",
+    "ss_name": "66 KV PUNHANA",
+    "feeder_name": "TUNDLAKA DS",
+    "cin_14": "125331302TUNDL"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "AURANGABAD AP",
+    "cin_14": "125471250AURAN"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "BAMNI KHERA AP (AURANGABAD)",
+    "cin_14": "125471250BAMNI"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "BAMNIKHERA DS",
+    "cin_14": "125471250BMIKR"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "BEHROLA DS",
+    "cin_14": "125471250BEHRO"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "DEEGHOT AP",
+    "cin_14": "125471250DEEGH"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "GOPALGARH DS",
+    "cin_14": "125471250GOPAL"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "IND AUTO TECH",
+    "cin_14": "125471250ATECH"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "IND BALLARPUR A/BAD",
+    "cin_14": "125471250INDBA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "IND FLOVEL",
+    "cin_14": "125471250FLOVL"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "IND KHOSLA FOUNDRY",
+    "cin_14": "125471250INDKH"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "IND M.J. LOGISTICS",
+    "cin_14": "125471250MJGSS"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "IND POLICE LINES",
+    "cin_14": "125471250POCEN"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "IND R.P.S. VIKASH",
+    "cin_14": "125471250INDRP"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "IND SATTA VIKAS",
+    "cin_14": "125471250SATTA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "IND SUPER SCREW",
+    "cin_14": "125471250INDSU"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "IND TOP LINE",
+    "cin_14": "125471250TLINE"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "MITROL DS",
+    "cin_14": "125471250MITDS"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "MITROL INDUSTRIES",
+    "cin_14": "125471250MITIN"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "RAILWAY SOLAKA",
+    "cin_14": "125471250RAILW"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "S/STN A/BAD",
+    "cin_14": "125471250SUBST"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "SWRAN",
+    "cin_14": "125471250SWRAN"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV PALWAL",
+    "feeder_name": "BATA DS",
+    "cin_14": "125471244BATAA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV RUNDHI",
+    "feeder_name": "ASAWATA AP",
+    "cin_14": "125471472ASAWA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV RUNDHI",
+    "feeder_name": "DEEGHOT AP",
+    "cin_14": "125471472DGHAP"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV RUNDHI",
+    "feeder_name": "IND PACK N PACK",
+    "cin_14": "125471472PACKN"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV RUNDHI",
+    "feeder_name": "IND R.V.CASTING",
+    "cin_14": "125471472RVCAT"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV RUNDHI",
+    "feeder_name": "IND SHAKSHAM CASTING",
+    "cin_14": "125471472SHAKS"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV RUNDHI",
+    "feeder_name": "LADIYAKA AP",
+    "cin_14": "125471472LDIKA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV RUNDHI",
+    "feeder_name": "LADIYAKA DS",
+    "cin_14": "125471472LDYKA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV RUNDHI",
+    "feeder_name": "MARROLI DS",
+    "cin_14": "125471472MROLI"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV RUNDHI",
+    "feeder_name": "NEW BATA DS",
+    "cin_14": "125471472BATDS"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV RUNDHI",
+    "feeder_name": "PINGORE AP",
+    "cin_14": "125471472PNGAP"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV RUNDHI",
+    "feeder_name": "PINGORE DS",
+    "cin_14": "125471472PNGDS"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV RUNDHI",
+    "feeder_name": "RUNDHI DS",
+    "cin_14": "125471472RDHDS"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV RUNDHI",
+    "feeder_name": "SIHA AP",
+    "cin_14": "125471472SIHAP"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV RUNDHI",
+    "feeder_name": "SOLAKA AP",
+    "cin_14": "125471472SOLKA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "66 KV RUNDHI",
+    "feeder_name": "SUB STATION (66 KV RUNDHI)",
+    "cin_14": "125471472SUBST"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "HUDA SECTOR-02",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "CITY-III PALWAL (U)",
+    "cin_14": "125441452CITY3"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "HUDA SECTOR-02",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "CITY-IV (U)",
+    "cin_14": "125441452CITY4"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "HUDA SECTOR-02",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "G H SOCIETY (U)",
+    "cin_14": "125441452GHSTY"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "HUDA SECTOR-02",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "HUDA SECTOR-2 (U)",
+    "cin_14": "125441452HUDA2"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "HUDA SECTOR-02",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "I.T.I (U)",
+    "cin_14": "125441452ITIUR"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "HUDA SECTOR-02",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "IND AKSHAT JYOTI",
+    "cin_14": "125441452AJOTI"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "HUDA SECTOR-02",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "KALYAN ENCLAVE (U)",
+    "cin_14": "125441452KALYA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "HUDA SECTOR-02",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "MINAR GATE (U)",
+    "cin_14": "125441452MINAR"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "HUDA SECTOR-02",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "NUH ROAD (U)",
+    "cin_14": "125441452NUROD"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "HUDA SECTOR-02",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "PRAKASH VIHAR (U)",
+    "cin_14": "125441452PRKVR"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "HUDA SECTOR-02",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "SHEKHPURA (U)",
+    "cin_14": "125441452SKPRA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "HUDA SECTOR-02",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "SYAM NAGAR (U)",
+    "cin_14": "125441452SYMNR"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "HUDA SECTOR-02",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "THAI MOHALLA (U)",
+    "cin_14": "125441452THMLA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "HUDA SEC-12 (U)",
+    "cin_14": "125411259HUD12"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "HUDA SEC-2 (U)",
+    "cin_14": "125411259HUDAS"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "OMAX CITY (U)",
+    "cin_14": "125411259OMAXC"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "PALWAL AP",
+    "cin_14": "125411259PALWA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "PATLI GATE (U)",
+    "cin_14": "125411259PATLI"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "STP /MEGHPUR (U)",
+    "cin_14": "125411259STPME"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "NEW KAILASH NAGAR (U)",
+    "cin_14": "125411249KAILA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV AURANGABAD",
+    "feeder_name": "IND KGP",
+    "cin_14": "125411250INKGP"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "CITY-5 (U)",
+    "cin_14": "125411452CITY5"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "SUB STATION 66 KV HUDA SECTOR-02",
+    "cin_14": "125411452SSTNT"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV MANDKOLA",
+    "feeder_name": "CHANDPUR",
+    "cin_14": "125411254CNDPR"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV MANDKOLA",
+    "feeder_name": "IND PUBLIC HEALTH",
+    "cin_14": "125411254PUHLH"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV MANDKOLA",
+    "feeder_name": "MAHESH PUR AP",
+    "cin_14": "125411254MAHES"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV MANDKOLA",
+    "feeder_name": "SAROLI AP",
+    "cin_14": "125411254SAROL"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV PALWAL",
+    "feeder_name": "ADARSH COLONY (U)",
+    "cin_14": "125411244ADARS"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV PALWAL",
+    "feeder_name": "CAMP (U)",
+    "cin_14": "125411244CAMPU"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV PALWAL",
+    "feeder_name": "CHIRAWTA DS",
+    "cin_14": "125411244CHIRA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV PALWAL",
+    "feeder_name": "CITY-I PALWAL (U)",
+    "cin_14": "125411244CITY1"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV PALWAL",
+    "feeder_name": "CITY-II PALWAL (U)",
+    "cin_14": "125411244CITY2"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV PALWAL",
+    "feeder_name": "CIVIL HOSPITAL (U)",
+    "cin_14": "125411244CVHSP"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV PALWAL",
+    "feeder_name": "KUSHLIPUR (U)",
+    "cin_14": "125411244KUSHL"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV PALWAL",
+    "feeder_name": "MOHAN NAGAR (U)",
+    "cin_14": "125411244MOHAN"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV PALWAL",
+    "feeder_name": "S/STN 66 KV PALWAL",
+    "cin_14": "125411244SUBST"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "PALWAL",
+    "ss_name": "66 KV PALWAL",
+    "feeder_name": "SALLAGARH (U)",
+    "cin_14": "125411244SALLA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "ALLIKA DS",
+    "cin_14": "125421259ALLIK"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "DHATIR AP",
+    "cin_14": "125421259DHATI"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "DUDHOLA AP",
+    "cin_14": "125421259DUDHO"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "GHUGERA DS",
+    "cin_14": "125421259GHUGE"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "IND ACE",
+    "cin_14": "125421259ACE00"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "IND NEMO METAL",
+    "cin_14": "125421259NEMOM"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "IND PROMPTON",
+    "cin_14": "125421259PROMP"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "KALWAKA DS",
+    "cin_14": "125421259KALWA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "PRITHLA I/A -II",
+    "cin_14": "125421259PRIT2"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "PRITHLA I/A -III",
+    "cin_14": "125421259PRIT3"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "S/STN (MEGHPUR)",
+    "cin_14": "125421259SUBST"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "220 KV MEGPUR PALWAL",
+    "feeder_name": "TEHERKI AP",
+    "cin_14": "125421259TEHER"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "ALLAWALPUR AP (66 KV ALLAWALPUR)",
+    "cin_14": "125421249ALLAW"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "BASANT GARH AP",
+    "cin_14": "125421249BASAN"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "GANNIKA DS",
+    "cin_14": "125421249GANNI"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "GHAGOT DS",
+    "cin_14": "125421249GHOGA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "GOPI KHERA AP",
+    "cin_14": "125421249GOPIK"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "IND CHC",
+    "cin_14": "125421249INCHC"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "IND HOSPITAL",
+    "cin_14": "125421249HOSPI"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "IND PELAK PUMP HOUSE",
+    "cin_14": "125421249INDPE"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "IND PUBLIC HEALTH CHAJJU NAGAR",
+    "cin_14": "125421249INDPU"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "JANAULI DS",
+    "cin_14": "125421249JANAU"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "KATESRA AP",
+    "cin_14": "125421249KATES"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "LALPURA AP",
+    "cin_14": "125421249LALPU"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "S/STN ALLAWALPUR",
+    "cin_14": "125421249SUBST"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "SADARPUR AP",
+    "cin_14": "125421249SADAR"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "TARAKA AP",
+    "cin_14": "125421249TRAKA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "AGWANPUR AP",
+    "cin_14": "125421253AGWAN"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "ASAOTI AP",
+    "cin_14": "125421253ASAOT"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "BHAGOLA INDUSTRIAL",
+    "cin_14": "125421253BHAGO"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "DUDHOLA INDUSTRIAL",
+    "cin_14": "125421253DUDHO"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "GADPURI DS",
+    "cin_14": "125421253GADPU"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "HARFALI AP",
+    "cin_14": "125421253HARFA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND AUTO IGNITION",
+    "cin_14": "125421253INDAU"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND AVON CONTAINER",
+    "cin_14": "125421253AVONC"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND AVON TUBE",
+    "cin_14": "125421253INDAV"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND CENTURE ALUMINUM",
+    "cin_14": "125421253INDCE"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND DEE DEVELOPMENT",
+    "cin_14": "125421253INDDE"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND ESKO DIE CASTING",
+    "cin_14": "125421253ESKOD"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND GUPTA EXIM",
+    "cin_14": "125421253INDGU"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND HIND TERMINAL",
+    "cin_14": "125421253HINDT"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND HPL",
+    "cin_14": "125421253HPL00"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND JSW",
+    "cin_14": "125421253INJSW"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND KNORR BREMSE",
+    "cin_14": "125421253KNORR"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND M M CASTING",
+    "cin_14": "125421253MMCAS"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND MAAN FEEDS",
+    "cin_14": "125421253MAANF"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND MAHARANI PAINTS",
+    "cin_14": "125421253MAHAR"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND NEW ALENBERRY",
+    "cin_14": "125421253NABRY"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND OMP",
+    "cin_14": "125421253OMP00"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND OTTOMAN",
+    "cin_14": "125421253OTTOM"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND PHONEX",
+    "cin_14": "125421253PHONE"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND POOJA FORGE",
+    "cin_14": "125421253INDPO"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND S.K.H. PROPERTIES",
+    "cin_14": "125421253INDSK"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND SRS",
+    "cin_14": "125421253INSRS"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND STERLING TOOLS INDIA",
+    "cin_14": "125421253INDST"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND TOKAI IMPERIAL",
+    "cin_14": "125421253TOKAI"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND VENUS",
+    "cin_14": "125421253VENUS"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "IND VISHAL ENGG.",
+    "cin_14": "125421253INDVI"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "JATOLA DS",
+    "cin_14": "125421253JATOL"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "PRITHALA INDL",
+    "cin_14": "125421253PRITH"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "S/STN BHAGOLA",
+    "cin_14": "125421253SUBST"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "TATARPUR INDUSTRIAL",
+    "cin_14": "125421253TATAR"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV BAGHOLA",
+    "feeder_name": "TATARPUR INDUSTRIAL-II",
+    "cin_14": "125421253TATR2"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "ALHAPUR AP",
+    "cin_14": "125421452ALHAP"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "FIROZPUR DS",
+    "cin_14": "125421452FIROZ"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "IND DOABA",
+    "cin_14": "125421452DOABA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "JATOLA DS",
+    "cin_14": "125421452JTOLA"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV HUDA SECTOR-02",
+    "feeder_name": "PRITHLA I/A -I",
+    "cin_14": "125421452PRIT1"
+  },
+  {
+    "division": "PALWAL",
+    "sub_division": "S/U PALWAL",
+    "ss_name": "66 KV PALWAL",
+    "feeder_name": "SEHOLE AP",
+    "cin_14": "125421244SEHOL"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV GHASERA",
+    "feeder_name": "RITHORA DS",
+    "cin_14": "126521583RTHRA"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "DHIGOT",
+    "ss_name": "220 KV MEERPUR KORALI",
+    "feeder_name": "AMROLI DS",
+    "cin_14": "125471512AMROL"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "220 KV MEERPUR KORALI",
+    "feeder_name": "BADKA DS",
+    "cin_14": "125251512BDKAD"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "220 KV MEERPUR KORALI",
+    "feeder_name": "BHAWANA AP",
+    "cin_14": "125251512BWANA"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "220 KV MEERPUR KORALI",
+    "feeder_name": "GULAWAD DS",
+    "cin_14": "125251512GULAW"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "220 KV MEERPUR KORALI",
+    "feeder_name": "KHAMBHI AP",
+    "cin_14": "125251512KHAMB"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "220 KV MEERPUR KORALI",
+    "feeder_name": "KORALI AP",
+    "cin_14": "125251512KORLI"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "220 KV MEERPUR KORALI",
+    "feeder_name": "LIKHI DS",
+    "cin_14": "125251512LIKHI"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "220 KV MEERPUR KORALI",
+    "feeder_name": "MEERPUR KORALI AP",
+    "cin_14": "125251512KORAL"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "220 KV MEERPUR KORALI",
+    "feeder_name": "S/STN 220 KV MEERPUR KORALI",
+    "cin_14": "125251512SUBST"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "220 KV MEERPUR KORALI",
+    "feeder_name": "TAPPA AP",
+    "cin_14": "125251512TAPPA"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "ACHHEJA DS",
+    "cin_14": "125251234ACHHE"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "BHARATGARH DS",
+    "cin_14": "125251234BGARH"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "BHENDOLI DS",
+    "cin_14": "125251234BHEND"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "BHIDUKI AP (HASSANPUR)",
+    "cin_14": "125251234BHIDU"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "GULAWAD DS",
+    "cin_14": "125251234GULAW"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "HASSANPUR AP",
+    "cin_14": "125251234HASAP"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "HASSANPUR CITY (U)",
+    "cin_14": "125251234HASDS"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "IND RAINY WELL MAHOLI",
+    "cin_14": "125251234INDRA"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "JATOLI AP",
+    "cin_14": "125251234JTOLI"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "KASHIPUR AP",
+    "cin_14": "125251234KASHI"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "KHAMBHI AP",
+    "cin_14": "125251234KHAMB"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "KORALI AP",
+    "cin_14": "125251234KRAAP"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "KUSHAK AP",
+    "cin_14": "125251234KHKAP"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "LIKHI DS",
+    "cin_14": "125251234LIKHI"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "MAHOLI AP",
+    "cin_14": "125251234MAHOL"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "RAMGARH AP",
+    "cin_14": "125251234RAMGH"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "S/STN 66 KV HASSANPUR",
+    "cin_14": "125251234SUBST"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HASSANPUR",
+    "ss_name": "66 KV HASSANPUR",
+    "feeder_name": "TAPPA AP",
+    "cin_14": "125251234TAPPA"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "33 KV BAHIN",
+    "feeder_name": "ANDHOP AP",
+    "cin_14": "125241221ANDOP"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "33 KV BAHIN",
+    "feeder_name": "BAHIN DS",
+    "cin_14": "125241221BAHIN"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "33 KV BAHIN",
+    "feeder_name": "IND PUBLIC HEALTH",
+    "cin_14": "125241221INDPU"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "33 KV BAHIN",
+    "feeder_name": "MANPUR AP",
+    "cin_14": "125241221MANPA"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "33 KV BAHIN",
+    "feeder_name": "MANPUR DS",
+    "cin_14": "125241221MANPU"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "33 KV BAHIN",
+    "feeder_name": "NAGAL JAAT AP",
+    "cin_14": "125241221NAGAL"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "33 KV BAHIN",
+    "feeder_name": "POWSER DS",
+    "cin_14": "125241221POWSE"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "33 KV BAHIN",
+    "feeder_name": "S/STN. 33 KV BAHIN",
+    "cin_14": "125241221SUBST"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "BHANGOORI AP",
+    "cin_14": "125241241BHANG"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "CHHAINSA DS",
+    "cin_14": "125241241CHHAI"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "GEHLAB DS",
+    "cin_14": "125241241GHBDS"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "GHARROT AP",
+    "cin_14": "125241241GHARR"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "HATHIN (U)",
+    "cin_14": "125241241HATHU"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "HATHIN INDUSTRIAL",
+    "cin_14": "125241241HATHI"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "HUDITHAL DS",
+    "cin_14": "125241241HUDIT"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "IND ASHOKA INDUSTRIAL",
+    "cin_14": "125241241INDAS"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "IND KROFTA PAPER",
+    "cin_14": "125241241KROFT"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "IND POLYTECHNIC",
+    "cin_14": "125241241INDPO"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "IND PUBLIC HEALTH (66 KV HATHIN)",
+    "cin_14": "125241241PBCHH"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "IND THERMAL PAPER",
+    "cin_14": "125241241THMAP"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "JAIN PUR DS",
+    "cin_14": "125241241JAINP"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "JODHPUR DS",
+    "cin_14": "125241241JODHP"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "KALINGER DS",
+    "cin_14": "125241241KALIN"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "KHANDAWALI DS",
+    "cin_14": "125241241KHAND"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "KONDAL DS",
+    "cin_14": "125241241KNADA"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "MALUKA DS",
+    "cin_14": "125241241MALUK"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "S/STN. 66 KV HATHIN",
+    "cin_14": "125241241SUBST"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HATHIN",
+    "ss_name": "66 KV HATHIN",
+    "feeder_name": "UTTAWAR DS",
+    "cin_14": "125241241UTTAW"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV BANCHARI",
+    "feeder_name": "BANCHARI DS",
+    "cin_14": "125231613BCHRI"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV BANCHARI",
+    "feeder_name": "BANCHARI S/STN.",
+    "cin_14": "125231613SUBST"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV BANCHARI",
+    "feeder_name": "IND CNFC",
+    "cin_14": "125231613INDCN"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV BANCHARI",
+    "feeder_name": "IND JBM",
+    "cin_14": "125231613INJBM"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV BANCHARI",
+    "feeder_name": "IND NATIONAL HIGHWAY",
+    "cin_14": "125231613HIWAY"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV BANCHARI",
+    "feeder_name": "KHATELA DS",
+    "cin_14": "125231613KTELA"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "BAHIN DS",
+    "cin_14": "125231240BAHDS"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "BORAKA AP",
+    "cin_14": "125231240BORAP"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "BORAKA DS",
+    "cin_14": "125231240BORDS"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "CITY-I HODAL (U)",
+    "cin_14": "125231240CITY1"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "CITY-II HODAL (U)",
+    "cin_14": "125231240CITY2"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "CITY-III HODAL (U)",
+    "cin_14": "125231240CITY3"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "CITY-IV HODAL (U)",
+    "cin_14": "125231240CITY4"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "CITY-V HODAL (U)",
+    "cin_14": "125231240CITY5"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "CITY-VI HODAL (U)",
+    "cin_14": "125231240CITY6"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "DAKORA DS",
+    "cin_14": "125231240DAKOR"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "GODHOTA DS",
+    "cin_14": "125231240GODHO"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "IND BAHIN W/S",
+    "cin_14": "125231240INDBA"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "IND C.N.F.C.",
+    "cin_14": "125231240INDCN"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "IND STP",
+    "cin_14": "125231240INSTP"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "PANGULTOO DS",
+    "cin_14": "125231240PANGI"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "S/STN 66 KV HODAL",
+    "cin_14": "125231240SUBST"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "SEVLI AP",
+    "cin_14": "125231240SEVDS"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "HODAL",
+    "ss_name": "66 KV HODAL",
+    "feeder_name": "SEVLI DS",
+    "cin_14": "125231240SEVAP"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "MANDKOLA",
+    "ss_name": "66 KV MANDKOLA",
+    "feeder_name": "DUNGERPUR DS",
+    "cin_14": "125261254DUNGE"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "MANDKOLA",
+    "ss_name": "66 KV MANDKOLA",
+    "feeder_name": "IND V NART",
+    "cin_14": "125261254VNART"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "MANDKOLA",
+    "ss_name": "66 KV MANDKOLA",
+    "feeder_name": "IND WATER WORKS",
+    "cin_14": "125261254INDWA"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "MANDKOLA",
+    "ss_name": "66 KV MANDKOLA",
+    "feeder_name": "KISHORPUR AP",
+    "cin_14": "125261254KSHPR"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "MANDKOLA",
+    "ss_name": "66 KV MANDKOLA",
+    "feeder_name": "LALWA DS",
+    "cin_14": "125261254LALWA"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "MANDKOLA",
+    "ss_name": "66 KV MANDKOLA",
+    "feeder_name": "MANDKOLA AP",
+    "cin_14": "125261254MANDK"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "MANDKOLA",
+    "ss_name": "66 KV MANDKOLA",
+    "feeder_name": "MANDNAKA DS",
+    "cin_14": "125261254MANDN"
+  },
+  {
+    "division": "HODAL",
+    "sub_division": "MANDKOLA",
+    "ss_name": "66 KV MANDKOLA",
+    "feeder_name": "S/STN. 66 KV MANDKOLA",
+    "cin_14": "125261254SUBST"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "AMARPUR AP",
+    "cin_14": "125711249AMARP"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "CHIRWARI DS",
+    "cin_14": "125711249CHIRW"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "DADOTA DS",
+    "cin_14": "125711249DADOT"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV ALLAWALPUR",
+    "feeder_name": "RAM PUR KHOR AP",
+    "cin_14": "125711249RAMPU"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "BAROLI AP",
+    "cin_14": "125711243BAROL"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "BHOLA NAGAR AP",
+    "cin_14": "125711243BHLAR"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "CHANDHUT AP",
+    "cin_14": "125711243CHAND"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "GHORI AP",
+    "cin_14": "125711243GHORI"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "GHORI DS",
+    "cin_14": "125711243GHORD"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "GURWARI DS",
+    "cin_14": "125711243GURWA"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "IND BAYER BIO SCIENCE",
+    "cin_14": "125711243INDBA"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "IND DSPI",
+    "cin_14": "125711243INDDS"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "IND R W S",
+    "cin_14": "125711243INRWS"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "IND R W S 2",
+    "cin_14": "125711243DRWS2"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "IND SDE SULTAPUR",
+    "cin_14": "125711243SDETR"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "KHATKA AP",
+    "cin_14": "125711243KHTKA"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "KITHWARI DS",
+    "cin_14": "125711243KITHW"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "LULWARI DS",
+    "cin_14": "125711243LUARI"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "M & B FEEDER AP",
+    "cin_14": "125711243MBFDR"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "MEESA AP",
+    "cin_14": "125711243MEESA"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "PEHLADPUR AP",
+    "cin_14": "125711243PEHLA"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "PELAK AP",
+    "cin_14": "125711243PELAK"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "RAHIMPUR DS",
+    "cin_14": "125711243RAHIM"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "S & G FEEDER AP",
+    "cin_14": "125711243SGFDR"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "S/STN CHANDHUT",
+    "cin_14": "125711243SUBST"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "SUJAWARI AP",
+    "cin_14": "125711243SUJAW"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "SULTANPUR AP",
+    "cin_14": "125711243SULTA"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV HASSAPUR",
+    "feeder_name": "BAGPUR AP",
+    "cin_14": "125711554BAGPR"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV HASSAPUR",
+    "feeder_name": "BHOLRA DS",
+    "cin_14": "125711554BHOLR"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV HASSAPUR",
+    "feeder_name": "BHOOD AP",
+    "cin_14": "125711554BHOOD"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV HASSAPUR",
+    "feeder_name": "KHADAR AP",
+    "cin_14": "125711554KHADA"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV HASSAPUR",
+    "feeder_name": "NANGLIYA DS",
+    "cin_14": "125711554NANGL"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV HASSAPUR",
+    "feeder_name": "RAJUPUR AP",
+    "cin_14": "125711554RAJUP"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDHUT",
+    "ss_name": "66 KV HASSAPUR",
+    "feeder_name": "S/STN 66 KV HASSAPUR",
+    "cin_14": "125711554SUBST"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDNUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "KHADAR AP",
+    "cin_14": "125711243KHDAR"
+  },
+  {
+    "division": "S/U PALWAL",
+    "sub_division": "CHANDNUT",
+    "ss_name": "66 KV CHANDHUT",
+    "feeder_name": "NAGLA AP",
+    "cin_14": "125711243NGLAP"
+  }
+]

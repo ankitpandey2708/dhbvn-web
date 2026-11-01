@@ -1,0 +1,38 @@
+name: Collect Outage History
+
+# Primary history-collection path. Runs the same 12-district DHBVN fetch +
+# parse + save that used to run on Vercel via /api/cron/collect-history,
+# keeping that recurring CPU off the Hobby-plan Fluid Active CPU budget.
+# POSTGRES_URL must be set as a repository secret.
+
+on:
+  schedule:
+    # Every 15 min. GitHub schedule cron can lag a few minutes — harmless,
+    # the unique index on (district_id, feeder, start_time) dedupes overlaps.
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # manual trigger from GitHub UI
+
+concurrency:
+  group: collect-history
+  cancel-in-progress: true
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Collect history for all 12 districts
+        env:
+          POSTGRES_URL: ${{ secrets.POSTGRES_URL }}
+        run: npx tsx scripts/collect-history.ts

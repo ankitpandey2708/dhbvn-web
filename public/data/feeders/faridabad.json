@@ -1,0 +1,5035 @@
+[
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "BALLABGARH-I (U)",
+    "cin_14": "121321230BALLA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "RAGHUVEER COLONY (U)",
+    "cin_14": "121321230RAGHU"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "BALLABGARH-III (U)",
+    "cin_14": "121321232BALLA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "ARYA NAGAR (U)",
+    "cin_14": "121321242ARYAN"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "BALLABGARH-1 (MAIN BAZAR) (U)",
+    "cin_14": "121321242BABGH"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "CHHAJU RAM ROAD (U)",
+    "cin_14": "121321242CHAJU"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "DEEG AP",
+    "cin_14": "121321242DEEGA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "HARI VIHAR (U)",
+    "cin_14": "121321242HARIV"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "IND MILK PLANT",
+    "cin_14": "121321242INDMI"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "IND WATER BOOSTER",
+    "cin_14": "121321242WATBO"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "MAHABIR COLONY (U)",
+    "cin_14": "121321242MAHAB"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "MALERNA ROAD (U)",
+    "cin_14": "121321242MALER"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "MOHNA ROAD (U)",
+    "cin_14": "121321242MOHNA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "PEHLADPUR (U)",
+    "cin_14": "121321242PHDPR"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "RAGHUVEER COLONY-II (U)",
+    "cin_14": "121321242RAGH2"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "S/STN.",
+    "cin_14": "121321242SUBST"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "SAGARPUR (U)",
+    "cin_14": "121321242SAGAR"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "SECTOR-2 (U)",
+    "cin_14": "121321242SEC02"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "SECTOR-62 (U)",
+    "cin_14": "121321242SEC62"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "SECTOR-64 (U)",
+    "cin_14": "121321242SEC64"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "SECTOR-65 (U)",
+    "cin_14": "121321242SEC65"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "SOCIETY (U)",
+    "cin_14": "121321242SCETY"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-1 BLB",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "SUNPAID (U)",
+    "cin_14": "121321242SUNPD"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "A-5 COLONY (U)",
+    "cin_14": "121371230SUBCO"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "HOUSING BOARD (U)",
+    "cin_14": "121371230HOUSI"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "IND MCF (WATER SUPPLY)",
+    "cin_14": "121371230MCFWS"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "IND PUBLIC HEALTH",
+    "cin_14": "121371230PBCHH"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "IND RAJ NURSING HOME",
+    "cin_14": "121371230RAJNH"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "MOTHER DAIRY (U)",
+    "cin_14": "121371230MOTHE"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "OLD AGE HOME (U)",
+    "cin_14": "121371230OAHOM"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "S/STN A-5",
+    "cin_14": "121371230SUBST"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "SECTOR-3 (U)",
+    "cin_14": "121371230SEC03"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "TIGAON A-5 (U)",
+    "cin_14": "121371230TIGAO"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "66 KV G/STEEL",
+    "feeder_name": "IND 66 KV STAR WIRE (EXPORT)",
+    "cin_14": "121371233INDST"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "66 KV G/STEEL",
+    "feeder_name": "IND CIVIL HOSPITAL",
+    "cin_14": "121371233INDCI"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "66 KV G/STEEL",
+    "feeder_name": "S/STN G/STEEL",
+    "cin_14": "121371233SUBST"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "66 KV G/STEEL",
+    "feeder_name": "SOHNA ROAD (G/STEEL) (U)",
+    "cin_14": "121371233SOHNA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "66 KV G/STEEL",
+    "feeder_name": "SUBHASH COLONY (U)",
+    "cin_14": "121371233SUBHA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "CHAWLA COLONY (U)",
+    "cin_14": "121371232CHAWL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "CT-2 BLB",
+    "ss_name": "66 KV PARTAP STEEL",
+    "feeder_name": "GURGAON CANAL (U)",
+    "cin_14": "121371237GURGA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "220 KV BBMB B/GARH",
+    "feeder_name": "IND 33 KV GOOD YEAR",
+    "cin_14": "121311261INDGY"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "IND E.S.I.",
+    "cin_14": "121311230INDES"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "IND SARVODYA HOSPITAL",
+    "cin_14": "121311230INDSA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "MCF",
+    "cin_14": "121311230INDMC"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "SECTOR 9 (U)",
+    "cin_14": "121311230SECT9"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "SECTOR-10 (U)",
+    "cin_14": "121311230SEC10"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "SECTOR-8 (U)",
+    "cin_14": "121311230SEC08"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "SIHI (U)",
+    "cin_14": "121311230SIHIU"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "ST. THOMAS (U)",
+    "cin_14": "121311230STTHO"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV ESCORTS-II",
+    "feeder_name": "IND ESCORTS MSD",
+    "cin_14": "121311236INDES"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV ESCORTS-II",
+    "feeder_name": "IND INDIA FORGE",
+    "cin_14": "121311236INDIN"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV ESCORTS-II",
+    "feeder_name": "IND PIYUSH INDIA",
+    "cin_14": "121311236PIYIN"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV ESCORTS-II",
+    "feeder_name": "INDRA COLONY (U)",
+    "cin_14": "121311236INDRC"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV ESCORTS-II",
+    "feeder_name": "INTERLINKING (U)",
+    "cin_14": "121311236INTER"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV ESCORTS-II",
+    "feeder_name": "KALPANA",
+    "cin_14": "121311236KALPA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV ESCORTS-II",
+    "feeder_name": "S/STN ESCORTS-II",
+    "cin_14": "121311236SUBST"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "SECTOR-10 DLF (U)",
+    "cin_14": "121311238S10DL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "SECTOR-9 EAST (U)",
+    "cin_14": "121311238SEC9E"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "SECTOR-9 MKT. (U)",
+    "cin_14": "121311238SEC9M"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "SECTOR-9 WEST (U)",
+    "cin_14": "121311238SEC9W"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "B.D. GHAI",
+    "cin_14": "121311232INDBD"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "IND C.R.I.",
+    "cin_14": "121311232INDCR"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "IND SHAYAM TEXTILE",
+    "cin_14": "121311232INDSH"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "IND SHIVA HARDWELL",
+    "cin_14": "121311232SHIVA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "IND SIWALIK PRINTS",
+    "cin_14": "121311232INSI1"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "IND SUPER ALLOY",
+    "cin_14": "121311232INSUA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "IND SUPER AUTO-II",
+    "cin_14": "121311232INSU2"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "IND TALBROS",
+    "cin_14": "121311232TLBRO"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "IND TRW",
+    "cin_14": "121311232INDTR"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "IND YMCA",
+    "cin_14": "121311232YMCAD"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "INTERLINKING IDGAH",
+    "cin_14": "121311232IDGAH"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "P/HEALTH IDGAH (U)",
+    "cin_14": "121311232PHEAL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "S/STN. IDGAH",
+    "cin_14": "121311232SUBST"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "SECTOR-4-I",
+    "cin_14": "121311232SEC04"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "SECTOR-6",
+    "cin_14": "121311232SEC06"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "SECTOR-7 (U)",
+    "cin_14": "121311232SEC07"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "SOVERN",
+    "cin_14": "121311232SOVER"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV IDGAH",
+    "feeder_name": "SUBHAM",
+    "cin_14": "121311232SUBHM"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV NORTHERN INDIA",
+    "feeder_name": "BONEY",
+    "cin_14": "121311235BONEY"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV NORTHERN INDIA",
+    "feeder_name": "HARYANA GLOBAL",
+    "cin_14": "121311235HGLBL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV NORTHERN INDIA",
+    "feeder_name": "HEINLEHMAN",
+    "cin_14": "121311235INDHE"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV NORTHERN INDIA",
+    "feeder_name": "IND BHARTIA CUTLER HAMMER",
+    "cin_14": "121311235INDBH"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV NORTHERN INDIA",
+    "feeder_name": "IND BONEY POLYMER",
+    "cin_14": "121311235INDBO"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV NORTHERN INDIA",
+    "feeder_name": "IND ORIENT GENERAL",
+    "cin_14": "121311235INDOR"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV NORTHERN INDIA",
+    "feeder_name": "IND VXL",
+    "cin_14": "121311235INDVX"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV NORTHERN INDIA",
+    "feeder_name": "NEPCO",
+    "cin_14": "121311235NEPCO"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV NORTHERN INDIA",
+    "feeder_name": "S/STN N/INDIA",
+    "cin_14": "121311235SUBST"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV NORTHERN INDIA",
+    "feeder_name": "SANJAY MEMORIAL",
+    "cin_14": "121311235SANJA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV NORTHERN INDIA",
+    "feeder_name": "SUPER AUTO",
+    "cin_14": "121311235INDSU"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV PARTAP STEEL",
+    "feeder_name": "IND PROMPT ENTERPRISES",
+    "cin_14": "121311237PROMP"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV PARTAP STEEL",
+    "feeder_name": "IND SUPER STEEL",
+    "cin_14": "121311237SUPST"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV PARTAP STEEL",
+    "feeder_name": "S/STN P/STEEL",
+    "cin_14": "121311237SUBST"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV PARTAP STEEL",
+    "feeder_name": "SECTOR-4-II",
+    "cin_14": "121311237SEC4A"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV PARTAP STEEL",
+    "feeder_name": "SECTOR-6-II",
+    "cin_14": "121311237SEC6B"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "I/A BALLABGARH",
+    "ss_name": "66 KV PARTAP STEEL",
+    "feeder_name": "SECTOR-7-II (U)",
+    "cin_14": "121311237SEC7B"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "BAJRI FEEDER (U)",
+    "cin_14": "121341262BAJRI"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "BHAKRI FEEDER (U)",
+    "cin_14": "121341262BHAKR"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "CKT 1",
+    "cin_14": "121341262CKT01"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "CKT 2",
+    "cin_14": "121341262CKT02"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "CKT 3",
+    "cin_14": "121341262CKT03"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "CKT 4",
+    "cin_14": "121341262CKT04"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "CKT 5",
+    "cin_14": "121341262CKT05"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "DABUA PALI ROAD (U)",
+    "cin_14": "121341262DABPA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "FARM HOUSE (U)",
+    "cin_14": "121341262FARMH"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "FRIENDS COMPLEX (U)",
+    "cin_14": "121341262FRIEN"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "I.P.COLONY (U)",
+    "cin_14": "121341262IPCOL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "IND GAGAN STEEL",
+    "cin_14": "121341262GAGAN"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "IND NATIONAL INSTITUTE OF IMMUNOLOGY",
+    "cin_14": "121341262NAMMU"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "IND SHEELA KAMBOJ",
+    "cin_14": "121341262SHEEA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "LOHIYA MARKET (U)",
+    "cin_14": "121341262LOHIY"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "NANGLA (MU)",
+    "cin_14": "121341262NANGL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "NAYA GAON (U)",
+    "cin_14": "121341262NAYAG"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "PALI (U)",
+    "cin_14": "121341262PALIU"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "RADHA SWAMI (U)",
+    "cin_14": "121341262RADHA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "S/STN. 220 KV PALI",
+    "cin_14": "121341262SUBST"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "SAROORPUR (U)",
+    "cin_14": "121341262SAROO"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "SAROORPUR-1 (U)",
+    "cin_14": "121341262SARPU"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "220 KV PALI",
+    "feeder_name": "SOHNA PALI ROAD (U)",
+    "cin_14": "121341262SHNPA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "ALAMPUR AP",
+    "cin_14": "121341231ALAMP"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "CKT-4 (DHOUJ)",
+    "cin_14": "121341231CKT04"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "DHOUJ DS",
+    "cin_14": "121341231DHOUJ"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "D-II DHOUJ",
+    "cin_14": "121341231D2DHO"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "FATEHPUR DHOUJ DS",
+    "cin_14": "121341231FATEH"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "IND ALFLAH",
+    "cin_14": "121341231INDAL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "IND AYUSHI & POONAM",
+    "cin_14": "121341231AUPNM"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "IND B.S.A. DHOJ",
+    "cin_14": "121341231INDBS"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "IND D-I DHOUJ/PUMP",
+    "cin_14": "121341231INDD1"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "IND GOEL EDUCATION WELFATE",
+    "cin_14": "121341231INDGO"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "IND GREEN WOOD EDUCATION",
+    "cin_14": "121341231GREEN"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "KHORI DS",
+    "cin_14": "121341231KHORI"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "KOT DS",
+    "cin_14": "121341231KOTDS"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "MANGER DS",
+    "cin_14": "121341231MANGE"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "PAKHAL AP",
+    "cin_14": "121341231PAKHA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "S/STN DHOUJ",
+    "cin_14": "121341231SUBST"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV DHOUJ",
+    "feeder_name": "SILAKHARI DS",
+    "cin_14": "121341231SILAK"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "DAYAL CHOWK (U)",
+    "cin_14": "121341229DAYAL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "PALI",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "IND SAT SAHIB",
+    "cin_14": "121341227SAHIB"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV BBMB B/GARH",
+    "feeder_name": "IND 33 KV SHOWA INDIA",
+    "cin_14": "121331261INDSH"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV BBMB B/GARH",
+    "feeder_name": "IND 66 KV RAILWAY",
+    "cin_14": "121331261IND66"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "BHANAKPUR DS",
+    "cin_14": "121331632BHNKR"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "HSIDC",
+    "cin_14": "121331632HSIDC"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "IND CONSULT TECHNICAL",
+    "cin_14": "121331632CTECH"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "IND COSMIC GOODS",
+    "cin_14": "121331632COSMC"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "IND DISPO SAFE",
+    "cin_14": "121331632DSPOS"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "IND ESCORTS",
+    "cin_14": "121331632ESCRT"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "IND HARI OM FORGING",
+    "cin_14": "121331632HRIOM"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "IND HGI AUTOMOTIVE",
+    "cin_14": "121331632HGIAM"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "IND NIRANKARI",
+    "cin_14": "121331632NRKAR"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "IND POOJA METAL",
+    "cin_14": "121331632PJAMT"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "IND RMP FAB",
+    "cin_14": "121331632RMPFB"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "IND STL GLOBAL",
+    "cin_14": "121331632STLGB"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "IND UNITED CORE",
+    "cin_14": "121331632UCORE"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "NEW PLATING ZONE",
+    "cin_14": "121331632NPZON"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "OLD PLATING ZONE",
+    "cin_14": "121331632OPZON"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "PLATING ZONE (SEC.-58)",
+    "cin_14": "121331632PZONE"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "S/STN. SECTOR-58",
+    "cin_14": "121331632SUBST"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "SAMAYPUR ROAD (U)",
+    "cin_14": "121331632SAMAY"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "SECTOR-57 (U)",
+    "cin_14": "121331632SEC57"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "SECTOR-58",
+    "cin_14": "121331632SEC58"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "220 KV SECTOR-58",
+    "feeder_name": "STAR WIRE",
+    "cin_14": "121331632SWIRE"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "B.R. CASTING (U)",
+    "cin_14": "121331229BRCAG"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "BANSA COLONY (U)",
+    "cin_14": "121331229BANSA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "BHANAKPUR DS",
+    "cin_14": "121331229BHNKP"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "CONT.PROCESS (U)",
+    "cin_14": "121331229CONTP"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "GOUNCHI (U)",
+    "cin_14": "121331229GOUNC"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "HOUSING BOARD SECTOR-55 (U)",
+    "cin_14": "121331229HUSGB"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "HYDERABAD PLATING ZONE",
+    "cin_14": "121331229HYDER"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND P.HEALTH H/BAD",
+    "cin_14": "121331229INDPH"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND AMAR UDYOG",
+    "cin_14": "121331229INDAM"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND APPEJAY GLOBAL",
+    "cin_14": "121331229APJGL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND ARR ESS AUTO",
+    "cin_14": "121331229RSAUT"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND ASM CASTING",
+    "cin_14": "121331229ASMCG"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND BLUE FORGING",
+    "cin_14": "121331229INDBL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND BMR",
+    "cin_14": "121331229INBMR"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND DELHI FORGING",
+    "cin_14": "121331229INDDE"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND HIGH POLYMER",
+    "cin_14": "121331229INDHP"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND HINDUSTAN SYRING",
+    "cin_14": "121331229INDHS"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND HYDRABAD",
+    "cin_14": "121331229INDHY"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND JONEJA BRIGHT STEEL",
+    "cin_14": "121331229JBSTL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND KANNAN INDIA",
+    "cin_14": "121331229KANND"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND KARMA TAX",
+    "cin_14": "121331229KARMA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND KDR FORGING",
+    "cin_14": "121331229KDRFG"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND MAAN FEED",
+    "cin_14": "121331229INDMA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND MOURIYA UDYOG",
+    "cin_14": "121331229INDMO"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND NTPC",
+    "cin_14": "121331229INDNT"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND OSWAL GLOBAL",
+    "cin_14": "121331229INDOS"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND PARAMOUNT POLYMER",
+    "cin_14": "121331229INDPA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND PREM & SONS",
+    "cin_14": "121331229PRMNS"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND REMCO STEEL",
+    "cin_14": "121331229INDRE"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND S.J. INDUSTRIES",
+    "cin_14": "121331229SJNDU"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND SADHU FORGING",
+    "cin_14": "121331229INDSA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND STARLING TOOL",
+    "cin_14": "121331229STARL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND TECUM SHAH",
+    "cin_14": "121331229INDTE"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "IND VIKAS STRIP",
+    "cin_14": "121331229INDVI"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "INDUSTRIAL H/BAD",
+    "cin_14": "121331229INHBD"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "JEEWAN NAGAR (U)",
+    "cin_14": "121331229JWNGR"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "KANNAN INDIA (U)",
+    "cin_14": "121331229KANNA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "KRISHNA COLONY (U)",
+    "cin_14": "121331229KRISH"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "METAL INDIA",
+    "cin_14": "121331229METAL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "N/HIGHWAY (U)",
+    "cin_14": "121331229NHWYU"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "PARTAPGARH (U)",
+    "cin_14": "121331229PARTP"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "S/STN H/BAD",
+    "cin_14": "121331229SUBST"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "SAMAYPUR/RAJIV COLONY (U)",
+    "cin_14": "121331229SAMAY"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "SECTOR-55 (U)",
+    "cin_14": "121331229SECTO"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "SECTOR-57 (U)",
+    "cin_14": "121331229SEC57"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "SECTOR-58",
+    "cin_14": "121331229SEC58"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV HYDERABAD",
+    "feeder_name": "STAR WIRE (U)",
+    "cin_14": "121331229SWIRE"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "AUTO METER",
+    "cin_14": "121331228AUTOM"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "B/PETROLIUM (U)",
+    "cin_14": "121331228BPETR"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "HSIDC",
+    "cin_14": "121331228HSIDC"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "HUDA SEC-59",
+    "cin_14": "121331228HUD59"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND 66 KV JCB",
+    "cin_14": "121331228INDJC"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND 66 KV LAZER SHAVING",
+    "cin_14": "121331228INDLA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND ALCAM INTERNATIONAL",
+    "cin_14": "121331228INDAL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND ARM HAMMER",
+    "cin_14": "121331228INDAR"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND B.J.SPRING",
+    "cin_14": "121331228BJSRG"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND BALMER LAWRIE",
+    "cin_14": "121331228BALME"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND BLUE STAMPING",
+    "cin_14": "121331228BUESM"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND CONSULT TECHNICAL",
+    "cin_14": "121331228CNSUT"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND DISPO SAFE",
+    "cin_14": "121331228DSPSA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND ESCORT",
+    "cin_14": "121331228INDES"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND HINDUSTAN SYRING",
+    "cin_14": "121331228HNDUS"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND I.O.C.",
+    "cin_14": "121331228INDIO"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND KWALITY DAIRY",
+    "cin_14": "121331228KWAYD"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND M.M. CASTING",
+    "cin_14": "121331228INDMM"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND MAX METAL",
+    "cin_14": "121331228INDMA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND NARENDERA FLEXI PACK",
+    "cin_14": "121331228NAREN"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND NIROTECH",
+    "cin_14": "121331228NTECH"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND NOVA",
+    "cin_14": "121331228NOVA1"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND ORIENT STEEL 66 KV JHARSETELY",
+    "cin_14": "121331228INDOR"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND P/HEALTH (BHANAKPUR)",
+    "cin_14": "121331228PHBNK"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND PANCHAL PERFORATER",
+    "cin_14": "121331228PCHAL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND POLY MED",
+    "cin_14": "121331228PYMED"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND PROM TECH",
+    "cin_14": "121331228PRMTH"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND R.M.P",
+    "cin_14": "121331228INRMP"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND R.V. CASTING",
+    "cin_14": "121331228RVCAS"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND RIB & SONS",
+    "cin_14": "121331228INDRI"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND SANDEEP AXLES",
+    "cin_14": "121331228INDSA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND SHOWA INDIA",
+    "cin_14": "121331228INDSH"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND SKY PACK",
+    "cin_14": "121331228INDSK"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND SPM AUTO",
+    "cin_14": "121331228SPMAU"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND STL GLOBAL",
+    "cin_14": "121331228INDGL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND STUDDS",
+    "cin_14": "121331228INDST"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND VICTORA",
+    "cin_14": "121331228VCTRA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IND VISHWKARMA",
+    "cin_14": "121331228INDVI"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "IRCON (U)",
+    "cin_14": "121331228IRCON"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "JAJRU ROAD (U)",
+    "cin_14": "121331228JAJRU"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "KHANDAWALI ROAD (U)",
+    "cin_14": "121331228KHAND"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "MOHLA ROAD (U)",
+    "cin_14": "121331228MOHLA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "PIYALA ROAD (U)",
+    "cin_14": "121331228PIYAL"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "PLATING ZONE JHAR SETELY",
+    "cin_14": "121331228PLATZ"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "S/STN J/SHETLY",
+    "cin_14": "121331228SUBST"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "SECTOR-58 PLATING ZONE",
+    "cin_14": "121331228SE58P"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "SEEKRI AP",
+    "cin_14": "121331228SEEKR"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "SOFTA DS",
+    "cin_14": "121331228SOFTA"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV JHAR SETELY",
+    "feeder_name": "SUNPAID (U)",
+    "cin_14": "121331228SUNFE"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "ACTL (HUDA)",
+    "cin_14": "121331242ACTLH"
+  },
+  {
+    "division": "BALLABGARH",
+    "sub_division": "S/U BALLABGARH",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "HSIDC PHASE-II",
+    "cin_14": "121331242HSDCP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "IND COUNTRY WIDE",
+    "cin_14": "121511230COUNT"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "IND JAIL",
+    "cin_14": "121511230JAILU"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "IND SLF",
+    "cin_14": "121511230INSLF"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "N.T.P.C. DS",
+    "cin_14": "121511230NTPCC"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV A-IMT",
+    "feeder_name": "FIRE PLANT",
+    "cin_14": "121511304FIREP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV A-IMT",
+    "feeder_name": "R & R ZONE 3",
+    "cin_14": "121511304ZONE3"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV A-IMT",
+    "feeder_name": "R&R ZONE-2",
+    "cin_14": "121511304RZONE"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV A-IMT",
+    "feeder_name": "S/STN. A-IMT",
+    "cin_14": "121511304SUBST"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV B-IMT",
+    "feeder_name": "ICON",
+    "cin_14": "121511525ICON1"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV B-IMT",
+    "feeder_name": "IND IMPERIAL",
+    "cin_14": "121511525IMPAL"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV B-IMT",
+    "feeder_name": "JAI DURGA",
+    "cin_14": "121511525DURGA"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV B-IMT",
+    "feeder_name": "P.G.",
+    "cin_14": "121511525PGIND"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV B-IMT",
+    "feeder_name": "R & R",
+    "cin_14": "121511525RANDR"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV B-IMT",
+    "feeder_name": "S/STN. B-IMT",
+    "cin_14": "121511525SUBST"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV C-IMT",
+    "feeder_name": "AMUL",
+    "cin_14": "121511362AMULI"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV C-IMT",
+    "feeder_name": "IMT",
+    "cin_14": "121511362SSPGH"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV C-IMT",
+    "feeder_name": "IND BANAS KANTA",
+    "cin_14": "121511362BANAS"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV C-IMT",
+    "feeder_name": "IND CETP",
+    "cin_14": "121511362ICETP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV C-IMT",
+    "feeder_name": "POLICE CHOWKI",
+    "cin_14": "121511362POLIC"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV C-IMT",
+    "feeder_name": "SUB STATION",
+    "cin_14": "121511362SUBST"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV C-IMT",
+    "feeder_name": "VICTORA",
+    "cin_14": "121511362VICTO"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV D-IMT",
+    "feeder_name": "AGNI",
+    "cin_14": "121511373AGNII"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV D-IMT",
+    "feeder_name": "IND SIDDHI",
+    "cin_14": "121511373SIDHI"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV D-IMT",
+    "feeder_name": "IND STUDDS",
+    "cin_14": "121511373STUDD"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV D-IMT",
+    "feeder_name": "MUJHERI ROAD",
+    "cin_14": "121511373MUJHE"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV D-IMT",
+    "feeder_name": "R ZONE 7",
+    "cin_14": "121511373ZONE7"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV D-IMT",
+    "feeder_name": "SUB STATION",
+    "cin_14": "121511373SUBST"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV E-IMT",
+    "feeder_name": "CHANDRA",
+    "cin_14": "121511492CHAND"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV E-IMT",
+    "feeder_name": "DHARAMRAAJ",
+    "cin_14": "121511492DRAAJ"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV E-IMT",
+    "feeder_name": "IND BL",
+    "cin_14": "121511492BLIND"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV E-IMT",
+    "feeder_name": "IND KESAR",
+    "cin_14": "121511492KESAR"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV E-IMT",
+    "feeder_name": "IND OMEGA",
+    "cin_14": "121511492OMEGA"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV E-IMT",
+    "feeder_name": "RAMCO",
+    "cin_14": "121511492RAMCO"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV E-IMT",
+    "feeder_name": "S/STN. E-IMT",
+    "cin_14": "121511492SUBST"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV E-IMT",
+    "feeder_name": "SURAJ",
+    "cin_14": "121511492SURAJ"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV E-IMT",
+    "feeder_name": "TAJ FORGING",
+    "cin_14": "121511492TAJFO"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV F-IMT",
+    "feeder_name": "LAMBA (U)",
+    "cin_14": "121511505LAMBA"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV F-IMT",
+    "feeder_name": "POLICE CHOWKI (U)",
+    "cin_14": "121511505POLCH"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV F-IMT",
+    "feeder_name": "S/STN. F-IMT",
+    "cin_14": "121511505SUBST"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV GHARORA",
+    "feeder_name": "ALLIPUR AP",
+    "cin_14": "121511453ALIAP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV GHARORA",
+    "feeder_name": "CHANDPUR -2 AP",
+    "cin_14": "121511453CHAP2"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV GHARORA",
+    "feeder_name": "GHARORA DS",
+    "cin_14": "121511453GHADS"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV GHARORA",
+    "feeder_name": "IND HSVP",
+    "cin_14": "121511453HSVPP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV GHARORA",
+    "feeder_name": "IND MCF",
+    "cin_14": "121511453INDMC"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV GHARORA",
+    "feeder_name": "IND SSP",
+    "cin_14": "121511453SSPGH"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV GHARORA",
+    "feeder_name": "MANJHAWALI -2 AP",
+    "cin_14": "121511453MAAP2"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "33 KV GHARORA",
+    "feeder_name": "SUB STATION (33 KV GHARORA)",
+    "cin_14": "121511453SUBST"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "ARWA AP",
+    "cin_14": "121511239ARWAA"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "CHANDPUR AP",
+    "cin_14": "121511239CHAAP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "CHANDPUR DS",
+    "cin_14": "121511239CHADS"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "DAYALPUR AP",
+    "cin_14": "121511239DAYAP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "DAYALPUR DS",
+    "cin_14": "121511239DAYDS"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "IND FMDA/MCF",
+    "cin_14": "121511239FMDAM"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "IND SDIMT",
+    "cin_14": "121511239INDSD"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "KAURALI DS",
+    "cin_14": "121511239KAURA"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "KURALI AP",
+    "cin_14": "121511239KURAL"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "LEHNDOLA DS",
+    "cin_14": "121511239LHDLA"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "MANJHAWALI AP",
+    "cin_14": "121511239MANAP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "MANJHAWALI DS",
+    "cin_14": "121511239MANDS"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "MOJABAD AP",
+    "cin_14": "121511239MOJAB"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "NEEMKA AP",
+    "cin_14": "121511239NEEAP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "NEEMKA DS",
+    "cin_14": "121511239NEEDS"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "PANHERA AP",
+    "cin_14": "121511239PANHE"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "S/STN BADROLA",
+    "cin_14": "121511239SUBST"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "SANJUPURAM DS",
+    "cin_14": "121511239INDSA"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "TIGAON AP (66 KV BADROLA)",
+    "cin_14": "121511239TIGAP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV BADROLA",
+    "feeder_name": "TIGAON DS",
+    "cin_14": "121511239TIGDS"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "IND K.L.J",
+    "cin_14": "121511238INKLJ"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "CHANDAWALI DS",
+    "cin_14": "121511242CHAND"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "IMT (66 KV SECTOR-64)",
+    "cin_14": "121511242IMT64"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "IND AGGARSAIN SPACE",
+    "cin_14": "121511242SPACE"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "IND AGGERSAIN SPACE",
+    "cin_14": "121511242AGRSN"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "IND MCF",
+    "cin_14": "121511242INMCF"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "66 KV SECTOR-64",
+    "feeder_name": "SOTAI DS",
+    "cin_14": "121511242STADS"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "33 KV ATALI",
+    "feeder_name": "ATALI AP",
+    "cin_14": "121521474ATAAP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "33 KV ATALI",
+    "feeder_name": "ATALI DS",
+    "cin_14": "121521474ATADS"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "33 KV ATALI",
+    "feeder_name": "GERKHERA AP",
+    "cin_14": "121521474GERKH"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "33 KV ATALI",
+    "feeder_name": "IND PUBLIC HEALTH- 1 (33 KV ATALI)",
+    "cin_14": "121521474PBHTH"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "33 KV ATALI",
+    "feeder_name": "SHREE RAM CASTECH",
+    "cin_14": "121521474SHREE"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "33 KV ATALI",
+    "feeder_name": "SUB STATION (33 KV ATELI)",
+    "cin_14": "121521474SUBST"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "ATALI AP",
+    "cin_14": "121521248ATALI"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "BOARD COLONY",
+    "cin_14": "121521248BOARC"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "CHHAINSA AP",
+    "cin_14": "121521248CHHAI"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "DULEHPUR DS",
+    "cin_14": "121521248DULEH"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "HEERAPUR DS",
+    "cin_14": "121521248HEERA"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "IND 66 KV STAR WIRE CHHAINSA",
+    "cin_14": "121521248INDST"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "IND GOLD FIELD",
+    "cin_14": "121521248INDGO"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "IND MCF RAINY WELL",
+    "cin_14": "121521248MCFRW"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "IND NHAI",
+    "cin_14": "121521248INHAI"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "IND P/HEALTH CHHAINSA-II",
+    "cin_14": "121521248INDPT"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "IND P/HEALTH RAINY WELL MOHNA",
+    "cin_14": "121521248PHWEL"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "JALAKA AP",
+    "cin_14": "121521248JALAK"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "KHADAR AP",
+    "cin_14": "121521248KHADR"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "MOHNA AP",
+    "cin_14": "121521248MOHNA"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "MOUJPUR DS",
+    "cin_14": "121521248MOUJP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "NARAHWALI AP",
+    "cin_14": "121521248NARAH"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "NARYALA AP",
+    "cin_14": "121521248NARYA"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "S/STN CHHAINSA",
+    "cin_14": "121521248SUBST"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "SHEIKHPUR AP",
+    "cin_14": "121521248SHEIK"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV CHHAINSA",
+    "feeder_name": "WALIPUR DS",
+    "cin_14": "121521248WALIP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV FATEHPUR BILLOCH",
+    "feeder_name": "BEHBALPUR DS",
+    "cin_14": "121521255BEHBA"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV FATEHPUR BILLOCH",
+    "feeder_name": "DAYALPUR AP",
+    "cin_14": "121521255DAYAP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV FATEHPUR BILLOCH",
+    "feeder_name": "FATEHPUR AP",
+    "cin_14": "121521255FATEH"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV FATEHPUR BILLOCH",
+    "feeder_name": "JAWAN / ATERNA DS",
+    "cin_14": "121521255JAWDS"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV FATEHPUR BILLOCH",
+    "feeder_name": "JAWAN AP",
+    "cin_14": "121521255JAWAP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV FATEHPUR BILLOCH",
+    "feeder_name": "PANHERA AP",
+    "cin_14": "121521255PAHAP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV FATEHPUR BILLOCH",
+    "feeder_name": "S/STN F/BILOCH",
+    "cin_14": "121521255SUBST"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "CHHAINSA",
+    "ss_name": "66 KV FATEHPUR BILLOCH",
+    "feeder_name": "SHAH PUR DS",
+    "cin_14": "121521255SHAHP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "IND 33 KV OMAXE",
+    "cin_14": "12153126033MAX"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "BHARAT COLONY (U)",
+    "cin_14": "121531246BHART"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "IND MCF BHUNDENA",
+    "cin_14": "121531246MCFBH"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "IND PRINCESS PARK",
+    "cin_14": "121531246PRNCE"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "IND SHIV SAI",
+    "cin_14": "121531246SHIVS"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "IND SMART HOUSING",
+    "cin_14": "121531246SMART"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "IND SPR",
+    "cin_14": "121531246SPR00"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "INDIRA COMPLEX (U)",
+    "cin_14": "121531246INDIR"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "KHERI KALAN DS",
+    "cin_14": "121531246KHERI"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "MASTER ROAD (U)",
+    "cin_14": "121531246MASTR"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "PADAM NAGAR (U)",
+    "cin_14": "121531246PADAM"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "PUBLIC HEALTH A-4 (U)",
+    "cin_14": "121531246PUBLI"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "TIGAON ROAD (U)",
+    "cin_14": "121531246TGANR"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "BADARPUR SAD DS",
+    "cin_14": "121531251BADAR"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "BHASKOLA DS",
+    "cin_14": "121531251BHASK"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "BHOPANI AP",
+    "cin_14": "121531251BHOPA"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "DADSIA DS",
+    "cin_14": "121531251DADSI"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "FATUPURA AP",
+    "cin_14": "121531251FATUP"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "IND MCF",
+    "cin_14": "121531251INMCF"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "IND PIYUSH HEIGHT",
+    "cin_14": "121531251PIYUS"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "IND RICHA KNIT",
+    "cin_14": "121531251INDRI"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "IND RPS",
+    "cin_14": "121531251INRPS"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "IND RPS-2",
+    "cin_14": "121531251RPS2D"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "IND VASUNDRA",
+    "cin_14": "121531251INDVA"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "JASANA AP",
+    "cin_14": "121531251JASAN"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "KANWARA (U)",
+    "cin_14": "121531251KANWA"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "MAHATPUR AP",
+    "cin_14": "121531251MAHAT"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "NACHOLI AP",
+    "cin_14": "121531251NACHO"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "S/STN BHOPANI",
+    "cin_14": "121531251SUBST"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV BHOPANI",
+    "feeder_name": "VIDYA EDUCATION (U)",
+    "cin_14": "121531251INDVI"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "BADOLI FORD DS",
+    "cin_14": "121531238BADFD"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "IND COUNTRY WIDE",
+    "cin_14": "121531238CUNTR"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "IND COUNTRY WIDE SECTOR-81",
+    "cin_14": "121531238CWS81"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "IND GRANDURA PARK",
+    "cin_14": "121531238GRAND"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "IND PRATHAM RESIDENT SEC-84",
+    "cin_14": "121531238PRATH"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "IND PURI CONSTRUCTION",
+    "cin_14": "121531238PURIC"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "IND S N REALTORS",
+    "cin_14": "121531238SNRTS"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "IND SRS",
+    "cin_14": "121531238SRS00"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "IND SRS PEARL SECTOR-87",
+    "cin_14": "121531238PEARL"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "IND SRS ROYAL HILLS SEC-87",
+    "cin_14": "121531238SRSRH"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "IND FANTABULOUS",
+    "cin_14": "121531247FANTA"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "IND POLICE LINE",
+    "cin_14": "121531247PLINE"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "MASTER ROAD (U)",
+    "cin_14": "121531247MASTR"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "KHERI KALAN",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "MAWAI (U) SEC-31",
+    "cin_14": "121531247MAWAS"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "TILPAT",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "AGWANPUR (U)",
+    "cin_14": "121541260AGWAN"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "TILPAT",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "AJAY NAGAR (U)",
+    "cin_14": "121541260AJAYN"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "TILPAT",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "BASANTPUR (U)",
+    "cin_14": "121541260BASAN"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "TILPAT",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "KHERI KALAN (M/ROAD) (U)",
+    "cin_14": "121541260KHEMR"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "TILPAT",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "OM ENCLAVE (U)",
+    "cin_14": "121541260OMENC"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "TILPAT",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "PALLA (U)",
+    "cin_14": "121541260PALLU"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "TILPAT",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "ROSHAN NAGAR (U)",
+    "cin_14": "121541260ROSHN"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "TILPAT",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "SECTOR-91 (U)",
+    "cin_14": "121541260SEC91"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "TILPAT",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "SURDAS (U)",
+    "cin_14": "121541260SURDS"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "TILPAT",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "SURYA NAGAR (U)",
+    "cin_14": "121541260SURYA"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "TILPAT",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "SURYA VIHAR (U)",
+    "cin_14": "121541260SVIHR"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "TILPAT",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "TILPAT (U)",
+    "cin_14": "121541260TILPA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "JAWAHAR COLONY",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "IND AIR FORCE",
+    "cin_14": "121241223INDAI"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "JAWAHAR COLONY",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "JANTA COLONY (U)",
+    "cin_14": "121241223JANTA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "JAWAHAR COLONY",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "JAWAHAR COLONY-I (U)",
+    "cin_14": "121241223JAWA1"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "JAWAHAR COLONY",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "JAWAHAR COLONY-II (U)",
+    "cin_14": "121241223JAWA2"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "JAWAHAR COLONY",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "KAPRA COLONY (U)",
+    "cin_14": "121241223KAPRA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "JAWAHAR COLONY",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "KAPRA COLONY-II (U)",
+    "cin_14": "121241223KAPR2"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "JAWAHAR COLONY",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "PARVATIA COLONY (U)",
+    "cin_14": "121241223PARVA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "JAWAHAR COLONY",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "PARVATIA COLONY-II (U)",
+    "cin_14": "121241223PARV2"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 1",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "B.C.PARK (U)",
+    "cin_14": "121211222BCPAK"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 1",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "LIC (U)",
+    "cin_14": "121211222LICUR"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 1",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "NEELAM (U)",
+    "cin_14": "121211222NEELA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 1",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "TIKONA PARK (U)",
+    "cin_14": "121211222TIKON"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 1",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "TOWN SHIP (U)",
+    "cin_14": "121211222TOWNS"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 1",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "NH-I (U)",
+    "cin_14": "121211223NH1UR"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 2",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "27 FEET ROAD (U)",
+    "cin_14": "121221223FROAD"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 2",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "DABUA COLONY (U)",
+    "cin_14": "121221223DABUA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 2",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "GOLF CLUB (U)",
+    "cin_14": "121221223GOLFC"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 2",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "IND DRIPLEX WATER ENGG.",
+    "cin_14": "121221223DRIPL"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 2",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "IND MBS",
+    "cin_14": "121221223INMBS"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 2",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "MCF JNNURM (U)",
+    "cin_14": "121221223JNNUR"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 2",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "NAWADA (U)",
+    "cin_14": "121221223NAWAD"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 2",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "NH-II (U)",
+    "cin_14": "121221223NH02U"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 2",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "OUTER ROAD FCI (U)",
+    "cin_14": "121221223OUTER"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 2",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "PALI ROAD (U)",
+    "cin_14": "121221223PALIR"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 2",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "RING ROAD (U)",
+    "cin_14": "121221223RINGR"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 2",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "S/STN FCI",
+    "cin_14": "121221223SUBST"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "BABA HIRDAY RAM",
+    "cin_14": "121231222HIRDA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "DHANDA COMPLEX",
+    "cin_14": "121231222DHAND"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "EAST INDIA CHOWK",
+    "cin_14": "121231222EASTC"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "EICHER COLONY-II (U)",
+    "cin_14": "121231222ECOL2"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "IND BRAWN LAB",
+    "cin_14": "121231222BRLAB"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "IND ESCORTS A-2",
+    "cin_14": "121231222INDA2"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "IND HBB",
+    "cin_14": "121231222HBBND"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "IND KELVINATOR",
+    "cin_14": "121231222INDKE"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "IND LAUL MILL",
+    "cin_14": "121231222INDLA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "IND MEHAR STEEL",
+    "cin_14": "121231222INDME"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "IND OSWAL DIE CASTING",
+    "cin_14": "121231222OSWAL"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "IND SKY TONE ELECTRICAL INDIA",
+    "cin_14": "121231222STEIN"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "IND XPRO INDIA",
+    "cin_14": "121231222INDXP"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "LAXMI RATTAN",
+    "cin_14": "121231222LAXMI"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "MUJESAR (U)",
+    "cin_14": "121231222MUJES"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "PAPER MILL",
+    "cin_14": "121231222PMILL"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "PUBLIC HEALTH 66 KV A-2",
+    "cin_14": "121231222PUBLI"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "RINGMAN-I",
+    "cin_14": "121231222RING1"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "RINGMAN-II",
+    "cin_14": "121231222RING2"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "RINGMAN-III (U)",
+    "cin_14": "121231222RING3"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "S/STN A-2",
+    "cin_14": "121231222SUBA2"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "SANJAY COLONY-I (U)",
+    "cin_14": "121231222SANJA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "SOHNA ROAD-II (U)",
+    "cin_14": "121231222SROAD"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "THERMAL COLONY (U)",
+    "cin_14": "121231222THERM"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "COTTON MILL",
+    "cin_14": "121231225COTTO"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "F.S.I.A.",
+    "cin_14": "121231225FSIA0"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "IND ASM CASTING",
+    "cin_14": "121231225ASMCG"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "IND ESCORT CHD",
+    "cin_14": "121231225ESCOR"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "IND INDO",
+    "cin_14": "121231225INDIN"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "IND JAYCO",
+    "cin_14": "121231225INDJA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "IND JBM",
+    "cin_14": "121231225JBM00"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "IND KHEMKA",
+    "cin_14": "121231225KHMKA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "IND NEEL METAL PRODUCTS",
+    "cin_14": "121231225NEELM"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "IND PANKAJ MAHENDIRATTA",
+    "cin_14": "121231225INDPA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "IND PRIME INDIA",
+    "cin_14": "121231225PRIME"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "IND SADHU FORGING",
+    "cin_14": "121231225INDSA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "IND V.G. KAUSHIKO",
+    "cin_14": "121231225INDVG"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "IND VAMANI OVERSEAS",
+    "cin_14": "121231225INDVA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "IND VIKAS FORGING PVT. LTD.",
+    "cin_14": "121231225VIFOR"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "IND VOITH PAPER",
+    "cin_14": "121231225VOITH"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "INDO AUTO TECH.",
+    "cin_14": "121231225INDOA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "INDUSTRIAL DABRIWALA",
+    "cin_14": "121231225INDAB"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "LA-MED HEALTH CARE",
+    "cin_14": "121231225LAMED"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "S/STN DABRIWALA",
+    "cin_14": "121231225SUBST"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "SECTOR- 24",
+    "cin_14": "121231225SEC24"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "SECTOR-22 & 23 (U)",
+    "cin_14": "121231225SEC22"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV DABRIWALA",
+    "feeder_name": "SECTOR-23 A (U)",
+    "cin_14": "121231225SE23A"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV FCI",
+    "feeder_name": "HARD WARE",
+    "cin_14": "121231223HARDW"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "EICHER COLONY (U)",
+    "cin_14": "121231224EICHE"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "HINDUSTAN WIRE",
+    "cin_14": "121231224HINDU"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "IND VOHRA PACKAGING",
+    "cin_14": "121231224VOHRA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "IND 66 KV BSL CASTING",
+    "cin_14": "121231224INDBS"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "IND 66 KV PUNJAB INDS.",
+    "cin_14": "121231224INDPU"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "IND AES ENGINEER",
+    "cin_14": "121231224AEGER"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "IND GKN",
+    "cin_14": "121231224INDGK"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "IND KALKA JI ENGG.",
+    "cin_14": "121231224KALKE"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "IND LAKHANI -I",
+    "cin_14": "121231224INDL1"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "IND LAKHANI -II",
+    "cin_14": "121231224INDL2"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "IND MAHAVIR DIE CASTING",
+    "cin_14": "121231224MAHAD"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "IND SAGE METAL",
+    "cin_14": "121231224SAGEM"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "IND VENUS CORPORATION",
+    "cin_14": "121231224VENUS"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "LAKHANI ARMAN",
+    "cin_14": "121231224LAKHA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "RAJENDER CHOWK (U)",
+    "cin_14": "121231224RAJEN"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "ROLLING MILL-I",
+    "cin_14": "121231224RMIL1"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "ROLLING MILL-II",
+    "cin_14": "121231224RMIL2"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "ROLLING MILL-III",
+    "cin_14": "121231224RMIL3"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "S/STN OSWAL",
+    "cin_14": "121231224SUBST"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "SAPNA TEXTILE- I",
+    "cin_14": "121231224SAPN2"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "SAPNA TEXTILE -II",
+    "cin_14": "121231224SAPN1"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV OSWAL",
+    "feeder_name": "SOHNA ROAD OSWAL (U)",
+    "cin_14": "121231224SOHNA"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV SECTOR-23",
+    "feeder_name": "EICHER COLONY (U)",
+    "cin_14": "121231642ECRCY"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV SECTOR-23",
+    "feeder_name": "HOUSING COLONY FEEDER (U)",
+    "cin_14": "121231642HUSCY"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV SECTOR-23",
+    "feeder_name": "RAJENDER CHOWK (U)",
+    "cin_14": "121231642RJDRC"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV SECTOR-23",
+    "feeder_name": "SANJAY COLONY (U)",
+    "cin_14": "121231642SJYCY"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV SECTOR-23",
+    "feeder_name": "SECTOR-23A (U)",
+    "cin_14": "121231642SEC23"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV SECTOR-23",
+    "feeder_name": "SOHNA ROAD (U)",
+    "cin_14": "121231642SHNAR"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 3",
+    "ss_name": "66 KV SECTOR-23",
+    "feeder_name": "THERMAL COLONY (U)",
+    "cin_14": "121231642TRMLC"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 5",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "IND ESCORT HOSPITAL",
+    "cin_14": "121251222INDHO"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 5",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "NH-V (U)",
+    "cin_14": "121251222NH5UR"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 5",
+    "ss_name": "66 KV A-2",
+    "feeder_name": "P.N.B. (U)",
+    "cin_14": "121251222PNBUR"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 5",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "GANDHI COLONY (U)",
+    "cin_14": "121251227GANDH"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 5",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "IND B.K. HOSPITAL",
+    "cin_14": "121251227INDBK"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 5",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "IND SSB",
+    "cin_14": "121251227IDSSB"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 5",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "KC ROAD (U)",
+    "cin_14": "121251227KCRAD"
+  },
+  {
+    "division": "NIT FARIDABAD",
+    "sub_division": "NO. 5",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "PNB/NEHRU GROUND (U)",
+    "cin_14": "121251227PNBNE"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "DAYANAND (U)",
+    "cin_14": "121111246DAYAN"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "IND QRG HOSPITAL",
+    "cin_14": "121111246QRGHP"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "IND SUNFLAG",
+    "cin_14": "121111246INDSU"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "NEW SECTOR-16 (U)",
+    "cin_14": "121111246NEWSE"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "SECTOR-17 (U)",
+    "cin_14": "121111246SEC17"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "CKT. HOUSE (U)",
+    "cin_14": "121111256CKTHO"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "DAULTABAD (U)",
+    "cin_14": "121111256DAULT"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "GYM KHANA CLUB (U)",
+    "cin_14": "121111256GYMKH"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "IND DELTON CABLE",
+    "cin_14": "121111256INDDE"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "IND ELDECO",
+    "cin_14": "121111256INDEL"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "IND ESCORT KUBOTA",
+    "cin_14": "121111256KUBOT"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "IND ESCORT-I",
+    "cin_14": "121111256INDES"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "IND METRO HOSPITAL",
+    "cin_14": "121111256INDME"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "IND MINI SECRETARIAT",
+    "cin_14": "121111256INDMI"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "IND PARSAVNATH",
+    "cin_14": "121111256INDPA"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "IND PEBBLE DOWN TOWN",
+    "cin_14": "121111256PDTWN"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "IND TELE. EXCH.",
+    "cin_14": "121111256INDTE"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "IND THOMSON PRESS",
+    "cin_14": "121111256INDT1"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "NEHRU COLLEGE (U)",
+    "cin_14": "121111256NEHRU"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "PRERNA DHAM (U)",
+    "cin_14": "121111256PRERN"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "S/STN ESCORTS",
+    "cin_14": "121111256SUBST"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "SECTOR-12 (U)",
+    "cin_14": "121111256SEC12"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "SECTOR-15-A (U)",
+    "cin_14": "121111256S15AU"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS",
+    "feeder_name": "SECTOR-15-B (U)",
+    "cin_14": "121111256SE15B"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS-II",
+    "feeder_name": "IND GE MOTOR",
+    "cin_14": "121111236INDGE"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS-II",
+    "feeder_name": "SANTNAGAR (U)",
+    "cin_14": "121111236SANTN"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS-II",
+    "feeder_name": "SECTOR-11 (U)",
+    "cin_14": "121111236SEC11"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS-II",
+    "feeder_name": "SECTOR-11-B (U)",
+    "cin_14": "121111236SE11B"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV ESCORTS-II",
+    "feeder_name": "SECTOR-20B (U)",
+    "cin_14": "121111236SE20B"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "I.O.C. (U)",
+    "cin_14": "121111238INDIO"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "IND 66 KV ESCORTS FORD",
+    "cin_14": "121111238INDEF"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "IND 66 KV IOCL",
+    "cin_14": "121111238OCL66"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "IND P/HEALTH FORD",
+    "cin_14": "121111238INDPT"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "NEW SECTOR-15 (U)",
+    "cin_14": "121111238NEWSE"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "S/STN.",
+    "cin_14": "121111238SUBST"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "SECTOR-14 (U)",
+    "cin_14": "121111238SEC14"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "SECTOR-14 MKT (U)",
+    "cin_14": "121111238SE14M"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "SECTOR-16 (U)",
+    "cin_14": "121111238SEC16"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "EAST",
+    "ss_name": "66 KV FORD",
+    "feeder_name": "SECTOR-16B (U)",
+    "cin_14": "121111238SE16B"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "ADVANCE FORGE",
+    "cin_14": "121131260ADVAN"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "ANUPAM (U)",
+    "cin_14": "121131260ANUPA"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "ASHOKA (U)",
+    "cin_14": "121131260ASHOK"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "CREATIVE",
+    "cin_14": "121131260CREAT"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "D.L.F.",
+    "cin_14": "121131260DLF00"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "ESCORTS PALLA",
+    "cin_14": "121131260ESCOR"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "ESCORTS-II",
+    "cin_14": "121131260ESCO2"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "FORGE WELL",
+    "cin_14": "121131260FRGEW"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "FRICK INDIA",
+    "cin_14": "121131260INDFR"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "GULMOHAR (U)",
+    "cin_14": "121131260GULMO"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "HYUNDAI",
+    "cin_14": "121131260HYUND"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "I.G.C.",
+    "cin_14": "121131260IGC00"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "IND 33 KV CROWN INTERIOR",
+    "cin_14": "121131260CROWN"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "IND BSNL",
+    "cin_14": "121131260BSNLU"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "IND MCF BOOSTER",
+    "cin_14": "121131260MCFBO"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "IND PETS",
+    "cin_14": "121131260INDPE"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "IND SUDTRCK",
+    "cin_14": "121131260SUDCK"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "KANISHKA (U)",
+    "cin_14": "121131260KANIS"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "KPC",
+    "cin_14": "121131260KPCDL"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "L.F.M.",
+    "cin_14": "121131260LFM00"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "N.A.P.",
+    "cin_14": "121131260NAP00"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "NEW DLF",
+    "cin_14": "121131260NEWDF"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "PALLA COLONY (U)",
+    "cin_14": "121131260PALLC"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "S.A.P.",
+    "cin_14": "121131260SAP00"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "S/STN A-3 PALLA",
+    "cin_14": "121131260SUBST"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "SAPNA MARKET (U)",
+    "cin_14": "121131260SAPNA"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "SECTOR-28 (NHPC)",
+    "cin_14": "121131260SEC28"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "SECTOR-37 (U)",
+    "cin_14": "121131260SEC37"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "TALBROS",
+    "cin_14": "121131260TALBR"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "TIKONA PARK (U)",
+    "cin_14": "121131260TPARK"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "YORK",
+    "cin_14": "121131260YORK0"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "33 KV IAC",
+    "feeder_name": "IND HVP",
+    "cin_14": "121131220INDHV"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "33 KV IAC",
+    "feeder_name": "IND L&T",
+    "cin_14": "121131220INL&T"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "33 KV IAC",
+    "feeder_name": "IND NAPCON",
+    "cin_14": "121131220INDNA"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "33 KV IAC",
+    "feeder_name": "IND VATIKA",
+    "cin_14": "121131220VATKA"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "33 KV IAC",
+    "feeder_name": "INTERLINKING IAC",
+    "cin_14": "121131220NTEKG"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "33 KV IAC",
+    "feeder_name": "S/STN",
+    "cin_14": "121131220SUBST"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "33 KV IAC",
+    "feeder_name": "SANTOSH (U)",
+    "cin_14": "121131220SANTO"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "33 KV IAC",
+    "feeder_name": "SKN",
+    "cin_14": "121131220SKN00"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "33 KV IAC",
+    "feeder_name": "USHA SPINNING",
+    "cin_14": "121131220USHAS"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "COSMOS (U)",
+    "cin_14": "121131247COSMO"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "ESCORTS 66 KV SEC-31",
+    "cin_14": "121131247ESCOR"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "HAVELLS",
+    "cin_14": "121131247HAVEL"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "HEMLA",
+    "cin_14": "121131247HEMLA"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "IND ESCORT KMC",
+    "cin_14": "121131247ESKMC"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "IND POOJA FORGE",
+    "cin_14": "121131247POOJA"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "IND SRS",
+    "cin_14": "121131247SRSND"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "LAJWANTI COMPLEX",
+    "cin_14": "121131247LAJWA"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "NEW ALLEMBARY",
+    "cin_14": "121131247NEWAL"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "POLAR AUTO",
+    "cin_14": "121131247POLAR"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "TOYATO",
+    "cin_14": "121131247TOYAT"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "GREEN FIELD 1 (U)",
+    "cin_14": "121131226GREE1"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "GREEN FIELD 2 (U)",
+    "cin_14": "121131226GREEN"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "ANANGPUR (U)",
+    "cin_14": "121131245ANANG"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "ANANGPUR-II (U)",
+    "cin_14": "121131245ANAN2"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "BHARAT CARPET",
+    "cin_14": "121131245BHARA"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "CHARMWOOD (U)",
+    "cin_14": "121131245CHARM"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "DAYAL BAGH (U)",
+    "cin_14": "121131245DBAGH"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "E/GARDEN (U)",
+    "cin_14": "121131245EGARD"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "IND 33 KV GODAWARI SHILPKALA",
+    "cin_14": "121131245GODAW"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "IND 33 KV GREEN VALLEY RPS",
+    "cin_14": "121131245GREEN"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "IND BHARAT GEAR",
+    "cin_14": "121131245BHARG"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "IND NHPC",
+    "cin_14": "121131245NHPCU"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "IND OMAXE HILL",
+    "cin_14": "121131245OMAXH"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "IND RPS INTERNATIONAL",
+    "cin_14": "121131245RPSIN"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "IND S.R. TRADING",
+    "cin_14": "121131245SRTRD"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "INTERLINKING USA (U)",
+    "cin_14": "121131245NTEKG"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "NEW SKTC. (U)",
+    "cin_14": "121131245NEWSK"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "S.O.S. BALGRAM (U)",
+    "cin_14": "121131245SOSBA"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "S/KUND (U)",
+    "cin_14": "121131245SKUND"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "S/KUND-II (U)",
+    "cin_14": "121131245KUND2"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "MATHURA ROAD",
+    "ss_name": "66 KV USA",
+    "feeder_name": "S/STN USA",
+    "cin_14": "121131245SUBST"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "BADKHAL (U)",
+    "cin_14": "121141227BADKH"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "DELHI (U)",
+    "cin_14": "121141227DELHI"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "ESI (U)",
+    "cin_14": "121141227ESIUR"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "GALI NO. 1 (U)",
+    "cin_14": "121141227GALI1"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "GURUGRAM ROAD (U)",
+    "cin_14": "121141227GROAD"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "IND 66 KV ESIC",
+    "cin_14": "121141227IESIC"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "IND ESI COLLEGE",
+    "cin_14": "121141227INDES"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "IND ZION PROMOTERS",
+    "cin_14": "121141227INDZP"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "K.L. MEHTA (U)",
+    "cin_14": "121141227KLMEH"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "METRO FEEDER (U)",
+    "cin_14": "121141227METRO"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "NH-IV (U)",
+    "cin_14": "121141227NH4UR"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "PATEL CHOWK (U)",
+    "cin_14": "121141227PLCOK"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "RAJA CHOWK (U)",
+    "cin_14": "121141227RAJAC"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "S.G.M. A (U)",
+    "cin_14": "121141227SGMAF"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "S.G.M. B (U)",
+    "cin_14": "121141227SGMBU"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "S.G.M. C (U)",
+    "cin_14": "121141227SGMCU"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "S/STN NH-3",
+    "cin_14": "121141227SUBST"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "SAINIK COLONY-I (U)",
+    "cin_14": "121141227SAIN1"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "SAINIK COLONY-II (U)",
+    "cin_14": "121141227SAIN2"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV NH-3",
+    "feeder_name": "SECTOR 48 (U)",
+    "cin_14": "121141227SEC48"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "ANKHIR (U)",
+    "cin_14": "121141226ANKHR"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "IND 66 KV DMRC CKT-1",
+    "cin_14": "121141226DMRC1"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "IND 66 KV DMRC CKT-2",
+    "cin_14": "121141226DMRC2"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "IND ASIAN HOSPITAL",
+    "cin_14": "121141226ASIAN"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "IND BLUE SPHIRE HOSPITAL",
+    "cin_14": "121141226BLUES"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "IND MANAV RACHNA",
+    "cin_14": "121141226INDMA"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "MEWLAM PUR (U)",
+    "cin_14": "121141226MEWLA"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "S/STN SEC-46",
+    "cin_14": "121141226SUBST"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "SECTOR 21 C PART-3 (U)",
+    "cin_14": "121141226S21C3"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "SECTOR 21-A (U)",
+    "cin_14": "121141226SE21A"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "SECTOR 21-B (U)",
+    "cin_14": "121141226SE21B"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "SECTOR 21-C (U)",
+    "cin_14": "121141226SE21C"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "SECTOR 21-D (U)",
+    "cin_14": "121141226SE21D"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "SECTOR 21-D-GHS (U)",
+    "cin_14": "121141226S21DG"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "SECTOR 45 (U)",
+    "cin_14": "121141226SEC45"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "SECTOR-46 (U)",
+    "cin_14": "121141226SEC46"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV SECTOR-46",
+    "feeder_name": "SECTOR-46-II (U)",
+    "cin_14": "121141226S46P2"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "NO. 4",
+    "ss_name": "66 KV USA",
+    "feeder_name": "IND J/STEEL",
+    "cin_14": "121141245INDJS"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "220 KV A3 PALLA",
+    "feeder_name": "J.V.V. (U)",
+    "cin_14": "121121260JVVUR"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "BASELWA (U)",
+    "cin_14": "121121246BASEL"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "BHOOD COLONY (U)",
+    "cin_14": "121121246BHOOD"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "CITY A-4 (U)",
+    "cin_14": "121121246CITYA"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "DPS SECTOR-19 (U)",
+    "cin_14": "121121246DPS19"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "MCF DISPOSAL (U)",
+    "cin_14": "121121246MCFDI"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "OLD MARKET (U)",
+    "cin_14": "121121246OLDMK"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "RAJA GARDEN (U)",
+    "cin_14": "121121246RAJAG"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "S/STN A-4",
+    "cin_14": "121121246SUBST"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "SECTOR-18 (U)",
+    "cin_14": "121121246SEC18"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV A-4",
+    "feeder_name": "SECTOR-19 (U)",
+    "cin_14": "121121246SEC19"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "CITY (U)",
+    "cin_14": "121121247CITYU"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "COMPLAINT CENTER (U)",
+    "cin_14": "121121247COMPL"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "DLF (U)",
+    "cin_14": "121121247DLFUR"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "GLOWSTAR (MU)",
+    "cin_14": "121121247GLOST"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "GOPAL GARDEN (U)",
+    "cin_14": "121121247GOPAL"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "HSIDC",
+    "cin_14": "121121247HSIDC"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "IND MEHENDRA",
+    "cin_14": "121121247MEHEN"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "IND PRISTINE MALL",
+    "cin_14": "121121247INDPR"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "IND SHAHI EXPORT",
+    "cin_14": "121121247INDSH"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "IND V.K.GLOBAL",
+    "cin_14": "121121247VKGLO"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "IP COLONY (U)",
+    "cin_14": "121121247IPCOL"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "JVV (U)",
+    "cin_14": "121121247JVVUR"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "NEW CITY (U)",
+    "cin_14": "121121247NEWCI"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "S/STN SEC-31",
+    "cin_14": "121121247SUBST"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "SECTOR-27 A",
+    "cin_14": "121121247SE27A"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "SECTOR-28 P-I (U)",
+    "cin_14": "121121247S28P1"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "SECTOR-28 P-II (U)",
+    "cin_14": "121121247S28P2"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "SECTOR-29 (U)",
+    "cin_14": "121121247SEC29"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "SECTOR-29 HUDA (U)",
+    "cin_14": "121121247S29HU"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "SECTOR-30 (U)",
+    "cin_14": "121121247SEC30"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "SECTOR-31 (U)",
+    "cin_14": "121121247SEC31"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "SHASTRI COLONY (U)",
+    "cin_14": "121121247SHAST"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "SIREEN COMPLEX",
+    "cin_14": "121121247SIREN"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "SLF (MU)",
+    "cin_14": "121121247SLF00"
+  },
+  {
+    "division": "OLD FARIDABAD",
+    "sub_division": "WEST",
+    "ss_name": "66 KV SECTOR-31",
+    "feeder_name": "SPRING FIELD (U)",
+    "cin_14": "121121247SPRNG"
+  },
+  {
+    "division": "G.FARIDABAD",
+    "sub_division": "BADROLA",
+    "ss_name": "220/66 KV A-5",
+    "feeder_name": "MUJERI INDUSTRIAL",
+    "cin_14": "121511230MIRJA"
+  }
+]
