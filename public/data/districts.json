@@ -1,0 +1,16 @@
+{
+  "districts": [
+    { "id": 1,  "name": "Jind" },
+    { "id": 2,  "name": "Fatehabad" },
+    { "id": 3,  "name": "Sirsa" },
+    { "id": 4,  "name": "Hisar" },
+    { "id": 5,  "name": "Bhiwani" },
+    { "id": 6,  "name": "Mahendargarh",  "circles": ["Narnaul"] },
+    { "id": 7,  "name": "Rewari" },
+    { "id": 8,  "name": "Gurugram",      "circles": ["Gurugram-1", "Gurugram-2"] },
+    { "id": 9,  "name": "Nuh",           "circles": null },
+    { "id": 10, "name": "Faridabad" },
+    { "id": 11, "name": "Palwal" },
+    { "id": 12, "name": "Charkhi Dadri", "circles": null }
+  ]
+}

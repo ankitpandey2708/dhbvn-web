@@ -1,0 +1,5742 @@
+[
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "IND 66 KV AMBIANCE MALL",
+    "cin_14": "126211504AMBIA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND AMEX-2",
+    "cin_14": "126211393AMEX2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND ARALIAS CONDOWN",
+    "cin_14": "126211393ARALI"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND BLAIRE",
+    "cin_14": "126211393BLAIR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND CAMELLIAS ESTATE",
+    "cin_14": "126211393CAMEL"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND CARLTON ESTATE",
+    "cin_14": "126211393CARLT"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND CITY CLUB",
+    "cin_14": "126211393CTYCB"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND EWS ZONE-7",
+    "cin_14": "126211393ZONE7"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND EXCLUSIVE FLOOR",
+    "cin_14": "126211393XCLFL"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND FAIR LEAF HORIZON CENTER-1",
+    "cin_14": "126211393FLHC1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND GOLF COURSE",
+    "cin_14": "126211393GOLFC"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND HORIZON CENTER TWO",
+    "cin_14": "126211393HCTWO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND ICON",
+    "cin_14": "126211393ICON1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND MANGOLIA-I",
+    "cin_14": "126211393MANG1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND MANGOLIA-II",
+    "cin_14": "126211393MANG2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND PARK HEIGHT",
+    "cin_14": "126211393PRKHE"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND PARK TOWER",
+    "cin_14": "126211393PRKTO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND PINNACLE",
+    "cin_14": "126211393PINNA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND PRINCETON TOWER",
+    "cin_14": "126211393PRINC"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND SOUTH POINT MALL",
+    "cin_14": "126211393STPMA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND STP PH-V",
+    "cin_14": "126211393STP00"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND SUMMIT CONDOMINIUM",
+    "cin_14": "126211393SUMMT"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND THE CREST",
+    "cin_14": "126211393CREST"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND TRINITY TOWER",
+    "cin_14": "126211393TRINI"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND WELLINGTON ESTATE",
+    "cin_14": "126211393WELLI"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "IND WESTEND HEIGHT",
+    "cin_14": "126211393WESTD"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "PLOTTED AREA (U)",
+    "cin_14": "126211393PLOTT"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF PH-V",
+    "feeder_name": "S/STN 66 KV DLF PH-V",
+    "cin_14": "126211393SSTNT"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "B.P I & II (U)",
+    "cin_14": "126211271BP1N2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "BASEMENT (U)",
+    "cin_14": "126211271BASEM"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "CENTRAL ARCADE",
+    "cin_14": "126211271CENTA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "CORPORATE PARK PH-III (U)",
+    "cin_14": "126211271CORPO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "DLF PH - I (U)",
+    "cin_14": "126211271DLFP1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "DLF PH -II (U)",
+    "cin_14": "126211271DLFP2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "DLF PH -III (U)",
+    "cin_14": "126211271DLFP3"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "DLF T-BLOCK (U)",
+    "cin_14": "126211271DLFTB"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "GARDEN ESTATE (U)",
+    "cin_14": "126211271GARDE"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "GATEWAY TOWER (U)",
+    "cin_14": "126211271GATEW"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "GH FEEDER (U)",
+    "cin_14": "126211271DLFGH"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "HLF (U)",
+    "cin_14": "126211271HLF00"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "IND 66 KV RAPID METRO",
+    "cin_14": "126211271RAPID"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "IND ARTIA/DLF DEVELOPER",
+    "cin_14": "126211271ARITA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "IND CITY COURT",
+    "cin_14": "126211271CITYC"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "IND DLF DOWN TOWN BLOCK-II",
+    "cin_14": "126211271DDTB2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "IND DLF DOWN TOWN BLOCK-III",
+    "cin_14": "126211271DDBT3"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "IND EMAAR",
+    "cin_14": "126211271EMAAR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "IND EMAAR C.T 1&2",
+    "cin_14": "126211271EMR12"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "IND MGF METRO POLIS",
+    "cin_14": "126211271MGFME"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "IND PLATINA MALL",
+    "cin_14": "126211271PLATI"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "IND R.K.YADAV",
+    "cin_14": "126211271INDRK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "IND RENKON",
+    "cin_14": "126211271RNKON"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "IND VIRENDRA GR",
+    "cin_14": "126211271VRNGR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "JMD (U)",
+    "cin_14": "126211271JMD00"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "M.G. ROAD (U)",
+    "cin_14": "126211271INDMG"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "MA ROAD",
+    "cin_14": "126211271MAROD"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "METRO WALK",
+    "cin_14": "126211271MWALK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "NATHUPUR (U)",
+    "cin_14": "126211271NATHU"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "OAKWOOD (U)",
+    "cin_14": "126211271OAKWO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "OFFCO CHOWK (U)",
+    "cin_14": "126211271OFCWK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "RP -I & II & PH-IV (U)",
+    "cin_14": "126211271RP1N2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "S/STN DLF Q-BLOCK",
+    "cin_14": "126211271SUBST"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "SCP DLF N-BLOCK (U)",
+    "cin_14": "126211271DLFNB"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "SCP S-BLOCK-1 (U)",
+    "cin_14": "126211271SCPSB"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "SCP S-BLOCK-II (U)",
+    "cin_14": "126211271SCPS2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "SCP V-BLOCK (U)",
+    "cin_14": "126211271SCPVB"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "SIKENDERPUR (U)",
+    "cin_14": "126211271SIKEN"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "T&V BLOCK (U)",
+    "cin_14": "126211271TVBLK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DLF(Q-BLOCK)",
+    "feeder_name": "U-BLOCK (U)",
+    "cin_14": "126211271UBLOK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "N.M.C (U)",
+    "cin_14": "126211270NMC00"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "SCP HERITAGE (U)",
+    "cin_14": "126211270HARIT"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "A-BLOCK-I",
+    "cin_14": "126211292ABLK1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "A-BLOCK-II",
+    "cin_14": "126211292ABLK2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "B-BLOCK (U)",
+    "cin_14": "126211292BLOCK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "CHAKKERPUR (U)",
+    "cin_14": "126211292CHAKK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "CHANDER LOK",
+    "cin_14": "126211292CDLOK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "DLF PH-IV (U)",
+    "cin_14": "126211292DLFPH"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "HOUSING BOARD / A BLOCK EXTN. (U)",
+    "cin_14": "126211292HOBRD"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND 66 KV RAPID METRO",
+    "cin_14": "126211292RAPM2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND ACTIVE SECURITY",
+    "cin_14": "126211292ACTIV"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND AMBIANCE HOTEL",
+    "cin_14": "126211292INDAM"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND BRIGHT STAR",
+    "cin_14": "126211292INDBR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND DELHI SOUTH HOTEL",
+    "cin_14": "126211292DELSH"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND DHOOT DEVELOPERS",
+    "cin_14": "126211292INDDH"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND DLF GRAND MALL",
+    "cin_14": "126211292GRANT"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND HAMILTAN COURT",
+    "cin_14": "126211292HAMIL"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND JMD",
+    "cin_14": "126211292INDJM"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND MGF VILLA",
+    "cin_14": "126211292MGFVA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND S LOK ARK",
+    "cin_14": "126211292SLOKA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND SAHARA",
+    "cin_14": "126211292INDSA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND SAHARA MALL",
+    "cin_14": "126211292SAHAR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND SARV MANGALAM",
+    "cin_14": "126211292SARVM"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND UNITECH HOTEL",
+    "cin_14": "126211292INDUN"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND VATIKA CITY POINT",
+    "cin_14": "126211292VATIK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "JAINA MARKET",
+    "cin_14": "126211292JAINM"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "MARUTI VIHAR (U)",
+    "cin_14": "126211292MARUT"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "MAX HOSPITAL",
+    "cin_14": "126211292MHSTL"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "S.LOK-III (U)",
+    "cin_14": "126211292SLOK3"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "S/STN 66 KV SEC-28",
+    "cin_14": "126211292SUBST"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "SCP ASHOKA CRESCENT (U)",
+    "cin_14": "126211292DLFP1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "SCP GALLERIA (U)",
+    "cin_14": "126211292GALER"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "SCP SILVER OAK (U)",
+    "cin_14": "126211292SLOAK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "SEC-27 (U)",
+    "cin_14": "126211292SEC27"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "SECTOR-28",
+    "cin_14": "126211292SEC28"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "CLASSIC (U)",
+    "cin_14": "126211288CLASS"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "IND GURGAON CENTRE",
+    "cin_14": "126211288GURGA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "IND INDIAN AIR LINE-I&II",
+    "cin_14": "126211288INAIR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "NSR (U)",
+    "cin_14": "126211288NSR00"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "P. GRID SEC-44 (U)",
+    "cin_14": "126211288PGRID"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "SEC-43 (U)",
+    "cin_14": "126211288SEC43"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "TAJ ROAD (U)",
+    "cin_14": "126211288TAJRD"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "D-BLOCK",
+    "cin_14": "126211287DBLOK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "GOLD SOUK (U)",
+    "cin_14": "126211287GSOUK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "IND MEPAL HEIGHT",
+    "cin_14": "126211287MEPAL"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "IND ORCHID SQUARE",
+    "cin_14": "126211287INDOR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "IND PARAS HOSPITAL",
+    "cin_14": "126211287INDPA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "SCP LOTUS (U)",
+    "cin_14": "126211287LOTAS"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "SEC-43 (U)",
+    "cin_14": "126211287SEC43"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "SUJJAN VIHAR",
+    "cin_14": "126211287SUHAR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "SUSHANT LOK LL (U)",
+    "cin_14": "126211287SL002"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "SUSHANT LOK-L (U)",
+    "cin_14": "126211287SL001"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "VYAPAR KENDRA",
+    "cin_14": "126211287VYDRA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "WILINGTON ESTATE (U)",
+    "cin_14": "126211287WILIN"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "ARJUN MARG",
+    "cin_14": "126211297AMARG"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "DLF CKT-I (U)",
+    "cin_14": "126211297DLFC1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "DLF CKT-II (U)",
+    "cin_14": "126211297DLFC2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "F-BLOCK",
+    "cin_14": "126211297FBLOK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "GOLF COURSE",
+    "cin_14": "126211297GOLFC"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "IND AMBIENCE SCHOOL",
+    "cin_14": "126211297ASCOL"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "IND D.D. RESORT",
+    "cin_14": "126211297DDRES"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "IND GULAB FARM",
+    "cin_14": "126211297INDGU"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "IND HANS HOTEL",
+    "cin_14": "126211297HANSH"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "IND ICON",
+    "cin_14": "126211297ICON0"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "IND NEELKANTH",
+    "cin_14": "126211297NEEKH"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "IND PALAM SPRING PLAZA",
+    "cin_14": "126211297PASPP"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "IND ROOP RAM",
+    "cin_14": "126211297ROOPR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "PLAZA TOWER (U)",
+    "cin_14": "126211297PLAZA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "SCP DLF PHASE-I EXTEN. (U)",
+    "cin_14": "126211297INDPH"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "SCP JAIN MANDIR (U)",
+    "cin_14": "126211297JAINM"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "SCP SECTOR-27 (U)",
+    "cin_14": "126211297SEC27"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "SCP SECTOR-43 (U)",
+    "cin_14": "126211297SEC43"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "SCP SUPER MART (U)",
+    "cin_14": "126211297SMART"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "SECTOR-42",
+    "cin_14": "126211297SEC42"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "SUMMIT (U)",
+    "cin_14": "126211297SUMMI"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "DLF",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "SUSHANT LOK-II (U)",
+    "cin_14": "126211297SUSHA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "BORDER",
+    "cin_14": "126241504BORDR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "COCA-COLA",
+    "cin_14": "126241504CCOLA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "DHL",
+    "cin_14": "126241504PBABA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "DUNDAHERA-I",
+    "cin_14": "126241504DHRA1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "GURGAON RECREATION",
+    "cin_14": "126241504GURGR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "HARTRON",
+    "cin_14": "126241504HARTR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "HSIDC-I",
+    "cin_14": "126241504HSDC1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "HSIDC-II",
+    "cin_14": "126241504HSDC2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "HSIDC-III",
+    "cin_14": "126241504HSDC3"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "IND 66 KV CYBER PARK PHASE-II",
+    "cin_14": "126241504CYPP2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "IND 66 KV DLF CYBER PARK",
+    "cin_14": "126241504CYBER"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "IND 66 KV INFOSPACE",
+    "cin_14": "126241504INFOS"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "IND HERITAGE",
+    "cin_14": "126241504HERIT"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "IND KHAJRANA GANESH",
+    "cin_14": "126241504GANES"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "IND VODAFONE",
+    "cin_14": "126241504VODAF"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "LOGWELL",
+    "cin_14": "126241504LOGWL"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "POLY PACK",
+    "cin_14": "126241504PPACK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "ROLTA TOWER",
+    "cin_14": "126241504ROLTA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "S/STN 220/66 KV SECTOR-20",
+    "cin_14": "126241504SUBST"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "SURYA VIHAR-I",
+    "cin_14": "126241504SVIH1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "UDYOG VIHAR-I",
+    "cin_14": "126241504UVIH1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "UDYOG VIHAR-II",
+    "cin_14": "126241504UVIH2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "UDYOG VIHAR-III",
+    "cin_14": "126241504UDYG3"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "VILLAGE (U)",
+    "cin_14": "126241504GRPIN"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "220 KV SECTOR-20",
+    "feeder_name": "WIPRO",
+    "cin_14": "126241504WIPRO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "BECTAL",
+    "cin_14": "126241270BECTA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "CANTON",
+    "cin_14": "126241270CATON"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "GURGAON RECREATION",
+    "cin_14": "126241270INDGU"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "HSIDC - I",
+    "cin_14": "126241270HSDC1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "HSIDC - II",
+    "cin_14": "126241270HSDC2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "HSIDC - III",
+    "cin_14": "126241270HSDC3"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "HSIDC- IV",
+    "cin_14": "126241270HSID4"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "HSIDC-V CKT-I",
+    "cin_14": "126241270HSID5"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "IDPL",
+    "cin_14": "126241270IDPL0"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "INCOME TAX",
+    "cin_14": "126241270INCOM"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "IND CABINET SECTT.",
+    "cin_14": "126241270INDCA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "IND HARTRON",
+    "cin_14": "126241270HARTR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "IND JAN SEVA",
+    "cin_14": "126241270INDJA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "IND MACHINO PLASTIC",
+    "cin_14": "126241270MACHI"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "IND NILE TECH",
+    "cin_14": "126241270INDNI"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "IND ORBIT RESORT",
+    "cin_14": "126241270INORB"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "IND ORBIT RESORT-II",
+    "cin_14": "126241270INDOR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "IND RANBAXY",
+    "cin_14": "126241270INDRA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "IND VITAL CONST.",
+    "cin_14": "126241270VITAL"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "IND VODAFONE",
+    "cin_14": "126241270VODAF"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "INFOTECH",
+    "cin_14": "126241270INFOT"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "JAWA",
+    "cin_14": "126241270JAWA0"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "S/STN 66 KV DUNDAHERA",
+    "cin_14": "126241270SUBST"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "SECTOR-18",
+    "cin_14": "126241270SECTO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "SECTOR-18 - I",
+    "cin_14": "126241270SE181"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "UDYOG VIHAR - III",
+    "cin_14": "126241270UDYO3"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "UDYOG VIHAR -II",
+    "cin_14": "126241270UDYO1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "UDYOG VIHAR PH-IV",
+    "cin_14": "126241270UDYG4"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "UDYOG VIHAR PH-V",
+    "cin_14": "126241270UDYG5"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "VANIJYA NIKUNJ - I",
+    "cin_14": "126241270VANI1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV DUNDAHERA",
+    "feeder_name": "VANIJYA NIKUNJ - II",
+    "cin_14": "126241270VANI2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "DELHI ROAD (U)",
+    "cin_14": "126241273DELHI"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "HOUSING BOARD",
+    "cin_14": "126241273HBARD"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "IND MARUTI UDYOG CKT-2",
+    "cin_14": "126241273MARC2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "IND SHRI FND.",
+    "cin_14": "126241273INSSH"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "MICROWAVE (U)",
+    "cin_14": "126241273MICRW"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "OLD DLF (U)",
+    "cin_14": "126241273OLDLF"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "PREM NAGAR (U)",
+    "cin_14": "126241273PREMN"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "SEC-14 M/ROAD (U)",
+    "cin_14": "126241273SEC14"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "SEC-17 M/ROAD (U)",
+    "cin_14": "126241273SEC17"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "SECTOR-14-1",
+    "cin_14": "12624127314SEC"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV M/ ROAD",
+    "feeder_name": "SECTOR-17 MARKET (U)",
+    "cin_14": "126241273SE17M"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "DISPOSAL",
+    "cin_14": "126241267DISMA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "ELECTRONIC CITY",
+    "cin_14": "126241267ELECT"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "HSIDC - I 66 KV MARUTI",
+    "cin_14": "126241267HSID1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "HSIDC - II 66 KV MARUTI",
+    "cin_14": "126241267HSID2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "HSIDC - III 66 KV MARUTI",
+    "cin_14": "126241267HSID3"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "HSIDC - IV",
+    "cin_14": "126241267HSDC4"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "IFFCO (U)",
+    "cin_14": "126241267IFFCO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "IND 66 KV M/S MARUTI UDYOG LTD CKT-1",
+    "cin_14": "126241267MARC1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "IND AIRCEL",
+    "cin_14": "126241267INDAI"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "IND JAGJEET",
+    "cin_14": "126241267INDJA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "IND LUMAX",
+    "cin_14": "126241267LUMAX"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "IND M.E.S MARUTI",
+    "cin_14": "126241267INDME"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "IND MUNJAL SHOWA",
+    "cin_14": "126241267INDMU"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "J.M.MORE",
+    "cin_14": "126241267JMMOR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "POTASH",
+    "cin_14": "126241267POTAS"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "RAJIV NAGAR (U)",
+    "cin_14": "126241267RAJIV"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "S/STN MARUTI",
+    "cin_14": "126241267SUBST"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "S/STN MARUTI-II",
+    "cin_14": "126241267SUBS2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "SECTOR-18-II",
+    "cin_14": "126241267SECTO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "SHIV VIHAR (U)",
+    "cin_14": "126241267SHIVN"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "SIRHOL (U)",
+    "cin_14": "126241267SIRHO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "SIRHOL-II (U)",
+    "cin_14": "126241267SIRH2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV MARUTI",
+    "feeder_name": "WEPCOS",
+    "cin_14": "126241267WEPCO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "D/HERA-I",
+    "cin_14": "126241272DHERA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "DUNDAHERA - I",
+    "cin_14": "126241272DUND1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "DUNDAHERA - II",
+    "cin_14": "126241272DUND2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "E/CITY",
+    "cin_14": "126241272ECITY"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "HUDA (U)",
+    "cin_14": "126241272HUDA0"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "IND A&A",
+    "cin_14": "126241272ROLTA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "IND CONTON MARKETING",
+    "cin_14": "126241272CONTO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "IND DEEPAK KUMAR",
+    "cin_14": "126241272INDDE"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "IND GUPTA DEVELOPERS",
+    "cin_14": "126241272GUPTA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "IND IST",
+    "cin_14": "126241272INDIS"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "IND IST - II",
+    "cin_14": "126241272IST02"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "IND K/GANESH",
+    "cin_14": "126241272INDKG"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "IND SCP MANSAROVAR",
+    "cin_14": "126241272INDMA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "POTASH - I",
+    "cin_14": "126241272POTAS"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "S/STN - I SEC-23-A",
+    "cin_14": "126241272SUBS1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "S/STN-II SEC-23-A",
+    "cin_14": "126241272SUBS2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "SCP AYAPPA MANDIR (U)",
+    "cin_14": "126241272AYAPA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "SCP EAST POCKET (U)",
+    "cin_14": "126241272EPOKT"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "SCP J.M.MORE (U)",
+    "cin_14": "126241272JMMRE"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "SCP PARK (U)",
+    "cin_14": "126241272PARKU"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "SCP SECTOR- 21 (U)",
+    "cin_14": "126241272SE21N"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "SCP SECTOR-22 A (U)",
+    "cin_14": "126241272SEC22"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "SCP SECTOR-22 B (U)",
+    "cin_14": "126241272SE22B"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "SCP SECTOR-22 MARKET (U)",
+    "cin_14": "126241272SE22M"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "SCP SECTOR-23 A (U)",
+    "cin_14": "126241272SE23A"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "SCP SECTOR-23 MARKET (U)",
+    "cin_14": "126241272SE23M"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "SCP SHAKTI MANDIR (U)",
+    "cin_14": "126241272SHAKT"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "SCP STUD FARM (U)",
+    "cin_14": "126241272SFARM"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "SCP SWISS COTTAGE (U)",
+    "cin_14": "126241272SWISS"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "SCP WEST ZONE (U)",
+    "cin_14": "126241272WZONE"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "SURYA VIHAR-I",
+    "cin_14": "126241272S/V-1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "SURYA VIHAR-II",
+    "cin_14": "126241272SURYA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "DELHI ROAD",
+    "cin_14": "126241296DHIRD"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "HOT T/F (U)",
+    "cin_14": "126241296HOTTF"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SCP SECTOR-17-A (U)",
+    "cin_14": "126241296SE17A"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SCP SECTOR-17-C (U)",
+    "cin_14": "126241296SE17C"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SCP SUKHRALI (U)",
+    "cin_14": "126241296SURAL"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SECTOR-14 MARKET (U)",
+    "cin_14": "126241296MKT14"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SECTOR-14-I (U)",
+    "cin_14": "126241296SE14A"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SECTOR-14-II (U)",
+    "cin_14": "126241296SE14B"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SECTOR-17-II (U)",
+    "cin_14": "126241296SE17B"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "B-BLOCK (U)",
+    "cin_14": "126241295BLOCK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "CHOMA (U)",
+    "cin_14": "126241295CHOMA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "DHARAM COLONY (U)",
+    "cin_14": "126241295DHARA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "G-BLOCK (U)",
+    "cin_14": "126241295GBLOK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "HUDA- I (U)",
+    "cin_14": "126241295HUDA1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "IND ANSAL INFRASTRUCTURE",
+    "cin_14": "126241295ANSAL"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "IND ANSAL PLAZA",
+    "cin_14": "126241295INDAN"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "IND BESTECH",
+    "cin_14": "126241295INDBE"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "IND CELEBRITY HOME",
+    "cin_14": "126241295INDCE"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "J-BLOCK (U)",
+    "cin_14": "126241295JBLOK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "PALAM VIHAR - V (U)",
+    "cin_14": "126241295PVIH5"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "PALAM VIHAR-I (U)",
+    "cin_14": "126241295PVIH1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "PALAM VIHAR-II (U)",
+    "cin_14": "126241295PVIH2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "PALAM VIHAR-III (U)",
+    "cin_14": "126241295PVIH3"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "S/STN 66 KV SECTOR-2",
+    "cin_14": "126241295SUBST"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "SCP C-2 BLOCK (U)",
+    "cin_14": "126241295SCPC2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "MARUTI",
+    "ss_name": "66 KV SECTOR-2",
+    "feeder_name": "SCP CARTERPURI (U)",
+    "cin_14": "126241295KARTE"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-23",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "IND AMBIENCE CREATION",
+    "cin_14": "126231272ABNCN"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-23",
+    "ss_name": "66 KV SEC- 23 A",
+    "feeder_name": "PHASE-IV & V (U)",
+    "cin_14": "126231272PIV&V"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-31",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "IND PERFECT MGT.",
+    "cin_14": "126251288PRMGT"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-31",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "NATIONAL HIGHWAY (U)",
+    "cin_14": "126251288NHWAY"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-31",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND DLF (IBM STAR MALL)",
+    "cin_14": "126251293SMDLF"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-31",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND DLF SEZ TOWER-A",
+    "cin_14": "126251293SEZTA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-31",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND DLF SEZ TOWER-B",
+    "cin_14": "126251293SEZTB"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-31",
+    "ss_name": "66 KV SECTOR-46 GRUGRAM",
+    "feeder_name": "SCP LAW COLLEGE (U)",
+    "cin_14": "126251639LAWGE"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-31",
+    "ss_name": "66 KV SECTOR-46 GRUGRAM",
+    "feeder_name": "SCP SEC-40 MARKET (U)",
+    "cin_14": "126251639MKT40"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-31",
+    "ss_name": "66 KV SECTOR-46 GRUGRAM",
+    "feeder_name": "SCP SECTOR-40-2 (U)",
+    "cin_14": "126251639SEC40"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-56",
+    "ss_name": "220 KV SECTOR-57",
+    "feeder_name": "IND 33 KV SUN CITY TOWNSHIP",
+    "cin_14": "126721551SCTSP"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-56",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "SECTOR-57 II (U)",
+    "cin_14": "12672130157SC2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-56",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "SUSHANT LOK-III (U)",
+    "cin_14": "126721301SLOK3"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-56",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "IBIS (U)",
+    "cin_14": "126721297IBISU"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-56",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "MEPPAL HEIGHTS (U)",
+    "cin_14": "126721297MPLHT"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-56",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "ORCHID GARDEN (U)",
+    "cin_14": "126721297ORGDN"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SECTOR-56",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "PARSAVNATH (U)",
+    "cin_14": "126721297PRVTH"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "A.E.P.E./ARTIMIS (U)",
+    "cin_14": "126261288AEPEA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "DPDO (U)",
+    "cin_14": "126261288DPDOU"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "GREEN WOOD CITY (U)",
+    "cin_14": "126261288GREEN"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "GYMKHANA (U)",
+    "cin_14": "126261288GYMKH"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "IND E2E SOUTH",
+    "cin_14": "126261288E2ESO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "IND FORTIS HOSPITAL & J&K BANK",
+    "cin_14": "126261288FORTI"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "IND GREAT INDIA NAUTANKI COMPANY",
+    "cin_14": "126261288INDGI"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "IND HYUNDAI MOTORS",
+    "cin_14": "126261288HYUND"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "IND I.R.A.L",
+    "cin_14": "126261288IRAL0"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "IND MANGLAM SCHOOL",
+    "cin_14": "126261288INDMA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "IND PARK CENTRA-III",
+    "cin_14": "126261288PARKC"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "IND TAJ HOTEL",
+    "cin_14": "126261288TAJHO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "IND UNITECH TRADE CENTRE",
+    "cin_14": "126261288UNECH"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "IND UNIWARD",
+    "cin_14": "126261288UNIWA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "IND UTBP",
+    "cin_14": "126261288UTBP0"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "IND VATIKA",
+    "cin_14": "126261288INDVA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "IRIS (U)",
+    "cin_14": "126261288IRISU"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "LEISURE VALLEY (U)",
+    "cin_14": "126261288VALEY"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "LIC (U)",
+    "cin_14": "126261288LICUR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "MARKET ROAD (U)",
+    "cin_14": "126261288MKTRD"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "NH-8 (U)",
+    "cin_14": "126261288NH008"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "PERIPHERAL (U)",
+    "cin_14": "126261288PRHAL"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "RITES +SECT-29 (U)",
+    "cin_14": "126261288RITES"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "S/STN SEC-44",
+    "cin_14": "126261288SUBST"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "SCP CENTRAL PARK (U)",
+    "cin_14": "126261288SCPCP"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "SECT-44/45 (U)",
+    "cin_14": "126261288SEC44"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "SOUTH CITY-II (U)",
+    "cin_14": "126261288SOUTH"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-44",
+    "feeder_name": "UNITECH HOUSE (U)",
+    "cin_14": "126261288UNITE"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "BAKHTAWAR CHOWK (U)",
+    "cin_14": "126261301BKWCK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "BLOSSOM-II (U)",
+    "cin_14": "126261301BLOSS"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "C-BLOCK (U)",
+    "cin_14": "126261301CBLOC"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "C-BLOCK (U)",
+    "cin_14": "126261301CBLOK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "D-BLOCK(U)",
+    "cin_14": "126261301DBLOK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "DLF OFFICE (U)",
+    "cin_14": "126261301DLFOF"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "IND ALOHA",
+    "cin_14": "126261301ALOHA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "IND ARTIMIS",
+    "cin_14": "126261301ARTIM"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "IND BAANI",
+    "cin_14": "126261301INDBA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "IND COUNTRY WIDE",
+    "cin_14": "126261301CUNTY"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "IND HUDA WATER SUPPLY SECTOR-51",
+    "cin_14": "126261301WAT51"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "IND ORCHID LAND",
+    "cin_14": "126261301ORCHI"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "IND PRAKASH INFRASTRUCTURE",
+    "cin_14": "126261301PRAKH"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "JALVAYU VIHAR (U)",
+    "cin_14": "126261301JLVYU"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "M/GARDEN (U)",
+    "cin_14": "126261301MGARD"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "N-BLOCK (U)",
+    "cin_14": "126261301NBLOK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "RAIL VIHAR (U)",
+    "cin_14": "126261301RAHAR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "S/STN 66 KV SEC-51",
+    "cin_14": "126261301SUBST"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "SAMASPUR (U)",
+    "cin_14": "126261301SAMAS"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "SEC-45-II (U)",
+    "cin_14": "126261301S45II"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "SEC-46 MANDIR (U)",
+    "cin_14": "126261301S46MA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "SEC-57 (U)",
+    "cin_14": "126261301SEC57"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "TIGRA (U)",
+    "cin_14": "126261301TIGRA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "WAZIRABAD (U)",
+    "cin_14": "126261301WAZIR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "ARDEE CITY RESIDENCY (U)",
+    "cin_14": "126261287RDCTY"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "IND 66 KV DLF PHASE-3",
+    "cin_14": "126261287DLFP3"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "IND 66 KV DMRC CKT-I",
+    "cin_14": "126261287DMRC1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "IND 66 KV DMRC CKT-II",
+    "cin_14": "126261287DMRC2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "IND ARDEE CITY",
+    "cin_14": "126261287INDAR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "IND ARDEE MALL",
+    "cin_14": "126261287AMALL"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "IND PALM HEIGHT",
+    "cin_14": "126261287PALMH"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "IND RAIL TEL",
+    "cin_14": "126261287RATED"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "IND SUNVISION",
+    "cin_14": "126261287SUNVN"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "IND SUSHANT ESTATE",
+    "cin_14": "126261287INDSU"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "NAI KI DHANI (U)",
+    "cin_14": "126261287NAIKI"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "RAMADE (U)",
+    "cin_14": "126261287RAMAD"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "RIDER HOUSE (U)",
+    "cin_14": "126261287RDERH"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "S/STN-1 SEC-52",
+    "cin_14": "126261287SUBS1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "S/STN-II SEC-52",
+    "cin_14": "126261287SUBS2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "SEC-46 (U)",
+    "cin_14": "126261287SEC46"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "SECTOR-45 (U)",
+    "cin_14": "126261287SE45U"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-52",
+    "feeder_name": "WAZIRABAD-III (U)",
+    "cin_14": "126261287WAZI3"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "BALIYAWAS-I (U)",
+    "cin_14": "126261283BALI1"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "BALIYAWAS-II AP",
+    "cin_14": "126261283BALI2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "DIVYA SOCIETY (U)",
+    "cin_14": "126261283DIVYA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "GAWAL PAHARI (U)",
+    "cin_14": "126261283GAWAL"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "GHATA (U)",
+    "cin_14": "126261283GHATA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "HUDA MARKET (U)",
+    "cin_14": "126261283HUDAM"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND 66 KV RAPID METRO",
+    "cin_14": "126261283RAPIM"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND AIT",
+    "cin_14": "126261283AIT00"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND B.S.F.",
+    "cin_14": "126261283BSF00"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND BALPRADA HOTELS",
+    "cin_14": "126261283INDBA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND CONTON BUILDWELL",
+    "cin_14": "126261283INDCO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND FANTASY BUILDWELL",
+    "cin_14": "126261283FNTSY"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND JASMINE BUILDMART",
+    "cin_14": "126261283JSMIN"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND NORTH WEST HEALTH CARE",
+    "cin_14": "126261283NRTHW"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND ORCHID CENTRE",
+    "cin_14": "126261283ORCEN"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND PARAS BUILDTECH",
+    "cin_14": "126261283PARAS"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND PARAS TWIN TOWER",
+    "cin_14": "126261283INDPA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND SHALLON HILLS",
+    "cin_14": "126261283SHALO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND SM TOWER",
+    "cin_14": "126261283SMTOW"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND SOLAR",
+    "cin_14": "126261283SOLAR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND SUN CITY HEIGHT",
+    "cin_14": "126261283INDSU"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND UDDHAR GAGAN",
+    "cin_14": "126261283UDDGA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "K/VIHAR (U)",
+    "cin_14": "126261283KVIH2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "MEPPAL HEIGHTS (U)",
+    "cin_14": "126261283MEPPA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "ORCHID GARDEN (U)",
+    "cin_14": "126261283ORGAR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "S/LOK-II (U)",
+    "cin_14": "126261283SLOK2"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "S/LOK-III (U)",
+    "cin_14": "126261283SLOK3"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "S/STN SEC-56 LT MAIN",
+    "cin_14": "126261283SUBST"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "SARASWATI KUNJ (U)",
+    "cin_14": "126261283SARAS"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "SEC-56 (U)",
+    "cin_14": "126261283SEC56"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "SUN CITY (U)",
+    "cin_14": "126261283SUNCI"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "TULIP GARDEN (U)",
+    "cin_14": "126261283TULIP"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "C.R-2 (U)",
+    "cin_14": "126261293CR200"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "CHOTTU RAM (U)",
+    "cin_14": "126261293CHOTT"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "GOVT. EMPLOYEE SOCIETY (U)",
+    "cin_14": "126261293INDGO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND IRCON LTD.",
+    "cin_14": "126261293IRCON"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND SCP CYBER PARK- A&B",
+    "cin_14": "126261293CYBAB"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND SCP CYBER PARK- C",
+    "cin_14": "126261293CYBER"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND SCP CYBER PARK-D&E",
+    "cin_14": "126261293CYBDE"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "JHARSA (U)",
+    "cin_14": "126261293JHARS"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "JHARSA ROAD",
+    "cin_14": "126261293JRARD"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "S/STN 66 KV SECT-38",
+    "cin_14": "126261293SUBST"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SCP FOCUS (U)",
+    "cin_14": "126261293SCPFO"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SCP IFFCO (U)",
+    "cin_14": "126261293SCPIF"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SCP JSL (U)",
+    "cin_14": "126261293SCPJS"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SCP LAW COLLEGE (U)",
+    "cin_14": "126261293SCPLC"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SCP OBC (U)",
+    "cin_14": "126261293SCPOB"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SCP SECTOR-32 MARKET (U)",
+    "cin_14": "126261293HUS38"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SCP SECTOR-40 MARKET (U)",
+    "cin_14": "126261293SCP4M"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SCP SECTOR-40-I (U)",
+    "cin_14": "126261293SCP40"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SCP SECTOR-40-II (U)",
+    "cin_14": "126261293SCP4B"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SCP TCI (U)",
+    "cin_14": "126261293SCPTC"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SCP WATER WORKS (U)",
+    "cin_14": "126261293SCPWW"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SECT-31 (U)",
+    "cin_14": "126261293SEC31"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SECTOR 39",
+    "cin_14": "126261293SEC39"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SECTOR-38 (U)",
+    "cin_14": "126261293SEC38"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SECTOR-40 (U)",
+    "cin_14": "126261293SEC40"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "VATIKA BUSINESS PARK (U)",
+    "cin_14": "126261293VATIK"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "JALVAYU VIHAR (U)",
+    "cin_14": "126261296JALVA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SCP BARMALT (U)",
+    "cin_14": "126261296INDBA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SCP GHS (U)",
+    "cin_14": "126261296SCPGH"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SCP HSIIDC (U)",
+    "cin_14": "126261296SCPHS"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SCP JALVAYU VIHAR (U)",
+    "cin_14": "126261296SCPJV"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SCP RAHEJA (U)",
+    "cin_14": "126261296SCPRA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SCP SECTOR-30 (U)",
+    "cin_14": "126261296SCP30"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SCP SECTOR-31-I (U)",
+    "cin_14": "126261296SCP3A"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SCP SECTOR-31-II (U)",
+    "cin_14": "126261296SCP3B"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SCP SECTOR-31-MARKET (U)",
+    "cin_14": "126261296SCP3M"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SCP SECTOR-32 (U)",
+    "cin_14": "126261296SCPST"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SCP SECTOR-32-I (U)",
+    "cin_14": "126261296SCP32"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SCP SECTOR-32-II (U)",
+    "cin_14": "126261296SEC32"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SECTOR-30 (U)",
+    "cin_14": "126261296SEC30"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-15-II",
+    "feeder_name": "SILOKHERA (U)",
+    "cin_14": "126261296SPAIR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "GENPACT (U)",
+    "cin_14": "126261297GENPT"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "IND HARYANA ORCHID",
+    "cin_14": "126261297INDHA"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "IND PALAM SPRING",
+    "cin_14": "126261297PALAM"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "IND PURI CONS.",
+    "cin_14": "126261297INDPU"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "IND UDDAR GAGAN",
+    "cin_14": "126261297UDDAR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "S/STN 66 KV SECTOR-43",
+    "cin_14": "126261297SUBST"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-46 GRUGRAM",
+    "feeder_name": "BAKHTAWAR CHOWK (U)",
+    "cin_14": "126261639BKTWR"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-46 GRUGRAM",
+    "feeder_name": "DLF OFFICE (U)",
+    "cin_14": "126261639DLFOF"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-46 GRUGRAM",
+    "feeder_name": "HUDA MARKET FEEDER SEC-46 (U)",
+    "cin_14": "126261639HDAMF"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-46 GRUGRAM",
+    "feeder_name": "POWER GRID (SEC.46)",
+    "cin_14": "126261639PGRID"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-46 GRUGRAM",
+    "feeder_name": "S/STN. SECTOR-46 GRUGRAM",
+    "cin_14": "126261639SUBST"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-46 GRUGRAM",
+    "feeder_name": "SCP-JALVAYU VIHAR (U)",
+    "cin_14": "126261639JAVYU"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-46 GRUGRAM",
+    "feeder_name": "SECTOR 46 MANDIR (U)",
+    "cin_14": "126261639SEC46"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECTOR-46 GRUGRAM",
+    "feeder_name": "SECTOR-46 (U)",
+    "cin_14": "126261639SEC46"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SUSHANT LOK",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "IND ASTHETIC",
+    "cin_14": "126841292ASTHC"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SUSHANT LOK",
+    "ss_name": "66 KV SEC-28",
+    "feeder_name": "MARUTI VIHAR COLONY (U)",
+    "cin_14": "126841292MRUVC"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SUSHANT LOK",
+    "ss_name": "66 KV SECTOR-43",
+    "feeder_name": "IND MUNJAL HOSPITALITY",
+    "cin_14": "126841297MNLHT"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-57",
+    "feeder_name": "IND 33 KV EMAAR MGF SEC-65",
+    "cin_14": "126531551MRMGF"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-57",
+    "feeder_name": "IND 33 KV ITPG DEVELOPER",
+    "cin_14": "126531551ITPGD"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-57",
+    "feeder_name": "IND 33 KV NOVA",
+    "cin_14": "126531551INOVA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-57",
+    "feeder_name": "IND 33 KV PIONEER RESIDENTIAL",
+    "cin_14": "126531551PONER"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-57",
+    "feeder_name": "S\\STN.220 KV SECTOR-57",
+    "cin_14": "126531551SUBST"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-65",
+    "feeder_name": "IND 33 KV AIPL (GUPTA PROMOTERS)",
+    "cin_14": "126531576AIPLG"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-65",
+    "feeder_name": "IND 33 KV EMAAR MGF",
+    "cin_14": "126531576ERMGF"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-65",
+    "feeder_name": "IND 33 KV IRECO-3",
+    "cin_14": "126531576IREC3"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-65",
+    "feeder_name": "IND 33 KV MANGLAM",
+    "cin_14": "126531576MANGL"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-65",
+    "feeder_name": "IND 33 KV MIKADO",
+    "cin_14": "126531576MIKAD"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-65",
+    "feeder_name": "D 33 KV MOUNT ROYAL EDUCATION SOCIAT",
+    "cin_14": "126531576MRES1"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-65",
+    "feeder_name": "D 33 KV MOUNT ROYAL EDUCATION SOCIAT",
+    "cin_14": "126531576MRES2"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-65",
+    "feeder_name": "IND 33 KV PRAJAKTA COLONISER",
+    "cin_14": "126531576PRJKA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-65",
+    "feeder_name": "IND 33 KV REACH PROMOTORS",
+    "cin_14": "126531576REACH"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-65",
+    "feeder_name": "S\\ STN. 220 KV SECTOR-65",
+    "cin_14": "126531576SUBST"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV HAAMID",
+    "cin_14": "126531308HAMID"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV PALM DRIVE",
+    "cin_14": "126531308PALMD"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV PALM SQUARE",
+    "cin_14": "126531308PALMS"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV RED PARK (SWITCHING STATION)",
+    "cin_14": "126531308RPARK"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV TULIP ORANGE",
+    "cin_14": "126531308TULIO"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV TULIP WHITE",
+    "cin_14": "126531308TULIW"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "ANSAL (U)",
+    "cin_14": "126531269ANSAU"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "B.S.F/MODERN JAIL COMPLEX (U)",
+    "cin_14": "126531269INDBS"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "BADSHAHPUR-I (U)",
+    "cin_14": "126531269BADSH"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "BSF (U)",
+    "cin_14": "126531269BSFMU"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "DARBARIPUR DS",
+    "cin_14": "126531269DARDS"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "DOLPHIN",
+    "cin_14": "126531269DLPHN"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "GAIRATPUR BASS DS",
+    "cin_14": "126531269GBASS"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "GHAMROJ AP",
+    "cin_14": "126531269GHAMJ"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "IND COUNTRYWIDE",
+    "cin_14": "126531269IBPTP"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "IND DR. FRESH",
+    "cin_14": "126531269INDDR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "IND GPL",
+    "cin_14": "126531269GPLND"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "IND HI TEMP",
+    "cin_14": "126531269HTEMP"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "IND SANDHAR",
+    "cin_14": "126531269SANDR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "IND SARLA HOLDING PVT. LTD",
+    "cin_14": "126531269SARLA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "KADARPUR (U)",
+    "cin_14": "126531269KADAR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "KRISHAN KUNJ DS",
+    "cin_14": "126531269KKUNJ"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "MARUTI KUNJ (U)",
+    "cin_14": "126531269INDMA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "MEDAWAS AP",
+    "cin_14": "126531269MEDAW"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "NAYAGAON DS",
+    "cin_14": "126531269BHOND"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "NOORPUR (U)",
+    "cin_14": "126531269NRPUR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "OZONE",
+    "cin_14": "126531269OZONE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "P RAJ BHONDSI DS",
+    "cin_14": "126531269PRAJB"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "PALRA AP",
+    "cin_14": "126531269PALRA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "PUBLIC HEALTH +HSIDC DS",
+    "cin_14": "126531269PUBLH"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "RAMGARH (U)",
+    "cin_14": "126531269RAMGA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "RITHOJ DS",
+    "cin_14": "126531269RHJAP"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "S/STN+COLONY (U) 66 KV B/ PUR",
+    "cin_14": "126531269SUBST"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "SAKATPUR DHANI DS",
+    "cin_14": "126531269SKTPR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "SAKATPUR DS",
+    "cin_14": "126531269SKTPR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "SEHJAWAS AP",
+    "cin_14": "126531269SEHJA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "SNEHA VIHAR DS",
+    "cin_14": "126531269SNAHR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "TEEKLI DS",
+    "cin_14": "126531269TEEKL"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "IND AFRASH",
+    "cin_14": "126531301AFRAS"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "IND PRAJAKTA COLONIZER",
+    "cin_14": "126531301PRAJA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "IND SPAZE TOWER",
+    "cin_14": "126531301SPAZE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "RAMGARH (U)",
+    "cin_14": "126531301RMGAH"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "CRPF (U)",
+    "cin_14": "126531283CRPF0"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND BESTECH",
+    "cin_14": "126531283BESTH"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND PIONEER",
+    "cin_14": "126531283PIONE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND PIONEER URBAN-II",
+    "cin_14": "126531283PION2"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND SPLENDER",
+    "cin_14": "126531283SENDR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND SPLENDER LAND BASE",
+    "cin_14": "126531283SPLEN"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND STANDARD FARMS",
+    "cin_14": "126531283INDST"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND SU ESTATE",
+    "cin_14": "126531283SUES1"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND SU ESTATE - II",
+    "cin_14": "126531283SUES2"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND VATIKA P.P",
+    "cin_14": "126531283INDVA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "RAIL VIHAR (U)",
+    "cin_14": "126531283RAILV"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "SHANI DEV (U)",
+    "cin_14": "126531283SHANI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "ULLAWAS (U)",
+    "cin_14": "126531283ULLAW"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV INDRI",
+    "feeder_name": "IND INDRI POLYTECHNIC COLLEGE",
+    "cin_14": "126521349POLYT"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV INDRI",
+    "feeder_name": "S/STN. 33 KV INDRI",
+    "cin_14": "126521349SUBST"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "HIRMATHLA DS",
+    "cin_14": "126521263HIRMA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "IND ALT BATTERY",
+    "cin_14": "126521263ALTBT"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "IND ANJANI POLYTECH",
+    "cin_14": "126521263ANJNI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "IND CHETAK GEAR",
+    "cin_14": "126521263CGEAR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "IND OK PLAY",
+    "cin_14": "126521263OKPLY"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "IND P/H BADKA ALEMUDEEN",
+    "cin_14": "126521263INDPH"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "IND PRECISION TECH.",
+    "cin_14": "126521263PRECI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "IND ROOP AUTOMOTIVES",
+    "cin_14": "126521263RPATM"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "IND ROOP POLYMER",
+    "cin_14": "126521263RPPYM"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "IND STARLIT",
+    "cin_14": "126521263START"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "IND VK MOTOR",
+    "cin_14": "126521263VKMTR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "IND. -II",
+    "cin_14": "126521263INDL2"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "IND. -III",
+    "cin_14": "126521263INDL3"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "INDL.- I",
+    "cin_14": "126521263INDL1"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "INDRI CRUSHER ZONE",
+    "cin_14": "126521263INDCR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "KANWARSIKA AP",
+    "cin_14": "126521263KAMAR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "KHORI BASAI DS",
+    "cin_14": "126521263KHRDS"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "PUMP PRECISION",
+    "cin_14": "126521263PUMPP"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "ROJKA MEO DS",
+    "cin_14": "126521263ROJKA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV ROJKA MEO",
+    "feeder_name": "S/STN ROJKA MEO",
+    "cin_14": "126521263SUBST"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV SILANI",
+    "feeder_name": "KALIYAKA DS",
+    "cin_14": "126521633KYAKA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV SILANI",
+    "feeder_name": "S/STN. SILANI",
+    "cin_14": "126521633SUBST"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "33 KV SILANI",
+    "feeder_name": "SILANI DS",
+    "cin_14": "126521633SLANI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV NIMOTH",
+    "feeder_name": "CHAMANPURA DS",
+    "cin_14": "126521299CHAMA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV NIMOTH",
+    "feeder_name": "DOULA DS",
+    "cin_14": "126521299DOULA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV NIMOTH",
+    "feeder_name": "HARCHANDPUR AP",
+    "cin_14": "126521299HARCH"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV NIMOTH",
+    "feeder_name": "IND APJ (EDU. TRUST)",
+    "cin_14": "126521299APJED"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV NIMOTH",
+    "feeder_name": "IND EKAM",
+    "cin_14": "126521299EKAMD"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV NIMOTH",
+    "feeder_name": "IND EMPORIUM",
+    "cin_14": "126521299EMRUM"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV NIMOTH",
+    "feeder_name": "IND MAYAR",
+    "cin_14": "126521299MAYAR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV NIMOTH",
+    "feeder_name": "IND MVN INFRASTRUCTURE",
+    "cin_14": "126521299MVNFR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV NIMOTH",
+    "feeder_name": "IND PUBLIC HEALTH (GANGOLA)",
+    "cin_14": "126521299PHGLA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV NIMOTH",
+    "feeder_name": "IND VATIKA",
+    "cin_14": "126521299VATIK"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV NIMOTH",
+    "feeder_name": "KHARODA AP",
+    "cin_14": "126521299KHARO"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV NIMOTH",
+    "feeder_name": "LALA KHERLI AP",
+    "cin_14": "126521299KHERL"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV NIMOTH",
+    "feeder_name": "MANUWAS DS",
+    "cin_14": "126521299MANUW"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV NIMOTH",
+    "feeder_name": "NIMOTH DS",
+    "cin_14": "126521299NIMOT"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV NIMOTH",
+    "feeder_name": "RAHAKA AP",
+    "cin_14": "126521299RAHAK"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV NIMOTH",
+    "feeder_name": "S/STN 66 KV NIMOTH",
+    "cin_14": "126521299SUBST"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "ABHEYPUR DS",
+    "cin_14": "126521280ABYPR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "BERKA DS",
+    "cin_14": "126521280BERKA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "CITY-I SOHNA (U)",
+    "cin_14": "126521280CITY1"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "CITY-II SOHNA (U)",
+    "cin_14": "126521280CITY2"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "CITY-III SOHNA (U)",
+    "cin_14": "126521280CITY3"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "CITY-IV SOHNA (U)",
+    "cin_14": "126521280CITY4"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "DAMDAMA",
+    "cin_14": "126521280DAMDA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "GARHI RDS",
+    "cin_14": "126521280GRHDS"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "HARIYA HERA AP",
+    "cin_14": "126521280HARIY"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "IND AASHIYANA",
+    "cin_14": "126521280ASHIY"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "IND ARETE INDIA",
+    "cin_14": "126521280ARETE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "IND ATL BATTERY",
+    "cin_14": "126521280BATRY"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "IND BREEZE BUILDER",
+    "cin_14": "126521280BREZE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "IND BRIGHT AUTO PLAST",
+    "cin_14": "126521280INDBR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "IND ELDECO",
+    "cin_14": "126521280ELDCO"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "IND G.D. GOENKA",
+    "cin_14": "126521280INDGD"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "IND GLS",
+    "cin_14": "126521280GLSIN"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "IND JAKHOPUR STP",
+    "cin_14": "126521280JASTP"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "IND K R MANGLAM",
+    "cin_14": "126521280KRMAN"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "IND MMTC PUMP INDIA",
+    "cin_14": "126521280INDMM"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "IND RANDHAWA",
+    "cin_14": "126521280RNDWA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "IND SIGNATURE GLOBAL",
+    "cin_14": "126521280GLOBL"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "IND SIGNATURE PARK-IV",
+    "cin_14": "126521280PARK4"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "IND ST. PATRICK",
+    "cin_14": "126521280PRICK"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "IND TULSAINI",
+    "cin_14": "126521280TSANI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "INDRI DS",
+    "cin_14": "126521280IND02"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "KHAIKA AP",
+    "cin_14": "126521280KHAIK"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "KHERLA AP",
+    "cin_14": "126521280KHRAP"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "LAKUWAS DS",
+    "cin_14": "126521280LAKUW"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "MICROWAVE SOHNA (MU)",
+    "cin_14": "126521280INDMI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "MOHD PUR AP",
+    "cin_14": "126521280MOHDP"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "PIPAKA AP",
+    "cin_14": "126521280PIPAK"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "RAISEENA ZONE-I&II",
+    "cin_14": "126521280RAISE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "RAM NAGAR DS",
+    "cin_14": "126521280RAMNA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "S/STN 66 KV SOHNA",
+    "cin_14": "126521280SUBST"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA",
+    "ss_name": "66 KV SOHNA",
+    "feeder_name": "TIKONA PARKA (U)",
+    "cin_14": "126521280TKRKA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV CHD",
+    "cin_14": "126541308INCHD"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV EMMAR MGF (PALAM DRIVE )",
+    "cin_14": "126541308EMMAR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV HERO MOTO CORP.",
+    "cin_14": "126541308HEROM"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV INNOVATIVE PARK",
+    "cin_14": "126541308INNPK"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV JMD MEGAPOLIS",
+    "cin_14": "126541308JMDME"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV LAND SCAPE",
+    "cin_14": "126541308LANDS"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV SWEETA ESTATE",
+    "cin_14": "126541308SWETA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV TITAN INFRA",
+    "cin_14": "126541308TITAN"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV VATIKA BUSINESS PARK",
+    "cin_14": "126541308VATBP"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV VATIKA CITY",
+    "cin_14": "126541308VTKCY"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV VIPUL WORLD",
+    "cin_14": "126541308VIPUL"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 33 KV WELL WORTH",
+    "cin_14": "126541308WELLW"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND 66 KV CANDOR",
+    "cin_14": "126541308CANDR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "IND AWHO",
+    "cin_14": "126541308INDAW"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "220 KV SECTOR-72",
+    "feeder_name": "S/STN 220/66 KV SECT-72",
+    "cin_14": "126541308SUBST"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "IND IMPERIAL MALT",
+    "cin_14": "126541269INDIM"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "IND UNIVERSAL",
+    "cin_14": "126541269UNIVE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "IND ACRADIA",
+    "cin_14": "126541301INDAC"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "IND BESTECH (SPA)",
+    "cin_14": "126541301BESSP"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "IND BUSINESS SPA",
+    "cin_14": "126541301BUSPA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "IND BUSINESS ZONE",
+    "cin_14": "126541301BUSIN"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "IND NORTH STAR",
+    "cin_14": "126541301NORTH"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SEC-51",
+    "feeder_name": "IND THERAN",
+    "cin_14": "126541301THERA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "IND BAANI",
+    "cin_14": "126541283BAAND"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "DPS SCHOOL (U)",
+    "cin_14": "126541293DPSOL"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND 66 KV SUNBEAM",
+    "cin_14": "126541293SUNBE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND ALM",
+    "cin_14": "126541293INDAL"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND GLOBAL HEALTH",
+    "cin_14": "126541293INDGL"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND GREEN VILLA",
+    "cin_14": "126541293INDGR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND IFFCO",
+    "cin_14": "126541293IFFCO"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND IKEA",
+    "cin_14": "126541293IKEAD"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND J.C. LANDBASE",
+    "cin_14": "126541293INDJC"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND MAX WORTH",
+    "cin_14": "126541293MAXWO"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND OMAX",
+    "cin_14": "126541293OMAX0"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND ORCHID PETALS-II",
+    "cin_14": "126541293INDOR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND PARKVIEW",
+    "cin_14": "126541293INDPA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND RAHEJA",
+    "cin_14": "126541293INDRA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND SEWRAGE TREATMENT PLANT",
+    "cin_14": "126541293INDSE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IND SUNCITY REAL ESTATE",
+    "cin_14": "126541293INDSU"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "IRWO (U)",
+    "cin_14": "126541293INDIR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "ISLAMPUR / SOHNA ROAD-1 (U)",
+    "cin_14": "126541293ISLAM"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SECT-47 (U)",
+    "cin_14": "126541293SEC47"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SECTOR 38 MANDIR (U)",
+    "cin_14": "126541293SE38M"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SECTOR-32 (U)",
+    "cin_14": "126541293SEC32"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SECTOR-32 (U)",
+    "cin_14": "126541293INDNI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SHEETAL INTERNATIONAL (U)",
+    "cin_14": "126541293SHEET"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "SOHANA ROAD (U)",
+    "cin_14": "126541293SOHAN"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "VIPUL (U)",
+    "cin_14": "126541293VIPUL"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "WEMBLEY (U)",
+    "cin_14": "126541293WEMBL"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "BAHRAMPUR ROAD",
+    "cin_14": "126541284BAHRA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "BEGAMPUR KHATOLA ROAD",
+    "cin_14": "126541284BEGAM"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "BHARTI TELE (U)",
+    "cin_14": "126541284BHART"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "BLIND SCHOOL",
+    "cin_14": "126541284BLIND"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "E.P.F",
+    "cin_14": "126541284INDEP"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "GPTL B BLOCK / GTPL-III",
+    "cin_14": "126541284GTPBB"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "GTPL-I",
+    "cin_14": "126541284GTPL1"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "GTPL-II",
+    "cin_14": "126541284GTPL2"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "HANS ENCLAVE (U)",
+    "cin_14": "126541284HANSE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IMPERIAL FASTENER / BLIND SCHOOL-1",
+    "cin_14": "126541284FSTNR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND 66 KV RICO",
+    "cin_14": "126541284IRICO"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND AMTEK AUTO",
+    "cin_14": "126541284AMTEK"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND ASHNOOR TEXTILE",
+    "cin_14": "126541284ASHNO"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND BAMBINO AGRO",
+    "cin_14": "126541284INDBA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND BESTECH",
+    "cin_14": "126541284BESTE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND DHRUV INDUSTRIES",
+    "cin_14": "126541284DHRUV"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND ELEGENT",
+    "cin_14": "126541284INDEL"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND GKB RX LENS PVT. LTD",
+    "cin_14": "126541284GKBRX"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND INDERPRASTH",
+    "cin_14": "126541284INDER"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND INFOSYS",
+    "cin_14": "126541284INFOS"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND JAIN TEXTILE",
+    "cin_14": "126541284JAINT"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND M.E.S. SEC-34",
+    "cin_14": "126541284INDME"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND M.M. AQUA",
+    "cin_14": "126541284INDMM"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND MACHINO POLYMER",
+    "cin_14": "126541284INDMA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND S/OKEYGAWA",
+    "cin_14": "126541284INDOG"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND SEC-33 S/STN",
+    "cin_14": "126541284SEC33"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND SONA KOYA",
+    "cin_14": "126541284INDSK"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND UNITECH",
+    "cin_14": "126541284UNTEC"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND VIJAY DYINH MILL",
+    "cin_14": "126541284VJAYD"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "IND YALA ENGG. DEVL.",
+    "cin_14": "126541284INDYA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "MARBLE MKT.",
+    "cin_14": "126541284MARBL"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "MCG OFFICE / GTPL-IV",
+    "cin_14": "126541284MCGCE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "NAHARPUR RUPA (U)",
+    "cin_14": "126541284NAHAR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "OLD SUNBEEM AUTO",
+    "cin_14": "126541284INDSU"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "RAO MOHAN SINGH",
+    "cin_14": "126541284RMOHN"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "S/STN 66 KV SEC-34",
+    "cin_14": "126541284SUBST"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "SANI DEV",
+    "cin_14": "126541284SANID"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "SECTOR-33 / SECTOR-34-1",
+    "cin_14": "126541284SEC34"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "SECTOR-34",
+    "cin_14": "126541284SECTO"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "SECTOR-35",
+    "cin_14": "126541284SEC35"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-34",
+    "feeder_name": "SHIV COLONY (U)",
+    "cin_14": "126541284SHIVC"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-35",
+    "feeder_name": "HSIIDC-I",
+    "cin_14": "126541499HSID1"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-35",
+    "feeder_name": "HSIIDC-II",
+    "cin_14": "126541499HSID2"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-35",
+    "feeder_name": "IND AMTEK",
+    "cin_14": "126541499AMTEK"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-35",
+    "feeder_name": "IND ANAND NVH",
+    "cin_14": "126541499ANNVH"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-35",
+    "feeder_name": "IND INDERPRASTH",
+    "cin_14": "126541499INDER"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-35",
+    "feeder_name": "IND MM AQUA",
+    "cin_14": "126541499MMAQU"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-35",
+    "feeder_name": "IND SONA BLW",
+    "cin_14": "126541499SONAB"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-35",
+    "feeder_name": "IND SUPERON",
+    "cin_14": "126541499SUPER"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-35",
+    "feeder_name": "NEW SECTOR - 35",
+    "cin_14": "126541499NSC35"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-35",
+    "feeder_name": "NEW SHANI DEV",
+    "cin_14": "126541499SHANI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-35",
+    "feeder_name": "S/STN. 66 KV SECTOR-35",
+    "cin_14": "126541499SUBST"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "ELEDCO (U)",
+    "cin_14": "126541441ELDCO"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "FAZILPUR (U)",
+    "cin_14": "126541441FAZDS"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "GHASOLA ROAD (U)",
+    "cin_14": "126541441GHSLA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "GHOSLA (U)",
+    "cin_14": "126541441GHOSL"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND CHAMPA DEVI",
+    "cin_14": "126541441CHAMP"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND CLARION",
+    "cin_14": "126541441CLARI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND ENDURE REALTY",
+    "cin_14": "126541441ENDUR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND ESCAPE",
+    "cin_14": "126541441ESCAP"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND FRESCO",
+    "cin_14": "126541441FRESC"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND GREEN VILLA",
+    "cin_14": "126541441INDGR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND HARMONY",
+    "cin_14": "126541441HARMY"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND INDERPRASTH",
+    "cin_14": "126541441NDERP"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND JMD MEGAPOLIS",
+    "cin_14": "126541441JMDME"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND NIKKI Y.B.W",
+    "cin_14": "126541441NKKYB"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND NORTH CLOSE",
+    "cin_14": "126541441NRTHC"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND OMAX NILE",
+    "cin_14": "126541441MAXNE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND PARK VIEW",
+    "cin_14": "126541441PARKV"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND SOUTH CLOSE",
+    "cin_14": "126541441SUTHC"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND SPAZE BOULEVRD",
+    "cin_14": "126541441SPAZE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND STP",
+    "cin_14": "126541441STPND"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND THERAN",
+    "cin_14": "126541441THERA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND UNI WORLD GARDEN",
+    "cin_14": "126541441UNWRD"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND UNI WORLD GARDEN-II",
+    "cin_14": "126541441UNWR2"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "IND WELLDONE",
+    "cin_14": "126541441WEDNE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "LILAC (U)",
+    "cin_14": "126541441LILAC"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "MALEBU TOWN (U)",
+    "cin_14": "126541441MALEB"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "MALIBU TOWN - WATER TANK (U)",
+    "cin_14": "126541441WTANK"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "NIR ESPACE (U)",
+    "cin_14": "126541441NIRES"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "NIRVANA DEERWOOD (U)",
+    "cin_14": "126541441DWOOD"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "NIRWANA-J (U)",
+    "cin_14": "126541441NIRWA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "ROSEWOOD (U)",
+    "cin_14": "126541441RSWOD"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "S.C-2 G BLOCK (U)",
+    "cin_14": "126541441SC2GB"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "S/STN 66 KV SECTOR-47",
+    "cin_14": "126541441SSTNT"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "SC-II D BLOCK / SOUTH CITY-II A BLOCK-1 (U",
+    "cin_14": "126541441SU2DB"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "SC-II I BLOCK / SC-2 G BLOCK-1 (U)",
+    "cin_14": "126541441SC2IB"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "SOUTH CITY A (U)",
+    "cin_14": "126541441SCITY"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "SOUTH CITY-II (U)",
+    "cin_14": "126541441SUTH2"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "SOUTH CITY-II (U)",
+    "cin_14": "126541441SOU2B"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "TIKRI (U)",
+    "cin_14": "126541441TIKRI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "U.S. END (U)",
+    "cin_14": "126541441USEND"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "UPPAL HOUSING (U)",
+    "cin_14": "126541441UPPAL"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "SOHNA ROAD",
+    "ss_name": "66 KV SECTOR-47",
+    "feeder_name": "WEMBLEY (U)",
+    "cin_14": "126541441WMBLY"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "33 KV RATHIWAS",
+    "feeder_name": "IND SSMB",
+    "cin_14": "126511533ISSMB"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "33 KV RATHIWAS",
+    "feeder_name": "KORI-II DS",
+    "cin_14": "126511533KORI2"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "33 KV RATHIWAS",
+    "feeder_name": "RANGALA AP",
+    "cin_14": "126511533RANGA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "33 KV RATHIWAS",
+    "feeder_name": "RATHIWAS-II DS",
+    "cin_14": "126511533RATHI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "33 KV RATHIWAS",
+    "feeder_name": "S/STN 66 KV RATHIWAS",
+    "cin_14": "126511533SUBST"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "33 KV RATHIWAS",
+    "feeder_name": "UTTON AP",
+    "cin_14": "126511533UTTON"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV MOHD.PUR",
+    "feeder_name": "CHAHALKA/ BERI DS",
+    "cin_14": "126511535HALKA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV MOHD.PUR",
+    "feeder_name": "DADU AP",
+    "cin_14": "126511535DADUP"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV MOHD.PUR",
+    "feeder_name": "DOPER KI DHANI AP",
+    "cin_14": "126511535DOPER"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV MOHD.PUR",
+    "feeder_name": "HASSANPUR DS",
+    "cin_14": "126511535HASAN"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV MOHD.PUR",
+    "feeder_name": "IND DRDO",
+    "cin_14": "126511535DRDOI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV MOHD.PUR",
+    "feeder_name": "IND GOLF",
+    "cin_14": "126511535GOLFI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV MOHD.PUR",
+    "feeder_name": "IND INNOVATIVE",
+    "cin_14": "126511535INTVE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV MOHD.PUR",
+    "feeder_name": "IND M.E.S.",
+    "cin_14": "126511535INMES"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV MOHD.PUR",
+    "feeder_name": "IND PRR WAREHOUSE",
+    "cin_14": "126511535PRRWH"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV MOHD.PUR",
+    "feeder_name": "JALALPUR AP",
+    "cin_14": "126511535JALAL"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV MOHD.PUR",
+    "feeder_name": "KOTA DS",
+    "cin_14": "126511535KOTAD"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV MOHD.PUR",
+    "feeder_name": "MOHD. PUR DS",
+    "cin_14": "126511535MOHDP"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV MOHD.PUR",
+    "feeder_name": "NEW PARA DS",
+    "cin_14": "126511535NPARA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV MOHD.PUR",
+    "feeder_name": "S/STN 66 KV MOHD.PUR",
+    "cin_14": "126511535SUBST"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV MOHD.PUR",
+    "feeder_name": "SABRAS AP",
+    "cin_14": "126511535SABRS"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV MOHD.PUR",
+    "feeder_name": "TARUNDHAN (MU)",
+    "cin_14": "126511535TARUN"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "BAND COLONY (U)",
+    "cin_14": "126511278BANDC"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "BAWLA AP",
+    "cin_14": "126511278BAWLA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "BERI DS",
+    "cin_14": "126511278BERID"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "BISSAR DS",
+    "cin_14": "126511278BISSA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "BURAKA AP",
+    "cin_14": "126511278BURKA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "CHHARORA AP",
+    "cin_14": "126511278CHHAR"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "DHULAWAT AP",
+    "cin_14": "126511278DHULA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "GOGJAKA AP",
+    "cin_14": "126511278GOGJA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "IND AMAZON",
+    "cin_14": "126511278AMAZN"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "IND BESTIKOKI AUTO",
+    "cin_14": "126511278BESTI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "IND DRDO",
+    "cin_14": "126511278DRDO1"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "IND JAI HANUMAN GRIT",
+    "cin_14": "126511278HANUM"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "IND LLYOD",
+    "cin_14": "126511278LLYOD"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "IND M.E.S. TAORU",
+    "cin_14": "126511278INDME"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "IND P/H NOORPUR WATER SUPPLY",
+    "cin_14": "126511278INDPH"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "IND TAJ SERVICE",
+    "cin_14": "126511278TAJSE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "IND VSM",
+    "cin_14": "126511278INVSM"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "JAURASI AP",
+    "cin_14": "126511278JAURA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "KALWARI AP",
+    "cin_14": "126511278KALWA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "KHORI AP",
+    "cin_14": "126511278KHORI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "PACHGAON AP",
+    "cin_14": "126511278PGAON"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "PADHENI AP",
+    "cin_14": "126511278PADHE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "PATHERI AP",
+    "cin_14": "126511278PATHE"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "RANIYAKI DS",
+    "cin_14": "126511278RANIY"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "RATHIWAS DS",
+    "cin_14": "126511278RATHI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "S/STN 66 KV TAORU",
+    "cin_14": "126511278SUBST"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "SALAKA DS",
+    "cin_14": "126511278SALAK"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "SARAI/MOHD.PUR AP",
+    "cin_14": "126511278SARAI"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "SARAI-II AP",
+    "cin_14": "126511278SARA2"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "SEWKA AP",
+    "cin_14": "126511278SEWKA"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "SHEKHPUR AP",
+    "cin_14": "126511278SHEKH"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "SILKHO DS",
+    "cin_14": "126511278SILKH"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "TAORU CITY-I (U)",
+    "cin_14": "126511278TAORU"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "TARUNDHAM (MU)",
+    "cin_14": "126511278TARUN"
+  },
+  {
+    "division": "SOHNA",
+    "sub_division": "TAORU",
+    "ss_name": "66 KV TAORU",
+    "feeder_name": "TAURU CITY-II (U)",
+    "cin_14": "126511278TAURU"
+  },
+  {
+    "division": "BADSHAHPUR",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "GHAMROJ DS",
+    "cin_14": "126611269GMROJ"
+  },
+  {
+    "division": "BADSHAHPUR",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV B/ PUR",
+    "feeder_name": "VATIKA KUNJ DS",
+    "cin_14": "126611269VTKUJ"
+  },
+  {
+    "division": "BADSHAHPUR",
+    "sub_division": "BADSHAHPUR",
+    "ss_name": "66 KV SEC-56",
+    "feeder_name": "KHERA DHANI (U)",
+    "cin_14": "126611283KHRDN"
+  },
+  {
+    "division": "S/U GURGAON",
+    "sub_division": "SOUTH CITY",
+    "ss_name": "66 KV SECT-38",
+    "feeder_name": "HOUSING BOARD/39",
+    "cin_14": "126261293HUSBD"
+  }
+]

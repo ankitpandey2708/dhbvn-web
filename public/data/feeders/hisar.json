@@ -1,0 +1,4132 @@
+[
+  {
+    "division": "HANSI",
+    "sub_division": "CITY HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "ARYA NAGAR (U) [132 KV HANSI]",
+    "cin_14": "112311074ARYAN"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "CITY HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "DELHI GATE (U)",
+    "cin_14": "112311074DELHI"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "CITY HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "HANSI TOWN (U) 132 KV",
+    "cin_14": "112311074HANSI"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "CITY HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "HIGHWAY (U) 132 KV HANSI",
+    "cin_14": "112311074HIGHW"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "CITY HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "IND CIVIL HOSPITAL (132 KV HANSI)",
+    "cin_14": "112311074INDCI"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "CITY HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "IND W/WORKS HANSI T-4",
+    "cin_14": "112311074INWW1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "CITY HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "JIND ROAD (U)",
+    "cin_14": "112311074JINDR"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "CITY HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "REST HOUSE (U)",
+    "cin_14": "112311074RESTH"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "CITY HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "S/STN 132 KV HANSI T-1A&T1B",
+    "cin_14": "112311074SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "CITY HANSI",
+    "ss_name": "33 KV BARWALA ROAD HANSI",
+    "feeder_name": "COLLEGE ROAD (U)",
+    "cin_14": "112311043COLLE"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "CITY HANSI",
+    "ss_name": "33 KV BARWALA ROAD HANSI",
+    "feeder_name": "DADAL PARK (U)",
+    "cin_14": "112311043DADAL"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "CITY HANSI",
+    "ss_name": "33 KV BARWALA ROAD HANSI",
+    "feeder_name": "IND R.K VEENA INDUSTRY",
+    "cin_14": "112311043RKVEE"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "CITY HANSI",
+    "ss_name": "33 KV BARWALA ROAD HANSI",
+    "feeder_name": "JAGDISH COLONY (U)",
+    "cin_14": "112311043JAGDH"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "CITY HANSI",
+    "ss_name": "33 KV BARWALA ROAD HANSI",
+    "feeder_name": "S/STN BARWALA ROAD H ANSI",
+    "cin_14": "112311043SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "CITY HANSI",
+    "ss_name": "33 KV RAILWAY STATION HANSI",
+    "feeder_name": "ROOP NAGAR (U)",
+    "cin_14": "112311593RNGAR"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "CITY HANSI",
+    "ss_name": "33 KV SISAI",
+    "feeder_name": "GUJAR WADA AP",
+    "cin_14": "112311015GJWDA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV BARSI",
+    "feeder_name": "IND SORKHI INDUSTRIES",
+    "cin_14": "112341440SRKHD"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV BARSI",
+    "feeder_name": "MEHANDA DS",
+    "cin_14": "112341440MEHDS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV BASS",
+    "feeder_name": "BADALA DS",
+    "cin_14": "112341006BADS1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV BASS",
+    "feeder_name": "BADCHAPER DS",
+    "cin_14": "112341006BAKHL"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV BASS",
+    "feeder_name": "BAKHLANA DS",
+    "cin_14": "112341006BAKAL"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV BASS",
+    "feeder_name": "BASS DS",
+    "cin_14": "112341006BASSD"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV BASS",
+    "feeder_name": "BASS KHURD DS",
+    "cin_14": "112341006BASSK"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV BASS",
+    "feeder_name": "MOHLA AP",
+    "cin_14": "112341006MOHLA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV BASS",
+    "feeder_name": "PUTHI AP",
+    "cin_14": "112341006PUTAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV BASS",
+    "feeder_name": "PUTHI DS",
+    "cin_14": "112341006PUTDS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV BASS",
+    "feeder_name": "S/STN BASS",
+    "cin_14": "112341006SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV BASS",
+    "feeder_name": "UGALAN DS",
+    "cin_14": "112341006UGALA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV MUNDHAL",
+    "feeder_name": "BANDA HERI (DS)",
+    "cin_14": "112341044BNDAH"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV MUNDHAL",
+    "feeder_name": "BHAINI AP",
+    "cin_14": "112341044SOAP1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV MUNDHAL",
+    "feeder_name": "BHATOL AP",
+    "cin_14": "112341044BHATO"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV MUNDHAL",
+    "feeder_name": "KHARKARA DS",
+    "cin_14": "112341044KHDS1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV MUNDHAL",
+    "feeder_name": "KUNGAR DS",
+    "cin_14": "112341044KUNGA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV MUNDHAL",
+    "feeder_name": "MADANHERI DS",
+    "cin_14": "112341044MADS2"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV MUNDHAL",
+    "feeder_name": "MUNDHAL DS",
+    "cin_14": "112341044MUNDH"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV MUNDHAL",
+    "feeder_name": "S/STN MUNDHAL",
+    "cin_14": "112341044SUST1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV MUNDHAL",
+    "feeder_name": "SINGHWA AP",
+    "cin_14": "112341044SINGH"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV MUNDHAL",
+    "feeder_name": "SORKHI DS",
+    "cin_14": "112341044SORDS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "MUNDHAL",
+    "ss_name": "33 KV THURANA",
+    "feeder_name": "BHATOL DS",
+    "cin_14": "112341386BHATD"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "132 KV NARNAUND",
+    "feeder_name": "HANSI-JIND ROAD (U)",
+    "cin_14": "112331075HJIND"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "132 KV NARNAUND",
+    "feeder_name": "IND CIVIL HOSPITAL",
+    "cin_14": "112331075CHOSP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "132 KV NARNAUND",
+    "feeder_name": "IND STP",
+    "cin_14": "112331075INSTP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "132 KV NARNAUND",
+    "feeder_name": "KHANDA AP",
+    "cin_14": "112331075KND01"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "132 KV NARNAUND",
+    "feeder_name": "MADHA AP",
+    "cin_14": "112331075MDAP2"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "132 KV NARNAUND",
+    "feeder_name": "MAJRA AP",
+    "cin_14": "112331075MAJRA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "132 KV NARNAUND",
+    "feeder_name": "MIRCHPUR DS",
+    "cin_14": "112331075MIRDS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "132 KV NARNAUND",
+    "feeder_name": "MIRCHPUR/RAJTHAL AP",
+    "cin_14": "112331075MIAP1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "132 KV NARNAUND",
+    "feeder_name": "MOTH AP[132 KV NND]",
+    "cin_14": "112331075MTAP1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "132 KV NARNAUND",
+    "feeder_name": "NARNAUND (U)",
+    "cin_14": "112331075NARNA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "132 KV NARNAUND",
+    "feeder_name": "PETWAR AP",
+    "cin_14": "112331075PEAP1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "132 KV NARNAUND",
+    "feeder_name": "RAJTHAL -I AP",
+    "cin_14": "112331075RAJTH"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "132 KV NARNAUND",
+    "feeder_name": "RAJTHAL -II AP",
+    "cin_14": "112331075RAJ2A"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "132 KV NARNAUND",
+    "feeder_name": "S/STN 132 KV NARNAUND",
+    "cin_14": "112331075SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "132 KV NARNAUND",
+    "feeder_name": "UGALAN DS",
+    "cin_14": "112331075UGDS2"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV BASS",
+    "feeder_name": "UGALAN DS",
+    "cin_14": "112331006UGALA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV BUDANA",
+    "feeder_name": "BHAINI AP",
+    "cin_14": "112331486BHAIN"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV BUDANA",
+    "feeder_name": "BUDANA AP",
+    "cin_14": "112331486BUDAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV BUDANA",
+    "feeder_name": "BUDANA DS",
+    "cin_14": "112331486BUDDS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV BUDANA",
+    "feeder_name": "IND PWW BUDANA",
+    "cin_14": "112331486INPWW"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV BUDANA",
+    "feeder_name": "RAKHI AP",
+    "cin_14": "112331486RAKHP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV BUDANA",
+    "feeder_name": "RAKHI DS",
+    "cin_14": "112331486RAKDS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV BUDANA",
+    "feeder_name": "SUB STATION (33 KV BUDANA)",
+    "cin_14": "112331486SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KHERI LOCHAB",
+    "feeder_name": "BHADA DS",
+    "cin_14": "112331503BHADA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KHERI LOCHAB",
+    "feeder_name": "HAIBATPUR DS",
+    "cin_14": "112331503HAIBT"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KHERI LOCHAB",
+    "feeder_name": "IND DEEP BHATTA",
+    "cin_14": "112331503DPBTA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KHERI LOCHAB",
+    "feeder_name": "KAPRO AP",
+    "cin_14": "112331503KAPRO"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KHERI LOCHAB",
+    "feeder_name": "KAPRO DS",
+    "cin_14": "112331503KAPRD"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KHERI LOCHAB",
+    "feeder_name": "KHERI LOCHAB AP",
+    "cin_14": "112331503KLOCA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KHERI LOCHAB",
+    "feeder_name": "KHERI LOCHAB DS",
+    "cin_14": "112331503KLOCD"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KHERI LOCHAB",
+    "feeder_name": "NARA AP",
+    "cin_14": "112331503NARAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KHERI LOCHAB",
+    "feeder_name": "SOTHA/KAPRO DS",
+    "cin_14": "112331503SOTHK"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KHERI LOCHAB",
+    "feeder_name": "SUB STATION (33 KV KHERI LOCHAB)",
+    "cin_14": "112331503SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KOTH",
+    "feeder_name": "KOTH KHURD AP",
+    "cin_14": "112331433KTHKD"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KOTH KALAN",
+    "feeder_name": "IND TRIDENT",
+    "cin_14": "112331013TRDNT"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KOTH KALAN",
+    "feeder_name": "KAPRO AP",
+    "cin_14": "112331013KAPAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KOTH KALAN",
+    "feeder_name": "KOTH KALAN AP",
+    "cin_14": "112331013KOTAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KOTH KALAN",
+    "feeder_name": "KOTH KALAN DS",
+    "cin_14": "112331013KODS1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KOTH KALAN",
+    "feeder_name": "NARA DS",
+    "cin_14": "112331013KADS1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV KOTH KALAN",
+    "feeder_name": "S/STN KOTH KALAN",
+    "cin_14": "112331013SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV LOHARI RAGHO",
+    "feeder_name": "GARHI DS",
+    "cin_14": "112331658GRHDS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV LOHARI RAGHO",
+    "feeder_name": "IND BALAJI MILL",
+    "cin_14": "112331658BJMIL"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV LOHARI RAGHO",
+    "feeder_name": "LOHARI DS",
+    "cin_14": "112331658LOHDS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV LOHARI RAGHO",
+    "feeder_name": "SUB STATION LOHARI RAGHO",
+    "cin_14": "112331658SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MAJRA",
+    "feeder_name": "IND ITI",
+    "cin_14": "112331068ITIND"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MAJRA",
+    "feeder_name": "IND MGR FOOD",
+    "cin_14": "112331068MGRFD"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MAJRA",
+    "feeder_name": "JANTA NAGAR AP",
+    "cin_14": "112331068JNTAN"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MAJRA",
+    "feeder_name": "LOHARI AP",
+    "cin_14": "112331068LOHAR"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MAJRA",
+    "feeder_name": "MADHA AP",
+    "cin_14": "112331068MADAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MAJRA",
+    "feeder_name": "MADHA DS",
+    "cin_14": "112331068MADHA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MAJRA",
+    "feeder_name": "MAJRA AP",
+    "cin_14": "112331068MAJAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MAJRA",
+    "feeder_name": "MAJRA DS",
+    "cin_14": "112331068MAJRA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MAJRA",
+    "feeder_name": "MOTH AP",
+    "cin_14": "112331068MOTAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MAJRA",
+    "feeder_name": "MOTH DS",
+    "cin_14": "112331068MOTHD"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MAJRA",
+    "feeder_name": "SUB STATION",
+    "cin_14": "112331068SSTNT"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MIRCHPUR",
+    "feeder_name": "IND CHAUHAN HATCHERY",
+    "cin_14": "112331473HCERY"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MIRCHPUR",
+    "feeder_name": "IND SHIV GANGA",
+    "cin_14": "112331473SHIVG"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MIRCHPUR",
+    "feeder_name": "KHERI ROJ AP",
+    "cin_14": "112331473KHROJ"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MIRCHPUR",
+    "feeder_name": "MILKPUR AP",
+    "cin_14": "112331473MKPAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MIRCHPUR",
+    "feeder_name": "MILKPUR DS",
+    "cin_14": "112331473MKPDS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MIRCHPUR",
+    "feeder_name": "MIRCHPUR AP",
+    "cin_14": "112331473MRCAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MIRCHPUR",
+    "feeder_name": "MIRCHPUR DS",
+    "cin_14": "112331473MRCDS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV MIRCHPUR",
+    "feeder_name": "SUB STATION (33 KV MIRCHPUR)",
+    "cin_14": "112331473SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV SULCHANI",
+    "feeder_name": "JIND ROAD AP",
+    "cin_14": "112331067JNDRD"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV SULCHANI",
+    "feeder_name": "KAGSAR AP",
+    "cin_14": "112331067KAGSA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV SULCHANI",
+    "feeder_name": "KAGSER TIBBA AP",
+    "cin_14": "112331067KGRTB"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV SULCHANI",
+    "feeder_name": "KANGER AP",
+    "cin_14": "112331067KUNGR"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV SULCHANI",
+    "feeder_name": "KHANDA AP",
+    "cin_14": "112331067KHAND"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV SULCHANI",
+    "feeder_name": "KHANDA DS",
+    "cin_14": "112331067KHANS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV SULCHANI",
+    "feeder_name": "KHANDA NEW AP",
+    "cin_14": "112331067KHNAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV SULCHANI",
+    "feeder_name": "KHANDA OLD AP",
+    "cin_14": "112331067KHDAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV SULCHANI",
+    "feeder_name": "PETWAR KHERA AP",
+    "cin_14": "112331067PETWA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV SULCHANI",
+    "feeder_name": "SUB STATION",
+    "cin_14": "112331067SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV SULCHANI",
+    "feeder_name": "SULCHANI AP",
+    "cin_14": "112331067SUHAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV SULCHANI",
+    "feeder_name": "SULCHANI DS",
+    "cin_14": "112331067SULCH"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV SULCHANI",
+    "feeder_name": "UGALAN AP",
+    "cin_14": "112331067UGALN"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV THURANA",
+    "feeder_name": "PETWAR AP",
+    "cin_14": "112331386PETAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV THURANA",
+    "feeder_name": "PETWAR DS",
+    "cin_14": "112331386PETWA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV THURANA",
+    "feeder_name": "SUB STATION",
+    "cin_14": "112331386SSTNT"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV THURANA",
+    "feeder_name": "THURANA AP",
+    "cin_14": "112331386THUAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "NARNAUND",
+    "ss_name": "33 KV THURANA",
+    "feeder_name": "THURANA DS",
+    "cin_14": "112331386THUDS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "132 KV CANTT",
+    "feeder_name": "MAYYAR (U)",
+    "cin_14": "112321072MAYAR"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "BARSI AP",
+    "cin_14": "112321074BAAP1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "DHANI RAJU AP",
+    "cin_14": "112321074DHAP1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "GARHI AP",
+    "cin_14": "112321074GARHI"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "HISAR ROAD (U) [132 KV HANSI]",
+    "cin_14": "112321074HISAR"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "IND LAXMI PIPE",
+    "cin_14": "112321074INDLA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "IND POWER GRID",
+    "cin_14": "112321074INDPO"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "IND SHREE KRISHNA IND.",
+    "cin_14": "112321074SHREE"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "IND STP",
+    "cin_14": "112321074INSTP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "KHERI DAULATPUR DS",
+    "cin_14": "112321074KHERI"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "MILKPUR DS",
+    "cin_14": "112321074MIDS1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "PREM NAGAR DS",
+    "cin_14": "112321074PREMN"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "RAM SINGH COLONY (U)",
+    "cin_14": "112321074RAMSC"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "220 KV MASUDPUR",
+    "feeder_name": "IND 33 KV SEL TEX. LINE",
+    "cin_14": "112321023SELTE"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BARSI",
+    "feeder_name": "ALAKHPURA AP",
+    "cin_14": "112321440ALKRA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BARSI",
+    "feeder_name": "ALAKHPURA DS",
+    "cin_14": "112321440ALADS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BARSI",
+    "feeder_name": "BARSI DS",
+    "cin_14": "112321440BARSI"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BARSI",
+    "feeder_name": "IND PUMPING STATION",
+    "cin_14": "112321440PUMPS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BARSI",
+    "feeder_name": "IND UNITED RUBBER GRANULES",
+    "cin_14": "112321440URBGS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BARSI",
+    "feeder_name": "JEETAKHERI AP",
+    "cin_14": "112321440MEHAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BARSI",
+    "feeder_name": "MILKPUR-I DS",
+    "cin_14": "112321440MILKP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BARSI",
+    "feeder_name": "SUB STATION",
+    "cin_14": "112321440SSTNT"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BARWALA ROAD HANSI",
+    "feeder_name": "BHIM NAGAR DS",
+    "cin_14": "112321043BMNGR"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BARWALA ROAD HANSI",
+    "feeder_name": "BIR FARM AP",
+    "cin_14": "112321043BRFRM"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BARWALA ROAD HANSI",
+    "feeder_name": "IND J.S INDUSTRIES",
+    "cin_14": "112321043INDJS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BARWALA ROAD HANSI",
+    "feeder_name": "IND WATER WORKS",
+    "cin_14": "112321043WATWK"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BARWALA ROAD HANSI",
+    "feeder_name": "JAGGA BARA AP",
+    "cin_14": "112321043JAGGA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BARWALA ROAD HANSI",
+    "feeder_name": "NATIONAL HIGHWAY (U)",
+    "cin_14": "112321043HIWAY"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BARWALA ROAD HANSI",
+    "feeder_name": "SAINIPURA DS",
+    "cin_14": "112321043SAINI"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BHATLA",
+    "feeder_name": "BHATLA AP",
+    "cin_14": "112321041BHATL"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BHATLA",
+    "feeder_name": "CHANAT AP",
+    "cin_14": "112321041CHAP1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BHATLA",
+    "feeder_name": "DATA AP",
+    "cin_14": "112321041DATAA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BHATLA",
+    "feeder_name": "DHARAMPURA DS",
+    "cin_14": "112321041DHARA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BHATLA",
+    "feeder_name": "IND PUMP HOUSE",
+    "cin_14": "112321041INDPH"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BHATLA",
+    "feeder_name": "KULANA AP",
+    "cin_14": "112321041KUAP1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BHATLA",
+    "feeder_name": "LALPURA DS",
+    "cin_14": "112321041LALPU"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BHATLA",
+    "feeder_name": "MEHJOD DS",
+    "cin_14": "112321041MEDS1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BHATLA",
+    "feeder_name": "S/STN BHATLA",
+    "cin_14": "112321041SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV BHATLA",
+    "feeder_name": "SINDHAR DS",
+    "cin_14": "112321041SIDS1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV KHARAR ALIPUR",
+    "feeder_name": "ALIPUR AP",
+    "cin_14": "112321573ALIPR"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV KHARAR ALIPUR",
+    "feeder_name": "IND HISAR PIPE FEEDER",
+    "cin_14": "112321573HPIPE"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV KHARAR ALIPUR",
+    "feeder_name": "IND OLIVER INDUSTRIES",
+    "cin_14": "112321573OLDUT"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV KHARAR ALIPUR",
+    "feeder_name": "IND SHIV SUPREME INDUSTRIES",
+    "cin_14": "112321573SSDUT"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV KHARAR ALIPUR",
+    "feeder_name": "KHARAR ALIPUR DS",
+    "cin_14": "112321573KHARA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV KHARAR ALIPUR",
+    "feeder_name": "LALPURA AP",
+    "cin_14": "112321573LALPU"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV KHARAR ALIPUR",
+    "feeder_name": "QUTABPUR DS",
+    "cin_14": "112321573QUTAB"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV KHARAR ALIPUR",
+    "feeder_name": "S/STN 33 KV KHARAR ALIPUR",
+    "cin_14": "112321573SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV MASUDPUR",
+    "feeder_name": "DATTA DS",
+    "cin_14": "112321384DATDS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV MASUDPUR",
+    "feeder_name": "IND CADA",
+    "cin_14": "112321384ICADA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV MASUDPUR",
+    "feeder_name": "IND HPCGL",
+    "cin_14": "112321384HPCGL"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV MASUDPUR",
+    "feeder_name": "IND PUMP HOUSE",
+    "cin_14": "112321384PUMPH"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV MASUDPUR",
+    "feeder_name": "MASUDPUR AP",
+    "cin_14": "112321384MASAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV MASUDPUR",
+    "feeder_name": "MASUDPUR DS",
+    "cin_14": "112321384MASDS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV MASUDPUR",
+    "feeder_name": "S/STN.",
+    "cin_14": "112321384SSTN1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV MASUDPUR",
+    "feeder_name": "SINGHWA AP",
+    "cin_14": "112321384SINAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV MASUDPUR",
+    "feeder_name": "SINGHWA DS",
+    "cin_14": "112321384SINDS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV RAILWAY STATION HANSI",
+    "feeder_name": "DHANI RAJU AP",
+    "cin_14": "112321593DRAJU"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV RAILWAY STATION HANSI",
+    "feeder_name": "HISAR ROAD (U)",
+    "cin_14": "112321593HROAD"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV RAILWAY STATION HANSI",
+    "feeder_name": "PREM NAGAR RDS",
+    "cin_14": "112321593PNGAR"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV RAILWAY STATION HANSI",
+    "feeder_name": "S/STN. 33 KV R/STATION",
+    "cin_14": "112321593SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV RAILWAY STATION HANSI",
+    "feeder_name": "SAMADHA ROAD AP",
+    "cin_14": "112321593SROAD"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "S/U HANSI",
+    "ss_name": "33 KV RAILWAY STATION HANSI",
+    "feeder_name": "TOSHAM ROAD HANSI (U)",
+    "cin_14": "112321593TRHSI"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "SISAI",
+    "ss_name": "33 KV SISAI",
+    "feeder_name": "GAGAN KHERI DS",
+    "cin_14": "112351015GAGDS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "SISAI",
+    "ss_name": "33 KV SISAI",
+    "feeder_name": "GAGAN KHERI AP",
+    "cin_14": "112351015GAGAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "SISAI",
+    "ss_name": "33 KV SISAI",
+    "feeder_name": "IND CHC SISAI",
+    "cin_14": "112351015INCHC"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "SISAI",
+    "ss_name": "33 KV SISAI",
+    "feeder_name": "KAJAL KHERA AP",
+    "cin_14": "112351015KJALK"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "SISAI",
+    "ss_name": "33 KV SISAI",
+    "feeder_name": "PALI DS",
+    "cin_14": "112351015PALID"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "SISAI",
+    "ss_name": "33 KV SISAI",
+    "feeder_name": "PALI AP",
+    "cin_14": "112351015PALIA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "SISAI",
+    "ss_name": "33 KV SISAI",
+    "feeder_name": "RAJPURA AP",
+    "cin_14": "112351015RAJPU"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "SISAI",
+    "ss_name": "33 KV SISAI",
+    "feeder_name": "S/STN SISAI",
+    "cin_14": "112351015SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "SISAI",
+    "ss_name": "33 KV SISAI",
+    "feeder_name": "SISAI BOLAN AP",
+    "cin_14": "112351015BOLAN"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "SISAI",
+    "ss_name": "33 KV SISAI",
+    "feeder_name": "SISAI BOLAN DS",
+    "cin_14": "112351015SABLN"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "SISAI",
+    "ss_name": "33 KV SISAI",
+    "feeder_name": "SISAI KALIRAMAN AP",
+    "cin_14": "112351015SIAP2"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "SISAI",
+    "ss_name": "33 KV SISAI",
+    "feeder_name": "SISAI KALIRAMAN DS",
+    "cin_14": "112351015SISDS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "SISAI",
+    "ss_name": "33 KV SISAI",
+    "feeder_name": "SISAI MADHA ROAD AP",
+    "cin_14": "112351015SMDHA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "SISAI",
+    "ss_name": "33 KV THURANA",
+    "feeder_name": "KUMBHA DS",
+    "cin_14": "112351386KMBHA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "UMRA",
+    "ss_name": "132 KV HANSI",
+    "feeder_name": "HAZAMPUR AP",
+    "cin_14": "112361074HAAP1"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "UMRA",
+    "ss_name": "33 KV DHANDHERI",
+    "feeder_name": "SUB STATION DHANDHERI",
+    "cin_14": "112361659SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "UMRA",
+    "ss_name": "33 KV JAMALPUR",
+    "feeder_name": "HAZAMPUR AP",
+    "cin_14": "112361589HAZAM"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "UMRA",
+    "ss_name": "33 KV JAMALPUR",
+    "feeder_name": "JAMALPUR DS",
+    "cin_14": "112361589JMAPR"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "UMRA",
+    "ss_name": "33 KV JAMALPUR",
+    "feeder_name": "PAPOSA DS",
+    "cin_14": "112361589PAPOS"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "UMRA",
+    "ss_name": "33 KV JAMALPUR",
+    "feeder_name": "S/STN. 33 KV JAMALPUR",
+    "cin_14": "112361589SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "UMRA",
+    "ss_name": "33 KV JAMALPUR",
+    "feeder_name": "SIPPER DS",
+    "cin_14": "112361589SIPER"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "UMRA",
+    "ss_name": "33 KV UMRA",
+    "feeder_name": "BHAGANA DS",
+    "cin_14": "112361062BHAGA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "UMRA",
+    "ss_name": "33 KV UMRA",
+    "feeder_name": "DHANDERI AP",
+    "cin_14": "112361062DHAND"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "UMRA",
+    "ss_name": "33 KV UMRA",
+    "feeder_name": "HAZAMPUR DS",
+    "cin_14": "112361062HAZAM"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "UMRA",
+    "ss_name": "33 KV UMRA",
+    "feeder_name": "JAMALPUR AP",
+    "cin_14": "112361062JAMAP"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "UMRA",
+    "ss_name": "33 KV UMRA",
+    "feeder_name": "PUTHI DS",
+    "cin_14": "112361062PUTHI"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "UMRA",
+    "ss_name": "33 KV UMRA",
+    "feeder_name": "S/STN UMRA",
+    "cin_14": "112361062SUBST"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "UMRA",
+    "ss_name": "33 KV UMRA",
+    "feeder_name": "SULTANPUR DS",
+    "cin_14": "112361062SULTA"
+  },
+  {
+    "division": "HANSI",
+    "sub_division": "UMRA",
+    "ss_name": "33 KV UMRA",
+    "feeder_name": "UMRA DS(33 KV UMRA)",
+    "cin_14": "112361062UMRAD"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "132 KV ARYA NAGAR",
+    "feeder_name": "CHANDAN NAGAR DS",
+    "cin_14": "112251086CHAND"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "AERODRUM (U)",
+    "cin_14": "112111069INDAE"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "AUTO MARKET (U)",
+    "cin_14": "112111069AUTOM"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "BARWALA ROAD INDUSTRIES",
+    "cin_14": "112111069BARWA"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "CITY THANA (U)",
+    "cin_14": "112111069THANA"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "DOCTOR HOTLINE (U)",
+    "cin_14": "112111069INDDO"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "OUSING BOARD (U)132 KV BEER SIRSA ROA",
+    "cin_14": "112111069HOUSI"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "I.T.I. BEER (U)",
+    "cin_14": "112111069ITIBE"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "IND 33 KV D.C.M.",
+    "cin_14": "112111069INDC2"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "IND 33 KV G.J.U.",
+    "cin_14": "112111069INDGJ"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "IND CIVIL HOSPITAL( 132 KV BEER )",
+    "cin_14": "112111069INDCI"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "L.T. COLONY",
+    "cin_14": "112111069LTCOL"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "MULTANI CHOWK (U)",
+    "cin_14": "112111069MULT1"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "NAGORI GATE (U)",
+    "cin_14": "112111069NAGO1"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "PARIJAT CHOWK (U)",
+    "cin_14": "112111069PARI1"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "POLICE LINE (U)",
+    "cin_14": "112111069POLIC"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "TALWANDI JUGLAN AP",
+    "cin_14": "112111069TALJU"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "TALWANDI JUGLAN DS",
+    "cin_14": "112111069TALWA"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "132 KV BEER",
+    "feeder_name": "TELEPHONE EXCHANGE (U)",
+    "cin_14": "112111069INDTE"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "220 KV INDUSTRIAL AREA",
+    "feeder_name": "PARBHU BHATTA AP",
+    "cin_14": "112111088PARBU"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "220 KV INDUSTRIAL AREA",
+    "feeder_name": "SECTOR 1-4 (U)",
+    "cin_14": "112111088SE1-4"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "220 KV INDUSTRIAL AREA",
+    "feeder_name": "VINOD NAGAR (U)",
+    "cin_14": "112111088VINOD"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV AUTO MARKET",
+    "feeder_name": "CLOTH MARKET (U)",
+    "cin_14": "112111566CLOTH"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV AUTO MARKET",
+    "feeder_name": "DELHI GATE (U)",
+    "cin_14": "112111566DGATE"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV AUTO MARKET",
+    "feeder_name": "DOCTOR HOTLINE (U)",
+    "cin_14": "112111566DOCTR"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV AUTO MARKET",
+    "feeder_name": "NAGORI GATE (U)",
+    "cin_14": "112111566NAGO1"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV AUTO MARKET",
+    "feeder_name": "S/STN. 33 KV AUTO MARKET",
+    "cin_14": "112111566SUBST"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV AUTO MARKET",
+    "feeder_name": "THANA ROAD (U)",
+    "cin_14": "112111566TNARD"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV HTM",
+    "feeder_name": "DARSHAN ACADEMY AP",
+    "cin_14": "112111034DARSH"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV HTM",
+    "feeder_name": "IND NEW WATER WORKS MAHAVIR",
+    "cin_14": "112111034NEWWA"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV HTM",
+    "feeder_name": "IND WATER WORKS SCADA",
+    "cin_14": "112111034SCADA"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV HTM",
+    "feeder_name": "JHAJPUL (U)",
+    "cin_14": "112111034JHAJ1"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV HTM",
+    "feeder_name": "MAHAVIR COLONY OLD (U)",
+    "cin_14": "112111034MAHAV"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV HTM",
+    "feeder_name": "MGA SECTOR-21P (U)",
+    "cin_14": "112111034MGA21"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV HTM",
+    "feeder_name": "S/STN HTM",
+    "cin_14": "112111034SUBST"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV HTM",
+    "feeder_name": "SHIV NAGAR (U)",
+    "cin_14": "112111034SHIVN"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV JUGLAN",
+    "feeder_name": "JUGLAN AP",
+    "cin_14": "112111580JUGLP"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV JUGLAN",
+    "feeder_name": "JUGLAN DS",
+    "cin_14": "112111580JUGLN"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV JUGLAN",
+    "feeder_name": "S/STN. 33 KV JUGLAN",
+    "cin_14": "112111580SUBST"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV JUGLAN",
+    "feeder_name": "TALWANDI DS",
+    "cin_14": "112111580TALWA"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV LUVAS",
+    "feeder_name": "BSF (U)",
+    "cin_14": "112111615BSFMU"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV LUVAS",
+    "feeder_name": "SUB STATION LUVAS",
+    "cin_14": "112111615SUBST"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR -1&4",
+    "feeder_name": "MG CLUB (U)",
+    "cin_14": "112111590MGCLB"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR -1&4",
+    "feeder_name": "NEW VINOD NAGAR (U)",
+    "cin_14": "112111590VINOD"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR -1&4",
+    "feeder_name": "RAM NAGAR (U)",
+    "cin_14": "112111590RAMGR"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR -1&4",
+    "feeder_name": "S/STN. 33 KV SECTOR -1&4",
+    "cin_14": "112111590SUBST"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR -1&4",
+    "feeder_name": "SECTOR 1&4 /HBC(U)",
+    "cin_14": "112111590SE1-4"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR -1&4",
+    "feeder_name": "SECTOR 3&5 (U)",
+    "cin_14": "112111590SE3-5"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR-14",
+    "feeder_name": "ANAJ MANDI(U)",
+    "cin_14": "112111487ANAJM"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR-14",
+    "feeder_name": "BEER AP",
+    "cin_14": "112111487BEERP"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR-14",
+    "feeder_name": "BSF (U)",
+    "cin_14": "112111487INDBS"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR-14",
+    "feeder_name": "DHANDOOR DS",
+    "cin_14": "112111487DHAND"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR-14",
+    "feeder_name": "DHOBI GHAT (U)",
+    "cin_14": "112111487DHOBI"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR-14",
+    "feeder_name": "IND NEW RISHI NAGAR DISPOSAL",
+    "cin_14": "112111487RSHNA"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR-14",
+    "feeder_name": "IND NRCE",
+    "cin_14": "112111487NRCEM"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR-14",
+    "feeder_name": "IND SARVODYA HOSPITAL",
+    "cin_14": "112111487SRODA"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR-14",
+    "feeder_name": "SATYA NAGAR (U)",
+    "cin_14": "112111487SATYA"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR-14",
+    "feeder_name": "SECTOR-14 A (U)",
+    "cin_14": "112111487SE14A"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR-14",
+    "feeder_name": "SECTOR-14 B (U)",
+    "cin_14": "112111487SE14B"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR-14",
+    "feeder_name": "SECTOR-33 (U)",
+    "cin_14": "112111487SEC33"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR-14",
+    "feeder_name": "SUB STATION (33 KV SECTOR-14)",
+    "cin_14": "112111487SUBST"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CITY HISAR",
+    "ss_name": "33 KV SECTOR-14",
+    "feeder_name": "TEJA MARKET (U)",
+    "cin_14": "112111487TEJAM"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "132 KV ARYA NAGAR",
+    "feeder_name": "AZAD NAGAR (U)",
+    "cin_14": "112121086AZADN"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "132 KV ARYA NAGAR",
+    "feeder_name": "IND 33 KV STUD FARM",
+    "cin_14": "112121086STUDF"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "132 KV ARYA NAGAR",
+    "feeder_name": "NAVDEEP COLONY (U)",
+    "cin_14": "112121086NAVDP"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "220 KV BBMB HISAR",
+    "feeder_name": "IND 220 KV JINDAL STRIPS",
+    "cin_14": "112121489JINDL"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "220 KV BBMB HISAR",
+    "feeder_name": "IND 33 KV JINDAL INDUSTRY",
+    "cin_14": "112121489JI33K"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV AZAD NAGAR",
+    "feeder_name": "AZAD NAGAR (U)",
+    "cin_14": "112121574AZADN"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV AZAD NAGAR",
+    "feeder_name": "DEFENCE COLONY (U)",
+    "cin_14": "112121574DEFEN"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV AZAD NAGAR",
+    "feeder_name": "GEETA COLONY (U)",
+    "cin_14": "112121574GETAC"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV AZAD NAGAR",
+    "feeder_name": "KAIMRI ROAD(U)",
+    "cin_14": "112121574KAIME"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV AZAD NAGAR",
+    "feeder_name": "KISHAN COLONY (U)",
+    "cin_14": "112121574KSANC"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV AZAD NAGAR",
+    "feeder_name": "NAVDEEP COLONY (U)",
+    "cin_14": "112121574NAVDP"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV AZAD NAGAR",
+    "feeder_name": "S/STN 33 KV AZAD NAGAR",
+    "cin_14": "112121574SUBST"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV AZAD NAGAR",
+    "feeder_name": "SECTOR-15 (U)",
+    "cin_14": "112121574SEC15"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV JINDAL METAL",
+    "feeder_name": "HUDA W/WORKS SEC. 9-11 (U)",
+    "cin_14": "112121003INDHU"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV JINDAL METAL",
+    "feeder_name": "I.T.I. MODEL TOWN (U)",
+    "cin_14": "112121003ITIJM"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV JINDAL METAL",
+    "feeder_name": "IND HISAR METAL",
+    "cin_14": "112121003INHI1"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV JINDAL METAL",
+    "feeder_name": "IND QUALITY FOIL",
+    "cin_14": "112121003INDQU"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV JINDAL METAL",
+    "feeder_name": "IND VIDYUT SADAN",
+    "cin_14": "112121003VDYUS"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV JINDAL METAL",
+    "feeder_name": "IND VIDYUT SADAN",
+    "cin_14": "112121003VSDAN"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV JINDAL METAL",
+    "feeder_name": "INDUSTRIAL ESTATE NO.I (MU)",
+    "cin_14": "112121003INDE1"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV JINDAL METAL",
+    "feeder_name": "INDUSTRIAL ESTATE NO.II (MU)",
+    "cin_14": "112121003INDE2"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV JINDAL METAL",
+    "feeder_name": "S/STN.",
+    "cin_14": "112121003SUBS1"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV LUVAS",
+    "feeder_name": "BSF-II (U)",
+    "cin_14": "112121615BSFUR"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV LUVAS",
+    "feeder_name": "DHANDOOR AP",
+    "cin_14": "112121615DHANR"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV LUVAS",
+    "feeder_name": "DHANDOOR DS",
+    "cin_14": "112121615DNDOR"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV LUVAS",
+    "feeder_name": "SHYAM JI AP",
+    "cin_14": "112121615SYMJI"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "A.I.R. (U)",
+    "cin_14": "112121002INDAI"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "BANK COLONY (U)",
+    "cin_14": "112121002BANKC"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "CENTRAL JAIL (U)",
+    "cin_14": "112121002CENTR"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "DEFENCE COLONY (U)",
+    "cin_14": "112121002DEFEN"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "DOCTOR HOTLINE (U)",
+    "cin_14": "112121002DCTRH"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "GANDHI NAGAR (U)",
+    "cin_14": "112121002GANDH"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "HAU OLD CAMPUS (U)",
+    "cin_14": "112121002HAUOL"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "IND HAU ESSENTIAL",
+    "cin_14": "112121002INDHA"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "IND NEW CENTRAL JAIL",
+    "cin_14": "112121002INDNE"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "JAWAHAR NAGAR (U)",
+    "cin_14": "112121002SE15U"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "KAIMERI ROAD (U)",
+    "cin_14": "112121002KAIME"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "KAIMRI ROAD W/W (U)",
+    "cin_14": "112121002KAIMR"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "MADHUBAN (U)",
+    "cin_14": "112121002MADHU"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "PATEL NAGAR (U)",
+    "cin_14": "112121002PATEL"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "PREM NAGAR (U)",
+    "cin_14": "112121002PRNGR"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "RAILWAY ROAD (U)",
+    "cin_14": "112121002RAILW"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "RAJGARH ROAD COLONY (U)",
+    "cin_14": "112121002RAJGH"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "S/STN -2 RAJGARH ROAD",
+    "cin_14": "112121002SUBS2"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "SUBHASH NAGAR (U)",
+    "cin_14": "112121002SUBHA"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV RAJGARH ROAD",
+    "feeder_name": "SUBZI MANDI (U)",
+    "cin_14": "112121002SUBZI"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV SECTOR -9&11",
+    "feeder_name": "DABRA ROAD (U)",
+    "cin_14": "112121616DROAD"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV SECTOR -9&11",
+    "feeder_name": "GURUDWARA-2 (U)",
+    "cin_14": "112121616GUDRA"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV SECTOR -9&11",
+    "feeder_name": "IND AARCITY",
+    "cin_14": "112121616RCITY"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV SECTOR -9&11",
+    "feeder_name": "MIRKA DS",
+    "cin_14": "112121616MRKAD"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV SECTOR -9&11",
+    "feeder_name": "SEC.-9&11(WATER WORKS)-2 (U)",
+    "cin_14": "112121616WTRWS"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV SECTOR -9&11",
+    "feeder_name": "SUB STATION SECTOR-9&11",
+    "cin_14": "112121616SUBST"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV SECTOR-13",
+    "feeder_name": "GURUDWARA ROAD (U)",
+    "cin_14": "112121036GURUD"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV SECTOR-13",
+    "feeder_name": "HOSPITAL HOT LINE (U)",
+    "cin_14": "112121036INHHL"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV SECTOR-13",
+    "feeder_name": "HUDA W/W SEC-13 II (U)",
+    "cin_14": "112121036INDHU"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV SECTOR-13",
+    "feeder_name": "IND JINDAL HOSPITAL",
+    "cin_14": "112121036INJI1"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV SECTOR-13",
+    "feeder_name": "S/STN SEC-13",
+    "cin_14": "112121036SS13B"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV SECTOR-13",
+    "feeder_name": "SECTOR-13 (U)",
+    "cin_14": "112121036SE13A"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV SECTOR-13",
+    "feeder_name": "SECTOR-16 (U)",
+    "cin_14": "112121036SEC16"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV SECTOR-13",
+    "feeder_name": "SECTOR-17 (U)",
+    "cin_14": "112121036SEC17"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV SECTOR-13",
+    "feeder_name": "TOSHAM ROAD (U)",
+    "cin_14": "112121036TROAD"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV VIDYUT NAGAR",
+    "feeder_name": "D.C COLONY (U)",
+    "cin_14": "112121001DCCOL"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV VIDYUT NAGAR",
+    "feeder_name": "DURGA COLONY (U)",
+    "cin_14": "112121001DURGA"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV VIDYUT NAGAR",
+    "feeder_name": "IND HARYANA OIL MILL",
+    "cin_14": "112121001HROIL"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV VIDYUT NAGAR",
+    "feeder_name": "IND HARYANA TUBE",
+    "cin_14": "112121001HRTUB"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV VIDYUT NAGAR",
+    "feeder_name": "IND OFFICE COMPLEX",
+    "cin_14": "112121001OFFIC"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV VIDYUT NAGAR",
+    "feeder_name": "IND SYMPLEX",
+    "cin_14": "112121001SYMPX"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV VIDYUT NAGAR",
+    "feeder_name": "IND VINOD OIL MILL",
+    "cin_14": "112121001VINO1"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV VIDYUT NAGAR",
+    "feeder_name": "MODEL TOWN (U)",
+    "cin_14": "112121001MODT1"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV VIDYUT NAGAR",
+    "feeder_name": "S/STN VIDYUT NAGAR",
+    "cin_14": "112121001SUBST"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV VIDYUT NAGAR",
+    "feeder_name": "U.E II HISAR (U)",
+    "cin_14": "112121001UEIIH"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV VIDYUT NAGAR",
+    "feeder_name": "UDYOG NAGAR (U)",
+    "cin_14": "112121001UDYOG"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "CIVIL HISAR",
+    "ss_name": "33 KV VIDYUT NAGAR",
+    "feeder_name": "VIDYUT NAGAR (U)",
+    "cin_14": "112121001VIDYU"
+  },
+  {
+    "division": "NO. 1 HISAR",
+    "sub_division": "SECTOR-1&4",
+    "ss_name": "33 KV SECTOR -1&4",
+    "feeder_name": "CAPTAIN SCHOOL (U)",
+    "cin_14": "112141590CAPOL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "132 KV ADAMPUR",
+    "feeder_name": "ADAMPUR (U)",
+    "cin_14": "112231073ADAMP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "132 KV ADAMPUR",
+    "feeder_name": "AGROHA ROAD (U)",
+    "cin_14": "112231073AGRHR"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "132 KV ADAMPUR",
+    "feeder_name": "IND CIVIL HOSPITAL (132 KV ADAMPUR)",
+    "cin_14": "112231073INDCI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "132 KV ADAMPUR",
+    "feeder_name": "INDUSTRIAL FEEDER(MU)",
+    "cin_14": "112231073IDUSL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "132 KV ADAMPUR",
+    "feeder_name": "KHARAMPUR DS",
+    "cin_14": "112231073KHARA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "132 KV ADAMPUR",
+    "feeder_name": "KISHAN GARH DS",
+    "cin_14": "112231073KISHA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "132 KV ADAMPUR",
+    "feeder_name": "KOHLI AP",
+    "cin_14": "112231073KOHLI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "132 KV ADAMPUR",
+    "feeder_name": "MANDI ADAMPUR (U)",
+    "cin_14": "112231073MANDI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "132 KV ADAMPUR",
+    "feeder_name": "MODA KHERA AP",
+    "cin_14": "112231073MODAK"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "132 KV ADAMPUR",
+    "feeder_name": "MODEL TOWN (U)",
+    "cin_14": "112231073MODEL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "132 KV ADAMPUR",
+    "feeder_name": "NEEM ADDA (U)",
+    "cin_14": "112231073NMADA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "132 KV ADAMPUR",
+    "feeder_name": "S/STN ADAMPUR",
+    "cin_14": "112231073SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "132 KV ADAMPUR",
+    "feeder_name": "SADALPUR AP",
+    "cin_14": "112231073SADAL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV ARYA NAGAR",
+    "feeder_name": "LUDAS II DS",
+    "cin_14": "112231035LUDDS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV ARYA NAGAR",
+    "feeder_name": "LUDAS-I AP",
+    "cin_14": "112231035LUDAP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV CHULI BAGRIYAN",
+    "feeder_name": "CHULI BAGRIYAN DS",
+    "cin_14": "112231042CHULI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV CHULI BAGRIYAN",
+    "feeder_name": "CHULI KALAN DS",
+    "cin_14": "112231042CHUDS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV CHULI BAGRIYAN",
+    "feeder_name": "DAROLI AP",
+    "cin_14": "112231042DARAP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV CHULI BAGRIYAN",
+    "feeder_name": "DHANI DS",
+    "cin_14": "112231042DHANI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV CHULI BAGRIYAN",
+    "feeder_name": "IND 33 KV M/S GANESHJI GAUR GUM",
+    "cin_14": "112231042GANSH"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV CHULI BAGRIYAN",
+    "feeder_name": "IND WATER WORKS",
+    "cin_14": "112231042INDWA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV CHULI BAGRIYAN",
+    "feeder_name": "SUB-STATION",
+    "cin_14": "112231042SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV MODA KHERA",
+    "feeder_name": "CHULLI DS",
+    "cin_14": "112231010CHULL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV MODA KHERA",
+    "feeder_name": "DHANI MOHABATPUR AP",
+    "cin_14": "112231010DMBTR"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV MODA KHERA",
+    "feeder_name": "GHURSAL AP",
+    "cin_14": "112231010GHURS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV MODA KHERA",
+    "feeder_name": "IND WATER WORKS",
+    "cin_14": "112231010INDWA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV MODA KHERA",
+    "feeder_name": "MODA KHERA AP",
+    "cin_14": "112231010MODAP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV MODA KHERA",
+    "feeder_name": "MODA KHERA DS",
+    "cin_14": "112231010MODAK"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV MODA KHERA",
+    "feeder_name": "S/STN MODA KHERA",
+    "cin_14": "112231010SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV MODA KHERA",
+    "feeder_name": "TALENWALI DS",
+    "cin_14": "112231010TALEN"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV SADALPUR",
+    "feeder_name": "CHAKKI CHOPTA DS",
+    "cin_14": "112231596CCOPT"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV SADALPUR",
+    "feeder_name": "GUSHALA AP",
+    "cin_14": "112231596GUSLA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV SADALPUR",
+    "feeder_name": "KISHANGARH DS",
+    "cin_14": "112231596KISHA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV SADALPUR",
+    "feeder_name": "S/STN. SADALPUR",
+    "cin_14": "112231596SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV SADALPUR",
+    "feeder_name": "SADALPUR AP",
+    "cin_14": "112231596SADAL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV SADALPUR",
+    "feeder_name": "SADALPUR DS",
+    "cin_14": "112231596SDPUR"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV SISWAL",
+    "feeder_name": "BAGLA DS",
+    "cin_14": "112231039BAGLA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV SISWAL",
+    "feeder_name": "IND PUBLIC HEALTH SISWAL",
+    "cin_14": "112231039INDWW"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV SISWAL",
+    "feeder_name": "KABRAIL AP",
+    "cin_14": "112231039KAAP2"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV SISWAL",
+    "feeder_name": "LADVI DS",
+    "cin_14": "112231039LADVI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV SISWAL",
+    "feeder_name": "MAHOBATPUR AP",
+    "cin_14": "112231039MAHOB"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV SISWAL",
+    "feeder_name": "MIGNI KHERA AP",
+    "cin_14": "112231039MIGNI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV SISWAL",
+    "feeder_name": "S/STN SISWAL",
+    "cin_14": "112231039SUST1"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV SISWAL",
+    "feeder_name": "SALEMGARH AP",
+    "cin_14": "112231039SALEM"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV SISWAL",
+    "feeder_name": "SISWAL AP",
+    "cin_14": "112231039SISAP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "ADAMPUR",
+    "ss_name": "33 KV SISWAL",
+    "feeder_name": "SISWAL-II DS",
+    "cin_14": "112231039SISDS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "132 KV ADAMPUR",
+    "feeder_name": "CHIKANWAS DS",
+    "cin_14": "112241073CHIKA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "132 KV ADAMPUR",
+    "feeder_name": "IND 33 KV GANPATI INDUSTRY",
+    "cin_14": "112241073GANPA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "132 KV ADAMPUR",
+    "feeder_name": "MAHALSARA AP",
+    "cin_14": "112241073MAHAL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV AGROHA",
+    "feeder_name": "AGROHA AP",
+    "cin_14": "112241038AGROH"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV AGROHA",
+    "feeder_name": "FRANSI DS",
+    "cin_14": "112241038FRANS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV AGROHA",
+    "feeder_name": "IND ARHAM COLLOIDAS",
+    "cin_14": "112241038ARHCO"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV AGROHA",
+    "feeder_name": "IND MEDICAL COLLEGE",
+    "cin_14": "112241038INDME"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV AGROHA",
+    "feeder_name": "IND PUMP HOUSE(AGROHA)",
+    "cin_14": "112241038INDPU"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV AGROHA",
+    "feeder_name": "KALIRAWAN DS",
+    "cin_14": "112241038KADS1"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV AGROHA",
+    "feeder_name": "KIRMARA DS",
+    "cin_14": "112241038KIRMA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV AGROHA",
+    "feeder_name": "NANGTHALA AP",
+    "cin_14": "112241038NANA2"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV AGROHA",
+    "feeder_name": "S/STN AGROHA",
+    "cin_14": "112241038SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV AGROHA",
+    "feeder_name": "SHEELA SHAKTI AP",
+    "cin_14": "112241038SELAT"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV KALIRWAN",
+    "feeder_name": "BABA RAM DEV DS",
+    "cin_14": "112241652RAMDV"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV KALIRWAN",
+    "feeder_name": "DHANI DS",
+    "cin_14": "112241652DHNDS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV KALIRWAN",
+    "feeder_name": "GAUSHALA DS",
+    "cin_14": "112241652GAULA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV KALIRWAN",
+    "feeder_name": "SUB STATION KALIRWAN",
+    "cin_14": "112241652SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV NANGTHLA",
+    "feeder_name": "DURJANPUR DS",
+    "cin_14": "112241009DURJA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV NANGTHLA",
+    "feeder_name": "IND SAHARAN PLYWOOD",
+    "cin_14": "112241009INDSA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV NANGTHLA",
+    "feeder_name": "KAJLA AP",
+    "cin_14": "112241009KAJLA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV NANGTHLA",
+    "feeder_name": "NANGTHLA AP",
+    "cin_14": "112241009NANAP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV NANGTHLA",
+    "feeder_name": "NANGTHLA DS",
+    "cin_14": "112241009NANDS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV NANGTHLA",
+    "feeder_name": "S/ STN NANGTHLA",
+    "cin_14": "112241009SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV NANGTHLA",
+    "feeder_name": "SHAMSUKH DS",
+    "cin_14": "112241009SHAMS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AGROHA",
+    "ss_name": "33 KV NANGTHLA",
+    "feeder_name": "SHIV DHAM DS",
+    "cin_14": "112241009SHIVD"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AZAD NAGAR",
+    "ss_name": "33 KV AZAD NAGAR",
+    "feeder_name": "TULSI VIHAR DS",
+    "cin_14": "112271574TVHAR"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AZAD NAGAR",
+    "ss_name": "33 KV AZAD NAGAR",
+    "feeder_name": "VIRAT NAGAR (U)",
+    "cin_14": "112271574VRATN"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AZAD NAGAR",
+    "ss_name": "33 KV CHAUDHARYWAS",
+    "feeder_name": "IND CHOUDHARYWAS INDUSTRIES",
+    "cin_14": "112271502CHIND"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AZAD NAGAR",
+    "ss_name": "33 KV KAIMARI",
+    "feeder_name": "KAIMARI AP",
+    "cin_14": "112271643KMRAP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AZAD NAGAR",
+    "ss_name": "33 KV KAIMARI",
+    "feeder_name": "KAIMARI DS",
+    "cin_14": "112271643KMRDS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AZAD NAGAR",
+    "ss_name": "33 KV KAIMARI",
+    "feeder_name": "KAIMARI W/W",
+    "cin_14": "112271643KMRWW"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AZAD NAGAR",
+    "ss_name": "33 KV KAIMARI",
+    "feeder_name": "SUB STATION KAIMARI",
+    "cin_14": "112271643SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AZAD NAGAR",
+    "ss_name": "33 KV MANGALI",
+    "feeder_name": "IND SNP STEEL",
+    "cin_14": "112271037SSTEL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "AZAD NAGAR",
+    "ss_name": "33 KV SHARWA",
+    "feeder_name": "IND STEELMINT INDUSTRY",
+    "cin_14": "112271027STEMT"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BADDO PATTI",
+    "ss_name": "33 KV BHATLA",
+    "feeder_name": "GHIRAI AP",
+    "cin_14": "112611041GHAP1"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BADDO PATTI",
+    "ss_name": "33 KV BHATLA",
+    "feeder_name": "KHARKARI DS",
+    "cin_14": "112611041KHDS2"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BADDO PATTI",
+    "ss_name": "33 KV BHATLA",
+    "feeder_name": "PWW KHARKHARI",
+    "cin_14": "112611041PHKRK"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BADDO PATTI",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "KIRARA DS",
+    "cin_14": "112611005KRARA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BADDO PATTI",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "TARA NAGAR DS",
+    "cin_14": "112611005TARAN"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "132 KV ARYA NAGAR",
+    "feeder_name": "ARYA NAGAR DS",
+    "cin_14": "112251086ARYAN"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "132 KV ARYA NAGAR",
+    "feeder_name": "BHERIYA DS",
+    "cin_14": "112251086BHERI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "132 KV ARYA NAGAR",
+    "feeder_name": "CHODARIWAS AP",
+    "cin_14": "112251086CHODA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "132 KV ARYA NAGAR",
+    "feeder_name": "GAWAR DS",
+    "cin_14": "112251086GAWAR"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "132 KV ARYA NAGAR",
+    "feeder_name": "IND DINESH POLY TUBE INDUSTRY",
+    "cin_14": "112251086INDDI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "132 KV ARYA NAGAR",
+    "feeder_name": "S/STN.",
+    "cin_14": "112251086SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV ARYA NAGAR",
+    "feeder_name": "DHIRANWAS AP",
+    "cin_14": "112251035DHIAP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV ARYA NAGAR",
+    "feeder_name": "DHIRANWAS DS",
+    "cin_14": "112251035DHIDS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV ARYA NAGAR",
+    "feeder_name": "IND GIYANA INDUSTRIES",
+    "cin_14": "112251035GYANA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV ARYA NAGAR",
+    "feeder_name": "IND W/WORKS DHIRANWAS",
+    "cin_14": "112251035INDDH"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV ARYA NAGAR",
+    "feeder_name": "S/STN ARYA NAGAR",
+    "cin_14": "112251035SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV BHIWANI ROHILA",
+    "feeder_name": "BALSAMAND AP",
+    "cin_14": "112251040BALSA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV BHIWANI ROHILA",
+    "feeder_name": "BHIWANI ROHILLA DS",
+    "cin_14": "112251040BHIWA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV BHIWANI ROHILA",
+    "feeder_name": "BURAK DS",
+    "cin_14": "112251040BURAK"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV BHIWANI ROHILA",
+    "feeder_name": "DOBHI AP",
+    "cin_14": "112251040DOBHI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV BHIWANI ROHILA",
+    "feeder_name": "GORCHI AP",
+    "cin_14": "112251040GORCH"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV BHIWANI ROHILA",
+    "feeder_name": "IND INDOVEX SISWALA",
+    "cin_14": "112251040INDIN"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV BHIWANI ROHILA",
+    "feeder_name": "KHARIA DS",
+    "cin_14": "112251040KHARI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV BHIWANI ROHILA",
+    "feeder_name": "KIRTAN DS",
+    "cin_14": "112251040KIRTA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV BHIWANI ROHILA",
+    "feeder_name": "S/STN BH/ROHILLA",
+    "cin_14": "112251040SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV BURAK",
+    "feeder_name": "BALSAMAND DS",
+    "cin_14": "112251066BALSA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV BURAK",
+    "feeder_name": "BANDAHERI AP",
+    "cin_14": "112251066BANAP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV BURAK",
+    "feeder_name": "BANDAHERI DS",
+    "cin_14": "112251066BANDS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV BURAK",
+    "feeder_name": "BURAK DS",
+    "cin_14": "112251066BURAK"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV BURAK",
+    "feeder_name": "IND INDO WORLD WIDE",
+    "cin_14": "112251066WORWI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV BURAK",
+    "feeder_name": "IND SOLAR",
+    "cin_14": "112251066SOLAR"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BALSAMAND",
+    "ss_name": "33 KV BURAK",
+    "feeder_name": "S/STN.",
+    "cin_14": "112251066SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "132 KV BARWALA",
+    "feeder_name": "GAIBIPUR DS",
+    "cin_14": "112221070GAIBI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "132 KV BARWALA",
+    "feeder_name": "HASSANGARH AP(132 KV BARWALA)",
+    "cin_14": "112221070HASSA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "132 KV BARWALA",
+    "feeder_name": "IND 33 KV HPCL",
+    "cin_14": "112221070IHPCL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "132 KV BARWALA",
+    "feeder_name": "KHEDAR DS",
+    "cin_14": "112221070KHEDR"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "132 KV BARWALA",
+    "feeder_name": "S/STN 132 KV BARWALA",
+    "cin_14": "112221070SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "132 KV KHEDAR",
+    "feeder_name": "DHANI GARAN DS",
+    "cin_14": "112221087GARDS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "132 KV KHEDAR",
+    "feeder_name": "HPGCL COLONY DS",
+    "cin_14": "112221087HPGC1"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "132 KV KHEDAR",
+    "feeder_name": "S/STN 132 KV KHEDAR",
+    "cin_14": "112221087SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV BARWALA",
+    "feeder_name": "BADHAWAR DS",
+    "cin_14": "112221004PADS2"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV BARWALA",
+    "feeder_name": "BARWALA (U)",
+    "cin_14": "112221004BARWA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV BARWALA",
+    "feeder_name": "BARWALA MANDI (U)",
+    "cin_14": "112221004BARMD"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV BARWALA",
+    "feeder_name": "CHHAN DS",
+    "cin_14": "112221004CHHDS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV BARWALA",
+    "feeder_name": "DHAD DS",
+    "cin_14": "112221004DHADD"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV BARWALA",
+    "feeder_name": "GURANA AP",
+    "cin_14": "112221004GUAP2"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV BARWALA",
+    "feeder_name": "HANSI ROAD BARWALA",
+    "cin_14": "112221004HNSIR"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV BARWALA",
+    "feeder_name": "IND DISPOSAL",
+    "cin_14": "112221004DISPO"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV BARWALA",
+    "feeder_name": "KHARAK PUNIA AP",
+    "cin_14": "112221004KHARA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV BARWALA",
+    "feeder_name": "KUMBHA DS",
+    "cin_14": "112221004KUBDS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV BARWALA",
+    "feeder_name": "LUXMI VIHAR (U)",
+    "cin_14": "112221004LXMVR"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV BARWALA",
+    "feeder_name": "MATLODA AP",
+    "cin_14": "112221004MATAP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV BARWALA",
+    "feeder_name": "MC FEEDER (U)",
+    "cin_14": "112221004MCFEE"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV BARWALA",
+    "feeder_name": "PANIHARI DS",
+    "cin_14": "112221004PANIH"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV BARWALA",
+    "feeder_name": "S/STN 33 KV BARWALA",
+    "cin_14": "112221004SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV BARWALA",
+    "feeder_name": "SANDLANA AP",
+    "cin_14": "112221004SANDL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV GAIBIPUR",
+    "feeder_name": "BOBUA DS",
+    "cin_14": "112221257BOBUA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV GAIBIPUR",
+    "feeder_name": "GAIBIPUR DS",
+    "cin_14": "112221257GAIBI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV GAIBIPUR",
+    "feeder_name": "HASANGARH AP",
+    "cin_14": "112221257HASAN"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV GAIBIPUR",
+    "feeder_name": "KALLAR BHAINI AP",
+    "cin_14": "112221257KALAR"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV GAIBIPUR",
+    "feeder_name": "KHARKHARA DS",
+    "cin_14": "112221257KHARK"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV GAIBIPUR",
+    "feeder_name": "S/STN. 33 KV GAIBIPUR",
+    "cin_14": "112221257SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV KAKROD",
+    "feeder_name": "SANDLANA AP",
+    "cin_14": "112221432SANAP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV KHARAK PUNIA",
+    "feeder_name": "BHYANA KHERA DS",
+    "cin_14": "112221522BHERA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV KHARAK PUNIA",
+    "feeder_name": "CHAN DS",
+    "cin_14": "112221522CHANS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV KHARAK PUNIA",
+    "feeder_name": "GIANPURA AP",
+    "cin_14": "112221522GPURA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV KHARAK PUNIA",
+    "feeder_name": "HIGHWAY DS",
+    "cin_14": "112221522HIWAY"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV KHARAK PUNIA",
+    "feeder_name": "KHARAK PUNIA DS",
+    "cin_14": "112221522KHARK"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV KHARAK PUNIA",
+    "feeder_name": "PANIHARI DS",
+    "cin_14": "112221522PANIH"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV KHARAK PUNIA",
+    "feeder_name": "S/STN 33 KV KHARAK PUNIA",
+    "cin_14": "112221522SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV KHARAK PUNIA",
+    "feeder_name": "SARSANA AP",
+    "cin_14": "112221522SARSA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV KHEDAR",
+    "feeder_name": "KHEDAR DS",
+    "cin_14": "112221646KHEDR"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV KHEDAR",
+    "feeder_name": "SUB STATION KHEDAR",
+    "cin_14": "112221646SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "BALAK DS",
+    "cin_14": "112221005BALAK"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "BARKI KHERI DS",
+    "cin_14": "112221005BARKI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "DEVI GARH PUNIA AP",
+    "cin_14": "112221005DEVIG"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "DHIKTANA DS",
+    "cin_14": "112221005DHKDS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "HIGHWAY DS",
+    "cin_14": "112221005HIWAY"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "IND JWAHAR NAVODYA VIDHALYA (JNV)",
+    "cin_14": "112221005INDJ1"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "KHEDAR DS",
+    "cin_14": "112221005KHEDS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "KIRORI DS",
+    "cin_14": "112221005KIRDS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "PABRA AP",
+    "cin_14": "112221005PAB01"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "RAJLI AP",
+    "cin_14": "112221005RAJLI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "S/STN 33 KV SARSOD",
+    "cin_14": "112221005SUBS1"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "SARSOD DS",
+    "cin_14": "112221005SARSO"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "SARSOD AP",
+    "cin_14": "112221005SARAP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "SHAMSUKH AP",
+    "cin_14": "112221005SHAMS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "BARWALA",
+    "ss_name": "33 KV SARSOD",
+    "feeder_name": "SULKHANI DS",
+    "cin_14": "112221005SULKH"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV ARYA NAGAR",
+    "feeder_name": "IND CHOUDHARYWAS WATER-WORKS",
+    "cin_14": "112211086CHOUD"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV ARYA NAGAR",
+    "feeder_name": "TULSI VIHAR DS",
+    "cin_14": "112211086TUSVH"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV CANTT",
+    "feeder_name": "I/AREA -II CANTT (HANSI ROAD) (U)",
+    "cin_14": "112211072AR2CT"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV CANTT",
+    "feeder_name": "IND H.P. COTTON",
+    "cin_14": "112211072INDHP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV CANTT",
+    "feeder_name": "IND JINDAL AGRO CORP",
+    "cin_14": "112211072JIAGC"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV CANTT",
+    "feeder_name": "IND MES-I",
+    "cin_14": "112211072IND01"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV CANTT",
+    "feeder_name": "IND MES-II",
+    "cin_14": "112211072IND02"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV CANTT",
+    "feeder_name": "IND VDJS",
+    "cin_14": "112211072INDVD"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV CANTT",
+    "feeder_name": "S/STN CANTT",
+    "cin_14": "112211072SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV CANTT",
+    "feeder_name": "SATROD AP",
+    "cin_14": "112211072SATAP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV CANTT",
+    "feeder_name": "SATROD KALAN DS",
+    "cin_14": "112211072SATDS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV POLYSTEEL",
+    "feeder_name": "BHANU (MU)",
+    "cin_14": "112211071BHANU"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV POLYSTEEL",
+    "feeder_name": "IND JINDAL ROLLING MILLS",
+    "cin_14": "112211071INDJI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV POLYSTEEL",
+    "feeder_name": "IND JSL COLONY",
+    "cin_14": "112211071INDJS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV POLYSTEEL",
+    "feeder_name": "JINDAL ELECTRO (MU)",
+    "cin_14": "112211071JINEL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV POLYSTEEL",
+    "feeder_name": "NEW JINDAL ELECTRO (U)",
+    "cin_14": "112211071NJIEL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV POLYSTEEL",
+    "feeder_name": "S/STN POLYSTEEL",
+    "cin_14": "112211071SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV POLYSTEEL",
+    "feeder_name": "SATROD KHURD (U)",
+    "cin_14": "112211071SATRO"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV POLYSTEEL",
+    "feeder_name": "SATROD KHURD AP",
+    "cin_14": "112211071SAKAP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV POLYSTEEL",
+    "feeder_name": "SURYA NAGAR (U)",
+    "cin_14": "112211071SURNA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV SECTOR 27-28",
+    "feeder_name": "IND HARYANA STRIPS",
+    "cin_14": "112211022STRIP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV SECTOR 27-28",
+    "feeder_name": "IND JINDAL SUPREME",
+    "cin_14": "112211022JNDAL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "132 KV SECTOR 27-28",
+    "feeder_name": "SECTOR 27-28",
+    "cin_14": "112211022S2728"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "220 KV INDUSTRIAL AREA",
+    "feeder_name": "IND J.N.B",
+    "cin_14": "112211088JNB00"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "220 KV INDUSTRIAL AREA",
+    "feeder_name": "IND J.N.B-III",
+    "cin_14": "112211088JNB03"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "220 KV INDUSTRIAL AREA",
+    "feeder_name": "IND P/H SATROD KHAS",
+    "cin_14": "112211088PHSAT"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "220 KV INDUSTRIAL AREA",
+    "feeder_name": "IND SAMBHU",
+    "cin_14": "112211088SAMBH"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "220 KV INDUSTRIAL AREA",
+    "feeder_name": "MIRZAPUR DS",
+    "cin_14": "112211088MIRDS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "220 KV INDUSTRIAL AREA",
+    "feeder_name": "NEW TIBBA LINE DS",
+    "cin_14": "112211088NEWTI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "220 KV INDUSTRIAL AREA",
+    "feeder_name": "OLD TIBA LINE AP",
+    "cin_14": "112211088TIBAL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "220 KV INDUSTRIAL AREA",
+    "feeder_name": "S/STN 220 KV INDUSTRIAL AREA",
+    "cin_14": "112211088SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "220 KV INDUSTRIAL AREA",
+    "feeder_name": "SECTOR-27/28 (MU)",
+    "cin_14": "112211088SECTO"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV ARYA NAGAR",
+    "feeder_name": "BHARIAN DS",
+    "cin_14": "112211035BHARI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV ARYA NAGAR",
+    "feeder_name": "CHOUDHARYWAS AP",
+    "cin_14": "112211035CHAP1"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV ARYA NAGAR",
+    "feeder_name": "IND CHOUDHARYWAS INDUSTRIES",
+    "cin_14": "112211035CHIND"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV ARYA NAGAR",
+    "feeder_name": "IND IPS GANGWA",
+    "cin_14": "112211035INIPS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV ARYA NAGAR",
+    "feeder_name": "IND STP GANGWA",
+    "cin_14": "112211035INSTP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV CHAUDHARYWAS",
+    "feeder_name": "CHAUDHARYWAS AP",
+    "cin_14": "112211502CHAUW"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV CHAUDHARYWAS",
+    "feeder_name": "IND BIMLA INDUSTRIES",
+    "cin_14": "112211502BMLAD"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV CHAUDHARYWAS",
+    "feeder_name": "IND KISHAN PHOSPHATE",
+    "cin_14": "112211502KISHN"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV CHAUDHARYWAS",
+    "feeder_name": "IND METRO FUEL",
+    "cin_14": "112211502MFUEL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV CHAUDHARYWAS",
+    "feeder_name": "IND PH/WATER WORKS",
+    "cin_14": "112211502PHWAT"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV CHAUDHARYWAS",
+    "feeder_name": "MUKLAN DS",
+    "cin_14": "112211502MUKLA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV CHAUDHARYWAS",
+    "feeder_name": "PANIHAR DS",
+    "cin_14": "112211502PANIH"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV CHAUDHARYWAS",
+    "feeder_name": "S/STN 33 KV CHAUDHARYWAS",
+    "cin_14": "112211502SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV MANGALI",
+    "feeder_name": "BHOJRAJ DS",
+    "cin_14": "112211037BHOJR"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV MANGALI",
+    "feeder_name": "CHIROD DS",
+    "cin_14": "112211037CHIRO"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV MANGALI",
+    "feeder_name": "DAYA AP",
+    "cin_14": "112211037DAYAA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV MANGALI",
+    "feeder_name": "DHAMANA DS",
+    "cin_14": "112211037DHAMA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV MANGALI",
+    "feeder_name": "GANDHI NAGAR DS",
+    "cin_14": "112211037GNDHI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV MANGALI",
+    "feeder_name": "HARIKOT DS",
+    "cin_14": "112211037HARIK"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV MANGALI",
+    "feeder_name": "IND BHARRI WATER WORKS",
+    "cin_14": "112211037BHARW"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV MANGALI",
+    "feeder_name": "IND SATROD PUMP HOUSE",
+    "cin_14": "112211037SATPH"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV MANGALI",
+    "feeder_name": "IND SHAGUN FLOUR MILL",
+    "cin_14": "112211037INDSH"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV MANGALI",
+    "feeder_name": "IND W/W KAIMARI",
+    "cin_14": "112211037WWKAI"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV MANGALI",
+    "feeder_name": "KAIMERI AP",
+    "cin_14": "112211037KAIME"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV MANGALI",
+    "feeder_name": "MANGALI DS",
+    "cin_14": "112211037MANGA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV MANGALI",
+    "feeder_name": "S/STN MANGALI",
+    "cin_14": "112211037SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV MANGALI",
+    "feeder_name": "SINGRAN AP",
+    "cin_14": "112211037SINGR"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV SECTOR-13",
+    "feeder_name": "AMARDEEP COLONY (U)",
+    "cin_14": "112211036ADEEP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV SECTOR-13",
+    "feeder_name": "DABRA ROAD (U)",
+    "cin_14": "112211036DABRA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV SECTOR-13",
+    "feeder_name": "IND HISAR SPINNING MILL",
+    "cin_14": "112211036HSMIL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV SECTOR-13",
+    "feeder_name": "IND STP",
+    "cin_14": "112211036INSTP"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV SECTOR-13",
+    "feeder_name": "LADWA AP",
+    "cin_14": "112211036LADWA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV SECTOR-13",
+    "feeder_name": "MIRKAN DS",
+    "cin_14": "112211036MIRKA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV SHARWA",
+    "feeder_name": "DUBETHA DS",
+    "cin_14": "112211027DUBET"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV SHARWA",
+    "feeder_name": "HARITA AP",
+    "cin_14": "112211027HARIT"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV SHARWA",
+    "feeder_name": "IND BHOJRAJ CANTT.",
+    "cin_14": "112211027BHOJR"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV SHARWA",
+    "feeder_name": "IND JAIDIA PIPE",
+    "cin_14": "112211027INDJA"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV SHARWA",
+    "feeder_name": "IND P.S.RAJ",
+    "cin_14": "112211027INDPS"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV SHARWA",
+    "feeder_name": "IND SHARWA WATER WORKS",
+    "cin_14": "112211027INWW2"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV SHARWA",
+    "feeder_name": "PAYAL DS",
+    "cin_14": "112211027PAYAL"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV SHARWA",
+    "feeder_name": "S/STN 33 KV SHARWA",
+    "cin_14": "112211027SUBST"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV SHARWA",
+    "feeder_name": "SHARWA DS",
+    "cin_14": "112211027SHARW"
+  },
+  {
+    "division": "NO. 2 HISAR",
+    "sub_division": "SATROD",
+    "ss_name": "33 KV SHARWA",
+    "feeder_name": "TALWANDI AP",
+    "cin_14": "112211027TALW1"
+  }
+]

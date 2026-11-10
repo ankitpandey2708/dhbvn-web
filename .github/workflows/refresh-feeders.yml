@@ -1,0 +1,35 @@
+name: Refresh Feeders Catalog
+
+on:
+  schedule:
+    - cron: '0 2 1 * *'  # 1st of every month, 2am UTC
+  workflow_dispatch:      # manual trigger from GitHub UI
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install pdfplumber
+        run: pip install pdfplumber
+
+      - name: Parse all 11 CIN PDFs
+        run: python scripts/parse-cin-pdfs.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add public/data/feeders/
+          git diff --staged --quiet && echo "No changes." || (
+            git commit -m 'chore: refresh feeders catalog from CIN PDFs' &&
+            git push
+          )
